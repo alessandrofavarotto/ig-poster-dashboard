@@ -4,15 +4,56 @@
     {
       "date": "2026-06-05",
       "followers_count": 917,
-      "media_count": 636,
-      "reach": 78,
-      "profile_views": 2,
-      "views": 256,
-      "accounts_engaged": 7,
-      "total_interactions": 12
+      "media_count": 638,
+      "reach": 171,
+      "profile_views": 6,
+      "views": 465,
+      "accounts_engaged": 11,
+      "total_interactions": 17
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "media_id": "17884152435591163",
+      "title": "Thornhold: dove regna il Toro",
+      "source_image": "Mappa_Social (2).png",
+      "is_overview": null,
+      "published_at": "2026-06-05",
+      "hashtags": [
+        "#Thornhold",
+        "#stemmaaraldico",
+        "#toro",
+        "#araldica",
+        "#fantasyart",
+        "#worldbuilding",
+        "#cittafantasy",
+        "#fantasy",
+        "#corna",
+        "#simbolismo",
+        "#illustrazione",
+        "#coraggio",
+        "#fantasyworld"
+      ],
+      "reach": 22,
+      "likes": 3,
+      "saved": 0,
+      "shares": 0,
+      "comments": 0,
+      "views": 52,
+      "history": {
+        "2026-06-05": {
+          "age_days": 0,
+          "reach": 22,
+          "likes": 3,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 3,
+          "views": 52
+        }
+      }
+    }
+  ],
   "content_plan": [
     {
       "source_image": "Mappa_Social (2).png",
@@ -41,7 +82,13 @@
           ],
           "media_id": "17884152435591163",
           "published_at": "2026-06-05",
-          "metrics": null
+          "metrics": {
+            "reach": 22,
+            "likes": 3,
+            "saved": 0,
+            "shares": 0,
+            "views": 52
+          }
         },
         {
           "title": "Rosa dei venti con spada e rosa",
@@ -528,6 +575,96 @@
       "trend": "in crescita",
       "note": "italiano ruolistico, community viva",
       "updated": "2026-06-05"
+    },
+    "#cartography": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "settore mappe, ~300K post",
+      "updated": "2026-06-05"
+    },
+    "#artprocess": {
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "reels processo molto richiesti",
+      "updated": "2026-06-05"
+    },
+    "#timelapseart": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "formato video timelapse popolare",
+      "updated": "2026-06-05"
+    },
+    "#dndmaps": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "community D&D in espansione",
+      "updated": "2026-06-05"
+    },
+    "#satisfying": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "~8M post, troppo affollato",
+      "updated": "2026-06-05"
+    },
+    "#penandink": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "tecnica consolidata, pubblico fedele",
+      "updated": "2026-06-05"
+    },
+    "#mountainart": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "paesaggio montano, target definito",
+      "updated": "2026-06-05"
+    },
+    "#satisfyingart": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "~77K post, poco competitivo",
+      "updated": "2026-06-05"
+    },
+    "#fantasyillustration": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "~270K post, community attiva",
+      "updated": "2026-06-05"
+    },
+    "#speedpaint": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "~900K post, video digitale",
+      "updated": "2026-06-05"
+    },
+    "#disegnoamano": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "tag italiano, pubblico locale",
+      "updated": "2026-06-05"
+    },
+    "#detailsmatter": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "generico, usato fuori settore",
+      "updated": "2026-06-05"
+    },
+    "#coloringprocess": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "tag specifico, bassa concorrenza",
+      "updated": "2026-06-05"
+    },
+    "#digitalart": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "oltre 100M post, ipercompetitivo",
+      "updated": "2026-06-05"
+    },
+    "#oddlysatisfying": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "~2.7M post, virale ma affollato",
+      "updated": "2026-06-05"
     }
   },
   "learnings": [],
@@ -546,6 +683,14 @@
     "followers_gained": 0,
     "from": "2026-06-05",
     "to": "2026-06-05",
-    "top_posts": []
+    "top_posts": [
+      {
+        "title": "Thornhold: dove regna il Toro",
+        "reach": 22,
+        "saved": 0,
+        "shares": 0,
+        "likes": 3
+      }
+    ]
   }
 }
