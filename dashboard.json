@@ -531,7 +531,14 @@
     }
   },
   "learnings": [],
-  "alerts": [],
+  "alerts": [
+    {
+      "ts": "2026-06-05T16:22:48",
+      "severity": "info",
+      "source": "setup",
+      "message": "Notifica di prova: alert IG poster attivi! Riceverai qui errori e pubblicazioni."
+    }
+  ],
   "weekly": {
     "period_days": 7,
     "followers_start": 917,
