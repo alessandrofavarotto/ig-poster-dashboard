@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05",
+  "generated_at": "2026-06-06",
   "account": [
     {
       "date": "2026-06-05",
@@ -10,6 +10,16 @@
       "views": 465,
       "accounts_engaged": 11,
       "total_interactions": 17
+    },
+    {
+      "date": "2026-06-06",
+      "followers_count": 916,
+      "media_count": 639,
+      "reach": 218,
+      "profile_views": 9,
+      "views": 764,
+      "accounts_engaged": 14,
+      "total_interactions": 39
     }
   ],
   "posts": [
@@ -34,12 +44,12 @@
         "#coraggio",
         "#fantasyworld"
       ],
-      "reach": 22,
+      "reach": 35,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 52,
+      "views": 80,
       "history": {
         "2026-06-05": {
           "age_days": 0,
@@ -50,6 +60,57 @@
           "shares": 0,
           "total_interactions": 3,
           "views": 52
+        },
+        "2026-06-06": {
+          "age_days": 1,
+          "reach": 35,
+          "likes": 3,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 3,
+          "views": 80
+        }
+      }
+    },
+    {
+      "media_id": "18054090563741521",
+      "title": "Rosa dei venti con spada e rosa",
+      "source_image": "Mappa_Social (2).png",
+      "is_overview": null,
+      "published_at": "2026-06-06",
+      "hashtags": [
+        "#compassrose",
+        "#rosadeiventi",
+        "#fantasymap",
+        "#fantasyart",
+        "#cartografia",
+        "#mapmaking",
+        "#detail",
+        "#worldbuilding",
+        "#illustrazione",
+        "#inkdrawing",
+        "#dnd",
+        "#cartographyart",
+        "#fantasydetails",
+        "#handdrawn"
+      ],
+      "reach": 25,
+      "likes": 7,
+      "saved": 0,
+      "shares": 0,
+      "comments": 1,
+      "views": 61,
+      "history": {
+        "2026-06-06": {
+          "age_days": 0,
+          "reach": 25,
+          "likes": 7,
+          "comments": 1,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 61
         }
       }
     }
@@ -83,16 +144,16 @@
           "media_id": "17884152435591163",
           "published_at": "2026-06-05",
           "metrics": {
-            "reach": 22,
+            "reach": 35,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 52
+            "views": 80
           }
         },
         {
           "title": "Rosa dei venti con spada e rosa",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-06",
           "scheduled_time": "13:00",
           "is_overview": null,
@@ -113,9 +174,15 @@
             "#fantasydetails",
             "#handdrawn"
           ],
-          "media_id": null,
-          "published_at": null,
-          "metrics": null
+          "media_id": "18054090563741521",
+          "published_at": "2026-06-06",
+          "metrics": {
+            "reach": 25,
+            "likes": 7,
+            "saved": 0,
+            "shares": 0,
+            "views": 61
+          }
         },
         {
           "title": "Highcrest, il castello tra le vette",
@@ -674,19 +741,41 @@
       "severity": "info",
       "source": "setup",
       "message": "Notifica di prova: alert IG poster attivi! Riceverai qui errori e pubblicazioni."
+    },
+    {
+      "ts": "2026-06-06T13:00:08",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Rosa dei venti con spada e rosa»",
+      "extra": {
+        "media_id": "18054090563741521"
+      }
+    },
+    {
+      "ts": "2026-06-06T14:15:21",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 2 Storie pubblicate"
     }
   ],
   "weekly": {
     "period_days": 7,
     "followers_start": 917,
-    "followers_end": 917,
-    "followers_gained": 0,
+    "followers_end": 916,
+    "followers_gained": -1,
     "from": "2026-06-05",
-    "to": "2026-06-05",
+    "to": "2026-06-06",
     "top_posts": [
       {
+        "title": "Rosa dei venti con spada e rosa",
+        "reach": 25,
+        "saved": 0,
+        "shares": 0,
+        "likes": 7
+      },
+      {
         "title": "Thornhold: dove regna il Toro",
-        "reach": 22,
+        "reach": 35,
         "saved": 0,
         "shares": 0,
         "likes": 3
