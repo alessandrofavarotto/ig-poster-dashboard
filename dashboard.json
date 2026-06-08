@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07",
+  "generated_at": "2026-06-08",
   "account": [
     {
       "date": "2026-06-05",
@@ -811,7 +811,20 @@
       "updated": "2026-06-05"
     }
   },
-  "learnings": [],
+  "learnings": [
+    {
+      "date": "2026-06-08",
+      "enough_evidence": false,
+      "posts_measured": 3,
+      "strategy_updated": false,
+      "best_times": [],
+      "summary": "I dati sono troppo pochi per trarre regole: solo 3 post misurati (tutti foto, nessun Reel) e una serie account di soli 3 giorni. Tutti i post sono usciti nella stessa fascia (pranzo, 12:30-13:30), quindi non c'è confronto tra fasce orarie; salvataggi (0/0/1) e condivisioni (tutti 0) sono troppo bassi per indicare pattern. I follower sono leggermente calati (917→914). Non modifico la strategia: aggiungo solo una nota nel changelog.",
+      "changes": [
+        "Nessuna modifica sostanziale al playbook: evidenze insufficienti (3 foto, 0 Reel, 3 giorni di serie account).",
+        "Aggiunta riga nel Changelog apprendimento con la data odierna che annota l'insufficienza dei dati e l'assenza di Reel da analizzare."
+      ]
+    }
+  ],
   "alerts": [
     {
       "ts": "2026-06-05T16:22:48",
