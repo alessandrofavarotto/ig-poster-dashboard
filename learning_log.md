@@ -1,6 +1,10 @@
 # Diario di apprendimento del sistema IG
 
 ## 2026-06-08
+I dati di questo ciclo coincidono con quelli già incorporati nella strategia: 3 soli post recenti misurati (tutti a pranzo, 12:30–13:30), salvataggi/condivisioni ancora quasi nulli (1 salvataggio, 0 condivisioni in 3 post) e storico (mediane robuste) invariato. I follower scendono lievemente (917→916→914) ma su una finestra di 3 giorni troppo breve per agire. Non ci sono nuove evidenze sufficienti a modificare il playbook: confermo le scelte attuali e annoto solo nel changelog.
+- Nessuna modifica sostanziale: i dati replicano quelli già analizzati. Aggiunta una riga al Changelog che segnala l'assenza di nuove evidenze, il lieve calo follower su finestra troppo breve e i segnali di qualità ancora insufficienti.
+
+## 2026-06-08
 Lo storico robusto (mediane su 600 post) smentisce la concentrazione sul solo pranzo: le fasce migliori sono il mattino (ora 7 = 22.0 mediana like; ora 9 = 17.5 con n=48) e metà pomeriggio (ore 16–17 = 16–17.5), mentre la sera (19–21) è debole. Ho quindi diversificato gli orari su più fasce mantenendo il pranzo, aggiunto un paio di note hashtag dallo storico (forti: #digitalpainting, #designer; deboli: #games, #photoshoot, #rose) e annotato i 3 post recenti (tutti a pranzo, salvataggi/condivisioni ancora a zero). I segnali di qualità fini restano insufficienti per regole forti; il cambiamento è incrementale e basato sulle mediane robuste.
 - Orari: rimossa la concentrazione sul solo pranzo; promossi (dato) il mattino (07:00, 09:00) e il pomeriggio (17:00) come fasce storicamente più forti, mantenuto 13:00 e aggiunto uno slot serale esplorativo (21:00) per diversità di fascia.
 - best_times ridistribuiti su 4 fasce (mattino/pranzo/pomeriggio/sera) ordinati per mediana storica: 07:00, 09:00, 17:00, 13:00, 21:00.
