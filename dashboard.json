@@ -30,6 +30,16 @@
       "views": 751,
       "accounts_engaged": 22,
       "total_interactions": 38
+    },
+    {
+      "date": "2026-06-08",
+      "followers_count": 914,
+      "media_count": 641,
+      "reach": 147,
+      "profile_views": 7,
+      "views": 746,
+      "accounts_engaged": 17,
+      "total_interactions": 33
     }
   ],
   "posts": [
@@ -54,12 +64,12 @@
         "#coraggio",
         "#fantasyworld"
       ],
-      "reach": 41,
+      "reach": 46,
       "likes": 6,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 95,
+      "views": 102,
       "history": {
         "2026-06-05": {
           "age_days": 0,
@@ -90,6 +100,16 @@
           "shares": 0,
           "total_interactions": 7,
           "views": 95
+        },
+        "2026-06-08": {
+          "age_days": 3,
+          "reach": 46,
+          "likes": 6,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 102
         }
       }
     },
@@ -115,12 +135,12 @@
         "#fantasydetails",
         "#handdrawn"
       ],
-      "reach": 48,
+      "reach": 53,
       "likes": 10,
       "saved": 0,
       "shares": 0,
       "comments": 1,
-      "views": 111,
+      "views": 120,
       "history": {
         "2026-06-06": {
           "age_days": 0,
@@ -141,6 +161,16 @@
           "shares": 0,
           "total_interactions": 12,
           "views": 111
+        },
+        "2026-06-08": {
+          "age_days": 2,
+          "reach": 53,
+          "likes": 10,
+          "comments": 1,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 120
         }
       }
     },
@@ -166,12 +196,12 @@
         "#cittafantasy",
         "#illustrazione"
       ],
-      "reach": 37,
-      "likes": 12,
+      "reach": 53,
+      "likes": 14,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 69,
+      "views": 86,
       "history": {
         "2026-06-07": {
           "age_days": 0,
@@ -182,6 +212,58 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 69
+        },
+        "2026-06-08": {
+          "age_days": 1,
+          "reach": 53,
+          "likes": 14,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 86
+        }
+      }
+    },
+    {
+      "media_id": "17980336443011159",
+      "title": "Beacon's End, il faro sul mare",
+      "source_image": "Mappa_Social (2).png",
+      "is_overview": null,
+      "published_at": "2026-06-08",
+      "hashtags": [
+        "#lighthouse",
+        "#faro",
+        "#fantasycity",
+        "#fantasymap",
+        "#worldbuilding",
+        "#coastalcity",
+        "#fantasyart",
+        "#seaport",
+        "#dnd",
+        "#mapmaking",
+        "#cartografia",
+        "#ttrpg",
+        "#cittafantasy",
+        "#fantasyworld",
+        "#illustrazione"
+      ],
+      "reach": 30,
+      "likes": 6,
+      "saved": 1,
+      "shares": 0,
+      "comments": 0,
+      "views": 47,
+      "history": {
+        "2026-06-08": {
+          "age_days": 0,
+          "reach": 30,
+          "likes": 6,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 47
         }
       }
     }
@@ -215,11 +297,11 @@
           "media_id": "17884152435591163",
           "published_at": "2026-06-05",
           "metrics": {
-            "reach": 41,
+            "reach": 46,
             "likes": 6,
             "saved": 0,
             "shares": 0,
-            "views": 95
+            "views": 102
           }
         },
         {
@@ -248,11 +330,11 @@
           "media_id": "18054090563741521",
           "published_at": "2026-06-06",
           "metrics": {
-            "reach": 48,
+            "reach": 53,
             "likes": 10,
             "saved": 0,
             "shares": 0,
-            "views": 111
+            "views": 120
           }
         },
         {
@@ -281,16 +363,16 @@
           "media_id": "18040175534601532",
           "published_at": "2026-06-07",
           "metrics": {
-            "reach": 37,
-            "likes": 12,
+            "reach": 53,
+            "likes": 14,
             "saved": 1,
             "shares": 0,
-            "views": 69
+            "views": 86
           }
         },
         {
           "title": "Beacon's End, il faro sul mare",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-08",
           "scheduled_time": "12:30",
           "is_overview": null,
@@ -312,9 +394,15 @@
             "#fantasyworld",
             "#illustrazione"
           ],
-          "media_id": null,
-          "published_at": null,
-          "metrics": null
+          "media_id": "17980336443011159",
+          "published_at": "2026-06-08",
+          "metrics": {
+            "reach": 30,
+            "likes": 6,
+            "saved": 1,
+            "shares": 0,
+            "views": 47
+          }
         },
         {
           "title": "Moonhaven, la grande città costiera",
@@ -968,6 +1056,27 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-08T12:30:13",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Beacon's End, il faro sul mare»",
+      "extra": {
+        "media_id": "17980336443011159"
+      }
+    },
+    {
+      "ts": "2026-06-08T12:30:18",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Beacon's End, il faro sul mare»"
+    },
+    {
+      "ts": "2026-06-08T14:15:42",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 4 Storie pubblicate"
     }
   ],
   "weekly": {
@@ -976,26 +1085,26 @@
     "followers_end": 914,
     "followers_gained": -3,
     "from": "2026-06-05",
-    "to": "2026-06-07",
+    "to": "2026-06-08",
     "top_posts": [
       {
         "title": "Highcrest, il castello tra le vette",
-        "reach": 37,
+        "reach": 53,
         "saved": 1,
         "shares": 0,
-        "likes": 12
+        "likes": 14
       },
       {
         "title": "Rosa dei venti con spada e rosa",
-        "reach": 48,
+        "reach": 53,
         "saved": 0,
         "shares": 0,
         "likes": 10
       },
       {
-        "title": "Thornhold: dove regna il Toro",
-        "reach": 41,
-        "saved": 0,
+        "title": "Beacon's End, il faro sul mare",
+        "reach": 30,
+        "saved": 1,
         "shares": 0,
         "likes": 6
       }
