@@ -842,6 +842,28 @@
         "Reels: ribadito che non ci sono ancora Reel recenti misurati; i video storici rendono leggermente meno in like ma il formato resta da testare per reach/follower.",
         "Aggiunta riga di Changelog con data 2026-06-08."
       ]
+    },
+    {
+      "date": "2026-06-08",
+      "enough_evidence": true,
+      "posts_measured": 3,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "09:00",
+        "17:00",
+        "13:00",
+        "21:00"
+      ],
+      "summary": "Lo storico robusto (mediane su 600 post) smentisce la concentrazione sul solo pranzo: le fasce migliori sono il mattino (ora 7 = 22.0 mediana like; ora 9 = 17.5 con n=48) e metà pomeriggio (ore 16–17 = 16–17.5), mentre la sera (19–21) è debole. Ho quindi diversificato gli orari su più fasce mantenendo il pranzo, aggiunto un paio di note hashtag dallo storico (forti: #digitalpainting, #designer; deboli: #games, #photoshoot, #rose) e annotato i 3 post recenti (tutti a pranzo, salvataggi/condivisioni ancora a zero). I segnali di qualità fini restano insufficienti per regole forti; il cambiamento è incrementale e basato sulle mediane robuste.",
+      "changes": [
+        "Orari: rimossa la concentrazione sul solo pranzo; promossi (dato) il mattino (07:00, 09:00) e il pomeriggio (17:00) come fasce storicamente più forti, mantenuto 13:00 e aggiunto uno slot serale esplorativo (21:00) per diversità di fascia.",
+        "best_times ridistribuiti su 4 fasce (mattino/pranzo/pomeriggio/sera) ordinati per mediana storica: 07:00, 09:00, 17:00, 13:00, 21:00.",
+        "Hashtag: aggiunta nota (dato) sugli hashtag storicamente forti #digitalpainting (mediana 25, n=55) e #designer (25, n=89), da testare sul contenuto-mappe con prudenza.",
+        "Cosa evitare: aggiunti agli hashtag deboli #games (11), #photoshoot (12), #rose (12), sotto la mediana storica (14).",
+        "Annotati i 3 post recenti: tutti a pranzo (12:30–13:30), 13:00 reach max (48), 13:30 like max (12) e unico salvataggio; salvataggi/condivisioni quasi a zero, follower in lieve calo (917→914) su finestra troppo breve.",
+        "Aggiornato il Changelog con la data odierna."
+      ]
     }
   ],
   "alerts": [
