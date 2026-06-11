@@ -65,11 +65,11 @@
       "date": "2026-06-11",
       "followers_count": 914,
       "media_count": 645,
-      "reach": 222,
-      "profile_views": 4,
-      "views": 636,
-      "accounts_engaged": 11,
-      "total_interactions": 43
+      "reach": 106,
+      "profile_views": 1,
+      "views": 287,
+      "accounts_engaged": 10,
+      "total_interactions": 47
     }
   ],
   "posts": [
@@ -373,7 +373,7 @@
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 77,
+      "views": 78,
       "history": {
         "2026-06-08": {
           "age_days": 0,
@@ -413,7 +413,7 @@
           "saved": 2,
           "shares": 0,
           "total_interactions": 13,
-          "views": 77
+          "views": 78
         }
       }
     },
@@ -439,12 +439,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 47,
-      "likes": 5,
+      "reach": 48,
+      "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 89,
+      "views": 92,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -468,13 +468,13 @@
         },
         "2026-06-11": {
           "age_days": 2,
-          "reach": 47,
-          "likes": 5,
+          "reach": 48,
+          "likes": 6,
           "comments": 0,
           "saved": 1,
           "shares": 0,
-          "total_interactions": 8,
-          "views": 89
+          "total_interactions": 9,
+          "views": 92
         }
       }
     },
@@ -500,12 +500,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 144,
-      "likes": 5,
+      "reach": 147,
+      "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 159,
+      "views": 162,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -529,13 +529,13 @@
         },
         "2026-06-11": {
           "age_days": 2,
-          "reach": 144,
-          "likes": 5,
+          "reach": 147,
+          "likes": 6,
           "comments": 0,
           "saved": 1,
           "shares": 0,
-          "total_interactions": 8,
-          "views": 159
+          "total_interactions": 9,
+          "views": 162
         }
       }
     },
@@ -562,12 +562,12 @@
         "#artfantasy",
         "#giochidiruolo"
       ],
-      "reach": 53,
+      "reach": 57,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 89,
+      "views": 95,
       "history": {
         "2026-06-10": {
           "age_days": 0,
@@ -581,13 +581,52 @@
         },
         "2026-06-11": {
           "age_days": 1,
-          "reach": 53,
+          "reach": 57,
           "likes": 7,
           "comments": 0,
           "saved": 1,
           "shares": 0,
           "total_interactions": 10,
-          "views": 89
+          "views": 95
+        }
+      }
+    },
+    {
+      "media_id": "18101088299112837",
+      "title": "Si parte dalle coste",
+      "source_image": "Mappa_Social.mp4",
+      "is_overview": false,
+      "published_at": "2026-06-11",
+      "hashtags": [
+        "#fantasymap",
+        "#mappafantasy",
+        "#cartography",
+        "#worldbuilding",
+        "#artprocess",
+        "#timelapseart",
+        "#dndmaps",
+        "#inkdrawing",
+        "#satisfying",
+        "#fantasyart",
+        "#illustrazione",
+        "#mapmaking"
+      ],
+      "reach": 33,
+      "likes": 4,
+      "saved": 1,
+      "shares": 0,
+      "comments": 1,
+      "views": 53,
+      "history": {
+        "2026-06-11": {
+          "age_days": 0,
+          "reach": 33,
+          "likes": 4,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 53
         }
       }
     }
@@ -769,7 +808,7 @@
             "likes": 9,
             "saved": 2,
             "shares": 0,
-            "views": 77
+            "views": 78
           }
         },
         {
@@ -809,11 +848,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 47,
-            "likes": 5,
+            "reach": 48,
+            "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 89
+            "views": 92
           }
         },
         {
@@ -853,11 +892,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 144,
-            "likes": 5,
+            "reach": 147,
+            "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 159
+            "views": 162
           }
         },
         {
@@ -898,11 +937,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 53,
+            "reach": 57,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 89
+            "views": 95
           }
         }
       ]
@@ -938,8 +977,19 @@
           "facebook": true,
           "story": true,
           "comment_posted": true,
-          "comments": null,
-          "metrics": null
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 33,
+            "likes": 4,
+            "saved": 1,
+            "shares": 0,
+            "views": 53
+          }
         },
         {
           "title": "Montagne e foreste a inchiostro",
@@ -1926,12 +1976,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-08T12:30:18",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Beacon's End, il faro sul mare»"
-    },
-    {
       "ts": "2026-06-08T14:15:42",
       "severity": "info",
       "source": "stories",
@@ -2026,6 +2070,12 @@
       "severity": "info",
       "source": "competitors",
       "message": "🔎 Ricognizione competitor: Nella nicchia delle mappe fantasy disegnate a mano i reference (Deven Rue, Misty Beee) crescono unendo stile riconoscibile, contenuti educativi e monetizzazione — nuovi: @devenrue, @mistybeee, @fantasymapink, @dungeonmapster"
+    },
+    {
+      "ts": "2026-06-11T10:53:50",
+      "severity": "info",
+      "source": "ideas",
+      "message": "💡 Idee da pubblicare aggiornate (6 aperte) — REEL: Dal foglio bianco alla costa frastagliata in 20s · CAROUSEL: 3 modi per disegnare le montagne a mano · REEL: Il lettering del cartiglio: la firma della mappa · CAROUSEL: Sketch → mappa finita: l"
     }
   ],
   "ideas": {
