@@ -937,7 +937,7 @@
           "published_at": "2026-06-11",
           "facebook": true,
           "story": true,
-          "comment_posted": false,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -1926,21 +1926,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-07T14:15:30",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 3 Storie pubblicate"
-    },
-    {
-      "ts": "2026-06-08T12:30:13",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Beacon's End, il faro sul mare»",
-      "extra": {
-        "media_id": "17980336443011159"
-      }
-    },
-    {
       "ts": "2026-06-08T12:30:18",
       "severity": "info",
       "source": "facebook",
@@ -2029,8 +2014,139 @@
       "severity": "info",
       "source": "facebook",
       "message": "↪️ Storia Reel anche su Facebook: «Si parte dalle coste»"
+    },
+    {
+      "ts": "2026-06-11T09:00:19",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 Commento aggiunto a «Si parte dalle coste» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-11T10:41:56",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Ricognizione competitor: Nella nicchia delle mappe fantasy disegnate a mano i reference (Deven Rue, Misty Beee) crescono unendo stile riconoscibile, contenuti educativi e monetizzazione — nuovi: @devenrue, @mistybeee, @fantasymapink, @dungeonmapster"
     }
   ],
+  "ideas": {
+    "ideas": [
+      {
+        "format": "reel",
+        "title": "Dal foglio bianco alla costa frastagliata in 20s",
+        "cosa_fare": "Registra il time-lapse del disegno di una linea di costa: parti dalla matita, accelera l'inchiostrazione e chiudi sul reveal della costa finita con le isolette. Apri il Reel con 1s di mappa finita, poi torna al foglio bianco.",
+        "perche": "Il satisfying reveal con gancio visivo nei primi 1-2 secondi è il formato che traina di più nella nicchia e massimizza completion/watch-time, il segnale n.1 verso i non-follower.",
+        "gancio": "Guarda come nasce una costa che sembra disegnata 300 anni fa",
+        "hashtags": [
+          "#fantasymap",
+          "#fantasycartography",
+          "#mapmaking",
+          "#handdrawnmap",
+          "#dndmaps",
+          "#artprocess",
+          "#worldbuilding",
+          "#inkdrawing"
+        ],
+        "id": "dal-foglio-bianco-alla-costa-frastagliata-in-20s",
+        "status": "open"
+      },
+      {
+        "format": "carousel",
+        "title": "3 modi per disegnare le montagne a mano",
+        "cosa_fare": "Crea un carosello di 6-8 slide: slide 1 hook, poi 3 tecniche di montagne (linee semplici, ombreggiate, a 'C' sovrapposte) con before/after, ultima slide con CTA al salvataggio. Fotografa ogni step dello stesso pezzo di mappa.",
+        "perche": "I carousel educativi step-by-step generano salvataggi (≈3× i like come peso) e ti posizionano come reference da cui imparare, non solo da guardare.",
+        "gancio": "Le montagne sono lo scoglio di ogni mappa: ecco 3 modi per risolverle",
+        "hashtags": [
+          "#fantasycartography",
+          "#mapmaking",
+          "#dndmaps",
+          "#cartography",
+          "#fantasyart",
+          "#worldbuild ing",
+          "#mapart",
+          "#dndart"
+        ],
+        "id": "3-modi-per-disegnare-le-montagne-a-mano",
+        "status": "open"
+      },
+      {
+        "format": "reel",
+        "title": "Il lettering del cartiglio: la firma della mappa",
+        "cosa_fare": "Filma in time-lapse la scrittura a mano del titolo del regno su un cartiglio/pergamena, dai tratti guida fino allo svolazzo finale. Tieni la clip a ~15s con musica CC0 e gancio sul nome che appare lettera per lettera.",
+        "perche": "Un lettering riconoscibile costruisce identità di stile (ciò che rende 'reference' account come Deven Rue) ed è altamente soddisfacente da guardare fino alla fine.",
+        "gancio": "Una mappa senza un bel titolo è solo un disegno a metà",
+        "hashtags": [
+          "#lettering",
+          "#fantasymap",
+          "#cartography",
+          "#handdrawnmap",
+          "#inkdrawing",
+          "#mapdesign",
+          "#worldbuilding",
+          "#ttrpg"
+        ],
+        "id": "il-lettering-del-cartiglio-la-firma-della-mappa",
+        "status": "open"
+      },
+      {
+        "format": "carousel",
+        "title": "Sketch → mappa finita: l'evoluzione del Mare d'Argento",
+        "cosa_fare": "Mostra in 6 slide la progressione dello stesso elaborato: schizzo a matita, struttura, inchiostro, coloritura pergamena, dettagli, vista finale. Aggiungi una micro-lore del luogo nella caption.",
+        "perche": "Il confronto before/after è ad alto valore e molto salvabile; legato a una narrazione di lore stimola commenti e ri-visite, alimentando reach organica.",
+        "gancio": "Nessuno crede che queste due immagini siano la stessa mappa",
+        "hashtags": [
+          "#fantasycartography",
+          "#worldbuilding",
+          "#mapmaking",
+          "#dndmaps",
+          "#fantasyart",
+          "#mapart",
+          "#dungeonsanddragons",
+          "#rpgmap"
+        ],
+        "id": "sketch-mappa-finita-l-evoluzione-del-mare-d-argent",
+        "status": "open"
+      },
+      {
+        "format": "reel",
+        "title": "Omaggio a Westeros: disegno il Continente Occidentale",
+        "cosa_fare": "Registra il process di una mappa fan-art di un mondo famoso e riconoscibile (es. Westeros), mostrando linee e nomi reali di quella lore. Chiudi sul reveal completo e cita il fandom in caption e hashtag.",
+        "perche": "I tie-in con IP famose intercettano chi già cerca quei mondi: nello storico sono tra i post con più views e ricondivisioni.",
+        "gancio": "Sto ridisegnando a mano la mappa del mondo fantasy più famoso di sempre",
+        "hashtags": [
+          "#gameofthrones",
+          "#westeros",
+          "#asoiaf",
+          "#fantasymap",
+          "#mapmaking",
+          "#fantasycartography",
+          "#fanart",
+          "#handdrawnmap"
+        ],
+        "id": "omaggio-a-westeros-disegno-il-continente-occidenta",
+        "status": "open"
+      },
+      {
+        "format": "carousel",
+        "title": "Mappa pronta al tavolo: versione bella + versione con griglia",
+        "cosa_fare": "Pubblica un carosello che mostra la stessa mappa in versione artistica e in versione 'usabile' per D&D (con griglia/token e legenda). Spiega in 2 slide come prepararla per una campagna.",
+        "perche": "L'utilità al tavolo amplia il pubblico oltre gli amanti dell'arte e invita alla condivisione in DM ('manda al tuo Dungeon Master'), il segnale più pesante nel 2026.",
+        "gancio": "Manda questa mappa al tuo Dungeon Master prima della prossima sessione",
+        "hashtags": [
+          "#dndmaps",
+          "#ttrpg",
+          "#dungeonsanddragons",
+          "#rpgmap",
+          "#dungeonmaster",
+          "#mapmaking",
+          "#fantasymap",
+          "#worldbuilding"
+        ],
+        "id": "mappa-pronta-al-tavolo-versione-bella-versione-con",
+        "status": "open"
+      }
+    ],
+    "generated_at": "2026-06-11"
+  },
   "weekly": {
     "period_days": 7,
     "followers_start": 917,
