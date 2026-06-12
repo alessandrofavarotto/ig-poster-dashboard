@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11",
+  "generated_at": "2026-06-12",
   "account": [
     {
       "date": "2026-06-05",
@@ -70,6 +70,16 @@
       "views": 287,
       "accounts_engaged": 10,
       "total_interactions": 47
+    },
+    {
+      "date": "2026-06-12",
+      "followers_count": 915,
+      "media_count": 647,
+      "reach": 268,
+      "profile_views": 1,
+      "views": 448,
+      "accounts_engaged": 18,
+      "total_interactions": 38
     }
   ],
   "posts": [
@@ -170,6 +180,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 112
+        },
+        "2026-06-12": {
+          "age_days": 7,
+          "reach": 52,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 112
         }
       }
     },
@@ -195,12 +215,12 @@
         "#fantasydetails",
         "#handdrawn"
       ],
-      "reach": 59,
+      "reach": 60,
       "likes": 11,
       "saved": 0,
       "shares": 0,
       "comments": 3,
-      "views": 133,
+      "views": 134,
       "history": {
         "2026-06-06": {
           "age_days": 0,
@@ -261,6 +281,16 @@
           "shares": 0,
           "total_interactions": 16,
           "views": 133
+        },
+        "2026-06-12": {
+          "age_days": 6,
+          "reach": 60,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 134
         }
       }
     },
@@ -286,12 +316,12 @@
         "#cittafantasy",
         "#illustrazione"
       ],
-      "reach": 62,
+      "reach": 64,
       "likes": 15,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 104,
+      "views": 107,
       "history": {
         "2026-06-07": {
           "age_days": 0,
@@ -342,6 +372,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 104
+        },
+        "2026-06-12": {
+          "age_days": 5,
+          "reach": 64,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 107
         }
       }
     },
@@ -368,12 +408,12 @@
         "#fantasyworld",
         "#illustrazione"
       ],
-      "reach": 50,
+      "reach": 51,
       "likes": 9,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 78,
+      "views": 79,
       "history": {
         "2026-06-08": {
           "age_days": 0,
@@ -414,6 +454,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 78
+        },
+        "2026-06-12": {
+          "age_days": 4,
+          "reach": 51,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 79
         }
       }
     },
@@ -439,12 +489,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 48,
-      "likes": 6,
+      "reach": 53,
+      "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 92,
+      "views": 97,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -475,6 +525,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 92
+        },
+        "2026-06-12": {
+          "age_days": 3,
+          "reach": 53,
+          "likes": 7,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 97
         }
       }
     },
@@ -500,12 +560,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 147,
+      "reach": 148,
       "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 162,
+      "views": 163,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -536,6 +596,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 162
+        },
+        "2026-06-12": {
+          "age_days": 3,
+          "reach": 148,
+          "likes": 6,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 163
         }
       }
     },
@@ -562,12 +632,12 @@
         "#artfantasy",
         "#giochidiruolo"
       ],
-      "reach": 57,
-      "likes": 7,
+      "reach": 67,
+      "likes": 8,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 95,
+      "views": 108,
       "history": {
         "2026-06-10": {
           "age_days": 0,
@@ -588,6 +658,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 95
+        },
+        "2026-06-12": {
+          "age_days": 2,
+          "reach": 67,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 108
         }
       }
     },
@@ -611,12 +691,12 @@
         "#illustrazione",
         "#mapmaking"
       ],
-      "reach": 33,
-      "likes": 4,
+      "reach": 93,
+      "likes": 5,
       "saved": 1,
       "shares": 0,
       "comments": 1,
-      "views": 53,
+      "views": 143,
       "history": {
         "2026-06-11": {
           "age_days": 0,
@@ -627,6 +707,95 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 53
+        },
+        "2026-06-12": {
+          "age_days": 1,
+          "reach": 93,
+          "likes": 5,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 143
+        }
+      }
+    },
+    {
+      "media_id": "17952312618175511",
+      "title": "Montagne e foreste a inchiostro",
+      "source_image": "Mappa_Social.mp4",
+      "is_overview": false,
+      "published_at": "2026-06-12",
+      "hashtags": [
+        "#fantasymap",
+        "#penandink",
+        "#mountainart",
+        "#worldbuilding",
+        "#artprocess",
+        "#timelapseart",
+        "#dnd",
+        "#satisfyingart",
+        "#cartography",
+        "#fantasyillustration",
+        "#speedpaint",
+        "#disegnoamano"
+      ],
+      "reach": 123,
+      "likes": 6,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 144,
+      "history": {
+        "2026-06-12": {
+          "age_days": 0,
+          "reach": 123,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 144
+        }
+      }
+    },
+    {
+      "media_id": "18004413644938168",
+      "title": "tg42",
+      "source_image": "tg42",
+      "is_overview": false,
+      "published_at": "2026-06-12",
+      "hashtags": [
+        "#fumetto",
+        "#illustrazione",
+        "#fantasyart",
+        "#comicart",
+        "#inkdrawing",
+        "#digitalart",
+        "#fantasyillustration",
+        "#handdrawn",
+        "#musicart",
+        "#worldbuilding",
+        "#illustratoritaliani",
+        "#characterdesign",
+        "#artistsoninstagram"
+      ],
+      "reach": 28,
+      "likes": 8,
+      "saved": 0,
+      "shares": 0,
+      "comments": 0,
+      "views": 59,
+      "history": {
+        "2026-06-12": {
+          "age_days": 0,
+          "reach": 28,
+          "likes": 8,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 59
         }
       }
     }
@@ -715,11 +884,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 59,
+            "reach": 60,
             "likes": 11,
             "saved": 0,
             "shares": 0,
-            "views": 133
+            "views": 134
           }
         },
         {
@@ -759,11 +928,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 62,
+            "reach": 64,
             "likes": 15,
             "saved": 2,
             "shares": 0,
-            "views": 104
+            "views": 107
           }
         },
         {
@@ -804,11 +973,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 50,
+            "reach": 51,
             "likes": 9,
             "saved": 2,
             "shares": 0,
-            "views": 78
+            "views": 79
           }
         },
         {
@@ -848,11 +1017,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 48,
-            "likes": 6,
+            "reach": 53,
+            "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 92
+            "views": 97
           }
         },
         {
@@ -892,11 +1061,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 147,
+            "reach": 148,
             "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 162
+            "views": 163
           }
         },
         {
@@ -937,11 +1106,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 57,
-            "likes": 7,
+            "reach": 67,
+            "likes": 8,
             "saved": 1,
             "shares": 0,
-            "views": 95
+            "views": 108
           }
         }
       ]
@@ -984,16 +1153,16 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 33,
-            "likes": 4,
+            "reach": 93,
+            "likes": 5,
             "saved": 1,
             "shares": 0,
-            "views": 53
+            "views": 143
           }
         },
         {
           "title": "Montagne e foreste a inchiostro",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-12",
           "scheduled_time": "12:30",
           "is_overview": false,
@@ -1014,13 +1183,24 @@
             "#speedpaint",
             "#disegnoamano"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "media_id": "17952312618175511",
+          "published_at": "2026-06-12",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 123,
+            "likes": 6,
+            "saved": 0,
+            "shares": 0,
+            "views": 144
+          }
         },
         {
           "title": "Nascono le città del regno",
@@ -1036,14 +1216,7 @@
             "#dndmaps",
             "#cartography",
             "#worldbuilding",
-            "#castle",
-            "#artprocess",
-            "#timelapseart",
-            "#ttrpg",
-            "#fantasyart",
-            "#mapmaking",
-            "#satisfying",
-            "#detailsmatter"
+            "#castle"
           ],
           "media_id": null,
           "published_at": null,
@@ -1067,14 +1240,7 @@
             "#satisfying",
             "#coloringprocess",
             "#artprocess",
-            "#timelapseart",
-            "#worldbuilding",
-            "#cartography",
-            "#digitalart",
-            "#fantasyart",
-            "#dndmaps",
-            "#oddlysatisfying",
-            "#mappafantasy"
+            "#timelapseart"
           ],
           "media_id": null,
           "published_at": null,
@@ -1083,6 +1249,54 @@
           "comment_posted": false,
           "comments": null,
           "metrics": null
+        }
+      ]
+    },
+    {
+      "source_image": "tg42",
+      "posts": [
+        {
+          "title": "tg42",
+          "status": "published",
+          "scheduled_date": "2026-06-12",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "carousel",
+          "from_image": null,
+          "caption": "Ringrazio @avav.illustra @innovationyoung per la possibilità che mi hanno dato di partecipare alla mostra \"Le Forme della Musica\" che si sta tenendo al Centro Giovani a Monfalcone. Seguirà presto un'immagine ad alta risoluzione dell'opera. 😊\n\n· · ·\n\nI thank @avav.illustra @innovationyoung for the opportunity they gave me to take part in the exhibition \"Le Forme della Musica\" being held at the Centro Giovani in Monfalcone. A high-resolution image of the artwork will follow soon. 😊",
+          "hashtags": [
+            "#fumetto",
+            "#illustrazione",
+            "#fantasyart",
+            "#comicart",
+            "#inkdrawing",
+            "#digitalart",
+            "#fantasyillustration",
+            "#handdrawn",
+            "#musicart",
+            "#worldbuilding",
+            "#illustratoritaliani",
+            "#characterdesign",
+            "#artistsoninstagram"
+          ],
+          "media_id": "18004413644938168",
+          "published_at": "2026-06-12",
+          "facebook": false,
+          "story": false,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 28,
+            "likes": 8,
+            "saved": 0,
+            "shares": 0,
+            "views": 59
+          }
         }
       ]
     },
@@ -1136,16 +1350,7 @@
             "#gameofthrones",
             "#asoiaf",
             "#asongoficeandfire",
-            "#fantasymap",
-            "#fantasycartography",
-            "#mapmaking",
-            "#worldbuilding",
-            "#fantasyart",
-            "#got",
-            "#mappafantasy",
-            "#cartografia",
-            "#dndmaps",
-            "#hboitalia"
+            "#fantasymap"
           ],
           "media_id": null,
           "published_at": null,
@@ -1202,16 +1407,7 @@
             "#houseofarryn",
             "#gameofthrones",
             "#asoiaf",
-            "#westeros",
-            "#fantasymap",
-            "#fantasycartography",
-            "#mapmaking",
-            "#worldbuilding",
-            "#dndmaps",
-            "#fantasyart",
-            "#cartografia",
-            "#ttrpg",
-            "#mappafantasy"
+            "#westeros"
           ],
           "media_id": null,
           "published_at": null,
@@ -1268,16 +1464,7 @@
             "#theredkeep",
             "#ironthrone",
             "#gameofthrones",
-            "#asoiaf",
-            "#westeros",
-            "#fantasymap",
-            "#fantasycartography",
-            "#mapmaking",
-            "#worldbuilding",
-            "#fantasyart",
-            "#dndmaps",
-            "#got",
-            "#cartografia"
+            "#asoiaf"
           ],
           "media_id": null,
           "published_at": null,
@@ -1334,16 +1521,7 @@
             "#thehightower",
             "#thecitadel",
             "#gameofthrones",
-            "#asoiaf",
-            "#westeros",
-            "#fantasymap",
-            "#fantasycartography",
-            "#worldbuilding",
-            "#mapmaking",
-            "#fantasyart",
-            "#dndmaps",
-            "#cartografia",
-            "#mappafantasy"
+            "#asoiaf"
           ],
           "media_id": null,
           "published_at": null,
@@ -1434,16 +1612,7 @@
             "#housestark",
             "#winteriscoming",
             "#gameofthrones",
-            "#asoiaf",
-            "#westeros",
-            "#fantasymap",
-            "#fantasycartography",
-            "#worldbuilding",
-            "#mapmaking",
-            "#fantasyart",
-            "#dndmaps",
-            "#got",
-            "#mappafantasy"
+            "#asoiaf"
           ],
           "media_id": null,
           "published_at": null,
@@ -1460,242 +1629,242 @@
     "#Thornhold": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "nome lore D&D, quasi nullo",
-      "updated": "2026-06-05"
+      "note": "luogo Forgotten Realms, pochissimi post",
+      "updated": "2026-06-12"
     },
     "#stemmaaraldico": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "termine araldico italiano, pochissimi",
-      "updated": "2026-06-05"
+      "note": "araldica italiana, molto di settore",
+      "updated": "2026-06-12"
     },
     "#toro": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "generico, zodiaco e animale",
-      "updated": "2026-06-05"
+      "note": "generico: zodiaco, calcio, animale",
+      "updated": "2026-06-12"
     },
     "#araldica": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "settore araldico italiano",
-      "updated": "2026-06-05"
+      "note": "settore araldico, pubblico ristretto",
+      "updated": "2026-06-12"
     },
     "#fantasyart": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "circa 4,8M post, molto competitivo",
-      "updated": "2026-06-05"
+      "note": "milioni di post, molto competitivo",
+      "updated": "2026-06-12"
     },
     "#worldbuilding": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "circa 130K, community attiva",
-      "updated": "2026-06-05"
+      "note": "community attiva, in crescita",
+      "updated": "2026-06-12"
     },
     "#cittafantasy": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "italiano poco usato, ben targettizzato",
-      "updated": "2026-06-05"
+      "note": "italiano, pochi post mirati",
+      "updated": "2026-06-12"
     },
     "#fantasy": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "circa 18M post, enorme",
-      "updated": "2026-06-05"
+      "note": "circa 18M post, generico",
+      "updated": "2026-06-12"
     },
     "#corna": {
-      "tier": "medio",
+      "tier": "ampio",
       "trend": "saturo",
-      "note": "generico e ambiguo italiano",
-      "updated": "2026-06-05"
+      "note": "generico e significati ambigui",
+      "updated": "2026-06-12"
     },
     "#simbolismo": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "tema artistico generico italiano",
-      "updated": "2026-06-05"
+      "note": "italiano, pubblico moderato",
+      "updated": "2026-06-12"
     },
     "#illustrazione": {
-      "tier": "ampio",
-      "trend": "saturo",
-      "note": "milioni di post italiani",
-      "updated": "2026-06-05"
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "illustrazione italiana, buon volume",
+      "updated": "2026-06-12"
     },
     "#coraggio": {
-      "tier": "medio",
+      "tier": "ampio",
       "trend": "saturo",
-      "note": "motivazionale generico, poco efficace",
-      "updated": "2026-06-05"
+      "note": "motivazionale generico, fuori tema",
+      "updated": "2026-06-12"
     },
     "#fantasyworld": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "affollato ma tematico",
-      "updated": "2026-06-05"
+      "note": "circa 300K post, costante",
+      "updated": "2026-06-12"
     },
     "#compassrose": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "tema cartografico di settore",
-      "updated": "2026-06-05"
+      "note": "soggetto specifico, pubblico mirato",
+      "updated": "2026-06-12"
     },
     "#rosadeiventi": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "italiano cartografico, pochi post",
-      "updated": "2026-06-05"
+      "note": "italiano, di nicchia tematica",
+      "updated": "2026-06-12"
     },
     "#fantasymap": {
-      "tier": "nicchia",
+      "tier": "medio",
       "trend": "in crescita",
-      "note": "circa 25K, community mappe",
-      "updated": "2026-06-05"
+      "note": "cartografia fantasy, settore in crescita",
+      "updated": "2026-06-12"
     },
     "#cartografia": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "italiano di settore",
-      "updated": "2026-06-05"
+      "note": "italiano, pubblico ristretto",
+      "updated": "2026-06-12"
     },
     "#mapmaking": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "community creatori mappe attiva",
-      "updated": "2026-06-05"
+      "note": "community mappe, in crescita",
+      "updated": "2026-06-12"
     },
     "#detail": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "generico, milioni di post",
-      "updated": "2026-06-05"
+      "note": "genericissimo, scarsa rilevanza",
+      "updated": "2026-06-12"
     },
     "#inkdrawing": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "disegno a china, community solida",
-      "updated": "2026-06-05"
+      "note": "disegno a inchiostro, buon target",
+      "updated": "2026-06-12"
     },
     "#dnd": {
       "tier": "ampio",
-      "trend": "saturo",
-      "note": "circa 5,8M, alta competizione",
-      "updated": "2026-06-05"
+      "trend": "in crescita",
+      "note": "molto popolare, community attiva",
+      "updated": "2026-06-12"
     },
     "#cartographyart": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "arte cartografica, target preciso",
-      "updated": "2026-06-05"
+      "note": "arte cartografica, in crescita",
+      "updated": "2026-06-12"
     },
     "#fantasydetails": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "pochi post, molto specifico",
-      "updated": "2026-06-05"
+      "note": "pochi post, ben mirato",
+      "updated": "2026-06-12"
     },
     "#handdrawn": {
       "tier": "ampio",
-      "trend": "saturo",
-      "note": "milioni di post generici",
-      "updated": "2026-06-05"
+      "trend": "stabile",
+      "note": "milioni di post, generico",
+      "updated": "2026-06-12"
     },
     "#fantasycity": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "tematico, buon targeting",
-      "updated": "2026-06-05"
+      "note": "specifico, target preciso",
+      "updated": "2026-06-12"
     },
     "#castle": {
       "tier": "ampio",
-      "trend": "saturo",
-      "note": "milioni, turismo e foto",
-      "updated": "2026-06-05"
+      "trend": "stabile",
+      "note": "milioni di post, generico",
+      "updated": "2026-06-12"
     },
     "#castello": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "italiano, foto e turismo",
-      "updated": "2026-06-05"
+      "note": "italiano, volume medio",
+      "updated": "2026-06-12"
     },
     "#mountainfortress": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "pochissimi post, molto specifico",
-      "updated": "2026-06-05"
+      "note": "molto specifico, pochi post",
+      "updated": "2026-06-12"
     },
     "#ttrpg": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "community ruolistica in espansione",
-      "updated": "2026-06-05"
+      "note": "gioco di ruolo, in crescita",
+      "updated": "2026-06-12"
     },
     "#lighthouse": {
       "tier": "ampio",
-      "trend": "saturo",
-      "note": "milioni, fotografia popolare",
-      "updated": "2026-06-05"
+      "trend": "stabile",
+      "note": "milioni di post, fotografia",
+      "updated": "2026-06-12"
     },
     "#faro": {
-      "tier": "medio",
+      "tier": "ampio",
       "trend": "saturo",
-      "note": "italiano e spagnolo, generico",
-      "updated": "2026-06-05"
+      "note": "ambiguo: luogo, brand, generico",
+      "updated": "2026-06-12"
     },
     "#coastalcity": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "tematico, post moderati",
-      "updated": "2026-06-05"
+      "note": "soggetto specifico, target medio",
+      "updated": "2026-06-12"
     },
     "#seaport": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "di settore, pochi post",
-      "updated": "2026-06-05"
+      "note": "specifico, pubblico ristretto",
+      "updated": "2026-06-12"
     },
     "#portcity": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "specifico, traffico moderato",
-      "updated": "2026-06-05"
+      "note": "specifico, pochi post",
+      "updated": "2026-06-12"
     },
     "#dungeonsanddragons": {
       "tier": "ampio",
-      "trend": "saturo",
-      "note": "milioni di post, competitivo",
-      "updated": "2026-06-05"
+      "trend": "in crescita",
+      "note": "molto popolare e in crescita",
+      "updated": "2026-06-12"
     },
     "#fantasylore": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "narrativa fantasy, community attiva",
-      "updated": "2026-06-05"
+      "note": "lore fantasy, community attiva",
+      "updated": "2026-06-12"
     },
     "#mappafantasy": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "italiano raro, ottimo targeting",
-      "updated": "2026-06-05"
+      "note": "italiano, pochissimi post",
+      "updated": "2026-06-12"
     },
     "#handdrawnmap": {
       "tier": "nicchia",
       "trend": "in crescita",
       "note": "mappe disegnate, target preciso",
-      "updated": "2026-06-05"
+      "updated": "2026-06-12"
     },
     "#artfantasy": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "variante di fantasyart",
-      "updated": "2026-06-05"
+      "note": "variante minore di fantasyart",
+      "updated": "2026-06-12"
     },
     "#giochidiruolo": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "italiano ruolistico, community viva",
-      "updated": "2026-06-05"
+      "note": "italiano, community GdR attiva",
+      "updated": "2026-06-12"
     },
     "#cartography": {
       "tier": "nicchia",
@@ -1976,48 +2145,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-08T14:15:42",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 4 Storie pubblicate"
-    },
-    {
-      "ts": "2026-06-09T13:00:11",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Moonhaven, la grande città costiera»",
-      "extra": {
-        "media_id": "18094441574261386"
-      }
-    },
-    {
-      "ts": "2026-06-09T13:00:17",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Moonhaven, la grande città costiera»"
-    },
-    {
-      "ts": "2026-06-09T14:16:29",
-      "severity": "warning",
-      "source": "stories",
-      "message": "📖 4 Storie pubblicate (1 fallite)"
-    },
-    {
-      "ts": "2026-06-09T17:01:42",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Moonhaven, la grande città costiera»",
-      "extra": {
-        "media_id": "18100020163927589"
-      }
-    },
-    {
-      "ts": "2026-06-09T17:01:51",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Moonhaven, la grande città costiera»"
-    },
-    {
       "ts": "2026-06-09T17:02:02",
       "severity": "info",
       "source": "facebook",
@@ -2076,6 +2203,48 @@
       "severity": "info",
       "source": "ideas",
       "message": "💡 Idee da pubblicare aggiornate (6 aperte) — REEL: Dal foglio bianco alla costa frastagliata in 20s · CAROUSEL: 3 modi per disegnare le montagne a mano · REEL: Il lettering del cartiglio: la firma della mappa · CAROUSEL: Sketch → mappa finita: l"
+    },
+    {
+      "ts": "2026-06-12T12:31:11",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Montagne e foreste a inchiostro»",
+      "extra": {
+        "media_id": "17952312618175511"
+      }
+    },
+    {
+      "ts": "2026-06-12T12:31:18",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Montagne e foreste a inchiostro»"
+    },
+    {
+      "ts": "2026-06-12T12:31:29",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Montagne e foreste a inchiostro»"
+    },
+    {
+      "ts": "2026-06-12T13:00:28",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Montagne e foreste a inchiostro» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-12T13:00:42",
+      "severity": "info",
+      "source": "publish",
+      "message": "🖼️ Carosello pubblicato: «tg42» (anche su FB)",
+      "extra": {
+        "media_id": "18004413644938168"
+      }
+    },
+    {
+      "ts": "2026-06-12T13:30:16",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «tg42»"
     }
   ],
   "ideas": {
@@ -2097,7 +2266,9 @@
           "#inkdrawing"
         ],
         "id": "dal-foglio-bianco-alla-costa-frastagliata-in-20s",
-        "status": "open"
+        "status": "done",
+        "done_at": "2026-06-12",
+        "done_reason": "Il reel pubblicato 'Si parte dalle coste' mostra le coste del Mare d'Argento che prendono forma da zero a mano libera: stesso tema (nascita della costa) e stesso formato reel."
       },
       {
         "format": "carousel",
@@ -2195,33 +2366,33 @@
         "status": "open"
       }
     ],
-    "generated_at": "2026-06-11"
+    "generated_at": "2026-06-12"
   },
   "weekly": {
     "period_days": 7,
     "followers_start": 917,
-    "followers_end": 914,
-    "followers_gained": -3,
+    "followers_end": 915,
+    "followers_gained": -2,
     "from": "2026-06-05",
-    "to": "2026-06-11",
+    "to": "2026-06-12",
     "top_posts": [
       {
         "title": "Highcrest, il castello tra le vette",
-        "reach": 62,
+        "reach": 64,
         "saved": 2,
         "shares": 0,
         "likes": 15
       },
       {
         "title": "Rosa dei venti con spada e rosa",
-        "reach": 59,
+        "reach": 60,
         "saved": 0,
         "shares": 0,
         "likes": 11
       },
       {
         "title": "Beacon's End, il faro sul mare",
-        "reach": 50,
+        "reach": 51,
         "saved": 2,
         "shares": 0,
         "likes": 9
