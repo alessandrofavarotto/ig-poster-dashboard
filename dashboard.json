@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12",
+  "generated_at": "2026-06-13",
   "account": [
     {
       "date": "2026-06-05",
@@ -80,6 +80,16 @@
       "views": 448,
       "accounts_engaged": 18,
       "total_interactions": 38
+    },
+    {
+      "date": "2026-06-13",
+      "followers_count": 916,
+      "media_count": 650,
+      "reach": 430,
+      "profile_views": 2,
+      "views": 951,
+      "accounts_engaged": 29,
+      "total_interactions": 61
     }
   ],
   "posts": [
@@ -104,12 +114,12 @@
         "#coraggio",
         "#fantasyworld"
       ],
-      "reach": 52,
+      "reach": 53,
       "likes": 7,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 112,
+      "views": 113,
       "history": {
         "2026-06-05": {
           "age_days": 0,
@@ -190,6 +200,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 112
+        },
+        "2026-06-13": {
+          "age_days": 8,
+          "reach": 53,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 113
         }
       }
     },
@@ -215,12 +235,12 @@
         "#fantasydetails",
         "#handdrawn"
       ],
-      "reach": 60,
+      "reach": 61,
       "likes": 11,
       "saved": 0,
       "shares": 0,
       "comments": 3,
-      "views": 134,
+      "views": 135,
       "history": {
         "2026-06-06": {
           "age_days": 0,
@@ -291,6 +311,16 @@
           "shares": 0,
           "total_interactions": 16,
           "views": 134
+        },
+        "2026-06-13": {
+          "age_days": 7,
+          "reach": 61,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 135
         }
       }
     },
@@ -316,12 +346,12 @@
         "#cittafantasy",
         "#illustrazione"
       ],
-      "reach": 64,
+      "reach": 66,
       "likes": 15,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 107,
+      "views": 112,
       "history": {
         "2026-06-07": {
           "age_days": 0,
@@ -382,6 +412,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 107
+        },
+        "2026-06-13": {
+          "age_days": 6,
+          "reach": 66,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 112
         }
       }
     },
@@ -408,12 +448,12 @@
         "#fantasyworld",
         "#illustrazione"
       ],
-      "reach": 51,
+      "reach": 53,
       "likes": 9,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 79,
+      "views": 81,
       "history": {
         "2026-06-08": {
           "age_days": 0,
@@ -464,6 +504,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 79
+        },
+        "2026-06-13": {
+          "age_days": 5,
+          "reach": 53,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 81
         }
       }
     },
@@ -489,12 +539,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 53,
+      "reach": 56,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 97,
+      "views": 100,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -535,6 +585,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 97
+        },
+        "2026-06-13": {
+          "age_days": 4,
+          "reach": 56,
+          "likes": 7,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 100
         }
       }
     },
@@ -560,12 +620,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 148,
+      "reach": 152,
       "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 163,
+      "views": 166,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -606,6 +666,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 163
+        },
+        "2026-06-13": {
+          "age_days": 4,
+          "reach": 152,
+          "likes": 6,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 166
         }
       }
     },
@@ -632,12 +702,12 @@
         "#artfantasy",
         "#giochidiruolo"
       ],
-      "reach": 67,
-      "likes": 8,
+      "reach": 70,
+      "likes": 9,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 108,
+      "views": 115,
       "history": {
         "2026-06-10": {
           "age_days": 0,
@@ -668,6 +738,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 108
+        },
+        "2026-06-13": {
+          "age_days": 3,
+          "reach": 70,
+          "likes": 9,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 115
         }
       }
     },
@@ -691,12 +771,12 @@
         "#illustrazione",
         "#mapmaking"
       ],
-      "reach": 93,
-      "likes": 5,
+      "reach": 142,
+      "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 1,
-      "views": 143,
+      "views": 191,
       "history": {
         "2026-06-11": {
           "age_days": 0,
@@ -717,6 +797,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 143
+        },
+        "2026-06-13": {
+          "age_days": 2,
+          "reach": 142,
+          "likes": 6,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 191
         }
       }
     },
@@ -740,12 +830,12 @@
         "#speedpaint",
         "#disegnoamano"
       ],
-      "reach": 123,
-      "likes": 6,
+      "reach": 158,
+      "likes": 13,
       "saved": 0,
       "shares": 0,
-      "comments": 2,
-      "views": 144,
+      "comments": 4,
+      "views": 195,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -756,6 +846,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 144
+        },
+        "2026-06-13": {
+          "age_days": 1,
+          "reach": 158,
+          "likes": 13,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 20,
+          "views": 195
         }
       }
     },
@@ -780,12 +880,12 @@
         "#characterdesign",
         "#artistsoninstagram"
       ],
-      "reach": 28,
+      "reach": 38,
       "likes": 8,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 59,
+      "views": 92,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -796,6 +896,122 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 59
+        },
+        "2026-06-13": {
+          "age_days": 1,
+          "reach": 38,
+          "likes": 8,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 92
+        }
+      }
+    },
+    {
+      "media_id": "18117569707828937",
+      "title": "tg75",
+      "source_image": "tg75",
+      "is_overview": true,
+      "published_at": "2026-06-13",
+      "hashtags": [
+        "#darksurrealism",
+        "#darkart",
+        "#inkdrawing",
+        "#illustrazione",
+        "#surrealart",
+        "#musicart",
+        "#creepyart",
+        "#handdrawn",
+        "#darkillustration",
+        "#artepsichedelica"
+      ],
+      "reach": 28,
+      "likes": 8,
+      "saved": 0,
+      "shares": 0,
+      "comments": 0,
+      "views": 47,
+      "history": {
+        "2026-06-13": {
+          "age_days": 0,
+          "reach": 28,
+          "likes": 8,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 47
+        }
+      }
+    },
+    {
+      "media_id": "18189164401378606",
+      "title": "tg75",
+      "source_image": "tg75",
+      "is_overview": true,
+      "published_at": "2026-06-13",
+      "hashtags": [
+        "#darksurrealism",
+        "#darkart",
+        "#inkdrawing",
+        "#illustrazione",
+        "#surrealart",
+        "#musicart",
+        "#creepyart",
+        "#handdrawn",
+        "#darkillustration",
+        "#artepsichedelica"
+      ],
+      "reach": 18,
+      "likes": 1,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 23,
+      "history": {
+        "2026-06-13": {
+          "age_days": 0,
+          "reach": 18,
+          "likes": 1,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 23
+        }
+      }
+    },
+    {
+      "media_id": "18109669757309294",
+      "title": "Nascono le città del regno",
+      "source_image": "Mappa_Social.mp4",
+      "is_overview": false,
+      "published_at": "2026-06-13",
+      "hashtags": [
+        "#fantasymap",
+        "#dndmaps",
+        "#cartography",
+        "#worldbuilding",
+        "#castle"
+      ],
+      "reach": 115,
+      "likes": 10,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 170,
+      "history": {
+        "2026-06-13": {
+          "age_days": 0,
+          "reach": 115,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 170
         }
       }
     }
@@ -840,11 +1056,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 52,
+            "reach": 53,
             "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 112
+            "views": 113
           }
         },
         {
@@ -884,11 +1100,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 60,
+            "reach": 61,
             "likes": 11,
             "saved": 0,
             "shares": 0,
-            "views": 134
+            "views": 135
           }
         },
         {
@@ -928,11 +1144,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 64,
+            "reach": 66,
             "likes": 15,
             "saved": 2,
             "shares": 0,
-            "views": 107
+            "views": 112
           }
         },
         {
@@ -973,11 +1189,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 51,
+            "reach": 53,
             "likes": 9,
             "saved": 2,
             "shares": 0,
-            "views": 79
+            "views": 81
           }
         },
         {
@@ -1017,11 +1233,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 53,
+            "reach": 56,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 97
+            "views": 100
           }
         },
         {
@@ -1061,11 +1277,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 148,
+            "reach": 152,
             "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 163
+            "views": 166
           }
         },
         {
@@ -1106,11 +1322,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 67,
-            "likes": 8,
+            "reach": 70,
+            "likes": 9,
             "saved": 1,
             "shares": 0,
-            "views": 108
+            "views": 115
           }
         }
       ]
@@ -1153,11 +1369,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 93,
-            "likes": 5,
+            "reach": 142,
+            "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 143
+            "views": 191
           }
         },
         {
@@ -1195,16 +1411,16 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 123,
-            "likes": 6,
+            "reach": 158,
+            "likes": 13,
             "saved": 0,
             "shares": 0,
-            "views": 144
+            "views": 195
           }
         },
         {
           "title": "Nascono le città del regno",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-13",
           "scheduled_time": "13:30",
           "is_overview": false,
@@ -1218,13 +1434,24 @@
             "#worldbuilding",
             "#castle"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18109669757309294",
+          "published_at": "2026-06-13",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 115,
+            "likes": 10,
+            "saved": 0,
+            "shares": 0,
+            "views": 170
+          }
         },
         {
           "title": "Dal bianco e nero al colore",
@@ -1291,11 +1518,96 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
+            "reach": 38,
+            "likes": 8,
+            "saved": 0,
+            "shares": 0,
+            "views": 92
+          }
+        }
+      ]
+    },
+    {
+      "source_image": "tg75",
+      "posts": [
+        {
+          "title": "tg75",
+          "status": "published",
+          "scheduled_date": "2026-06-13",
+          "scheduled_time": "07:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Boss finale del dungeon che divora le note musicali\n\n🎼 Ogni dungeon ha il suo boss finale. Il mio ha la chiave di violino. 😅\n\nIn fondo al corridoio qualcosa aspetta, e ha i denti. Le note sono il suo cibo e all'allegra compagnia di avventurieri non rimane che combattere. La musica sa essere meravigliosa. E anche parecchio letale in questa illustrazione.\n\nQuesta è la mia opera per la mostra \"Le Forme della Musica\", ospitata al Centro Giovani di Monfalcone e curata dall'associazione Illustra @avav.illustra insieme a Innovation Young @innovatioyoung.\n\nPassate a trovarla (con cautela) 👀\n\n#LeFormeDellaMusica #Illustra #InnovationYoung #Monfalcone #illustrazione #dungeoncrawler #fantasy\n\n· · ·\n\nDungeon final boss devouring musical notes, dark fantasy ink art\n\n🎼 Every dungeon has its final boss. Mine has a treble clef. 😅\n\nAt the end of the corridor something waits, and it has teeth. Notes are its food, and the merry company of adventurers has no choice but to fight. Music can be wonderful. And also quite lethal in this illustration.\n\nThis is my work for the exhibition \"Le Forme della Musica\" (The Shapes of Music), hosted at the Centro Giovani in Monfalcone and curated by the Illustra association @avav.illustra together with Innovation Young @innovatioyoung.\n\nCome and see it (with caution) 👀\n\n#LeFormeDellaMusica #Illustra #InnovationYoung #Monfalcone #illustrazione #dungeoncrawler #fantasy",
+          "hashtags": [
+            "#darksurrealism",
+            "#darkart",
+            "#inkdrawing",
+            "#illustrazione",
+            "#surrealart",
+            "#musicart",
+            "#creepyart",
+            "#handdrawn",
+            "#darkillustration",
+            "#artepsichedelica"
+          ],
+          "media_id": "18117569707828937",
+          "published_at": "2026-06-13",
+          "facebook": true,
+          "story": false,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
             "reach": 28,
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 59
+            "views": 47
+          }
+        },
+        {
+          "title": "tg75",
+          "status": "published",
+          "scheduled_date": "2026-06-13",
+          "scheduled_time": "13:00",
+          "is_overview": true,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Boss finale del dungeon che divora le note musicali\n\n🎼 Ogni dungeon ha il suo boss finale. Il mio ha la chiave di violino. 😅\n\nIn fondo al corridoio qualcosa aspetta, e ha i denti. Le note sono il suo cibo e all'allegra compagnia di avventurieri non rimane che combattere. La musica sa essere meravigliosa. E anche parecchio letale in questa illustrazione.\n\nQuesta è la mia opera per la mostra \"Le Forme della Musica\", ospitata al Centro Giovani di Monfalcone e curata dall'associazione Illustra @avav.illustra insieme a Innovation Young @innovatioyoung.\n\nPassate a trovarla (con cautela) 👀\n\n#LeFormeDellaMusica #Illustra #InnovationYoung #Monfalcone #illustrazione #dungeoncrawler #fantasy\n\n· · ·\n\nDungeon final boss devouring musical notes, dark fantasy ink art\n\n🎼 Every dungeon has its final boss. Mine has a treble clef. 😅\n\nAt the end of the corridor something waits, and it has teeth. Notes are its food, and the merry company of adventurers has no choice but to fight. Music can be wonderful. And also quite lethal in this illustration.\n\nThis is my work for the exhibition \"Le Forme della Musica\" (The Shapes of Music), hosted at the Centro Giovani in Monfalcone and curated by the Illustra association @avav.illustra together with Innovation Young @innovatioyoung.\n\nCome and see it (with caution) 👀\n\n#LeFormeDellaMusica #Illustra #InnovationYoung #Monfalcone #illustrazione #dungeoncrawler #fantasy",
+          "hashtags": [
+            "#darksurrealism",
+            "#darkart",
+            "#inkdrawing",
+            "#illustrazione",
+            "#surrealart",
+            "#musicart",
+            "#creepyart",
+            "#handdrawn",
+            "#darkillustration",
+            "#artepsichedelica"
+          ],
+          "media_id": "18189164401378606",
+          "published_at": "2026-06-13",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 18,
+            "likes": 1,
+            "saved": 0,
+            "shares": 0,
+            "views": 23
           }
         }
       ]
@@ -1868,69 +2180,69 @@
     },
     "#cartography": {
       "tier": "nicchia",
-      "trend": "stabile",
-      "note": "settore mappe, ~300K post",
-      "updated": "2026-06-05"
+      "trend": "in crescita",
+      "note": "settoriale, poco affollata, target preciso",
+      "updated": "2026-06-13"
     },
     "#artprocess": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "reels processo molto richiesti",
-      "updated": "2026-06-05"
+      "note": "contenuti processo molto apprezzati",
+      "updated": "2026-06-13"
     },
     "#timelapseart": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "formato video timelapse popolare",
-      "updated": "2026-06-05"
+      "note": "reel processo, ottimo engagement",
+      "updated": "2026-06-13"
     },
     "#dndmaps": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "community D&D in espansione",
-      "updated": "2026-06-05"
+      "note": "community D&D attiva, ~26K post",
+      "updated": "2026-06-13"
     },
     "#satisfying": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "~8M post, troppo affollato",
-      "updated": "2026-06-05"
+      "note": "milioni di post, troppo generico",
+      "updated": "2026-06-13"
     },
     "#penandink": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "tecnica consolidata, pubblico fedele",
-      "updated": "2026-06-05"
+      "note": "tecnica specifica, pubblico fedele",
+      "updated": "2026-06-13"
     },
     "#mountainart": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "paesaggio montano, target definito",
-      "updated": "2026-06-05"
+      "note": "paesaggio, target ben definito",
+      "updated": "2026-06-13"
     },
     "#satisfyingart": {
-      "tier": "nicchia",
+      "tier": "medio",
       "trend": "in crescita",
-      "note": "~77K post, poco competitivo",
-      "updated": "2026-06-05"
+      "note": "processo soddisfacente, più mirato",
+      "updated": "2026-06-13"
     },
     "#fantasyillustration": {
-      "tier": "nicchia",
-      "trend": "stabile",
-      "note": "~270K post, community attiva",
-      "updated": "2026-06-05"
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "community fantasy attiva e fedele",
+      "updated": "2026-06-13"
     },
     "#speedpaint": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "~900K post, video digitale",
-      "updated": "2026-06-05"
+      "note": "popolare per reel processo",
+      "updated": "2026-06-13"
     },
     "#disegnoamano": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "tag italiano, pubblico locale",
-      "updated": "2026-06-05"
+      "note": "italiana, traditional art",
+      "updated": "2026-06-13"
     },
     "#detailsmatter": {
       "tier": "ampio",
@@ -1941,14 +2253,14 @@
     "#coloringprocess": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "tag specifico, bassa concorrenza",
-      "updated": "2026-06-05"
+      "note": "processo colore, reel apprezzati",
+      "updated": "2026-06-13"
     },
     "#digitalart": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "oltre 100M post, ipercompetitivo",
-      "updated": "2026-06-05"
+      "note": "54M post, troppo generico",
+      "updated": "2026-06-13"
     },
     "#oddlysatisfying": {
       "tier": "ampio",
@@ -2075,6 +2387,78 @@
       "trend": "in crescita",
       "note": "serie attiva, picchi stagionali",
       "updated": "2026-06-11"
+    },
+    "#fumetto": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "community italiana fumetto solida",
+      "updated": "2026-06-13"
+    },
+    "#comicart": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "molto affollato, forte concorrenza",
+      "updated": "2026-06-13"
+    },
+    "#musicart": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "ambiguo, poco mirato",
+      "updated": "2026-06-13"
+    },
+    "#illustratoritaliani": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "italiana, target geolocalizzato",
+      "updated": "2026-06-13"
+    },
+    "#characterdesign": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "9.8M post, molto competitivo",
+      "updated": "2026-06-13"
+    },
+    "#artistsoninstagram": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "39.5M post, generico e saturo",
+      "updated": "2026-06-13"
+    },
+    "#darksurrealism": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "estetica dark in ascesa",
+      "updated": "2026-06-13"
+    },
+    "#darkart": {
+      "tier": "ampio",
+      "trend": "stabile",
+      "note": "affollato ma community attiva",
+      "updated": "2026-06-13"
+    },
+    "#surrealart": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "community surreale consolidata",
+      "updated": "2026-06-13"
+    },
+    "#creepyart": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "horror art in ascesa",
+      "updated": "2026-06-13"
+    },
+    "#darkillustration": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "specifica, community dark attiva",
+      "updated": "2026-06-13"
+    },
+    "#artepsichedelica": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "italiana psichedelica, pochi post",
+      "updated": "2026-06-13"
     }
   },
   "learnings": [
@@ -2145,81 +2529,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-09T17:02:02",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Moonhaven, la grande città costiera»"
-    },
-    {
-      "ts": "2026-06-10T13:30:17",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Mappa completa del regno»",
-      "extra": {
-        "media_id": "17880305793450356"
-      }
-    },
-    {
-      "ts": "2026-06-10T13:30:25",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Mappa completa del regno»"
-    },
-    {
-      "ts": "2026-06-11T08:31:12",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Si parte dalle coste»",
-      "extra": {
-        "media_id": "18101088299112837"
-      }
-    },
-    {
-      "ts": "2026-06-11T08:31:18",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Si parte dalle coste»"
-    },
-    {
-      "ts": "2026-06-11T08:31:28",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Si parte dalle coste»"
-    },
-    {
-      "ts": "2026-06-11T09:00:19",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 Commento aggiunto a «Si parte dalle coste» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-11T10:41:56",
-      "severity": "info",
-      "source": "competitors",
-      "message": "🔎 Ricognizione competitor: Nella nicchia delle mappe fantasy disegnate a mano i reference (Deven Rue, Misty Beee) crescono unendo stile riconoscibile, contenuti educativi e monetizzazione — nuovi: @devenrue, @mistybeee, @fantasymapink, @dungeonmapster"
-    },
-    {
-      "ts": "2026-06-11T10:53:50",
-      "severity": "info",
-      "source": "ideas",
-      "message": "💡 Idee da pubblicare aggiornate (6 aperte) — REEL: Dal foglio bianco alla costa frastagliata in 20s · CAROUSEL: 3 modi per disegnare le montagne a mano · REEL: Il lettering del cartiglio: la firma della mappa · CAROUSEL: Sketch → mappa finita: l"
-    },
-    {
-      "ts": "2026-06-12T12:31:11",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Montagne e foreste a inchiostro»",
-      "extra": {
-        "media_id": "17952312618175511"
-      }
-    },
-    {
-      "ts": "2026-06-12T12:31:18",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Montagne e foreste a inchiostro»"
-    },
-    {
       "ts": "2026-06-12T12:31:29",
       "severity": "info",
       "source": "facebook",
@@ -2245,6 +2554,82 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «tg42»"
+    },
+    {
+      "ts": "2026-06-13T07:00:14",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «tg75»",
+      "extra": {
+        "media_id": "18117569707828937"
+      }
+    },
+    {
+      "ts": "2026-06-13T07:00:27",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «tg75»"
+    },
+    {
+      "ts": "2026-06-13T07:30:29",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «tg75» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-13T13:02:00",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «tg75»",
+      "extra": {
+        "media_id": "18189164401378606"
+      }
+    },
+    {
+      "ts": "2026-06-13T13:02:10",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «tg75»"
+    },
+    {
+      "ts": "2026-06-13T13:02:22",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «tg75»"
+    },
+    {
+      "ts": "2026-06-13T13:30:31",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «tg75» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-13T13:31:22",
+      "severity": "warning",
+      "source": "publish",
+      "message": "🎬 Reel pubblicato, Storia NON riuscita: «Nascono le città del regno» — container video non pronto / in errore",
+      "extra": {
+        "media_id": "18109669757309294",
+        "story_error": "container video non pronto / in errore"
+      }
+    },
+    {
+      "ts": "2026-06-13T13:31:29",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Nascono le città del regno»"
+    },
+    {
+      "ts": "2026-06-13T14:00:31",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Nascono le città del regno» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-13T14:15:19",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 1 Storie pubblicate"
     }
   ],
   "ideas": {
@@ -2370,32 +2755,32 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 917,
-    "followers_end": 915,
-    "followers_gained": -2,
-    "from": "2026-06-05",
-    "to": "2026-06-12",
+    "followers_start": 916,
+    "followers_end": 916,
+    "followers_gained": 0,
+    "from": "2026-06-06",
+    "to": "2026-06-13",
     "top_posts": [
       {
         "title": "Highcrest, il castello tra le vette",
-        "reach": 64,
+        "reach": 66,
         "saved": 2,
         "shares": 0,
         "likes": 15
       },
       {
+        "title": "Montagne e foreste a inchiostro",
+        "reach": 158,
+        "saved": 0,
+        "shares": 0,
+        "likes": 13
+      },
+      {
         "title": "Rosa dei venti con spada e rosa",
-        "reach": 60,
+        "reach": 61,
         "saved": 0,
         "shares": 0,
         "likes": 11
-      },
-      {
-        "title": "Beacon's End, il faro sul mare",
-        "reach": 51,
-        "saved": 2,
-        "shares": 0,
-        "likes": 9
       }
     ]
   }
