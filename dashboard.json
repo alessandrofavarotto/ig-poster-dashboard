@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13",
+  "generated_at": "2026-06-14",
   "account": [
     {
       "date": "2026-06-05",
@@ -90,6 +90,16 @@
       "views": 951,
       "accounts_engaged": 29,
       "total_interactions": 61
+    },
+    {
+      "date": "2026-06-14",
+      "followers_count": 915,
+      "media_count": 651,
+      "reach": 379,
+      "profile_views": 3,
+      "views": 926,
+      "accounts_engaged": 31,
+      "total_interactions": 43
     }
   ],
   "posts": [
@@ -210,6 +220,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 113
+        },
+        "2026-06-14": {
+          "age_days": 9,
+          "reach": 53,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 113
         }
       }
     },
@@ -321,6 +341,16 @@
           "shares": 0,
           "total_interactions": 16,
           "views": 135
+        },
+        "2026-06-14": {
+          "age_days": 8,
+          "reach": 61,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 135
         }
       }
     },
@@ -351,7 +381,7 @@
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 112,
+      "views": 113,
       "history": {
         "2026-06-07": {
           "age_days": 0,
@@ -422,6 +452,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 112
+        },
+        "2026-06-14": {
+          "age_days": 7,
+          "reach": 66,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 113
         }
       }
     },
@@ -453,7 +493,7 @@
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 81,
+      "views": 82,
       "history": {
         "2026-06-08": {
           "age_days": 0,
@@ -514,6 +554,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 81
+        },
+        "2026-06-14": {
+          "age_days": 6,
+          "reach": 53,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 82
         }
       }
     },
@@ -539,12 +589,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 56,
+      "reach": 58,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 100,
+      "views": 103,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -595,6 +645,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 100
+        },
+        "2026-06-14": {
+          "age_days": 5,
+          "reach": 58,
+          "likes": 7,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 103
         }
       }
     },
@@ -620,12 +680,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 152,
-      "likes": 6,
+      "reach": 156,
+      "likes": 8,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 166,
+      "views": 170,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -676,6 +736,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 166
+        },
+        "2026-06-14": {
+          "age_days": 5,
+          "reach": 156,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 170
         }
       }
     },
@@ -702,12 +772,12 @@
         "#artfantasy",
         "#giochidiruolo"
       ],
-      "reach": 70,
+      "reach": 73,
       "likes": 9,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 115,
+      "views": 122,
       "history": {
         "2026-06-10": {
           "age_days": 0,
@@ -748,6 +818,16 @@
           "shares": 0,
           "total_interactions": 12,
           "views": 115
+        },
+        "2026-06-14": {
+          "age_days": 4,
+          "reach": 73,
+          "likes": 9,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 122
         }
       }
     },
@@ -771,12 +851,12 @@
         "#illustrazione",
         "#mapmaking"
       ],
-      "reach": 142,
+      "reach": 157,
       "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 1,
-      "views": 191,
+      "views": 208,
       "history": {
         "2026-06-11": {
           "age_days": 0,
@@ -807,6 +887,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 191
+        },
+        "2026-06-14": {
+          "age_days": 3,
+          "reach": 157,
+          "likes": 6,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 208
         }
       }
     },
@@ -830,12 +920,12 @@
         "#speedpaint",
         "#disegnoamano"
       ],
-      "reach": 158,
-      "likes": 13,
+      "reach": 169,
+      "likes": 15,
       "saved": 0,
       "shares": 0,
       "comments": 4,
-      "views": 195,
+      "views": 208,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -856,6 +946,16 @@
           "shares": 0,
           "total_interactions": 20,
           "views": 195
+        },
+        "2026-06-14": {
+          "age_days": 2,
+          "reach": 169,
+          "likes": 15,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 22,
+          "views": 208
         }
       }
     },
@@ -880,12 +980,12 @@
         "#characterdesign",
         "#artistsoninstagram"
       ],
-      "reach": 38,
+      "reach": 44,
       "likes": 8,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 92,
+      "views": 109,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -906,6 +1006,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 92
+        },
+        "2026-06-14": {
+          "age_days": 2,
+          "reach": 44,
+          "likes": 8,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 109
         }
       }
     },
@@ -927,12 +1037,12 @@
         "#darkillustration",
         "#artepsichedelica"
       ],
-      "reach": 28,
+      "reach": 38,
       "likes": 8,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 47,
+      "views": 57,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -943,6 +1053,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 47
+        },
+        "2026-06-14": {
+          "age_days": 1,
+          "reach": 38,
+          "likes": 8,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 57
         }
       }
     },
@@ -964,12 +1084,12 @@
         "#darkillustration",
         "#artepsichedelica"
       ],
-      "reach": 18,
+      "reach": 33,
       "likes": 1,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 23,
+      "views": 39,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -980,6 +1100,16 @@
           "shares": 0,
           "total_interactions": 5,
           "views": 23
+        },
+        "2026-06-14": {
+          "age_days": 1,
+          "reach": 33,
+          "likes": 1,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 39
         }
       }
     },
@@ -996,12 +1126,12 @@
         "#worldbuilding",
         "#castle"
       ],
-      "reach": 115,
-      "likes": 10,
+      "reach": 243,
+      "likes": 16,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 170,
+      "views": 344,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -1012,6 +1142,48 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 170
+        },
+        "2026-06-14": {
+          "age_days": 1,
+          "reach": 243,
+          "likes": 16,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 344
+        }
+      }
+    },
+    {
+      "media_id": "17857862163662533",
+      "title": "Dal bianco e nero al colore",
+      "source_image": "Mappa_Social.mp4",
+      "is_overview": false,
+      "published_at": "2026-06-14",
+      "hashtags": [
+        "#fantasymap",
+        "#satisfying",
+        "#coloringprocess",
+        "#artprocess",
+        "#timelapseart"
+      ],
+      "reach": 38,
+      "likes": 3,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 53,
+      "history": {
+        "2026-06-14": {
+          "age_days": 0,
+          "reach": 38,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 53
         }
       }
     }
@@ -1148,7 +1320,7 @@
             "likes": 15,
             "saved": 2,
             "shares": 0,
-            "views": 112
+            "views": 113
           }
         },
         {
@@ -1193,7 +1365,7 @@
             "likes": 9,
             "saved": 2,
             "shares": 0,
-            "views": 81
+            "views": 82
           }
         },
         {
@@ -1233,11 +1405,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 56,
+            "reach": 58,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 100
+            "views": 103
           }
         },
         {
@@ -1277,11 +1449,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 152,
-            "likes": 6,
+            "reach": 156,
+            "likes": 8,
             "saved": 1,
             "shares": 0,
-            "views": 166
+            "views": 170
           }
         },
         {
@@ -1322,11 +1494,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 70,
+            "reach": 73,
             "likes": 9,
             "saved": 1,
             "shares": 0,
-            "views": 115
+            "views": 122
           }
         }
       ]
@@ -1369,11 +1541,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 142,
+            "reach": 157,
             "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 191
+            "views": 208
           }
         },
         {
@@ -1411,11 +1583,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 158,
-            "likes": 13,
+            "reach": 169,
+            "likes": 15,
             "saved": 0,
             "shares": 0,
-            "views": 195
+            "views": 208
           }
         },
         {
@@ -1446,16 +1618,16 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 115,
-            "likes": 10,
+            "reach": 243,
+            "likes": 16,
             "saved": 0,
             "shares": 0,
-            "views": 170
+            "views": 344
           }
         },
         {
           "title": "Dal bianco e nero al colore",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-14",
           "scheduled_time": "18:30",
           "is_overview": false,
@@ -1469,13 +1641,24 @@
             "#artprocess",
             "#timelapseart"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "media_id": "17857862163662533",
+          "published_at": "2026-06-14",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 38,
+            "likes": 3,
+            "saved": 0,
+            "shares": 0,
+            "views": 53
+          }
         }
       ]
     },
@@ -1518,11 +1701,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 38,
+            "reach": 44,
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 92
+            "views": 109
           }
         }
       ]
@@ -1563,11 +1746,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 28,
+            "reach": 38,
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 47
+            "views": 57
           }
         },
         {
@@ -1603,11 +1786,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 18,
+            "reach": 33,
             "likes": 1,
             "saved": 0,
             "shares": 0,
-            "views": 23
+            "views": 39
           }
         }
       ]
@@ -2529,42 +2712,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-12T12:31:29",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Montagne e foreste a inchiostro»"
-    },
-    {
-      "ts": "2026-06-12T13:00:28",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Montagne e foreste a inchiostro» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-12T13:00:42",
-      "severity": "info",
-      "source": "publish",
-      "message": "🖼️ Carosello pubblicato: «tg42» (anche su FB)",
-      "extra": {
-        "media_id": "18004413644938168"
-      }
-    },
-    {
-      "ts": "2026-06-12T13:30:16",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «tg42»"
-    },
-    {
-      "ts": "2026-06-13T07:00:14",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «tg75»",
-      "extra": {
-        "media_id": "18117569707828937"
-      }
-    },
-    {
       "ts": "2026-06-13T07:00:27",
       "severity": "info",
       "source": "facebook",
@@ -2630,6 +2777,39 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 1 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-14T14:15:20",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 1 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-14T18:31:33",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Dal bianco e nero al colore»",
+      "extra": {
+        "media_id": "17857862163662533"
+      }
+    },
+    {
+      "ts": "2026-06-14T18:31:40",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Dal bianco e nero al colore»"
+    },
+    {
+      "ts": "2026-06-14T18:31:54",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Dal bianco e nero al colore»"
+    },
+    {
+      "ts": "2026-06-14T19:00:27",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Dal bianco e nero al colore» (anche su FB)"
     }
   ],
   "ideas": {
@@ -2755,12 +2935,19 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 916,
-    "followers_end": 916,
-    "followers_gained": 0,
-    "from": "2026-06-06",
-    "to": "2026-06-13",
+    "followers_start": 914,
+    "followers_end": 915,
+    "followers_gained": 1,
+    "from": "2026-06-07",
+    "to": "2026-06-14",
     "top_posts": [
+      {
+        "title": "Montagne e foreste a inchiostro",
+        "reach": 169,
+        "saved": 0,
+        "shares": 0,
+        "likes": 15
+      },
       {
         "title": "Highcrest, il castello tra le vette",
         "reach": 66,
@@ -2769,18 +2956,11 @@
         "likes": 15
       },
       {
-        "title": "Montagne e foreste a inchiostro",
-        "reach": 158,
+        "title": "Nascono le città del regno",
+        "reach": 243,
         "saved": 0,
         "shares": 0,
-        "likes": 13
-      },
-      {
-        "title": "Rosa dei venti con spada e rosa",
-        "reach": 61,
-        "saved": 0,
-        "shares": 0,
-        "likes": 11
+        "likes": 16
       }
     ]
   }
