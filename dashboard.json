@@ -100,6 +100,16 @@
       "views": 926,
       "accounts_engaged": 31,
       "total_interactions": 43
+    },
+    {
+      "date": "2026-06-15",
+      "followers_count": 917,
+      "media_count": 653,
+      "reach": 384,
+      "profile_views": 2,
+      "views": 870,
+      "accounts_engaged": 27,
+      "total_interactions": 37
     }
   ],
   "posts": [
@@ -124,12 +134,12 @@
         "#coraggio",
         "#fantasyworld"
       ],
-      "reach": 53,
+      "reach": 54,
       "likes": 7,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 113,
+      "views": 114,
       "history": {
         "2026-06-05": {
           "age_days": 0,
@@ -230,6 +240,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 113
+        },
+        "2026-06-15": {
+          "age_days": 10,
+          "reach": 54,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 114
         }
       }
     },
@@ -255,12 +275,12 @@
         "#fantasydetails",
         "#handdrawn"
       ],
-      "reach": 61,
+      "reach": 62,
       "likes": 11,
       "saved": 0,
       "shares": 0,
       "comments": 3,
-      "views": 135,
+      "views": 136,
       "history": {
         "2026-06-06": {
           "age_days": 0,
@@ -351,6 +371,16 @@
           "shares": 0,
           "total_interactions": 16,
           "views": 135
+        },
+        "2026-06-15": {
+          "age_days": 9,
+          "reach": 62,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 136
         }
       }
     },
@@ -462,6 +492,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 113
+        },
+        "2026-06-15": {
+          "age_days": 8,
+          "reach": 66,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 113
         }
       }
     },
@@ -488,12 +528,12 @@
         "#fantasyworld",
         "#illustrazione"
       ],
-      "reach": 53,
+      "reach": 54,
       "likes": 9,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 82,
+      "views": 83,
       "history": {
         "2026-06-08": {
           "age_days": 0,
@@ -564,6 +604,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 82
+        },
+        "2026-06-15": {
+          "age_days": 7,
+          "reach": 54,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 83
         }
       }
     },
@@ -589,12 +639,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 58,
+      "reach": 59,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 103,
+      "views": 105,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -655,6 +705,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 103
+        },
+        "2026-06-15": {
+          "age_days": 6,
+          "reach": 59,
+          "likes": 7,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 105
         }
       }
     },
@@ -680,12 +740,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 156,
+      "reach": 157,
       "likes": 8,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 170,
+      "views": 171,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -746,6 +806,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 170
+        },
+        "2026-06-15": {
+          "age_days": 6,
+          "reach": 157,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 171
         }
       }
     },
@@ -772,12 +842,12 @@
         "#artfantasy",
         "#giochidiruolo"
       ],
-      "reach": 73,
+      "reach": 74,
       "likes": 9,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 122,
+      "views": 124,
       "history": {
         "2026-06-10": {
           "age_days": 0,
@@ -828,6 +898,16 @@
           "shares": 0,
           "total_interactions": 12,
           "views": 122
+        },
+        "2026-06-15": {
+          "age_days": 5,
+          "reach": 74,
+          "likes": 9,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 124
         }
       }
     },
@@ -851,12 +931,12 @@
         "#illustrazione",
         "#mapmaking"
       ],
-      "reach": 157,
+      "reach": 159,
       "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 1,
-      "views": 208,
+      "views": 215,
       "history": {
         "2026-06-11": {
           "age_days": 0,
@@ -897,6 +977,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 208
+        },
+        "2026-06-15": {
+          "age_days": 4,
+          "reach": 159,
+          "likes": 6,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 215
         }
       }
     },
@@ -920,12 +1010,12 @@
         "#speedpaint",
         "#disegnoamano"
       ],
-      "reach": 169,
+      "reach": 171,
       "likes": 15,
       "saved": 0,
       "shares": 0,
       "comments": 4,
-      "views": 208,
+      "views": 212,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -956,6 +1046,16 @@
           "shares": 0,
           "total_interactions": 22,
           "views": 208
+        },
+        "2026-06-15": {
+          "age_days": 3,
+          "reach": 171,
+          "likes": 15,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 22,
+          "views": 212
         }
       }
     },
@@ -980,12 +1080,12 @@
         "#characterdesign",
         "#artistsoninstagram"
       ],
-      "reach": 44,
+      "reach": 49,
       "likes": 8,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 109,
+      "views": 116,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -1016,6 +1116,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 109
+        },
+        "2026-06-15": {
+          "age_days": 3,
+          "reach": 49,
+          "likes": 8,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 116
         }
       }
     },
@@ -1037,12 +1147,12 @@
         "#darkillustration",
         "#artepsichedelica"
       ],
-      "reach": 38,
-      "likes": 8,
+      "reach": 42,
+      "likes": 9,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 57,
+      "views": 64,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -1063,6 +1173,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 57
+        },
+        "2026-06-15": {
+          "age_days": 2,
+          "reach": 42,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 64
         }
       }
     },
@@ -1084,12 +1204,12 @@
         "#darkillustration",
         "#artepsichedelica"
       ],
-      "reach": 33,
+      "reach": 40,
       "likes": 1,
       "saved": 0,
       "shares": 0,
-      "comments": 2,
-      "views": 39,
+      "comments": 0,
+      "views": 51,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -1110,6 +1230,16 @@
           "shares": 0,
           "total_interactions": 5,
           "views": 39
+        },
+        "2026-06-15": {
+          "age_days": 2,
+          "reach": 40,
+          "likes": 1,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 3,
+          "views": 51
         }
       }
     },
@@ -1126,12 +1256,12 @@
         "#worldbuilding",
         "#castle"
       ],
-      "reach": 243,
-      "likes": 16,
-      "saved": 0,
+      "reach": 328,
+      "likes": 18,
+      "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 344,
+      "views": 459,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -1152,6 +1282,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 344
+        },
+        "2026-06-15": {
+          "age_days": 2,
+          "reach": 328,
+          "likes": 18,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 22,
+          "views": 459
         }
       }
     },
@@ -1168,12 +1308,12 @@
         "#artprocess",
         "#timelapseart"
       ],
-      "reach": 38,
-      "likes": 3,
+      "reach": 129,
+      "likes": 9,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 53,
+      "views": 158,
       "history": {
         "2026-06-14": {
           "age_days": 0,
@@ -1184,6 +1324,89 @@
           "shares": 0,
           "total_interactions": 5,
           "views": 53
+        },
+        "2026-06-15": {
+          "age_days": 1,
+          "reach": 129,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 158
+        }
+      }
+    },
+    {
+      "media_id": "18094464893251681",
+      "title": "Il Titano di Braavos",
+      "source_image": "game_of_thrones.png",
+      "is_overview": false,
+      "published_at": "2026-06-15",
+      "hashtags": [
+        "#braavos",
+        "#gameofthrones",
+        "#asoiaf",
+        "#asongoficeandfire",
+        "#fantasymap",
+        "#fantasycartography",
+        "#mapmaking",
+        "#worldbuilding",
+        "#fantasyart",
+        "#got",
+        "#mappafantasy",
+        "#cartografia",
+        "#dndmaps",
+        "#hboitalia"
+      ],
+      "reach": 28,
+      "likes": 4,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 58,
+      "history": {
+        "2026-06-15": {
+          "age_days": 0,
+          "reach": 28,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 58
+        }
+      }
+    },
+    {
+      "media_id": "17891166837539648",
+      "title": "Il Titano di Braavos",
+      "source_image": "game_of_thrones.png",
+      "is_overview": false,
+      "published_at": "2026-06-15",
+      "hashtags": [
+        "#braavos",
+        "#gameofthrones",
+        "#asoiaf",
+        "#asongoficeandfire",
+        "#fantasymap"
+      ],
+      "reach": 46,
+      "likes": 3,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 60,
+      "history": {
+        "2026-06-15": {
+          "age_days": 0,
+          "reach": 46,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 60
         }
       }
     }
@@ -1228,11 +1451,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 53,
+            "reach": 54,
             "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 113
+            "views": 114
           }
         },
         {
@@ -1272,11 +1495,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 61,
+            "reach": 62,
             "likes": 11,
             "saved": 0,
             "shares": 0,
-            "views": 135
+            "views": 136
           }
         },
         {
@@ -1361,11 +1584,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 53,
+            "reach": 54,
             "likes": 9,
             "saved": 2,
             "shares": 0,
-            "views": 82
+            "views": 83
           }
         },
         {
@@ -1405,11 +1628,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 58,
+            "reach": 59,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 103
+            "views": 105
           }
         },
         {
@@ -1449,11 +1672,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 156,
+            "reach": 157,
             "likes": 8,
             "saved": 1,
             "shares": 0,
-            "views": 170
+            "views": 171
           }
         },
         {
@@ -1494,11 +1717,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 73,
+            "reach": 74,
             "likes": 9,
             "saved": 1,
             "shares": 0,
-            "views": 122
+            "views": 124
           }
         }
       ]
@@ -1541,11 +1764,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 157,
+            "reach": 159,
             "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 208
+            "views": 215
           }
         },
         {
@@ -1583,11 +1806,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 169,
+            "reach": 171,
             "likes": 15,
             "saved": 0,
             "shares": 0,
-            "views": 208
+            "views": 212
           }
         },
         {
@@ -1618,11 +1841,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 243,
-            "likes": 16,
-            "saved": 0,
+            "reach": 328,
+            "likes": 18,
+            "saved": 1,
             "shares": 0,
-            "views": 344
+            "views": 459
           }
         },
         {
@@ -1653,11 +1876,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 38,
-            "likes": 3,
+            "reach": 129,
+            "likes": 9,
             "saved": 0,
             "shares": 0,
-            "views": 53
+            "views": 158
           }
         }
       ]
@@ -1701,11 +1924,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 44,
+            "reach": 49,
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 109
+            "views": 116
           }
         }
       ]
@@ -1746,11 +1969,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 38,
-            "likes": 8,
+            "reach": 42,
+            "likes": 9,
             "saved": 0,
             "shares": 0,
-            "views": 57
+            "views": 64
           }
         },
         {
@@ -1786,11 +2009,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 33,
+            "reach": 40,
             "likes": 1,
             "saved": 0,
             "shares": 0,
-            "views": 39
+            "views": 51
           }
         }
       ]
@@ -1800,7 +2023,7 @@
       "posts": [
         {
           "title": "Il Titano di Braavos",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-15",
           "scheduled_time": "07:00",
           "is_overview": false,
@@ -1823,17 +2046,28 @@
             "#dndmaps",
             "#hboitalia"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18094464893251681",
+          "published_at": "2026-06-15",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 28,
+            "likes": 4,
+            "saved": 0,
+            "shares": 0,
+            "views": 58
+          }
         },
         {
           "title": "Il Titano di Braavos",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-15",
           "scheduled_time": "13:00",
           "is_overview": false,
@@ -1847,38 +2081,40 @@
             "#asongoficeandfire",
             "#fantasymap"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "media_id": "17891166837539648",
+          "published_at": "2026-06-15",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 46,
+            "likes": 3,
+            "saved": 0,
+            "shares": 0,
+            "views": 60
+          }
         },
         {
           "title": "Il Nido dell'Aquila (The Eyrie)",
           "status": "pending",
           "scheduled_date": "2026-06-16",
-          "scheduled_time": "09:00",
+          "scheduled_time": "07:00",
           "is_overview": false,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Aggrappato alle Montagne della Luna, il Nido dell'Aquila è la fortezza più inespugnabile dei Sette Regni. Per raggiungerla devi salire migliaia di gradini lungo la roccia, oltre le tre fortezze di guardia, fino alle torri bianche che sembrano galleggiare nel cielo della Valle di Arryn. È qui che si trovano le famigerate Celle del Cielo, prigioni senza una quarta parete, e la Porta della Luna che si apre sul vuoto. Ho reso la roccia rossa e le guglie con il colore caldo dell'arenaria al tramonto.\n\nSaliresti tutti quei gradini per dormire al sicuro tra le nuvole? Salva questo post per la tua prossima campagna fantasy.\n\n· · ·\n\nPerched on the Mountains of the Moon, the Eyrie is the most impregnable castle in the Seven Kingdoms. To reach it you climb thousands of steps up the rock, past three waycastles, to the white towers that seem to float above the Vale of Arryn. Home to the infamous Sky Cells — prisons missing their fourth wall — and the Moon Door that opens onto the abyss. I painted the red rock and spires in warm sandstone tones at sunset.\n\nWould you climb all those steps to sleep safe among the clouds? Save this for your next fantasy campaign.",
+          "caption": "Arroccato sulla vetta della Lancia del Gigante, dove solo le aquile osano nidificare: questo è il Nido dell'Aquila.\n\nLa fortezza di Casa Arryn nella Valle è una delle più imprendibili di tutto il Continente Occidentale. Sette torri di marmo bianco sospese tra le nuvole, raggiungibili solo risalendo il sentiero a dorso di mulo, oltre le tre fortezze di Pietra, Neve e Cielo. Qui, nell'Alta Sala, si apre la temuta Porta della Luna: chi cade non smette mai davvero di volare. Disegnarla a china significa cercare di restituire quel senso di vertigine e di gelido isolamento — \"alto come l'onore\", come recita il motto degli Arryn.\n\nQuale roccaforte di Westeros vorresti vedere disegnata nella prossima mappa? Manda questo post a chi sta rivedendo la saga e salvalo per la tua prossima campagna ambientata nella Valle.\n\n· · ·\n\nPerched atop the Giant's Lance, where only eagles dare to nest: this is the Eyrie.\n\nHouse Arryn's stronghold in the Vale is one of the most impregnable seats in all of Westeros. Seven slender white towers suspended among the clouds, reachable only by the mule path past the three waycastles — Stone, Snow, and Sky. Here, in the High Hall, gapes the dreaded Moon Door: those who fall never truly stop flying. Drawing it in ink is an attempt to capture that vertigo and icy isolation — \"as high as honor,\" as the Arryn words go.\n\nWhich Westeros stronghold should I map next? Send this to the friend you're rewatching the show with, and save it for your next campaign set in the Vale.",
           "hashtags": [
-            "#theeyrie",
-            "#houseofarryn",
             "#gameofthrones",
             "#asoiaf",
-            "#westeros",
+            "#theeyrie",
             "#fantasymap",
-            "#fantasycartography",
-            "#mapmaking",
-            "#worldbuilding",
-            "#dndmaps",
-            "#fantasyart",
-            "#cartografia",
-            "#ttrpg",
-            "#mappafantasy"
+            "#westeros"
           ],
           "media_id": null,
           "published_at": null,
@@ -1896,7 +2132,7 @@
           "is_overview": false,
           "media_kind": "reel",
           "from_image": true,
-          "caption": "Aggrappato alle Montagne della Luna, il Nido dell'Aquila è la fortezza più inespugnabile dei Sette Regni. Per raggiungerla devi salire migliaia di gradini lungo la roccia, oltre le tre fortezze di guardia, fino alle torri bianche che sembrano galleggiare nel cielo della Valle di Arryn. È qui che si trovano le famigerate Celle del Cielo, prigioni senza una quarta parete, e la Porta della Luna che si apre sul vuoto. Ho reso la roccia rossa e le guglie con il colore caldo dell'arenaria al tramonto.\n\nSaliresti tutti quei gradini per dormire al sicuro tra le nuvole? Salva questo post per la tua prossima campagna fantasy.\n\n· · ·\n\nPerched on the Mountains of the Moon, the Eyrie is the most impregnable castle in the Seven Kingdoms. To reach it you climb thousands of steps up the rock, past three waycastles, to the white towers that seem to float above the Vale of Arryn. Home to the infamous Sky Cells — prisons missing their fourth wall — and the Moon Door that opens onto the abyss. I painted the red rock and spires in warm sandstone tones at sunset.\n\nWould you climb all those steps to sleep safe among the clouds? Save this for your next fantasy campaign.",
+          "caption": "Arroccato sulla vetta della Lancia del Gigante, dove solo le aquile osano nidificare: questo è il Nido dell'Aquila.\n\nLa fortezza di Casa Arryn nella Valle è una delle più imprendibili di tutto il Continente Occidentale. Sette torri di marmo bianco sospese tra le nuvole, raggiungibili solo risalendo il sentiero a dorso di mulo, oltre le tre fortezze di Pietra, Neve e Cielo. Qui, nell'Alta Sala, si apre la temuta Porta della Luna: chi cade non smette mai davvero di volare. Disegnarla a china significa cercare di restituire quel senso di vertigine e di gelido isolamento — \"alto come l'onore\", come recita il motto degli Arryn.\n\nQuale roccaforte di Westeros vorresti vedere disegnata nella prossima mappa? Manda questo post a chi sta rivedendo la saga e salvalo per la tua prossima campagna ambientata nella Valle.\n\n· · ·\n\nPerched atop the Giant's Lance, where only eagles dare to nest: this is the Eyrie.\n\nHouse Arryn's stronghold in the Vale is one of the most impregnable seats in all of Westeros. Seven slender white towers suspended among the clouds, reachable only by the mule path past the three waycastles — Stone, Snow, and Sky. Here, in the High Hall, gapes the dreaded Moon Door: those who fall never truly stop flying. Drawing it in ink is an attempt to capture that vertigo and icy isolation — \"as high as honor,\" as the Arryn words go.\n\nWhich Westeros stronghold should I map next? Send this to the friend you're rewatching the show with, and save it for your next campaign set in the Vale.",
           "hashtags": [
             "#theeyrie",
             "#houseofarryn",
@@ -1916,26 +2152,17 @@
           "title": "Approdo del Re (King's Landing)",
           "status": "pending",
           "scheduled_date": "2026-06-17",
-          "scheduled_time": "17:00",
+          "scheduled_time": "09:00",
           "is_overview": false,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Approdo del Re, capitale dei Sette Regni e cuore del potere di Westeros. Su queste tre colline siede il Trono di Spade dentro la Fortezza Rossa, mentre sotto si stende la città più grande e affollata del continente, con il puzzo della Baia delle Acque Nere e l'ombra del Tempio di Baelor. È il luogo dove cadono e si fanno le teste coronate: Aerys, Ned Stark, Joffrey. Ho disegnato il Red Keep con le sue mura color sangue e le torri dorate, come un emblema da vecchia mappa da viaggio.\n\nChi merita davvero di sedere sul Trono di Spade? Commenta il nome del tuo pretendente preferito.\n\n· · ·\n\nKing's Landing, capital of the Seven Kingdoms and the heart of power in Westeros. On these three hills sits the Iron Throne inside the Red Keep, while below sprawls the largest, most crowded city on the continent — the stench of Blackwater Bay and the shadow of the Great Sept of Baelor. The place where crowned heads rise and fall: Aerys, Ned Stark, Joffrey. I drew the Red Keep with its blood-red walls and golden towers, like an emblem on an old travel map.\n\nWho truly deserves the Iron Throne? Drop your pick in the comments.",
+          "caption": "King's Landing, dove ogni trono costa sangue.\n\nLa capitale dei Sette Regni sorge sulla Baia delle Acque Nere, dominata dalla Fortezza Rossa e dalla collina di Aegon. Da queste mura il Trono di Spade ha visto sfilare Targaryen, Baratheon e Lannister — e ognuno ha imparato che chi lo conquista raramente lo tiene a lungo. Ho voluto disegnarla a mano come una vecchia mappa da cronista: il castello che incombe, il cartiglio col nome, i boschi e i monti che la cingono come confini di un regno che non perdona.\n\nSe tu sedessi sul Trono di Spade, governeresti con la spada o con l'astuzia? Dimmelo nei commenti.\nManda questa mappa a chi non ha mai superato il finale, e salvala per la tua prossima campagna nei Sette Regni.\n\n· · ·\n\nKing's Landing, where every throne is paid for in blood.\n\nThe capital of the Seven Kingdoms rises over Blackwater Bay, crowned by the Red Keep on Aegon's High Hill. From these walls the Iron Throne has watched Targaryens, Baratheons and Lannisters come and go — each one learning that taking it is far easier than keeping it. I drew it by hand like an old chronicler's map: the looming castle, the named banner, the woods and mountains ringing a realm that forgives nothing.\n\nIf you sat the Iron Throne, would you rule by the sword or by cunning? Tell me below.\nSend this map to the friend who never got over the ending, and save it for your next campaign in the Seven Kingdoms.",
           "hashtags": [
-            "#kingslanding",
-            "#theredkeep",
-            "#ironthrone",
             "#gameofthrones",
-            "#asoiaf",
             "#westeros",
+            "#asoiaf",
             "#fantasymap",
-            "#fantasycartography",
-            "#mapmaking",
-            "#worldbuilding",
-            "#fantasyart",
-            "#dndmaps",
-            "#got",
-            "#cartografia"
+            "#kingslanding"
           ],
           "media_id": null,
           "published_at": null,
@@ -1949,11 +2176,11 @@
           "title": "Approdo del Re (King's Landing)",
           "status": "pending",
           "scheduled_date": "2026-06-17",
-          "scheduled_time": "21:00",
+          "scheduled_time": "13:00",
           "is_overview": false,
           "media_kind": "reel",
           "from_image": true,
-          "caption": "Approdo del Re, capitale dei Sette Regni e cuore del potere di Westeros. Su queste tre colline siede il Trono di Spade dentro la Fortezza Rossa, mentre sotto si stende la città più grande e affollata del continente, con il puzzo della Baia delle Acque Nere e l'ombra del Tempio di Baelor. È il luogo dove cadono e si fanno le teste coronate: Aerys, Ned Stark, Joffrey. Ho disegnato il Red Keep con le sue mura color sangue e le torri dorate, come un emblema da vecchia mappa da viaggio.\n\nChi merita davvero di sedere sul Trono di Spade? Commenta il nome del tuo pretendente preferito.\n\n· · ·\n\nKing's Landing, capital of the Seven Kingdoms and the heart of power in Westeros. On these three hills sits the Iron Throne inside the Red Keep, while below sprawls the largest, most crowded city on the continent — the stench of Blackwater Bay and the shadow of the Great Sept of Baelor. The place where crowned heads rise and fall: Aerys, Ned Stark, Joffrey. I drew the Red Keep with its blood-red walls and golden towers, like an emblem on an old travel map.\n\nWho truly deserves the Iron Throne? Drop your pick in the comments.",
+          "caption": "King's Landing, dove ogni trono costa sangue.\n\nLa capitale dei Sette Regni sorge sulla Baia delle Acque Nere, dominata dalla Fortezza Rossa e dalla collina di Aegon. Da queste mura il Trono di Spade ha visto sfilare Targaryen, Baratheon e Lannister — e ognuno ha imparato che chi lo conquista raramente lo tiene a lungo. Ho voluto disegnarla a mano come una vecchia mappa da cronista: il castello che incombe, il cartiglio col nome, i boschi e i monti che la cingono come confini di un regno che non perdona.\n\nSe tu sedessi sul Trono di Spade, governeresti con la spada o con l'astuzia? Dimmelo nei commenti.\nManda questa mappa a chi non ha mai superato il finale, e salvala per la tua prossima campagna nei Sette Regni.\n\n· · ·\n\nKing's Landing, where every throne is paid for in blood.\n\nThe capital of the Seven Kingdoms rises over Blackwater Bay, crowned by the Red Keep on Aegon's High Hill. From these walls the Iron Throne has watched Targaryens, Baratheons and Lannisters come and go — each one learning that taking it is far easier than keeping it. I drew it by hand like an old chronicler's map: the looming castle, the named banner, the woods and mountains ringing a realm that forgives nothing.\n\nIf you sat the Iron Throne, would you rule by the sword or by cunning? Tell me below.\nSend this map to the friend who never got over the ending, and save it for your next campaign in the Seven Kingdoms.",
           "hashtags": [
             "#kingslanding",
             "#theredkeep",
@@ -1977,22 +2204,13 @@
           "is_overview": false,
           "media_kind": "image",
           "from_image": null,
-          "caption": "La Torre Alta di Vecchia Città brucia di una fiamma che non si spegne mai. È il faro più alto del mondo conosciuto e veglia sulla città più antica di Westeros, dove sorge la Cittadella: la sede dei Maestri, di chi forgia il proprio anello, scettro e maschera in ogni sapere. Qui Samwell Tarly va a studiare per diventare maestro della Guardia della Notte. Ho disegnato la torre bianca a gradoni con la sua corona di fuoco, l'emblema più verticale e luminoso di tutta la mappa.\n\nTi piacerebbe studiare alla Cittadella e forgiare il tuo anello del sapere? Manda questo post al secchione del tuo gruppo.\n\n· · ·\n\nThe Hightower of Oldtown burns with a flame that never dies. It's the tallest lighthouse in the known world, watching over the oldest city in Westeros, home to the Citadel: seat of the Maesters, who forge a link for every field of knowledge. This is where Samwell Tarly goes to train as maester of the Night's Watch. I drew the tiered white tower crowned with fire — the most vertical, luminous emblem on the whole map.\n\nWould you study at the Citadel and forge your own link? Send this to the lore-nerd of your group.",
+          "caption": "La fiamma della Hightower brilla ancora su Vecchia Città.\n\nQuesta è Oldtown (Vecchia Città), la più antica città di Westeros e cuore del sapere dei Sette Regni. Ai piedi della Torre Alta, faro che da secoli guida le navi alla foce del fiume Miele, sorge la Cittadella: è qui che i Maestri forgiano la loro catena e custodiscono i segreti del mondo. Casa Hightower veglia su tutto, mentre nel Septo Stellato risuonano ancora le prime preghiere della Fede.\n\nL'ho disegnata a china e acquerello su carta pergamena, immaginando il bagliore della fiamma visibile fino al Mare dell'Estate.\n\nQuale luogo di Westeros vorresti vedere mappato per primo? Scrivilo nei commenti. E manda questa mappa a chi ha consumato \"Le Cronache del Ghiaccio e del Fuoco\" — salvala per la tua prossima rilettura.\n\n· · ·\n\nThe flame of the Hightower still burns over Oldtown.\n\nThis is Oldtown, the oldest city in Westeros and the seat of knowledge of the Seven Kingdoms. At the foot of the Hightower — the beacon that for centuries has guided ships to the mouth of the Honeywine — stands the Citadel, where the Maesters forge their chains and keep the secrets of the world. House Hightower watches over it all, while the Starry Sept still echoes with the earliest prayers of the Faith.\n\nHand-drawn in ink and watercolour on parchment paper, imagining the glow of that flame seen all the way to the Summer Sea.\n\nWhich place in Westeros should I map next? Tell me in the comments. And send this map to the friend who devoured \"A Song of Ice and Fire\" — save it for your next reread.",
           "hashtags": [
-            "#oldtown",
-            "#thehightower",
-            "#thecitadel",
             "#gameofthrones",
             "#asoiaf",
             "#westeros",
             "#fantasymap",
-            "#fantasycartography",
-            "#worldbuilding",
-            "#mapmaking",
-            "#fantasyart",
-            "#dndmaps",
-            "#cartografia",
-            "#mappafantasy"
+            "#dndmaps"
           ],
           "media_id": null,
           "published_at": null,
@@ -2010,7 +2228,7 @@
           "is_overview": false,
           "media_kind": "reel",
           "from_image": true,
-          "caption": "La Torre Alta di Vecchia Città brucia di una fiamma che non si spegne mai. È il faro più alto del mondo conosciuto e veglia sulla città più antica di Westeros, dove sorge la Cittadella: la sede dei Maestri, di chi forgia il proprio anello, scettro e maschera in ogni sapere. Qui Samwell Tarly va a studiare per diventare maestro della Guardia della Notte. Ho disegnato la torre bianca a gradoni con la sua corona di fuoco, l'emblema più verticale e luminoso di tutta la mappa.\n\nTi piacerebbe studiare alla Cittadella e forgiare il tuo anello del sapere? Manda questo post al secchione del tuo gruppo.\n\n· · ·\n\nThe Hightower of Oldtown burns with a flame that never dies. It's the tallest lighthouse in the known world, watching over the oldest city in Westeros, home to the Citadel: seat of the Maesters, who forge a link for every field of knowledge. This is where Samwell Tarly goes to train as maester of the Night's Watch. I drew the tiered white tower crowned with fire — the most vertical, luminous emblem on the whole map.\n\nWould you study at the Citadel and forge your own link? Send this to the lore-nerd of your group.",
+          "caption": "La fiamma della Hightower brilla ancora su Vecchia Città.\n\nQuesta è Oldtown (Vecchia Città), la più antica città di Westeros e cuore del sapere dei Sette Regni. Ai piedi della Torre Alta, faro che da secoli guida le navi alla foce del fiume Miele, sorge la Cittadella: è qui che i Maestri forgiano la loro catena e custodiscono i segreti del mondo. Casa Hightower veglia su tutto, mentre nel Septo Stellato risuonano ancora le prime preghiere della Fede.\n\nL'ho disegnata a china e acquerello su carta pergamena, immaginando il bagliore della fiamma visibile fino al Mare dell'Estate.\n\nQuale luogo di Westeros vorresti vedere mappato per primo? Scrivilo nei commenti. E manda questa mappa a chi ha consumato \"Le Cronache del Ghiaccio e del Fuoco\" — salvala per la tua prossima rilettura.\n\n· · ·\n\nThe flame of the Hightower still burns over Oldtown.\n\nThis is Oldtown, the oldest city in Westeros and the seat of knowledge of the Seven Kingdoms. At the foot of the Hightower — the beacon that for centuries has guided ships to the mouth of the Honeywine — stands the Citadel, where the Maesters forge their chains and keep the secrets of the world. House Hightower watches over it all, while the Starry Sept still echoes with the earliest prayers of the Faith.\n\nHand-drawn in ink and watercolour on parchment paper, imagining the glow of that flame seen all the way to the Summer Sea.\n\nWhich place in Westeros should I map next? Tell me in the comments. And send this map to the friend who devoured \"A Song of Ice and Fire\" — save it for your next reread.",
           "hashtags": [
             "#oldtown",
             "#thehightower",
@@ -2030,26 +2248,17 @@
           "title": "Grande Inverno (Winterfell)",
           "status": "pending",
           "scheduled_date": "2026-06-19",
-          "scheduled_time": "21:00",
+          "scheduled_time": "17:00",
           "is_overview": false,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Grande Inverno, la roccaforte degli Stark e il cuore del Nord. Costruito sopra sorgenti termali che scaldano le sue mura contro il gelo eterno, custodisce la cripta dove riposano i Re dell'Inverno e il bosco sacro con il suo albero-diga dal volto scolpito. \"L'inverno sta arrivando\" non è una minaccia: è il motto di una casa che il freddo lo conosce da sempre. Ho disegnato le torri grigie e tozze del castello con i toni della pietra del Nord, lontane mille leghe dal lusso del Sud.\n\nTu saresti un Lupo del Nord o un cortigiano del Sud? Condividi nelle storie e tagga il tuo branco.\n\n· · ·\n\nWinterfell, stronghold of House Stark and the heart of the North. Built over hot springs that warm its walls against the endless cold, it guards the crypt where the Kings of Winter rest and the godswood with its carved weirwood face. \"Winter is coming\" isn't a threat — it's the words of a house that has always known the cold. I drew the castle's squat grey towers in northern-stone tones, a thousand leagues from the luxury of the South.\n\nWould you be a Wolf of the North or a courtier of the South? Share to your stories and tag your pack.",
+          "caption": "Il Nord ricorda. E questa mappa ricorda ogni cosa: Grande Inverno, la dimora dei Stark, stretta tra le sue mura grigie mentre più a nord si erge Castle Black, dove i Guardiani della Notte vegliano sulla Barriera.\n\nHo disegnato a mano questo angolo di Westeros come un omaggio: la fortezza con le sue torri tozze, i boschi scuri, i sentieri ghiacciati che salgono verso il gelo. \"Winter is coming\" non è un avvertimento, qui è un indirizzo di casa.\n\nQuale casata di Westeros sceglieresti? Scrivilo nei commenti — e manda questa mappa al fan di Game of Thrones che conosci (sai già a chi). Salvala per la tua prossima campagna ambientata nel Nord.\n\n· · ·\n\nThe North remembers. And this map remembers everything: Winterfell, seat of House Stark, locked behind its grey walls while further north stands Castle Black, where the Night's Watch keeps the Wall.\n\nI hand-drew this corner of Westeros as a tribute: the stronghold with its squat towers, the dark woods, the frozen paths climbing toward the cold. \"Winter is coming\" isn't a warning here — it's a home address.\n\nWhich Westeros house would you choose? Drop it in the comments — and send this map to the Game of Thrones fan you know (you already have someone in mind). Save it for your next campaign set in the North.",
           "hashtags": [
-            "#winterfell",
-            "#housestark",
-            "#winteriscoming",
             "#gameofthrones",
             "#asoiaf",
             "#westeros",
-            "#fantasymap",
-            "#fantasycartography",
-            "#worldbuilding",
-            "#mapmaking",
-            "#fantasyart",
-            "#dndmaps",
-            "#got",
-            "#mappafantasy"
+            "#winterfell",
+            "#fantasymap"
           ],
           "media_id": null,
           "published_at": null,
@@ -2067,23 +2276,13 @@
           "is_overview": true,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Mappa fantasy disegnata a mano di Westeros, il continente delle Cronache del Ghiaccio e del Fuoco. Dalla Barriera e Castello Nero a nord fino a Lancia del Sole nella torrida Dorne, passando per Grande Inverno, Pyke, il Nido dell'Aquila, Approdo del Re e Vecchia Città — e oltre il Mare Stretto, il Titano di Braavos. Ho voluto raccontare i Sette Regni in stile cartografico vintage, con ogni casato e città riassunti in un emblema illustrato. Settimane di lavoro per riunire un intero mondo in un'unica pergamena.\n\nQuale regno sceglieresti come tua casa? Salva la mappa per la tua prossima rilettura o maratona, e mandala a chi ama Westeros quanto te.\n\n· · ·\n\nHand-drawn fantasy map of Westeros, the continent of A Song of Ice and Fire. From the Wall and Castle Black in the far north down to Sunspear in scorching Dorne, through Winterfell, Pyke, the Eyrie, King's Landing and Oldtown — and across the Narrow Sea, the Titan of Braavos. I set out to capture the Seven Kingdoms in a vintage cartographic style, each house and city distilled into an illustrated emblem. Weeks of work to gather a whole world onto a single parchment.\n\nWhich realm would you call home? Save this for your next reread or rewatch, and send it to someone who loves Westeros as much as you do.",
+          "caption": "Westeros, dal Muro fino a Dorne: una mappa disegnata a mano del continente del Trono di Spade.\n\nDa Castello Nero e Grande Inverno al Nord, passando per Pyke e Nido dell'Aquila, fino ad Approdo del Re, Vecchia Città e Lancia del Sole nel Sud — con Braavos che veglia dall'altra sponda del Mare Stretto. Ogni stemma segna una casa, ogni costa una storia di re, tradimenti e draghi. \"Quando giochi al gioco del trono, o vinci o muori\": questa mappa è un piccolo omaggio a quel mondo.\n\nQuale casa avresti scelto? Manda questa mappa a chi ha consumato la serie e salvala per la tua prossima rilettura.\n\n· · ·\n\nWesteros, from the Wall down to Dorne: a hand-drawn map of the continent from Game of Thrones.\n\nFrom Castle Black and Winterfell in the North, through Pyke and the Eyrie, down to King's Landing, Oldtown and Sunspear in the South — with Braavos watching from across the Narrow Sea. Every sigil marks a house, every coast a tale of kings, betrayals and dragons. \"When you play the game of thrones, you win or you die\": this map is a small tribute to that world.\n\nWhich house would you have chosen? Send this map to the friend who binged the show, and save it for your next re-watch.",
           "hashtags": [
-            "#westeros",
             "#gameofthrones",
+            "#westeros",
             "#asoiaf",
-            "#asongoficeandfire",
-            "#got",
             "#fantasymap",
-            "#fantasycartography",
-            "#mapmaking",
-            "#worldbuilding",
-            "#fantasyart",
-            "#dndmaps",
-            "#cartography",
-            "#mappafantasy",
-            "#cartografia",
-            "#houseofthedragon"
+            "#cartography"
           ],
           "media_id": null,
           "published_at": null,
@@ -2101,7 +2300,7 @@
           "is_overview": false,
           "media_kind": "reel",
           "from_image": true,
-          "caption": "Grande Inverno, la roccaforte degli Stark e il cuore del Nord. Costruito sopra sorgenti termali che scaldano le sue mura contro il gelo eterno, custodisce la cripta dove riposano i Re dell'Inverno e il bosco sacro con il suo albero-diga dal volto scolpito. \"L'inverno sta arrivando\" non è una minaccia: è il motto di una casa che il freddo lo conosce da sempre. Ho disegnato le torri grigie e tozze del castello con i toni della pietra del Nord, lontane mille leghe dal lusso del Sud.\n\nTu saresti un Lupo del Nord o un cortigiano del Sud? Condividi nelle storie e tagga il tuo branco.\n\n· · ·\n\nWinterfell, stronghold of House Stark and the heart of the North. Built over hot springs that warm its walls against the endless cold, it guards the crypt where the Kings of Winter rest and the godswood with its carved weirwood face. \"Winter is coming\" isn't a threat — it's the words of a house that has always known the cold. I drew the castle's squat grey towers in northern-stone tones, a thousand leagues from the luxury of the South.\n\nWould you be a Wolf of the North or a courtier of the South? Share to your stories and tag your pack.",
+          "caption": "Il Nord ricorda. E questa mappa ricorda ogni cosa: Grande Inverno, la dimora dei Stark, stretta tra le sue mura grigie mentre più a nord si erge Castle Black, dove i Guardiani della Notte vegliano sulla Barriera.\n\nHo disegnato a mano questo angolo di Westeros come un omaggio: la fortezza con le sue torri tozze, i boschi scuri, i sentieri ghiacciati che salgono verso il gelo. \"Winter is coming\" non è un avvertimento, qui è un indirizzo di casa.\n\nQuale casata di Westeros sceglieresti? Scrivilo nei commenti — e manda questa mappa al fan di Game of Thrones che conosci (sai già a chi). Salvala per la tua prossima campagna ambientata nel Nord.\n\n· · ·\n\nThe North remembers. And this map remembers everything: Winterfell, seat of House Stark, locked behind its grey walls while further north stands Castle Black, where the Night's Watch keeps the Wall.\n\nI hand-drew this corner of Westeros as a tribute: the stronghold with its squat towers, the dark woods, the frozen paths climbing toward the cold. \"Winter is coming\" isn't a warning here — it's a home address.\n\nWhich Westeros house would you choose? Drop it in the comments — and send this map to the Game of Thrones fan you know (you already have someone in mind). Save it for your next campaign set in the North.",
           "hashtags": [
             "#winterfell",
             "#housestark",
@@ -2734,61 +2933,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-13T07:00:27",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «tg75»"
-    },
-    {
-      "ts": "2026-06-13T07:30:29",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «tg75» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-13T13:02:00",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «tg75»",
-      "extra": {
-        "media_id": "18189164401378606"
-      }
-    },
-    {
-      "ts": "2026-06-13T13:02:10",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «tg75»"
-    },
-    {
-      "ts": "2026-06-13T13:02:22",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «tg75»"
-    },
-    {
-      "ts": "2026-06-13T13:30:31",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «tg75» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-13T13:31:22",
-      "severity": "warning",
-      "source": "publish",
-      "message": "🎬 Reel pubblicato, Storia NON riuscita: «Nascono le città del regno» — container video non pronto / in errore",
-      "extra": {
-        "media_id": "18109669757309294",
-        "story_error": "container video non pronto / in errore"
-      }
-    },
-    {
-      "ts": "2026-06-13T13:31:29",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Nascono le città del regno»"
-    },
-    {
       "ts": "2026-06-13T14:00:31",
       "severity": "info",
       "source": "comments",
@@ -2832,6 +2976,60 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Dal bianco e nero al colore» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-15T07:00:46",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Il Titano di Braavos»",
+      "extra": {
+        "media_id": "18094464893251681"
+      }
+    },
+    {
+      "ts": "2026-06-15T07:00:51",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Il Titano di Braavos»"
+    },
+    {
+      "ts": "2026-06-15T07:30:28",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Il Titano di Braavos» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-15T13:02:33",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Il Titano di Braavos»",
+      "extra": {
+        "media_id": "17891166837539648"
+      }
+    },
+    {
+      "ts": "2026-06-15T13:02:46",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Il Titano di Braavos»"
+    },
+    {
+      "ts": "2026-06-15T13:03:01",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Il Titano di Braavos»"
+    },
+    {
+      "ts": "2026-06-15T13:30:32",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Il Titano di Braavos» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-15T14:15:32",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 2 Storie pubblicate"
     }
   ],
   "ideas": {
@@ -2958,14 +3156,21 @@
   "weekly": {
     "period_days": 7,
     "followers_start": 914,
-    "followers_end": 915,
-    "followers_gained": 1,
+    "followers_end": 917,
+    "followers_gained": 3,
     "from": "2026-06-08",
-    "to": "2026-06-14",
+    "to": "2026-06-15",
     "top_posts": [
       {
+        "title": "Nascono le città del regno",
+        "reach": 328,
+        "saved": 1,
+        "shares": 0,
+        "likes": 18
+      },
+      {
         "title": "Montagne e foreste a inchiostro",
-        "reach": 169,
+        "reach": 171,
         "saved": 0,
         "shares": 0,
         "likes": 15
@@ -2976,13 +3181,6 @@
         "saved": 2,
         "shares": 0,
         "likes": 15
-      },
-      {
-        "title": "Nascono le città del regno",
-        "reach": 243,
-        "saved": 0,
-        "shares": 0,
-        "likes": 16
       }
     ]
   }
