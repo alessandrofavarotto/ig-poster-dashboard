@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14",
+  "generated_at": "2026-06-15",
   "account": [
     {
       "date": "2026-06-05",
@@ -2708,6 +2708,28 @@
       "changes": [
         "Nessuna modifica sostanziale: i dati replicano quelli già analizzati. Aggiunta una riga al Changelog che segnala l'assenza di nuove evidenze, il lieve calo follower su finestra troppo breve e i segnali di qualità ancora insufficienti."
       ]
+    },
+    {
+      "date": "2026-06-15",
+      "ts": "2026-06-15T05:02",
+      "enough_evidence": true,
+      "posts_measured": 14,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "09:00",
+        "13:00",
+        "17:00"
+      ],
+      "summary": "15 post misurati (più storico di 598) danno un segnale chiaro e ripetuto: i Reel raggiungono molti più non-follower delle foto (reach 156–243 vs 53–73). Ho promosso a (dato) la leva Reel-companion e confermato il taglio a 3–5 hashtag (il Reel con reach 243 usava 5 tag mirati). Lo storico per ora premia mattino presto (h07≈22) e tardo pomeriggio (h16–17), quindi best_times resta diversificato su più fasce. Salvataggi/condivisioni sono ancora ~0 e i follower stabili (~915): nessuna regola forte su questi, solo CTA da rafforzare. Cambiamenti incrementali, prudenti.",
+      "changes": [
+        "Reels: aggiunte voci (dato 06/2026) — i Reel raggiungono 2,5–4× la reach delle foto (156–243 vs 53–73); leva Reel-companion confermata come principale per scoperta/reach (evidenza ancora giovane, ~6 Reel).",
+        "Reels: nota debole sulle fasi — 'dettagli' (reach 243) e 'linee'/'inchiostrazione' (157–169) meglio; Reel-overview e Reel 'colore' molto recente sotto (dato immaturo), da confermare.",
+        "Hashtag: confermato a (dato) il taglio 3–5 (il Reel con reach più alta usava 5 tag mirati); segnalati come deboli i tag di eventi/luoghi locali (#monfalcone, #modena, #modenaplay, #fiere) dallo storico.",
+        "Caption: nota (dato) che salvataggi (0–2) e condivisioni (0) non si stanno ancora attivando → rafforzare la CTA send/salvataggio.",
+        "Orari: voce promossa a (dato) — storico premia mattino presto (h07=22) e tardo pomeriggio (h16–17), lunch ~13 costante; best_times diversificato su fasce diverse.",
+        "Changelog: aggiunta riga 15 giu 2026 con il riassunto."
+      ]
     }
   ],
   "alerts": [
@@ -2938,7 +2960,7 @@
     "followers_start": 914,
     "followers_end": 915,
     "followers_gained": 1,
-    "from": "2026-06-07",
+    "from": "2026-06-08",
     "to": "2026-06-14",
     "top_posts": [
       {
