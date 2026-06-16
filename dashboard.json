@@ -3722,9 +3722,28 @@
         "mentions": "@worldanvil @miskasmaps",
         "status": "open",
         "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "guild-2026-06",
+        "campaign": "guild",
+        "format": "post",
+        "title": "Cartographers' Guild — sfida di giugno 2026",
+        "cosa_fare": "Controlla il TEMA del mese sul forum del Guild e disegna una mappa; invia entro ~fine giugno (voto nei primi giorni del mese dopo).",
+        "perche": "Sfida mensile della community di riferimento per le mappe fantasy: visibilità + contenuto on-brand.",
+        "gancio": "🧭 Cartographers' Guild · giugno 2026",
+        "hashtags": [
+          "#cartographersguild",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "link": "https://www.cartographersguild.com/content.php?r=192-challenges",
+        "status": "open",
+        "created_at": "2026-06-16T08:44"
       }
     ],
-    "generated_at": "2026-06-16T08:28"
+    "generated_at": "2026-06-16T08:44"
   },
   "weekly": {
     "period_days": 7,
