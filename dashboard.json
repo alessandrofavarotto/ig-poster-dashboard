@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15",
+  "generated_at": "2026-06-16",
   "account": [
     {
       "date": "2026-06-05",
@@ -2102,7 +2102,7 @@
         },
         {
           "title": "Il Nido dell'Aquila (The Eyrie)",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-16",
           "scheduled_time": "07:00",
           "is_overview": false,
@@ -2116,11 +2116,11 @@
             "#fantasymap",
             "#westeros"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18442943161143579",
+          "published_at": "2026-06-16",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -2933,24 +2933,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-13T14:00:31",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Nascono le città del regno» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-13T14:15:19",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 1 Storie pubblicate"
-    },
-    {
-      "ts": "2026-06-14T14:15:20",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 1 Storie pubblicate"
-    },
-    {
       "ts": "2026-06-14T18:31:33",
       "severity": "info",
       "source": "publish",
@@ -3030,6 +3012,27 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 2 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-16T07:00:14",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Il Nido dell'Aquila (The Eyrie)»",
+      "extra": {
+        "media_id": "18442943161143579"
+      }
+    },
+    {
+      "ts": "2026-06-16T07:00:19",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Il Nido dell'Aquila (The Eyrie)»"
+    },
+    {
+      "ts": "2026-06-16T07:30:28",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Il Nido dell'Aquila (The Eyrie)» (anche su FB)"
     }
   ],
   "ideas": {
@@ -3149,16 +3152,586 @@
         ],
         "id": "mappa-pronta-al-tavolo-versione-bella-versione-con",
         "status": "open"
+      },
+      {
+        "id": "mapvember-01",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G1: Isola",
+        "cosa_fare": "Disegna una mappa sul tema «Isola» (Island) e pubblicala il 1 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 1 — Isola",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-02",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G2: Costa frastagliata",
+        "cosa_fare": "Disegna una mappa sul tema «Costa frastagliata» (Rugged coastline) e pubblicala il 2 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 2 — Costa frastagliata",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-03",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G3: Città portuale",
+        "cosa_fare": "Disegna una mappa sul tema «Città portuale» (Port city) e pubblicala il 3 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 3 — Città portuale",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-04",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G4: Catena montuosa",
+        "cosa_fare": "Disegna una mappa sul tema «Catena montuosa» (Mountain range) e pubblicala il 4 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 4 — Catena montuosa",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-05",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G5: Foresta antica",
+        "cosa_fare": "Disegna una mappa sul tema «Foresta antica» (Ancient forest) e pubblicala il 5 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 5 — Foresta antica",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-06",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G6: Deserto",
+        "cosa_fare": "Disegna una mappa sul tema «Deserto» (Desert) e pubblicala il 6 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 6 — Deserto",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-07",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G7: Regno",
+        "cosa_fare": "Disegna una mappa sul tema «Regno» (Kingdom) e pubblicala il 7 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 7 — Regno",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-08",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G8: Dungeon",
+        "cosa_fare": "Disegna una mappa sul tema «Dungeon» (Dungeon) e pubblicala il 8 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 8 — Dungeon",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-09",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G9: Fiume e affluenti",
+        "cosa_fare": "Disegna una mappa sul tema «Fiume e affluenti» (River and tributaries) e pubblicala il 9 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 9 — Fiume e affluenti",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-10",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G10: Rotta commerciale",
+        "cosa_fare": "Disegna una mappa sul tema «Rotta commerciale» (Trade route) e pubblicala il 10 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 10 — Rotta commerciale",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-11",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G11: Capitale",
+        "cosa_fare": "Disegna una mappa sul tema «Capitale» (Capital city) e pubblicala il 11 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 11 — Capitale",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-12",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G12: Arcipelago",
+        "cosa_fare": "Disegna una mappa sul tema «Arcipelago» (Archipelago) e pubblicala il 12 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 12 — Arcipelago",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-13",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G13: Palude",
+        "cosa_fare": "Disegna una mappa sul tema «Palude» (Swamp) e pubblicala il 13 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 13 — Palude",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-14",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G14: Tundra ghiacciata",
+        "cosa_fare": "Disegna una mappa sul tema «Tundra ghiacciata» (Frozen tundra) e pubblicala il 14 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 14 — Tundra ghiacciata",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-15",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G15: Vulcano",
+        "cosa_fare": "Disegna una mappa sul tema «Vulcano» (Volcano) e pubblicala il 15 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 15 — Vulcano",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-16",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G16: Confine conteso",
+        "cosa_fare": "Disegna una mappa sul tema «Confine conteso» (Contested border) e pubblicala il 16 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 16 — Confine conteso",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-17",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G17: Rovine perdute",
+        "cosa_fare": "Disegna una mappa sul tema «Rovine perdute» (Lost ruins) e pubblicala il 17 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 17 — Rovine perdute",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-18",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G18: Mappa del tesoro",
+        "cosa_fare": "Disegna una mappa sul tema «Mappa del tesoro» (Treasure map) e pubblicala il 18 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 18 — Mappa del tesoro",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-19",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G19: Sottosuolo",
+        "cosa_fare": "Disegna una mappa sul tema «Sottosuolo» (Underground depths) e pubblicala il 19 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 19 — Sottosuolo",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-20",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G20: Castello e dintorni",
+        "cosa_fare": "Disegna una mappa sul tema «Castello e dintorni» (Castle and surroundings) e pubblicala il 20 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 20 — Castello e dintorni",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-21",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G21: Villaggio",
+        "cosa_fare": "Disegna una mappa sul tema «Villaggio» (Village) e pubblicala il 21 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 21 — Villaggio",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-22",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G22: Continente",
+        "cosa_fare": "Disegna una mappa sul tema «Continente» (Continent) e pubblicala il 22 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 22 — Continente",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-23",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G23: Mondo intero",
+        "cosa_fare": "Disegna una mappa sul tema «Mondo intero» (Whole world) e pubblicala il 23 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 23 — Mondo intero",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-24",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G24: Campo di battaglia",
+        "cosa_fare": "Disegna una mappa sul tema «Campo di battaglia» (Battlefield) e pubblicala il 24 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 24 — Campo di battaglia",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-25",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G25: Taverna (interni)",
+        "cosa_fare": "Disegna una mappa sul tema «Taverna (interni)» (Tavern (interior)) e pubblicala il 25 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 25 — Taverna (interni)",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-26",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G26: Labirinto",
+        "cosa_fare": "Disegna una mappa sul tema «Labirinto» (Labyrinth) e pubblicala il 26 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 26 — Labirinto",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-27",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G27: Isole fluttuanti",
+        "cosa_fare": "Disegna una mappa sul tema «Isole fluttuanti» (Floating islands) e pubblicala il 27 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 27 — Isole fluttuanti",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-28",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G28: Cripta",
+        "cosa_fare": "Disegna una mappa sul tema «Cripta» (Crypt) e pubblicala il 28 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 28 — Cripta",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-29",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G29: Mercato",
+        "cosa_fare": "Disegna una mappa sul tema «Mercato» (Marketplace) e pubblicala il 29 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 29 — Mercato",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
+      },
+      {
+        "id": "mapvember-30",
+        "campaign": "mapvember",
+        "format": "post",
+        "title": "Mapvember G30: La tua ambientazione",
+        "cosa_fare": "Disegna una mappa sul tema «La tua ambientazione» (Your own setting) e pubblicala il 30 novembre.",
+        "perche": "Sfida Mapvember (mappa-al-giorno di novembre): reach di community e coerenza on-brand.",
+        "gancio": "🗺️ Mapvember · Giorno 30 — La tua ambientazione",
+        "hashtags": [
+          "#mapvember",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "@worldanvil @miskasmaps",
+        "status": "open",
+        "created_at": "2026-06-16T08:28"
       }
     ],
-    "generated_at": "2026-06-12"
+    "generated_at": "2026-06-16T08:28"
   },
   "weekly": {
     "period_days": 7,
     "followers_start": 914,
     "followers_end": 917,
     "followers_gained": 3,
-    "from": "2026-06-08",
+    "from": "2026-06-09",
     "to": "2026-06-15",
     "top_posts": [
       {
