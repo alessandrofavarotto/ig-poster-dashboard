@@ -2126,7 +2126,7 @@
         },
         {
           "title": "Il Nido dell'Aquila (The Eyrie)",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-16",
           "scheduled_time": "13:00",
           "is_overview": false,
@@ -2140,11 +2140,11 @@
             "#asoiaf",
             "#westeros"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
+          "media_id": "17921648247363972",
+          "published_at": "2026-06-16",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -2933,42 +2933,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-14T18:31:33",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Dal bianco e nero al colore»",
-      "extra": {
-        "media_id": "17857862163662533"
-      }
-    },
-    {
-      "ts": "2026-06-14T18:31:40",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Dal bianco e nero al colore»"
-    },
-    {
-      "ts": "2026-06-14T18:31:54",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Dal bianco e nero al colore»"
-    },
-    {
-      "ts": "2026-06-14T19:00:27",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Dal bianco e nero al colore» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-15T07:00:46",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Il Titano di Braavos»",
-      "extra": {
-        "media_id": "18094464893251681"
-      }
-    },
-    {
       "ts": "2026-06-15T07:00:51",
       "severity": "info",
       "source": "facebook",
@@ -3033,6 +2997,39 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Il Nido dell'Aquila (The Eyrie)» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-16T13:01:13",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Il Nido dell'Aquila (The Eyrie)»",
+      "extra": {
+        "media_id": "17921648247363972"
+      }
+    },
+    {
+      "ts": "2026-06-16T13:01:21",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Il Nido dell'Aquila (The Eyrie)»"
+    },
+    {
+      "ts": "2026-06-16T13:01:32",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Il Nido dell'Aquila (The Eyrie)»"
+    },
+    {
+      "ts": "2026-06-16T13:30:28",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Il Nido dell'Aquila (The Eyrie)» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-16T14:16:54",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 3 Storie pubblicate"
     }
   ],
   "ideas": {
@@ -3774,6 +3771,50 @@
       }
     ],
     "generated_at": "2026-06-16T09:09"
+  },
+  "boost": {
+    "generated_at": "2026-06-16T15:28",
+    "suggestion": {
+      "media_id": "18109669757309294",
+      "title": "Nascono le città del regno",
+      "kind": "reel",
+      "published_at": "2026-06-13",
+      "age_days": 2,
+      "confidence": "media",
+      "objective": "Visite al profilo (proxy crescita follower)",
+      "budget_eur_day": 4,
+      "days": 7,
+      "budget_total_eur": 28,
+      "targeting": {
+        "modalita": "manuale (non automatico)",
+        "geos": [
+          "IT",
+          "US"
+        ],
+        "age": "25-34 / 35-44",
+        "interests": [
+          "fantasy maps",
+          "worldbuilding",
+          "Dungeons & Dragons",
+          "fantasy art",
+          "illustration",
+          "cartography",
+          "Tolkien",
+          "Game of Thrones"
+        ]
+      },
+      "why": [
+        "reach 328 = 5.29× la tua media recente (62)",
+        "459 views",
+        "1 salvataggi, 0 condivisioni",
+        "reach pari al 36% dei tuoi follower"
+      ]
+    },
+    "considered": 13,
+    "baseline": {
+      "reach_median": 62
+    },
+    "last_notified": "18109669757309294"
   },
   "weekly": {
     "period_days": 7,
