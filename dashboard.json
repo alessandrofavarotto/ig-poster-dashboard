@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16",
+  "generated_at": "2026-06-17",
   "account": [
     {
       "date": "2026-06-05",
@@ -2406,7 +2406,7 @@
         },
         {
           "title": "Approdo del Re (King's Landing)",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-17",
           "scheduled_time": "09:00",
           "is_overview": false,
@@ -2420,9 +2420,9 @@
             "#fantasymap",
             "#kingslanding"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18084892994635588",
+          "published_at": "2026-06-17",
+          "facebook": true,
           "story": false,
           "comment_posted": false,
           "comments": null,
@@ -2563,6 +2563,331 @@
             "#winteriscoming",
             "#gameofthrones",
             "#asoiaf"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        }
+      ]
+    },
+    {
+      "source_image": "Wizard_Of_Oz.png",
+      "posts": [
+        {
+          "title": "Città di Smeraldo",
+          "status": "pending",
+          "scheduled_date": "2026-06-21",
+          "scheduled_time": "07:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "La Città di Smeraldo, cuore verde del Regno di Oz: la meta della Strada di Mattoni Gialli.\n\nArroccata al centro della mappa, con le sue torri verdi e gli stendardi che brillano, è il luogo dove Dorothy e i suoi compagni cercano il Mago. L'ho disegnata come una vera capitale fantasy: mura, guglie e quel verde inconfondibile che la rende riconoscibile a colpo d'occhio.\n\nSe dovessi varcare quelle porte, cosa chiederesti al Mago? Scrivilo nei commenti e salva la mappa per la tua prossima storia.\n\n· · ·\n\nThe Emerald City, the green heart of the Land of Oz: the destination at the end of the Yellow Brick Road.\n\nPerched at the center of the map, with its green towers and shining banners, it's where Dorothy and her companions seek the Wizard. I drew it as a true fantasy capital: walls, spires and that unmistakable green that makes it recognizable at a glance.\n\nIf you walked through those gates, what would you ask the Wizard? Tell me in the comments and save the map for your next story.",
+          "hashtags": [
+            "#emeraldcity",
+            "#wizardofoz",
+            "#fantasymap",
+            "#fantasyillustration",
+            "#worldbuilding",
+            "#mapmaking",
+            "#cittadidismeraldo",
+            "#fantasyart",
+            "#dndworld",
+            "#cartography"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Città di Smeraldo",
+          "status": "pending",
+          "scheduled_date": "2026-06-21",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "La Città di Smeraldo, cuore verde del Regno di Oz: la meta della Strada di Mattoni Gialli.\n\nArroccata al centro della mappa, con le sue torri verdi e gli stendardi che brillano, è il luogo dove Dorothy e i suoi compagni cercano il Mago. L'ho disegnata come una vera capitale fantasy: mura, guglie e quel verde inconfondibile che la rende riconoscibile a colpo d'occhio.\n\nSe dovessi varcare quelle porte, cosa chiederesti al Mago? Scrivilo nei commenti e salva la mappa per la tua prossima storia.\n\n· · ·\n\nThe Emerald City, the green heart of the Land of Oz: the destination at the end of the Yellow Brick Road.\n\nPerched at the center of the map, with its green towers and shining banners, it's where Dorothy and her companions seek the Wizard. I drew it as a true fantasy capital: walls, spires and that unmistakable green that makes it recognizable at a glance.\n\nIf you walked through those gates, what would you ask the Wizard? Tell me in the comments and save the map for your next story.",
+          "hashtags": [
+            "#emeraldcity",
+            "#wizardofoz",
+            "#fantasymap",
+            "#fantasyillustration",
+            "#worldbuilding",
+            "#mapmaking",
+            "#cittadidismeraldo",
+            "#fantasyart",
+            "#dndworld",
+            "#cartography"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Uomo di Latta (Tin Man)",
+          "status": "pending",
+          "scheduled_date": "2026-06-22",
+          "scheduled_time": "09:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "L'Uomo di Latta veglia sull'angolo della mappa di Oz: il personaggio che cercava un cuore.\n\nL'ho ritratto in un medaglione, con il suo imbuto in testa e il metallo che riflette la luce. Tra tutti i compagni di Dorothy è forse il più malinconico e poetico: una creatura di latta convinta di non avere sentimenti, eppure il più tenero di tutti.\n\nQuale dei quattro compagni di Oz è il tuo preferito — Uomo di Latta, Leone, Spaventapasseri o Dorothy? Tagga chi sceglieresti come compagno di viaggio.\n\n· · ·\n\nThe Tin Man guards a corner of the Oz map: the character searching for a heart.\n\nI portrayed him in a medallion, with his funnel hat and metal catching the light. Of all Dorothy's companions he may be the most wistful and poetic: a creature of tin convinced he has no feelings, yet the most tender of them all.\n\nWhich of the four Oz companions is your favorite — Tin Man, Lion, Scarecrow or Dorothy? Tag the one you'd choose as a travel companion.",
+          "hashtags": [
+            "#tinman",
+            "#wizardofoz",
+            "#characterdesign",
+            "#fantasyillustration",
+            "#fantasyart",
+            "#landofoz",
+            "#handdrawn",
+            "#illustration",
+            "#fantasycharacter",
+            "#conceptart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Uomo di Latta (Tin Man)",
+          "status": "pending",
+          "scheduled_date": "2026-06-22",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "L'Uomo di Latta veglia sull'angolo della mappa di Oz: il personaggio che cercava un cuore.\n\nL'ho ritratto in un medaglione, con il suo imbuto in testa e il metallo che riflette la luce. Tra tutti i compagni di Dorothy è forse il più malinconico e poetico: una creatura di latta convinta di non avere sentimenti, eppure il più tenero di tutti.\n\nQuale dei quattro compagni di Oz è il tuo preferito — Uomo di Latta, Leone, Spaventapasseri o Dorothy? Tagga chi sceglieresti come compagno di viaggio.\n\n· · ·\n\nThe Tin Man guards a corner of the Oz map: the character searching for a heart.\n\nI portrayed him in a medallion, with his funnel hat and metal catching the light. Of all Dorothy's companions he may be the most wistful and poetic: a creature of tin convinced he has no feelings, yet the most tender of them all.\n\nWhich of the four Oz companions is your favorite — Tin Man, Lion, Scarecrow or Dorothy? Tag the one you'd choose as a travel companion.",
+          "hashtags": [
+            "#tinman",
+            "#wizardofoz",
+            "#characterdesign",
+            "#fantasyillustration",
+            "#fantasyart",
+            "#landofoz",
+            "#handdrawn",
+            "#illustration",
+            "#fantasycharacter",
+            "#conceptart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Leone Codardo (Cowardly Lion)",
+          "status": "pending",
+          "scheduled_date": "2026-06-23",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Il Leone Codardo sorveglia l'angolo nord-est della mappa di Oz: il re della foresta in cerca di coraggio.\n\nNel medaglione l'ho disegnato con la criniera dorata e quello sguardo a metà tra il fiero e il timoroso. È il personaggio che insegna la lezione più bella della storia: il coraggio non è non avere paura, ma andare avanti nonostante la paura.\n\nQual è la cosa più coraggiosa che la paura non ti ha impedito di fare? Raccontamela e salva la mappa per la tua prossima avventura.\n\n· · ·\n\nThe Cowardly Lion watches over the northeast corner of the Oz map: the king of the forest searching for courage.\n\nIn the medallion I drew him with a golden mane and that gaze caught between proud and fearful. He's the character who teaches the story's most beautiful lesson: courage isn't the absence of fear, but moving forward in spite of it.\n\nWhat's the bravest thing fear didn't stop you from doing? Tell me, and save the map for your next adventure.",
+          "hashtags": [
+            "#cowardlylion",
+            "#wizardofoz",
+            "#fantasyillustration",
+            "#characterdesign",
+            "#lion",
+            "#fantasyart",
+            "#landofoz",
+            "#illustration",
+            "#fantasycharacter",
+            "#conceptart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Leone Codardo (Cowardly Lion)",
+          "status": "pending",
+          "scheduled_date": "2026-06-23",
+          "scheduled_time": "17:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Il Leone Codardo sorveglia l'angolo nord-est della mappa di Oz: il re della foresta in cerca di coraggio.\n\nNel medaglione l'ho disegnato con la criniera dorata e quello sguardo a metà tra il fiero e il timoroso. È il personaggio che insegna la lezione più bella della storia: il coraggio non è non avere paura, ma andare avanti nonostante la paura.\n\nQual è la cosa più coraggiosa che la paura non ti ha impedito di fare? Raccontamela e salva la mappa per la tua prossima avventura.\n\n· · ·\n\nThe Cowardly Lion watches over the northeast corner of the Oz map: the king of the forest searching for courage.\n\nIn the medallion I drew him with a golden mane and that gaze caught between proud and fearful. He's the character who teaches the story's most beautiful lesson: courage isn't the absence of fear, but moving forward in spite of it.\n\nWhat's the bravest thing fear didn't stop you from doing? Tell me, and save the map for your next adventure.",
+          "hashtags": [
+            "#cowardlylion",
+            "#wizardofoz",
+            "#fantasyillustration",
+            "#characterdesign",
+            "#lion",
+            "#fantasyart",
+            "#landofoz",
+            "#illustration",
+            "#fantasycharacter",
+            "#conceptart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Spaventapasseri (Scarecrow)",
+          "status": "pending",
+          "scheduled_date": "2026-06-24",
+          "scheduled_time": "17:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Lo Spaventapasseri sorride dall'angolo sud-ovest della mappa di Oz: il personaggio che cercava un cervello.\n\nL'ho ritratto con il cappello a punta, la paglia che spunta e quel sorriso buffo dipinto. Ironia della storia: pur convinto di non avere un cervello, è lui a trovare sempre la soluzione più intelligente. Forse l'intelligenza è meno questione di paglia e più di cuore.\n\nChe nome daresti a un regno tutto tuo nel mondo di Oz? Scrivilo nei commenti e manda la mappa a chi adora il Mago di Oz.\n\n· · ·\n\nThe Scarecrow smiles from the southwest corner of the Oz map: the character searching for a brain.\n\nI drew him with his pointed hat, poking straw and that funny painted grin. The irony of the story: though convinced he has no brain, he's the one who always finds the cleverest solution. Maybe intelligence is less about straw and more about heart.\n\nWhat would you name your own kingdom in the world of Oz? Drop it in the comments and send the map to a Wizard of Oz lover.",
+          "hashtags": [
+            "#scarecrow",
+            "#wizardofoz",
+            "#characterdesign",
+            "#fantasyillustration",
+            "#fantasyart",
+            "#landofoz",
+            "#handdrawnart",
+            "#illustration",
+            "#fantasycharacter",
+            "#conceptart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Dorothy",
+          "status": "pending",
+          "scheduled_date": "2026-06-25",
+          "scheduled_time": "07:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Dorothy chiude i quattro angoli della mappa di Oz: la viaggiatrice che ha dato inizio a tutto.\n\nNel medaglione l'ho disegnata con i suoi fiocchi e le guance rosse, lo sguardo curioso di chi è appena arrivata in un mondo magico. È lei a percorrere la Strada di Mattoni Gialli e a unire i destini di Uomo di Latta, Leone e Spaventapasseri. Senza di lei, niente viaggio, niente Città di Smeraldo.\n\n\"Non c'è posto come casa\": ma se potessi restare a Oz, in quale dei suoi paesi vivresti? Salva la mappa e taggaci un amico fan di Oz.\n\n· · ·\n\nDorothy completes the four corners of the Oz map: the traveler who started it all.\n\nIn the medallion I drew her with her bows and rosy cheeks, the curious gaze of someone who's just landed in a magical world. She's the one who walks the Yellow Brick Road and ties together the fates of the Tin Man, the Lion and the Scarecrow. Without her, no journey, no Emerald City.\n\n\"There's no place like home\": but if you could stay in Oz, which of its countries would you live in? Save the map and tag an Oz-loving friend.",
+          "hashtags": [
+            "#dorothy",
+            "#wizardofoz",
+            "#fantasyillustration",
+            "#characterdesign",
+            "#landofoz",
+            "#fantasyart",
+            "#illustration",
+            "#fantasycharacter",
+            "#storytelling",
+            "#conceptart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Spaventapasseri (Scarecrow)",
+          "status": "pending",
+          "scheduled_date": "2026-06-25",
+          "scheduled_time": "09:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Lo Spaventapasseri sorride dall'angolo sud-ovest della mappa di Oz: il personaggio che cercava un cervello.\n\nL'ho ritratto con il cappello a punta, la paglia che spunta e quel sorriso buffo dipinto. Ironia della storia: pur convinto di non avere un cervello, è lui a trovare sempre la soluzione più intelligente. Forse l'intelligenza è meno questione di paglia e più di cuore.\n\nChe nome daresti a un regno tutto tuo nel mondo di Oz? Scrivilo nei commenti e manda la mappa a chi adora il Mago di Oz.\n\n· · ·\n\nThe Scarecrow smiles from the southwest corner of the Oz map: the character searching for a brain.\n\nI drew him with his pointed hat, poking straw and that funny painted grin. The irony of the story: though convinced he has no brain, he's the one who always finds the cleverest solution. Maybe intelligence is less about straw and more about heart.\n\nWhat would you name your own kingdom in the world of Oz? Drop it in the comments and send the map to a Wizard of Oz lover.",
+          "hashtags": [
+            "#scarecrow",
+            "#wizardofoz",
+            "#characterdesign",
+            "#fantasyillustration",
+            "#fantasyart",
+            "#landofoz",
+            "#handdrawnart",
+            "#illustration",
+            "#fantasycharacter",
+            "#conceptart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Dorothy",
+          "status": "pending",
+          "scheduled_date": "2026-06-25",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Dorothy chiude i quattro angoli della mappa di Oz: la viaggiatrice che ha dato inizio a tutto.\n\nNel medaglione l'ho disegnata con i suoi fiocchi e le guance rosse, lo sguardo curioso di chi è appena arrivata in un mondo magico. È lei a percorrere la Strada di Mattoni Gialli e a unire i destini di Uomo di Latta, Leone e Spaventapasseri. Senza di lei, niente viaggio, niente Città di Smeraldo.\n\n\"Non c'è posto come casa\": ma se potessi restare a Oz, in quale dei suoi paesi vivresti? Salva la mappa e taggaci un amico fan di Oz.\n\n· · ·\n\nDorothy completes the four corners of the Oz map: the traveler who started it all.\n\nIn the medallion I drew her with her bows and rosy cheeks, the curious gaze of someone who's just landed in a magical world. She's the one who walks the Yellow Brick Road and ties together the fates of the Tin Man, the Lion and the Scarecrow. Without her, no journey, no Emerald City.\n\n\"There's no place like home\": but if you could stay in Oz, which of its countries would you live in? Save the map and tag an Oz-loving friend.",
+          "hashtags": [
+            "#dorothy",
+            "#wizardofoz",
+            "#fantasyillustration",
+            "#characterdesign",
+            "#landofoz",
+            "#fantasyart",
+            "#illustration",
+            "#fantasycharacter",
+            "#storytelling",
+            "#conceptart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Mappa intera — Land of Oz",
+          "status": "pending",
+          "scheduled_date": "2026-06-26",
+          "scheduled_time": "09:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Mappa fantasy disegnata a mano del Regno di Oz: cartografia ispirata al mondo del Mago di Oz di L. Frank Baum.\n\nSegui la Strada di Mattoni Gialli dal Paese dei Munchkin fino alla Città di Smeraldo, tra il Paese dei Winkie, dei Gillikin e dei Quadling. Ai quattro angoli vegliano l'Uomo di Latta, il Leone Codardo, lo Spaventapasseri e Dorothy: i compagni di viaggio più amati di sempre.\n\nUna mappa pronta per una campagna o per un omaggio a un classico immortale. Quale tappa esploreresti per prima? Manda questa mappa a chi è cresciuto con Oz.\n\n· · ·\n\nHand-drawn fantasy map of the Land of Oz: cartography inspired by L. Frank Baum's Wizard of Oz.\n\nFollow the Yellow Brick Road from Munchkin Country to the Emerald City, across the lands of the Winkies, Gillikins and Quadlings. The four corners are watched over by the Tin Man, the Cowardly Lion, the Scarecrow and Dorothy: the most beloved travel companions of all time.\n\nA map ready for a campaign or as a tribute to a timeless classic. Which stop would you explore first? Send this map to someone who grew up with Oz.",
+          "hashtags": [
+            "#wizardofoz",
+            "#landofoz",
+            "#fantasymap",
+            "#fantasycartography",
+            "#mapmaking",
+            "#worldbuilding",
+            "#cartography",
+            "#fantasyart",
+            "#emeraldcity",
+            "#handdrawnmap",
+            "#dndmaps"
           ],
           "media_id": null,
           "published_at": null,
@@ -3189,45 +3514,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-15T07:00:51",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Il Titano di Braavos»"
-    },
-    {
-      "ts": "2026-06-15T07:30:28",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Il Titano di Braavos» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-15T13:02:33",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Il Titano di Braavos»",
-      "extra": {
-        "media_id": "17891166837539648"
-      }
-    },
-    {
-      "ts": "2026-06-15T13:02:46",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Il Titano di Braavos»"
-    },
-    {
-      "ts": "2026-06-15T13:03:01",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Il Titano di Braavos»"
-    },
-    {
-      "ts": "2026-06-15T13:30:32",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Il Titano di Braavos» (anche su FB)"
-    },
-    {
       "ts": "2026-06-15T14:15:32",
       "severity": "info",
       "source": "stories",
@@ -3286,6 +3572,45 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-17T06:01:33",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Ricognizione competitor: Nella nicchia delle mappe fantasy disegnate a mano funzionano soprattutto i Reel di processo/timelapse (reach verso non-follower) e i caroselli 'zoom' che parto — nuovi: @feedthemultiverse, @fantasy.cartography, @domino44maps, @bewarethewizard"
+    },
+    {
+      "ts": "2026-06-17T09:00:58",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Approdo del Re (King's Landing)»",
+      "extra": {
+        "media_id": "18084892994635588"
+      }
+    },
+    {
+      "ts": "2026-06-17T09:01:05",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Approdo del Re (King's Landing)»"
+    },
+    {
+      "ts": "2026-06-17T09:01:16",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Approdo del Re (King's Landing)»"
+    },
+    {
+      "ts": "2026-06-17T09:12:58",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Competitor (dati reali): 10 account letti · formato top: IMAGE · ~1.4 post/sett. I dati dicono chiaramente: immagine singola di alta qualità + bassa frequenza (~1-2/sett) + hashtag della community TTRP — nuovi: @mapeffects, @czepeku_dnd_maps, @inkarnaterpg, @krsolbergauthor — scartati (non leggibili): francescabaerald, devenrue, mistybeee, feedthemultiverse"
+    },
+    {
+      "ts": "2026-06-17T09:18:39",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Competitor (dati reali): 14 account letti · formato top: IMAGE · ~1.5 post/sett. (sintesi AI non riuscita: Expecting value: line 1 column 1 (char 0); findings reali comunque salvati) — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
     }
   ],
   "ideas": {
@@ -4029,7 +4354,7 @@
     "generated_at": "2026-06-16T09:09"
   },
   "boost": {
-    "generated_at": "2026-06-16T20:00",
+    "generated_at": "2026-06-17T08:04",
     "suggestion": {
       "media_id": "18109669757309294",
       "title": "Nascono le città del regno",
@@ -4038,9 +4363,9 @@
       "age_days": 3,
       "confidence": "media",
       "objective": "Visite al profilo (proxy crescita follower)",
-      "budget_eur_day": 4,
-      "days": 7,
-      "budget_total_eur": 28,
+      "budget_eur_day": 5,
+      "days": 6,
+      "budget_total_eur": 30,
       "targeting": {
         "modalita": "manuale (non automatico)",
         "geos": [
@@ -4072,12 +4397,329 @@
     },
     "last_notified": "18109669757309294"
   },
+  "competitors": {
+    "known_handles": [
+      "francescabaerald",
+      "inkcompass.maps",
+      "morenopaissanart",
+      "paths.peculiar",
+      "danielsmaps",
+      "mapsbyowen",
+      "devenrue",
+      "mistybeee",
+      "fantasymapink",
+      "dungeonmapster",
+      "feedthemultiverse",
+      "fantasy.cartography",
+      "domino44maps",
+      "bewarethewizard",
+      "mapeffects",
+      "czepeku_dnd_maps",
+      "inkarnaterpg",
+      "krsolbergauthor"
+    ],
+    "runs": [
+      {
+        "date": "2026-06-11",
+        "summary": "Nella nicchia delle mappe fantasy disegnate a mano i reference (Deven Rue, Misty Beee) crescono unendo stile riconoscibile, contenuti educativi e monetizzazione multipla (commission, stampe, asset), mentre emergenti come fantasymapink e dungeonmapster spingono su Reel di processo e utilità al tavolo TTRPG. Il motore di reach è il Reel timelapse con gancio nei primi secondi, affiancato da carousel-tutorial che generano salvataggi e da caption con lore e CTA. Applicato al nostro account: identità visiva forte, cadenza mista 3-4 post/sett. e mappe sia 'belle' sia 'usabili' per ampliare il pubblico.",
+        "new_handles": [
+          "devenrue",
+          "mistybeee",
+          "fantasymapink",
+          "dungeonmapster"
+        ],
+        "lessons": [
+          "Il formato che traina è il PROCESS/timelapse in Reel verticale: dal foglio bianco alla mappa finita in 15-40s. È il contenuto più condiviso nella nicchia perché soddisfa il 'satisfying reveal' — apri SEMPRE con un gancio visivo (la mappa finita o un dettaglio bello) nei primi 1-2 secondi, poi mostra il processo.",
+          "Alterna i Reel con CAROUSEL ad alto valore: step-by-step 'come disegno montagne/coste/lettering', confronti before/after sketch→finito, e mini-tutorial. I carousel educativi generano salvataggi (segnale forte per il reach) e ti posizionano come fonte da imparare, non solo da guardare.",
+          "Costruisci un'identità tematica ricorrente: lettering/calligrafia distintiva, una palette inchiostro/pergamena coerente e un 'rituale' (es. una serie settimanale tipo 'mappa di una parola scelta dai follower'). La riconoscibilità di stile è ciò che fa diventare 'reference' account come Deven Rue e Misty Beee.",
+          "Lega ogni mappa a una NARRAZIONE/lore breve in caption: nome del regno, una leggenda, un dettaglio nascosto da trovare. Worldbuilding + D&D rispondono alle storie; chiudi con CTA leggera ('Che nome daresti a questa città?', 'Salva per la tua prossima campagna') per stimolare commenti e salvataggi.",
+          "Cadenza sostenibile e mista: 3-4 post/settimana, almeno 2 Reel process + 1 carousel educativo/lore. La costanza video è ciò che alimenta il reach su IG oggi; riusa il girato grezzo di una commission per ricavarne più clip (reveal, dettaglio, tutorial).",
+          "Monetizza e diversifica come i reference: commission aperte in bio, stampe/poster, e risorse per altri creator (brush, asset, mappe pronte per TTRPG con varianti token/grid). L'utilità al tavolo (mappe usabili) amplia il pubblico oltre i soli appassionati d'arte.",
+          "Usa hashtag a strati (3-5 grandi + 5-8 di nicchia) ed evita di ripetere sempre lo stesso blocco; tagga community/IP pertinenti e cavalca i trend audio dei Reel per dare una spinta iniziale alle clip di processo."
+        ]
+      },
+      {
+        "date": "2026-06-17",
+        "summary": "Nella nicchia delle mappe fantasy disegnate a mano funzionano soprattutto i Reel di processo/timelapse (reach verso non-follower) e i caroselli 'zoom' che partono dalla mappa intera e scendono nei dettagli con micro-lore, sostenuti da lettering/titoli calligrafici molto 'salvabili'. I riferimenti emergenti/autorevoli da osservare sono feedthemultiverse (Tiffany Munro), fantasy.cartography (Lark Sloan), domino44maps e bewarethewizard. La leva di crescita è il crossover con la community D&D/TTRPG e il worldbuilding, con CTA che invitano a immaginare e nominare i luoghi e un mix di hashtag di nicchia + grandi tag.",
+        "new_handles": [
+          "feedthemultiverse",
+          "fantasy.cartography",
+          "domino44maps",
+          "bewarethewizard"
+        ],
+        "lessons": [
+          "I REEL di processo/timelapse sono il formato n.1 per reach verso i non-follower: mostra il disegno che 'nasce' dal foglio bianco alla mappa finita in 7-15s, con gancio testuale bruciato a schermo nei primi 2s ('Guarda come nasce questo regno'). Allinea con il tuo image_to_reel/Ken Burns ma aggiungi varianti 'build-up' progressivo.",
+          "CAROUSEL 'zoom': sfrutta la decomposizione che già fai, ma confezionala come 1 post-carosello (copertina = mappa intera, slide successive = dettagli/regioni con micro-lore), non solo come post separati 1/giorno. È il formato che genera più SAVE e tempo-di-permanenza nella nicchia (come fa feedthemultiverse con i 'multiple images').",
+          "LETTERING e TITOLO come asset: aggiungi sempre un nome di luogo/regno calligrafico ben visibile (gancio + indicizzazione). Account come bewarethewizard dimostrano che il lettering decorativo aumenta la riconoscibilità e i salvataggi; integra una riga-titolo SEO bilingue anche nell'immagine, non solo in caption.",
+          "CTA da community/worldbuilding: chiudi le caption con domande che invitano a co-creare ('Che storia immagini per questa città? Come la chiameresti?'). La nicchia TTRPG/D&D risponde a prompt di immaginazione; ottimo materiale anche per le tue Storie-sondaggio.",
+          "CROSSOVER D&D/TTRPG: lega contenuti a 'usabilità' al tavolo da gioco ('mappa pronta per la tua campagna') e a worldbuilding per scrittori. Questo amplia il pubblico oltre gli amanti dell'arte e intercetta hashtag/community più grandi (#dnd 2,6M, #ttrpg).",
+          "HASHTAG a strati: mescola tag di nicchia a media difficoltà (#fantasymap ~25k, #fantasycartography, #mapmaking, #worldbuildingart) con 2-3 grandi (#dnd, #fantasyart, #ttrpg) — i tag piccoli ti tengono visibile più a lungo, i grandi danno picco iniziale. Mantieni ≤5 sui Reel come già fai.",
+          "COERENZA + serialità: gli account forti hanno palette/stile riconoscibili e serie ricorrenti ('un regno a settimana', 'detail of the week'). Sfrutta la tua decomposizione per costruire SERIE narrative su più giorni, così l'algoritmo e i follower imparano ad aspettarti."
+        ]
+      },
+      {
+        "date": "2026-06-17",
+        "summary": "I dati dicono chiaramente: immagine singola di alta qualità + bassa frequenza (~1-2/sett) + hashtag della community TTRPG (dnd/worldbuilding) sono la formula vincente, mentre caroselli e alta cadenza erodono l'engagement. Il benchmark è paths.peculiar (poche uscite, eng altissimo); per crescere conviene puntare su scarsità, qualità e interazione reale più che sul volume o sul numero di follower. I nuovi account suggeriti (mapeffects, czepeku_dnd_maps, inkarnaterpg, krsolbergauthor) sono handle reali e verificati da monitorare per formati, hashtag e tono.",
+        "new_handles": [
+          "mapeffects",
+          "czepeku_dnd_maps",
+          "inkarnaterpg",
+          "krsolbergauthor"
+        ],
+        "lessons": [
+          "Punta sulle IMMAGINI singole: con 599 di engagement medio (n=78) battono nettamente i Reel (228) e soprattutto i Caroselli (167, pur essendo il formato più prodotto con n=133). I competitor sprecano sforzo sui caroselli; per noi conviene privilegiare il singolo post-immagine di alta qualità (la nostra modalità 'Intere' e l'overview), tenendo il carosello come eccezione.",
+          "Meno è meglio: la cadenza mediana è 1,4 post/settimana e chi pubblica tanto rende poco — danielsmaps (4,4/sett) ha solo 290 di eng, morenopaissanart (8/sett) appena 76, mentre paths.peculiar con 1,4/sett e 82k follower fa 1364. Il nostro ritmo di ~1 post/giorno rischia di diluire qualità ed engagement: meglio concentrare 2-3 uscite forti a settimana che inondare la coda.",
+          "I Reel servono per la SCOPERTA, non per l'engagement: a 228 di media stanno sopra i caroselli ma sotto le immagini. Continua a usare i Reel Ken Burns companion per raggiungere i non-follower, ma non aspettarti che 'battano' l'immagine — misura il loro successo in reach/nuovi follower, non in like/commenti.",
+          "Gli hashtag vincenti sono quelli della COMMUNITY TTRPG, non solo dell'arte: i più usati sono dnd, worldbuilding, dungeonsanddragons, rpg, dungeonmaster, tabletop, roleplay. Nel nostro mix IT/EN diamo priorità a questi tag di pubblico (dnd/worldbuilding/dungeonsanddragons) accanto ai niche (fantasymap, fantasycartography, handdrawn), invece di affidarci a tag generici come 'art' o 'fantasy' che sono troppo affollati.",
+          "La scarsità premia: gli account che postano di rado ma bene hanno il miglior rapporto engagement/follower — mapsbyowen (0,2 post/sett, 353 eng su 15k) e fantasymapink (0,4/sett, 417 su 14k ≈ ~3%) superano in tasso i grandi. Per un account in crescita conviene 'far attendere' i contenuti deboli (coerente col nostro meccanismo +testo/coda) e pubblicare solo le mappe migliori.",
+          "I follower non garantiscono engagement: danielsmaps ha 62k follower ma solo 290 di eng (~0,46%), contro paths.peculiar ~1,66%. La leva è la COMMUNITY, non il numero: insistiamo sul primo commento automatico, sulle domande nelle caption e nelle Storie-sondaggio, e su tag di conversazione (roleplay, dungeonmaster) per stimolare interazioni reali.",
+          "Modella la nicchia su paths.peculiar (benchmark): 82k follower, 1,4 post/sett, 1364 di eng. È la prova che immagine + bassa frequenza + altissima qualità è la formula di riferimento per la cartografia fantasy; usiamola come stella polare invece di ottimizzare il volume."
+        ],
+        "stats": {
+          "readable": 10,
+          "unreadable": 4,
+          "best_format": "IMAGE",
+          "median_posts_per_week": 1.4
+        },
+        "accounts": [
+          {
+            "handle": "paths.peculiar",
+            "followers": 82015,
+            "media_count": 1051,
+            "avg_eng": 1364,
+            "posts_per_week": 1.4
+          },
+          {
+            "handle": "danielsmaps",
+            "followers": 62739,
+            "media_count": 1744,
+            "avg_eng": 290,
+            "posts_per_week": 4.4
+          },
+          {
+            "handle": "dungeonmapster",
+            "followers": 20733,
+            "media_count": 1128,
+            "avg_eng": 156,
+            "posts_per_week": 1.3
+          },
+          {
+            "handle": "mapsbyowen",
+            "followers": 14992,
+            "media_count": 283,
+            "avg_eng": 353,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "inkcompass.maps",
+            "followers": 14121,
+            "media_count": 1009,
+            "avg_eng": 108,
+            "posts_per_week": 3.7
+          },
+          {
+            "handle": "fantasymapink",
+            "followers": 14121,
+            "media_count": 169,
+            "avg_eng": 417,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "domino44maps",
+            "followers": 6881,
+            "media_count": 413,
+            "avg_eng": 213,
+            "posts_per_week": 1.6
+          },
+          {
+            "handle": "morenopaissanart",
+            "followers": 5679,
+            "media_count": 580,
+            "avg_eng": 76,
+            "posts_per_week": 8.0
+          },
+          {
+            "handle": "bewarethewizard",
+            "followers": 5498,
+            "media_count": 140,
+            "avg_eng": 44,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "fantasy.cartography",
+            "followers": 1327,
+            "media_count": 42,
+            "avg_eng": 81,
+            "posts_per_week": 0.3
+          }
+        ]
+      },
+      {
+        "date": "2026-06-17",
+        "summary": "(sintesi AI non riuscita: Expecting value: line 1 column 1 (char 0); findings reali comunque salvati)",
+        "new_handles": [],
+        "lessons": [],
+        "stats": {
+          "readable": 14,
+          "unreadable": 4,
+          "best_format": "IMAGE",
+          "best_formats": [
+            {
+              "type": "IMAGE",
+              "avg_engagement": 562,
+              "campione": 125
+            },
+            {
+              "type": "REELS",
+              "avg_engagement": 208,
+              "campione": 68
+            },
+            {
+              "type": "CAROUSEL_ALBUM",
+              "avg_engagement": 194,
+              "campione": 156
+            }
+          ],
+          "median_posts_per_week": 1.5,
+          "top_hashtags": [
+            "dnd",
+            "worldbuilding",
+            "fantasymap",
+            "map",
+            "dungeonsanddragons",
+            "art",
+            "rpg",
+            "fantasy",
+            "cartography",
+            "fantasycartography",
+            "handdrawn",
+            "dndart",
+            "fantasymaps",
+            "roleplay",
+            "dungeonmaster"
+          ]
+        },
+        "accounts": [
+          {
+            "handle": "mapeffects",
+            "followers": 131595,
+            "media_count": 1305,
+            "avg_eng": 563,
+            "posts_per_week": 5.6
+          },
+          {
+            "handle": "paths.peculiar",
+            "followers": 82015,
+            "media_count": 1051,
+            "avg_eng": 1364,
+            "posts_per_week": 1.4
+          },
+          {
+            "handle": "inkarnaterpg",
+            "followers": 70406,
+            "media_count": 1542,
+            "avg_eng": 545,
+            "posts_per_week": 3.4
+          },
+          {
+            "handle": "danielsmaps",
+            "followers": 62739,
+            "media_count": 1744,
+            "avg_eng": 290,
+            "posts_per_week": 4.4
+          },
+          {
+            "handle": "czepeku_dnd_maps",
+            "followers": 21687,
+            "media_count": 1611,
+            "avg_eng": 232,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "dungeonmapster",
+            "followers": 20733,
+            "media_count": 1128,
+            "avg_eng": 156,
+            "posts_per_week": 1.3
+          },
+          {
+            "handle": "mapsbyowen",
+            "followers": 14992,
+            "media_count": 283,
+            "avg_eng": 353,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "inkcompass.maps",
+            "followers": 14121,
+            "media_count": 1009,
+            "avg_eng": 108,
+            "posts_per_week": 3.7
+          },
+          {
+            "handle": "fantasymapink",
+            "followers": 14121,
+            "media_count": 169,
+            "avg_eng": 417,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "domino44maps",
+            "followers": 6882,
+            "media_count": 413,
+            "avg_eng": 213,
+            "posts_per_week": 1.6
+          },
+          {
+            "handle": "morenopaissanart",
+            "followers": 5679,
+            "media_count": 580,
+            "avg_eng": 76,
+            "posts_per_week": 8.0
+          },
+          {
+            "handle": "bewarethewizard",
+            "followers": 5498,
+            "media_count": 140,
+            "avg_eng": 44,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "fantasy.cartography",
+            "followers": 1327,
+            "media_count": 42,
+            "avg_eng": 81,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "krsolbergauthor",
+            "followers": 540,
+            "media_count": 147,
+            "avg_eng": 142,
+            "posts_per_week": 2.1
+          }
+        ],
+        "unreadable_handles": [
+          "francescabaerald",
+          "devenrue",
+          "mistybeee",
+          "feedthemultiverse"
+        ]
+      }
+    ],
+    "unreadable": [
+      "francescabaerald",
+      "devenrue",
+      "mistybeee",
+      "feedthemultiverse"
+    ]
+  },
   "weekly": {
     "period_days": 7,
     "followers_start": 914,
     "followers_end": 918,
     "followers_gained": 4,
-    "from": "2026-06-09",
+    "from": "2026-06-10",
     "to": "2026-06-16",
     "top_posts": [
       {
