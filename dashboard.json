@@ -120,6 +120,16 @@
       "views": 534,
       "accounts_engaged": 21,
       "total_interactions": 31
+    },
+    {
+      "date": "2026-06-17",
+      "followers_count": 918,
+      "media_count": 657,
+      "reach": 223,
+      "profile_views": 2,
+      "views": 654,
+      "accounts_engaged": 19,
+      "total_interactions": 38
     }
   ],
   "posts": [
@@ -144,12 +154,12 @@
         "#coraggio",
         "#fantasyworld"
       ],
-      "reach": 55,
+      "reach": 56,
       "likes": 7,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 117,
+      "views": 119,
       "history": {
         "2026-06-05": {
           "age_days": 0,
@@ -270,6 +280,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 117
+        },
+        "2026-06-17": {
+          "age_days": 12,
+          "reach": 56,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 119
         }
       }
     },
@@ -295,12 +315,12 @@
         "#fantasydetails",
         "#handdrawn"
       ],
-      "reach": 62,
+      "reach": 63,
       "likes": 11,
       "saved": 0,
       "shares": 0,
       "comments": 3,
-      "views": 136,
+      "views": 137,
       "history": {
         "2026-06-06": {
           "age_days": 0,
@@ -411,6 +431,16 @@
           "shares": 0,
           "total_interactions": 16,
           "views": 136
+        },
+        "2026-06-17": {
+          "age_days": 11,
+          "reach": 63,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 137
         }
       }
     },
@@ -436,12 +466,12 @@
         "#cittafantasy",
         "#illustrazione"
       ],
-      "reach": 66,
+      "reach": 68,
       "likes": 15,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 113,
+      "views": 116,
       "history": {
         "2026-06-07": {
           "age_days": 0,
@@ -542,6 +572,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 113
+        },
+        "2026-06-17": {
+          "age_days": 10,
+          "reach": 68,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 116
         }
       }
     },
@@ -568,12 +608,12 @@
         "#fantasyworld",
         "#illustrazione"
       ],
-      "reach": 54,
+      "reach": 55,
       "likes": 9,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 83,
+      "views": 85,
       "history": {
         "2026-06-08": {
           "age_days": 0,
@@ -664,6 +704,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 83
+        },
+        "2026-06-17": {
+          "age_days": 9,
+          "reach": 55,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 85
         }
       }
     },
@@ -689,12 +739,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 59,
+      "reach": 62,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 105,
+      "views": 110,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -775,6 +825,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 105
+        },
+        "2026-06-17": {
+          "age_days": 8,
+          "reach": 62,
+          "likes": 7,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 110
         }
       }
     },
@@ -800,12 +860,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 157,
+      "reach": 158,
       "likes": 8,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 171,
+      "views": 172,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -886,6 +946,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 171
+        },
+        "2026-06-17": {
+          "age_days": 8,
+          "reach": 158,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 172
         }
       }
     },
@@ -912,12 +982,12 @@
         "#artfantasy",
         "#giochidiruolo"
       ],
-      "reach": 75,
+      "reach": 79,
       "likes": 9,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 124,
+      "views": 129,
       "history": {
         "2026-06-10": {
           "age_days": 0,
@@ -988,6 +1058,16 @@
           "shares": 0,
           "total_interactions": 12,
           "views": 124
+        },
+        "2026-06-17": {
+          "age_days": 7,
+          "reach": 79,
+          "likes": 9,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 129
         }
       }
     },
@@ -1011,12 +1091,12 @@
         "#illustrazione",
         "#mapmaking"
       ],
-      "reach": 159,
+      "reach": 161,
       "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 1,
-      "views": 215,
+      "views": 218,
       "history": {
         "2026-06-11": {
           "age_days": 0,
@@ -1077,6 +1157,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 215
+        },
+        "2026-06-17": {
+          "age_days": 6,
+          "reach": 161,
+          "likes": 6,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 218
         }
       }
     },
@@ -1100,12 +1190,12 @@
         "#speedpaint",
         "#disegnoamano"
       ],
-      "reach": 172,
+      "reach": 173,
       "likes": 15,
       "saved": 0,
       "shares": 0,
       "comments": 4,
-      "views": 213,
+      "views": 214,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -1156,6 +1246,16 @@
           "shares": 0,
           "total_interactions": 22,
           "views": 213
+        },
+        "2026-06-17": {
+          "age_days": 5,
+          "reach": 173,
+          "likes": 15,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 22,
+          "views": 214
         }
       }
     },
@@ -1180,12 +1280,12 @@
         "#characterdesign",
         "#artistsoninstagram"
       ],
-      "reach": 49,
-      "likes": 8,
+      "reach": 51,
+      "likes": 9,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 117,
+      "views": 120,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -1236,6 +1336,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 117
+        },
+        "2026-06-17": {
+          "age_days": 5,
+          "reach": 51,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 120
         }
       }
     },
@@ -1257,12 +1367,12 @@
         "#darkillustration",
         "#artepsichedelica"
       ],
-      "reach": 45,
+      "reach": 49,
       "likes": 9,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 71,
+      "views": 74,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -1303,6 +1413,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 71
+        },
+        "2026-06-17": {
+          "age_days": 4,
+          "reach": 49,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 74
         }
       }
     },
@@ -1324,12 +1444,12 @@
         "#darkillustration",
         "#artepsichedelica"
       ],
-      "reach": 40,
+      "reach": 42,
       "likes": 1,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 51,
+      "views": 53,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -1370,6 +1490,16 @@
           "shares": 0,
           "total_interactions": 3,
           "views": 51
+        },
+        "2026-06-17": {
+          "age_days": 4,
+          "reach": 42,
+          "likes": 1,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 3,
+          "views": 53
         }
       }
     },
@@ -1386,12 +1516,12 @@
         "#worldbuilding",
         "#castle"
       ],
-      "reach": 328,
+      "reach": 334,
       "likes": 18,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 459,
+      "views": 470,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -1432,6 +1562,16 @@
           "shares": 0,
           "total_interactions": 22,
           "views": 459
+        },
+        "2026-06-17": {
+          "age_days": 4,
+          "reach": 334,
+          "likes": 18,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 22,
+          "views": 470
         }
       }
     },
@@ -1448,12 +1588,12 @@
         "#artprocess",
         "#timelapseart"
       ],
-      "reach": 136,
-      "likes": 9,
+      "reach": 141,
+      "likes": 11,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 163,
+      "views": 173,
       "history": {
         "2026-06-14": {
           "age_days": 0,
@@ -1484,6 +1624,16 @@
           "shares": 0,
           "total_interactions": 12,
           "views": 163
+        },
+        "2026-06-17": {
+          "age_days": 3,
+          "reach": 141,
+          "likes": 11,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 173
         }
       }
     },
@@ -1509,12 +1659,12 @@
         "#dndmaps",
         "#hboitalia"
       ],
-      "reach": 36,
+      "reach": 43,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 75,
+      "views": 85,
       "history": {
         "2026-06-15": {
           "age_days": 0,
@@ -1535,6 +1685,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 75
+        },
+        "2026-06-17": {
+          "age_days": 2,
+          "reach": 43,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 85
         }
       }
     },
@@ -1551,12 +1711,12 @@
         "#asongoficeandfire",
         "#fantasymap"
       ],
-      "reach": 95,
-      "likes": 6,
+      "reach": 105,
+      "likes": 7,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 110,
+      "views": 126,
       "history": {
         "2026-06-15": {
           "age_days": 0,
@@ -1577,6 +1737,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 110
+        },
+        "2026-06-17": {
+          "age_days": 2,
+          "reach": 105,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 126
         }
       }
     },
@@ -1593,12 +1763,12 @@
         "#fantasymap",
         "#westeros"
       ],
-      "reach": 30,
-      "likes": 8,
+      "reach": 46,
+      "likes": 11,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 52,
+      "views": 88,
       "history": {
         "2026-06-16": {
           "age_days": 0,
@@ -1609,6 +1779,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 52
+        },
+        "2026-06-17": {
+          "age_days": 1,
+          "reach": 46,
+          "likes": 11,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 88
         }
       }
     },
@@ -1625,12 +1805,12 @@
         "#asoiaf",
         "#westeros"
       ],
-      "reach": 18,
-      "likes": 0,
+      "reach": 83,
+      "likes": 5,
       "saved": 0,
       "shares": 0,
-      "comments": 2,
-      "views": 21,
+      "comments": 4,
+      "views": 95,
       "history": {
         "2026-06-16": {
           "age_days": 0,
@@ -1641,6 +1821,80 @@
           "shares": 0,
           "total_interactions": 2,
           "views": 21
+        },
+        "2026-06-17": {
+          "age_days": 1,
+          "reach": 83,
+          "likes": 5,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 95
+        }
+      }
+    },
+    {
+      "media_id": "18084892994635588",
+      "title": "Approdo del Re (King's Landing)",
+      "source_image": "game_of_thrones.png",
+      "is_overview": false,
+      "published_at": "2026-06-17",
+      "hashtags": [
+        "#gameofthrones",
+        "#westeros",
+        "#asoiaf",
+        "#fantasymap",
+        "#kingslanding"
+      ],
+      "reach": 18,
+      "likes": 2,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 31,
+      "history": {
+        "2026-06-17": {
+          "age_days": 0,
+          "reach": 18,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 31
+        }
+      }
+    },
+    {
+      "media_id": "18174180511414191",
+      "title": "Approdo del Re (King's Landing)",
+      "source_image": "game_of_thrones.png",
+      "is_overview": false,
+      "published_at": "2026-06-17",
+      "hashtags": [
+        "#kingslanding",
+        "#theredkeep",
+        "#ironthrone",
+        "#gameofthrones",
+        "#asoiaf"
+      ],
+      "reach": 43,
+      "likes": 3,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 45,
+      "history": {
+        "2026-06-17": {
+          "age_days": 0,
+          "reach": 43,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 45
         }
       }
     }
@@ -1685,11 +1939,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 55,
+            "reach": 56,
             "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 117
+            "views": 119
           }
         },
         {
@@ -1729,11 +1983,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 62,
+            "reach": 63,
             "likes": 11,
             "saved": 0,
             "shares": 0,
-            "views": 136
+            "views": 137
           }
         },
         {
@@ -1773,11 +2027,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 66,
+            "reach": 68,
             "likes": 15,
             "saved": 2,
             "shares": 0,
-            "views": 113
+            "views": 116
           }
         },
         {
@@ -1818,11 +2072,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 54,
+            "reach": 55,
             "likes": 9,
             "saved": 2,
             "shares": 0,
-            "views": 83
+            "views": 85
           }
         },
         {
@@ -1862,11 +2116,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 59,
+            "reach": 62,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 105
+            "views": 110
           }
         },
         {
@@ -1906,11 +2160,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 157,
+            "reach": 158,
             "likes": 8,
             "saved": 1,
             "shares": 0,
-            "views": 171
+            "views": 172
           }
         },
         {
@@ -1951,11 +2205,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 75,
+            "reach": 79,
             "likes": 9,
             "saved": 1,
             "shares": 0,
-            "views": 124
+            "views": 129
           }
         }
       ]
@@ -1998,11 +2252,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 159,
+            "reach": 161,
             "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 215
+            "views": 218
           }
         },
         {
@@ -2040,11 +2294,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 172,
+            "reach": 173,
             "likes": 15,
             "saved": 0,
             "shares": 0,
-            "views": 213
+            "views": 214
           }
         },
         {
@@ -2075,11 +2329,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 328,
+            "reach": 334,
             "likes": 18,
             "saved": 1,
             "shares": 0,
-            "views": 459
+            "views": 470
           }
         },
         {
@@ -2110,11 +2364,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 136,
-            "likes": 9,
+            "reach": 141,
+            "likes": 11,
             "saved": 0,
             "shares": 0,
-            "views": 163
+            "views": 173
           }
         }
       ]
@@ -2158,11 +2412,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 49,
-            "likes": 8,
+            "reach": 51,
+            "likes": 9,
             "saved": 0,
             "shares": 0,
-            "views": 117
+            "views": 120
           }
         }
       ]
@@ -2203,11 +2457,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 45,
+            "reach": 49,
             "likes": 9,
             "saved": 0,
             "shares": 0,
-            "views": 71
+            "views": 74
           }
         },
         {
@@ -2243,11 +2497,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 40,
+            "reach": 42,
             "likes": 1,
             "saved": 0,
             "shares": 0,
-            "views": 51
+            "views": 53
           }
         }
       ]
@@ -2292,11 +2546,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 36,
+            "reach": 43,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 75
+            "views": 85
           }
         },
         {
@@ -2327,11 +2581,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 95,
-            "likes": 6,
+            "reach": 105,
+            "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 110
+            "views": 126
           }
         },
         {
@@ -2362,11 +2616,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 30,
-            "likes": 8,
+            "reach": 46,
+            "likes": 11,
             "saved": 0,
             "shares": 0,
-            "views": 52
+            "views": 88
           }
         },
         {
@@ -2397,11 +2651,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 18,
-            "likes": 0,
+            "reach": 83,
+            "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 21
+            "views": 95
           }
         },
         {
@@ -2425,12 +2679,23 @@
           "facebook": true,
           "story": false,
           "comment_posted": true,
-          "comments": null,
-          "metrics": null
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 18,
+            "likes": 2,
+            "saved": 0,
+            "shares": 0,
+            "views": 31
+          }
         },
         {
           "title": "Approdo del Re (King's Landing)",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-17",
           "scheduled_time": "13:00",
           "is_overview": false,
@@ -2444,13 +2709,24 @@
             "#gameofthrones",
             "#asoiaf"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "media_id": "18174180511414191",
+          "published_at": "2026-06-17",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 43,
+            "likes": 3,
+            "saved": 0,
+            "shares": 0,
+            "views": 45
+          }
         },
         {
           "title": "Vecchia Città e la Torre Alta (Oldtown / Hightower)",
@@ -3422,6 +3698,96 @@
       "trend": "stabile",
       "note": "italiana psichedelica, pochi post",
       "updated": "2026-06-13"
+    },
+    "#emeraldcity": {
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "spinta da Wicked, tema Oz",
+      "updated": "2026-06-17"
+    },
+    "#wizardofoz": {
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "rilancio Wicked for Good 2026",
+      "updated": "2026-06-17"
+    },
+    "#cittadidismeraldo": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "tag italiano, pochissimi post",
+      "updated": "2026-06-17"
+    },
+    "#dndworld": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "community fantasy/gdr attiva",
+      "updated": "2026-06-17"
+    },
+    "#tinman": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "personaggio Oz, traino Wicked",
+      "updated": "2026-06-17"
+    },
+    "#landofoz": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "fandom Oz di settore",
+      "updated": "2026-06-17"
+    },
+    "#illustration": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "oltre 80M post, sovraffollato",
+      "updated": "2026-06-17"
+    },
+    "#fantasycharacter": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "circa 150k, mirato e attivo",
+      "updated": "2026-06-17"
+    },
+    "#conceptart": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "7.6M post, molto competitivo",
+      "updated": "2026-06-17"
+    },
+    "#cowardlylion": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "personaggio Oz, pochi post",
+      "updated": "2026-06-17"
+    },
+    "#lion": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "generico, milioni di post",
+      "updated": "2026-06-17"
+    },
+    "#scarecrow": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "misto Oz/Halloween/rurale",
+      "updated": "2026-06-17"
+    },
+    "#handdrawnart": {
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "valorizza il fatto a mano",
+      "updated": "2026-06-17"
+    },
+    "#dorothy": {
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "nome+Oz, spinta Wicked",
+      "updated": "2026-06-17"
+    },
+    "#storytelling": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "7M post, troppo generico",
+      "updated": "2026-06-17"
     }
   },
   "learnings": [
@@ -3514,45 +3880,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-16T07:30:28",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Il Nido dell'Aquila (The Eyrie)» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-16T13:01:13",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Il Nido dell'Aquila (The Eyrie)»",
-      "extra": {
-        "media_id": "17921648247363972"
-      }
-    },
-    {
-      "ts": "2026-06-16T13:01:21",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Il Nido dell'Aquila (The Eyrie)»"
-    },
-    {
-      "ts": "2026-06-16T13:01:32",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Il Nido dell'Aquila (The Eyrie)»"
-    },
-    {
-      "ts": "2026-06-16T13:30:28",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Il Nido dell'Aquila (The Eyrie)» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-16T14:16:54",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 3 Storie pubblicate"
-    },
-    {
       "ts": "2026-06-17T06:01:33",
       "severity": "info",
       "source": "competitors",
@@ -3608,6 +3935,45 @@
       "severity": "info",
       "source": "competitors",
       "message": "🔎 Competitor (dati reali): 14 account letti · formato top: IMAGE · ~1.5 post/sett. I numeri dicono che nella nicchia delle mappe fantasy l'immagine singola batte nettamente Reel e caroselli per engagemen — nuovi: @fantasymapshop, @lightheartadventures — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
+    },
+    {
+      "ts": "2026-06-17T13:02:18",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Approdo del Re (King's Landing)»",
+      "extra": {
+        "media_id": "18174180511414191"
+      }
+    },
+    {
+      "ts": "2026-06-17T13:02:23",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Approdo del Re (King's Landing)»"
+    },
+    {
+      "ts": "2026-06-17T13:02:35",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Approdo del Re (King's Landing)»"
+    },
+    {
+      "ts": "2026-06-17T13:04:06",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Approdo del Re (King's Landing)»"
+    },
+    {
+      "ts": "2026-06-17T13:30:28",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Approdo del Re (King's Landing)» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-17T14:16:38",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 4 Storie pubblicate"
     }
   ],
   "ideas": {
@@ -4351,13 +4717,13 @@
     "generated_at": "2026-06-16T09:09"
   },
   "boost": {
-    "generated_at": "2026-06-17T08:04",
+    "generated_at": "2026-06-17T20:01",
     "suggestion": {
       "media_id": "18109669757309294",
       "title": "Nascono le città del regno",
       "kind": "reel",
       "published_at": "2026-06-13",
-      "age_days": 3,
+      "age_days": 4,
       "confidence": "media",
       "objective": "Visite al profilo (proxy crescita follower)",
       "budget_eur_day": 5,
@@ -4382,15 +4748,15 @@
         ]
       },
       "why": [
-        "reach 328 = 5.12× la tua media recente (64)",
-        "459 views",
+        "reach 334 = 5.1× la tua media recente (66)",
+        "470 views",
         "1 salvataggi, 0 condivisioni",
         "reach pari al 36% dei tuoi follower"
       ]
     },
-    "considered": 14,
+    "considered": 16,
     "baseline": {
-      "reach_median": 64.0
+      "reach_median": 65.5
     },
     "last_notified": "18109669757309294"
   },
@@ -5034,25 +5400,25 @@
     "followers_end": 918,
     "followers_gained": 4,
     "from": "2026-06-10",
-    "to": "2026-06-16",
+    "to": "2026-06-17",
     "top_posts": [
       {
         "title": "Nascono le città del regno",
-        "reach": 328,
+        "reach": 334,
         "saved": 1,
         "shares": 0,
         "likes": 18
       },
       {
         "title": "Montagne e foreste a inchiostro",
-        "reach": 172,
+        "reach": 173,
         "saved": 0,
         "shares": 0,
         "likes": 15
       },
       {
         "title": "Highcrest, il castello tra le vette",
-        "reach": 66,
+        "reach": 68,
         "saved": 2,
         "shares": 0,
         "likes": 15
