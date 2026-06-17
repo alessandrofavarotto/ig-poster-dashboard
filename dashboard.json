@@ -2424,7 +2424,7 @@
           "published_at": "2026-06-17",
           "facebook": true,
           "story": false,
-          "comment_posted": false,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -3514,27 +3514,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-15T14:15:32",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 2 Storie pubblicate"
-    },
-    {
-      "ts": "2026-06-16T07:00:14",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Il Nido dell'Aquila (The Eyrie)»",
-      "extra": {
-        "media_id": "18442943161143579"
-      }
-    },
-    {
-      "ts": "2026-06-16T07:00:19",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Il Nido dell'Aquila (The Eyrie)»"
-    },
-    {
       "ts": "2026-06-16T07:30:28",
       "severity": "info",
       "source": "comments",
@@ -3611,6 +3590,24 @@
       "severity": "info",
       "source": "competitors",
       "message": "🔎 Competitor (dati reali): 14 account letti · formato top: IMAGE · ~1.5 post/sett. (sintesi AI non riuscita: Expecting value: line 1 column 1 (char 0); findings reali comunque salvati) — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
+    },
+    {
+      "ts": "2026-06-17T09:21:46",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Competitor (dati reali): 14 account letti · formato top: IMAGE · ~1.5 post/sett. (sintesi AI non riuscita: Expecting value: line 1 column 1 (char 0); findings reali comunque salvati) — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
+    },
+    {
+      "ts": "2026-06-17T09:30:35",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Approdo del Re (King's Landing)» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-17T09:34:51",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Competitor (dati reali): 14 account letti · formato top: IMAGE · ~1.5 post/sett. I numeri dicono che nella nicchia delle mappe fantasy l'immagine singola batte nettamente Reel e caroselli per engagemen — nuovi: @fantasymapshop, @lightheartadventures — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
     }
   ],
   "ideas": {
@@ -4416,7 +4413,9 @@
       "mapeffects",
       "czepeku_dnd_maps",
       "inkarnaterpg",
-      "krsolbergauthor"
+      "krsolbergauthor",
+      "fantasymapshop",
+      "lightheartadventures"
     ],
     "runs": [
       {
@@ -4559,6 +4558,321 @@
         "summary": "(sintesi AI non riuscita: Expecting value: line 1 column 1 (char 0); findings reali comunque salvati)",
         "new_handles": [],
         "lessons": [],
+        "stats": {
+          "readable": 14,
+          "unreadable": 4,
+          "best_format": "IMAGE",
+          "best_formats": [
+            {
+              "type": "IMAGE",
+              "avg_engagement": 562,
+              "campione": 125
+            },
+            {
+              "type": "REELS",
+              "avg_engagement": 208,
+              "campione": 68
+            },
+            {
+              "type": "CAROUSEL_ALBUM",
+              "avg_engagement": 194,
+              "campione": 156
+            }
+          ],
+          "median_posts_per_week": 1.5,
+          "top_hashtags": [
+            "dnd",
+            "worldbuilding",
+            "fantasymap",
+            "map",
+            "dungeonsanddragons",
+            "art",
+            "rpg",
+            "fantasy",
+            "cartography",
+            "fantasycartography",
+            "handdrawn",
+            "dndart",
+            "fantasymaps",
+            "roleplay",
+            "dungeonmaster"
+          ]
+        },
+        "accounts": [
+          {
+            "handle": "mapeffects",
+            "followers": 131595,
+            "media_count": 1305,
+            "avg_eng": 563,
+            "posts_per_week": 5.6
+          },
+          {
+            "handle": "paths.peculiar",
+            "followers": 82015,
+            "media_count": 1051,
+            "avg_eng": 1364,
+            "posts_per_week": 1.4
+          },
+          {
+            "handle": "inkarnaterpg",
+            "followers": 70406,
+            "media_count": 1542,
+            "avg_eng": 545,
+            "posts_per_week": 3.4
+          },
+          {
+            "handle": "danielsmaps",
+            "followers": 62739,
+            "media_count": 1744,
+            "avg_eng": 290,
+            "posts_per_week": 4.4
+          },
+          {
+            "handle": "czepeku_dnd_maps",
+            "followers": 21687,
+            "media_count": 1611,
+            "avg_eng": 232,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "dungeonmapster",
+            "followers": 20733,
+            "media_count": 1128,
+            "avg_eng": 156,
+            "posts_per_week": 1.3
+          },
+          {
+            "handle": "mapsbyowen",
+            "followers": 14992,
+            "media_count": 283,
+            "avg_eng": 353,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "inkcompass.maps",
+            "followers": 14121,
+            "media_count": 1009,
+            "avg_eng": 108,
+            "posts_per_week": 3.7
+          },
+          {
+            "handle": "fantasymapink",
+            "followers": 14121,
+            "media_count": 169,
+            "avg_eng": 417,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "domino44maps",
+            "followers": 6882,
+            "media_count": 413,
+            "avg_eng": 213,
+            "posts_per_week": 1.6
+          },
+          {
+            "handle": "morenopaissanart",
+            "followers": 5679,
+            "media_count": 580,
+            "avg_eng": 76,
+            "posts_per_week": 8.0
+          },
+          {
+            "handle": "bewarethewizard",
+            "followers": 5498,
+            "media_count": 140,
+            "avg_eng": 44,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "fantasy.cartography",
+            "followers": 1327,
+            "media_count": 42,
+            "avg_eng": 81,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "krsolbergauthor",
+            "followers": 540,
+            "media_count": 147,
+            "avg_eng": 142,
+            "posts_per_week": 2.1
+          }
+        ],
+        "unreadable_handles": [
+          "francescabaerald",
+          "devenrue",
+          "mistybeee",
+          "feedthemultiverse"
+        ]
+      },
+      {
+        "date": "2026-06-17",
+        "summary": "(sintesi AI non riuscita: Expecting value: line 1 column 1 (char 0); findings reali comunque salvati)",
+        "new_handles": [],
+        "lessons": [],
+        "stats": {
+          "readable": 14,
+          "unreadable": 4,
+          "best_format": "IMAGE",
+          "best_formats": [
+            {
+              "type": "IMAGE",
+              "avg_engagement": 562,
+              "campione": 125
+            },
+            {
+              "type": "REELS",
+              "avg_engagement": 208,
+              "campione": 68
+            },
+            {
+              "type": "CAROUSEL_ALBUM",
+              "avg_engagement": 194,
+              "campione": 156
+            }
+          ],
+          "median_posts_per_week": 1.5,
+          "top_hashtags": [
+            "dnd",
+            "worldbuilding",
+            "fantasymap",
+            "map",
+            "dungeonsanddragons",
+            "art",
+            "rpg",
+            "fantasy",
+            "cartography",
+            "fantasycartography",
+            "handdrawn",
+            "dndart",
+            "fantasymaps",
+            "roleplay",
+            "dungeonmaster"
+          ]
+        },
+        "accounts": [
+          {
+            "handle": "mapeffects",
+            "followers": 131595,
+            "media_count": 1305,
+            "avg_eng": 563,
+            "posts_per_week": 5.6
+          },
+          {
+            "handle": "paths.peculiar",
+            "followers": 82015,
+            "media_count": 1051,
+            "avg_eng": 1364,
+            "posts_per_week": 1.4
+          },
+          {
+            "handle": "inkarnaterpg",
+            "followers": 70406,
+            "media_count": 1542,
+            "avg_eng": 545,
+            "posts_per_week": 3.4
+          },
+          {
+            "handle": "danielsmaps",
+            "followers": 62739,
+            "media_count": 1744,
+            "avg_eng": 290,
+            "posts_per_week": 4.4
+          },
+          {
+            "handle": "czepeku_dnd_maps",
+            "followers": 21687,
+            "media_count": 1611,
+            "avg_eng": 232,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "dungeonmapster",
+            "followers": 20733,
+            "media_count": 1128,
+            "avg_eng": 156,
+            "posts_per_week": 1.3
+          },
+          {
+            "handle": "mapsbyowen",
+            "followers": 14992,
+            "media_count": 283,
+            "avg_eng": 353,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "inkcompass.maps",
+            "followers": 14121,
+            "media_count": 1009,
+            "avg_eng": 108,
+            "posts_per_week": 3.7
+          },
+          {
+            "handle": "fantasymapink",
+            "followers": 14121,
+            "media_count": 169,
+            "avg_eng": 417,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "domino44maps",
+            "followers": 6882,
+            "media_count": 413,
+            "avg_eng": 213,
+            "posts_per_week": 1.6
+          },
+          {
+            "handle": "morenopaissanart",
+            "followers": 5679,
+            "media_count": 580,
+            "avg_eng": 76,
+            "posts_per_week": 8.0
+          },
+          {
+            "handle": "bewarethewizard",
+            "followers": 5498,
+            "media_count": 140,
+            "avg_eng": 44,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "fantasy.cartography",
+            "followers": 1327,
+            "media_count": 42,
+            "avg_eng": 81,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "krsolbergauthor",
+            "followers": 540,
+            "media_count": 147,
+            "avg_eng": 142,
+            "posts_per_week": 2.1
+          }
+        ],
+        "unreadable_handles": [
+          "francescabaerald",
+          "devenrue",
+          "mistybeee",
+          "feedthemultiverse"
+        ]
+      },
+      {
+        "date": "2026-06-17",
+        "summary": "I numeri dicono che nella nicchia delle mappe fantasy l'immagine singola batte nettamente Reel e caroselli per engagement (562 vs 208 vs 194), e che la frequenza alta non paga: gli account con il miglior engagement (paths.peculiar 1364, mapsbyowen 353) pubblicano poco ma curatissimo, mentre chi spara 8 post/settimana resta sotto 80. La strategia vincente è qualità e scarsità curata sul post-immagine, un mix di hashtag che unisca il mondo D&D/TTRPG (dnd, dungeonsanddragons, rpg) a quello cartografico-artistico (fantasymap, handdrawn, fantasycartography), puntando sul tasso di engagement della community più che sui follower assoluti.",
+        "new_handles": [
+          "fantasymapshop",
+          "lightheartadventures"
+        ],
+        "lessons": [
+          "Il formato IMAGE domina: 562 di engagement medio (campione 125) contro 208 dei REELS e 194 dei CAROUSEL_ALBUM, cioè ~2,7x i Reel e ~2,9x i caroselli. La mappa singola, statica e ad alta risoluzione resta il nostro asset principale — vanno privilegiati i post immagine (mappa intera/overview) sui caroselli di dettaglio, e i Reel vanno usati solo come leva reach verso i non-follower, non come formato di engagement.",
+          "Più volume NON significa più engagement: morenopaissanart pubblica 8 post/settimana ma ha solo 76 di engagement medio, mentre paths.peculiar con appena 1,4 post/settimana fa 1364 (il massimo del campione). La mediana di nicchia è 1,5 post/settimana: il nostro ritmo di ~1 post/giorno è già sopra la norma, quindi conviene spostare l'asticella sulla qualità/curatela del singolo post piuttosto che spingere la frequenza.",
+          "Il caso paths.peculiar (82k follower, 1364 eng, 1,4 post/sett) e mapsbyowen (15k, 353 eng, 0,2 post/sett) dimostra che la 'scarsità curata' premia: pochi post ma di altissimo impatto visivo. Per noi significa concentrare le mappe migliori come post-immagine in primo slot e non diluire il feed con troppi dettagli decomposti a basso valore.",
+          "Gli hashtag a maggior copertura nella nicchia ruotano attorno al gioco di ruolo, non solo all'arte: 'dnd', 'dungeonsanddragons', 'rpg', 'roleplay', 'dungeonmaster' compaiono in cima insieme a 'worldbuilding', 'fantasymap', 'fantasycartography', 'handdrawn'. Conviene inserire stabilmente nel mix un blocco TTRPG/D&D (dnd, dungeonsanddragons, rpg, dungeonmaster) accanto a quelli artistici/cartografici — è lì che si concentra il pubblico attivo della nicchia.",
+          "Esiste spazio per gli account piccoli: krsolbergauthor con 540 follower ottiene 142 di engagement (tasso ~26%) e fantasymapink fa 417 con 14k follower (~3%), mentre i grandi come danielsmaps stanno sotto lo 0,5%. Nelle prime fasi il tasso di engagement conta più dei follower assoluti: puntare su community ristretta e interazione (commenti, sondaggi, DM dalle Storie) è coerente coi numeri.",
+          "'handdrawn' è tra i top hashtag: il disegnato a mano è un fattore distintivo riconosciuto dall'algoritmo della nicchia. Va valorizzato esplicitamente in caption e tag (handdrawn, fantasycartography) perché ci differenzia dai generatori/tool come inkarnaterpg e czepeku.",
+          "I caroselli hanno il campione più ampio (156) ma l'engagement più basso (194): sono molto usati dai competitor ma rendono poco. Per noi il carosello va riservato a contenuti dove la sequenza aggiunge davvero valore (es. progressione del disegno o zoom narrativo), non come default — meglio una singola immagine forte."
+        ],
         "stats": {
           "readable": 14,
           "unreadable": 4,
