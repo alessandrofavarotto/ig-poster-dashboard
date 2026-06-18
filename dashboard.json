@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17",
+  "generated_at": "2026-06-18",
   "account": [
     {
       "date": "2026-06-05",
@@ -4712,9 +4712,28 @@
         "link": "https://www.cartographersguild.com/content.php?r=192-challenges",
         "status": "open",
         "created_at": "2026-06-16T08:44"
+      },
+      {
+        "format": "reel",
+        "title": "Da bianco a pergamena antica: invecchio la mappa in 15 secondi",
+        "cosa_fare": "Registra in time-lapse il processo di 'aging': tè/caffè per macchiare la carta, bordi bruciacchiati, lavaggio d'inchiostro diluito e ombreggiature. Mostra un before/after secco all'inizio (carta bianca) e alla fine (mappa vissuta), con scritta-keyword iniziale 'mappa fantasy invecchiata a mano'.",
+        "perche": "È un trasformazione before/after estremamente 'soddisfacente' e inoltrabile (genera sends in DM, il segnale n.1) con un reveal che tiene alto il watch-time fino alla fine; il testo a schermo con keyword aiuta la ricerca e il gancio nei primi 1-2s decide la distribuzione ai non-follower.",
+        "gancio": "Questa carta bianca diventerà una pergamena di 300 anni in 15 secondi",
+        "hashtags": [
+          "#fantasymap",
+          "#handdrawn",
+          "#fantasycartography",
+          "#worldbuilding",
+          "#dndmaps",
+          "#mapmaking",
+          "#artprocess"
+        ],
+        "id": "da-bianco-a-pergamena-antica-invecchio-la-mappa-in",
+        "status": "open",
+        "created_at": "2026-06-18T06:00"
       }
     ],
-    "generated_at": "2026-06-16T09:09"
+    "generated_at": "2026-06-18T06:00"
   },
   "boost": {
     "generated_at": "2026-06-17T20:01",
@@ -5399,7 +5418,7 @@
     "followers_start": 914,
     "followers_end": 918,
     "followers_gained": 4,
-    "from": "2026-06-10",
+    "from": "2026-06-11",
     "to": "2026-06-17",
     "top_posts": [
       {
