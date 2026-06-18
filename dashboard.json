@@ -130,6 +130,16 @@
       "views": 654,
       "accounts_engaged": 19,
       "total_interactions": 38
+    },
+    {
+      "date": "2026-06-18",
+      "followers_count": 919,
+      "media_count": 659,
+      "reach": 224,
+      "profile_views": 2,
+      "views": 707,
+      "accounts_engaged": 15,
+      "total_interactions": 36
     }
   ],
   "posts": [
@@ -290,6 +300,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 119
+        },
+        "2026-06-18": {
+          "age_days": 13,
+          "reach": 56,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 119
         }
       }
     },
@@ -441,6 +461,16 @@
           "shares": 0,
           "total_interactions": 16,
           "views": 137
+        },
+        "2026-06-18": {
+          "age_days": 12,
+          "reach": 63,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 137
         }
       }
     },
@@ -466,12 +496,12 @@
         "#cittafantasy",
         "#illustrazione"
       ],
-      "reach": 68,
+      "reach": 69,
       "likes": 15,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 116,
+      "views": 117,
       "history": {
         "2026-06-07": {
           "age_days": 0,
@@ -582,6 +612,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 116
+        },
+        "2026-06-18": {
+          "age_days": 11,
+          "reach": 69,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 117
         }
       }
     },
@@ -608,12 +648,12 @@
         "#fantasyworld",
         "#illustrazione"
       ],
-      "reach": 55,
+      "reach": 56,
       "likes": 9,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 85,
+      "views": 86,
       "history": {
         "2026-06-08": {
           "age_days": 0,
@@ -714,6 +754,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 85
+        },
+        "2026-06-18": {
+          "age_days": 10,
+          "reach": 56,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 86
         }
       }
     },
@@ -739,12 +789,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 62,
-      "likes": 7,
+      "reach": 63,
+      "likes": 8,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 110,
+      "views": 111,
       "history": {
         "2026-06-09": {
           "age_days": 0,
@@ -835,6 +885,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 110
+        },
+        "2026-06-18": {
+          "age_days": 9,
+          "reach": 63,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 111
         }
       }
     },
@@ -956,6 +1016,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 172
+        },
+        "2026-06-18": {
+          "age_days": 9,
+          "reach": 158,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 172
         }
       }
     },
@@ -982,12 +1052,12 @@
         "#artfantasy",
         "#giochidiruolo"
       ],
-      "reach": 79,
+      "reach": 80,
       "likes": 9,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 129,
+      "views": 130,
       "history": {
         "2026-06-10": {
           "age_days": 0,
@@ -1068,6 +1138,16 @@
           "shares": 0,
           "total_interactions": 12,
           "views": 129
+        },
+        "2026-06-18": {
+          "age_days": 8,
+          "reach": 80,
+          "likes": 9,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 130
         }
       }
     },
@@ -1167,6 +1247,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 218
+        },
+        "2026-06-18": {
+          "age_days": 7,
+          "reach": 161,
+          "likes": 6,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 218
         }
       }
     },
@@ -1190,12 +1280,12 @@
         "#speedpaint",
         "#disegnoamano"
       ],
-      "reach": 173,
+      "reach": 174,
       "likes": 15,
       "saved": 0,
       "shares": 0,
       "comments": 4,
-      "views": 214,
+      "views": 216,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -1256,6 +1346,16 @@
           "shares": 0,
           "total_interactions": 22,
           "views": 214
+        },
+        "2026-06-18": {
+          "age_days": 6,
+          "reach": 174,
+          "likes": 15,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 22,
+          "views": 216
         }
       }
     },
@@ -1280,12 +1380,12 @@
         "#characterdesign",
         "#artistsoninstagram"
       ],
-      "reach": 51,
+      "reach": 52,
       "likes": 9,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 120,
+      "views": 121,
       "history": {
         "2026-06-12": {
           "age_days": 0,
@@ -1346,6 +1446,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 120
+        },
+        "2026-06-18": {
+          "age_days": 6,
+          "reach": 52,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 121
         }
       }
     },
@@ -1367,12 +1477,12 @@
         "#darkillustration",
         "#artepsichedelica"
       ],
-      "reach": 49,
+      "reach": 50,
       "likes": 9,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 74,
+      "views": 76,
       "history": {
         "2026-06-13": {
           "age_days": 0,
@@ -1423,6 +1533,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 74
+        },
+        "2026-06-18": {
+          "age_days": 5,
+          "reach": 50,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 76
         }
       }
     },
@@ -1445,7 +1565,7 @@
         "#artepsichedelica"
       ],
       "reach": 42,
-      "likes": 1,
+      "likes": 2,
       "saved": 0,
       "shares": 0,
       "comments": 0,
@@ -1500,6 +1620,16 @@
           "shares": 0,
           "total_interactions": 3,
           "views": 53
+        },
+        "2026-06-18": {
+          "age_days": 5,
+          "reach": 42,
+          "likes": 2,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 53
         }
       }
     },
@@ -1517,7 +1647,7 @@
         "#castle"
       ],
       "reach": 334,
-      "likes": 18,
+      "likes": 19,
       "saved": 1,
       "shares": 0,
       "comments": 2,
@@ -1572,6 +1702,16 @@
           "shares": 0,
           "total_interactions": 22,
           "views": 470
+        },
+        "2026-06-18": {
+          "age_days": 5,
+          "reach": 334,
+          "likes": 19,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 23,
+          "views": 470
         }
       }
     },
@@ -1589,7 +1729,7 @@
         "#timelapseart"
       ],
       "reach": 141,
-      "likes": 11,
+      "likes": 12,
       "saved": 0,
       "shares": 0,
       "comments": 2,
@@ -1634,6 +1774,16 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 173
+        },
+        "2026-06-18": {
+          "age_days": 4,
+          "reach": 141,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 173
         }
       }
     },
@@ -1659,12 +1809,12 @@
         "#dndmaps",
         "#hboitalia"
       ],
-      "reach": 43,
+      "reach": 45,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 85,
+      "views": 88,
       "history": {
         "2026-06-15": {
           "age_days": 0,
@@ -1695,6 +1845,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 85
+        },
+        "2026-06-18": {
+          "age_days": 3,
+          "reach": 45,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 88
         }
       }
     },
@@ -1747,6 +1907,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 126
+        },
+        "2026-06-18": {
+          "age_days": 3,
+          "reach": 105,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 126
         }
       }
     },
@@ -1763,12 +1933,12 @@
         "#fantasymap",
         "#westeros"
       ],
-      "reach": 46,
+      "reach": 51,
       "likes": 11,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 88,
+      "views": 94,
       "history": {
         "2026-06-16": {
           "age_days": 0,
@@ -1789,6 +1959,16 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 88
+        },
+        "2026-06-18": {
+          "age_days": 2,
+          "reach": 51,
+          "likes": 11,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 94
         }
       }
     },
@@ -1805,12 +1985,12 @@
         "#asoiaf",
         "#westeros"
       ],
-      "reach": 83,
+      "reach": 85,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 4,
-      "views": 95,
+      "views": 99,
       "history": {
         "2026-06-16": {
           "age_days": 0,
@@ -1831,6 +2011,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 95
+        },
+        "2026-06-18": {
+          "age_days": 2,
+          "reach": 85,
+          "likes": 5,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 99
         }
       }
     },
@@ -1847,12 +2037,12 @@
         "#fantasymap",
         "#kingslanding"
       ],
-      "reach": 18,
-      "likes": 2,
+      "reach": 30,
+      "likes": 4,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 31,
+      "views": 50,
       "history": {
         "2026-06-17": {
           "age_days": 0,
@@ -1863,6 +2053,16 @@
           "shares": 0,
           "total_interactions": 4,
           "views": 31
+        },
+        "2026-06-18": {
+          "age_days": 1,
+          "reach": 30,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 50
         }
       }
     },
@@ -1879,12 +2079,12 @@
         "#gameofthrones",
         "#asoiaf"
       ],
-      "reach": 43,
-      "likes": 3,
+      "reach": 112,
+      "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 45,
+      "views": 119,
       "history": {
         "2026-06-17": {
           "age_days": 0,
@@ -1895,6 +2095,80 @@
           "shares": 0,
           "total_interactions": 5,
           "views": 45
+        },
+        "2026-06-18": {
+          "age_days": 1,
+          "reach": 112,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 119
+        }
+      }
+    },
+    {
+      "media_id": "18110837350919838",
+      "title": "Vecchia Città e la Torre Alta (Oldtown / Hightower)",
+      "source_image": "game_of_thrones.png",
+      "is_overview": false,
+      "published_at": "2026-06-18",
+      "hashtags": [
+        "#gameofthrones",
+        "#asoiaf",
+        "#westeros",
+        "#fantasymap",
+        "#dndmaps"
+      ],
+      "reach": 18,
+      "likes": 4,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 23,
+      "history": {
+        "2026-06-18": {
+          "age_days": 0,
+          "reach": 18,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 23
+        }
+      }
+    },
+    {
+      "media_id": "17920876623165953",
+      "title": "Vecchia Città e la Torre Alta (Oldtown / Hightower)",
+      "source_image": "game_of_thrones.png",
+      "is_overview": false,
+      "published_at": "2026-06-18",
+      "hashtags": [
+        "#oldtown",
+        "#thehightower",
+        "#thecitadel",
+        "#gameofthrones",
+        "#asoiaf"
+      ],
+      "reach": 19,
+      "likes": 1,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 23,
+      "history": {
+        "2026-06-18": {
+          "age_days": 0,
+          "reach": 19,
+          "likes": 1,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 3,
+          "views": 23
         }
       }
     }
@@ -2027,11 +2301,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 68,
+            "reach": 69,
             "likes": 15,
             "saved": 2,
             "shares": 0,
-            "views": 116
+            "views": 117
           }
         },
         {
@@ -2072,11 +2346,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 55,
+            "reach": 56,
             "likes": 9,
             "saved": 2,
             "shares": 0,
-            "views": 85
+            "views": 86
           }
         },
         {
@@ -2116,11 +2390,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 62,
-            "likes": 7,
+            "reach": 63,
+            "likes": 8,
             "saved": 1,
             "shares": 0,
-            "views": 110
+            "views": 111
           }
         },
         {
@@ -2205,11 +2479,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 79,
+            "reach": 80,
             "likes": 9,
             "saved": 1,
             "shares": 0,
-            "views": 129
+            "views": 130
           }
         }
       ]
@@ -2294,11 +2568,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 173,
+            "reach": 174,
             "likes": 15,
             "saved": 0,
             "shares": 0,
-            "views": 214
+            "views": 216
           }
         },
         {
@@ -2330,7 +2604,7 @@
           },
           "metrics": {
             "reach": 334,
-            "likes": 18,
+            "likes": 19,
             "saved": 1,
             "shares": 0,
             "views": 470
@@ -2365,7 +2639,7 @@
           },
           "metrics": {
             "reach": 141,
-            "likes": 11,
+            "likes": 12,
             "saved": 0,
             "shares": 0,
             "views": 173
@@ -2412,11 +2686,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 51,
+            "reach": 52,
             "likes": 9,
             "saved": 0,
             "shares": 0,
-            "views": 120
+            "views": 121
           }
         }
       ]
@@ -2457,11 +2731,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 49,
+            "reach": 50,
             "likes": 9,
             "saved": 0,
             "shares": 0,
-            "views": 74
+            "views": 76
           }
         },
         {
@@ -2498,7 +2772,7 @@
           },
           "metrics": {
             "reach": 42,
-            "likes": 1,
+            "likes": 2,
             "saved": 0,
             "shares": 0,
             "views": 53
@@ -2546,11 +2820,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 43,
+            "reach": 45,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 85
+            "views": 88
           }
         },
         {
@@ -2616,11 +2890,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 46,
+            "reach": 51,
             "likes": 11,
             "saved": 0,
             "shares": 0,
-            "views": 88
+            "views": 94
           }
         },
         {
@@ -2651,11 +2925,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 83,
+            "reach": 85,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 95
+            "views": 99
           }
         },
         {
@@ -2686,11 +2960,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 18,
-            "likes": 2,
+            "reach": 30,
+            "likes": 4,
             "saved": 0,
             "shares": 0,
-            "views": 31
+            "views": 50
           }
         },
         {
@@ -2721,16 +2995,16 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 43,
-            "likes": 3,
+            "reach": 112,
+            "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 45
+            "views": 119
           }
         },
         {
           "title": "Vecchia Città e la Torre Alta (Oldtown / Hightower)",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-18",
           "scheduled_time": "13:00",
           "is_overview": false,
@@ -2744,17 +3018,28 @@
             "#fantasymap",
             "#dndmaps"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18110837350919838",
+          "published_at": "2026-06-18",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 18,
+            "likes": 4,
+            "saved": 0,
+            "shares": 0,
+            "views": 23
+          }
         },
         {
           "title": "Vecchia Città e la Torre Alta (Oldtown / Hightower)",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-06-18",
           "scheduled_time": "17:00",
           "is_overview": false,
@@ -2768,13 +3053,24 @@
             "#gameofthrones",
             "#asoiaf"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "media_id": "17920876623165953",
+          "published_at": "2026-06-18",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 19,
+            "likes": 1,
+            "saved": 0,
+            "shares": 0,
+            "views": 23
+          }
         },
         {
           "title": "Grande Inverno (Winterfell)",
@@ -3510,116 +3806,116 @@
     "#braavos": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "città GoT, pochi post",
-      "updated": "2026-06-11"
+      "note": "luogo GoT, pochi post",
+      "updated": "2026-06-18"
     },
     "#gameofthrones": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "circa 9,7M post, sovraffollato",
-      "updated": "2026-06-11"
+      "note": "9,7M post, altissima concorrenza",
+      "updated": "2026-06-18"
     },
     "#asoiaf": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "fandom libri, pubblico fedele",
-      "updated": "2026-06-11"
+      "note": "community libri, abbreviazione attiva",
+      "updated": "2026-06-18"
     },
     "#asongoficeandfire": {
       "tier": "medio",
       "trend": "stabile",
       "note": "nome esteso, meno usato",
-      "updated": "2026-06-11"
+      "updated": "2026-06-18"
     },
     "#fantasycartography": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "mappe fantasy, community attiva",
-      "updated": "2026-06-11"
+      "note": "~15k post, molto mirato",
+      "updated": "2026-06-18"
     },
     "#got": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "generico e ambiguo, dispersivo",
-      "updated": "2026-06-11"
+      "note": "ambiguo e sovraffollato",
+      "updated": "2026-06-18"
     },
     "#hboitalia": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "canale italiano, target locale",
-      "updated": "2026-06-11"
+      "note": "italiano, pochissimi post",
+      "updated": "2026-06-18"
     },
     "#theeyrie": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "luogo GoT, pochissimi post",
-      "updated": "2026-06-11"
+      "note": "luogo GoT poco usato",
+      "updated": "2026-06-18"
     },
     "#houseofarryn": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "casata minore, poco usato",
-      "updated": "2026-06-11"
+      "note": "casata minore, rari post",
+      "updated": "2026-06-18"
     },
     "#westeros": {
       "tier": "medio",
       "trend": "stabile",
       "note": "mondo GoT, ben usato",
-      "updated": "2026-06-11"
+      "updated": "2026-06-18"
     },
     "#kingslanding": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "capitale GoT, discreta visibilità",
-      "updated": "2026-06-11"
+      "note": "capitale GoT popolare",
+      "updated": "2026-06-18"
     },
     "#theredkeep": {
       "tier": "nicchia",
-      "trend": "stabile",
-      "note": "fortezza GoT, pochi post",
-      "updated": "2026-06-11"
+      "trend": "in crescita",
+      "note": "luogo specifico, pochi post",
+      "updated": "2026-06-18"
     },
     "#ironthrone": {
       "tier": "medio",
       "trend": "saturo",
-      "note": "simbolo iconico, molto usato",
-      "updated": "2026-06-11"
+      "note": "iconico ma affollato",
+      "updated": "2026-06-18"
     },
     "#oldtown": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
       "note": "ambiguo con luoghi reali",
-      "updated": "2026-06-11"
+      "updated": "2026-06-18"
     },
     "#thehightower": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "rilancio grazie a HotD",
-      "updated": "2026-06-11"
+      "trend": "stabile",
+      "note": "luogo GoT di nicchia",
+      "updated": "2026-06-18"
     },
     "#thecitadel": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "ambiguo, non solo GoT",
-      "updated": "2026-06-11"
+      "note": "ambiguo, pochi GoT",
+      "updated": "2026-06-18"
     },
     "#winterfell": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "luogo Stark, molto riconoscibile",
-      "updated": "2026-06-11"
+      "note": "luogo GoT molto noto",
+      "updated": "2026-06-18"
     },
     "#housestark": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "casata popolare, pubblico ampio",
-      "updated": "2026-06-11"
+      "note": "casata popolare, ben usata",
+      "updated": "2026-06-18"
     },
     "#winteriscoming": {
-      "tier": "medio",
+      "tier": "ampio",
       "trend": "saturo",
-      "note": "frase meme, molto inflazionata",
-      "updated": "2026-06-11"
+      "note": "frase iconica sovraffollata",
+      "updated": "2026-06-18"
     },
     "#houseofthedragon": {
       "tier": "ampio",
@@ -3880,78 +4176,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-17T06:01:33",
-      "severity": "info",
-      "source": "competitors",
-      "message": "🔎 Ricognizione competitor: Nella nicchia delle mappe fantasy disegnate a mano funzionano soprattutto i Reel di processo/timelapse (reach verso non-follower) e i caroselli 'zoom' che parto — nuovi: @feedthemultiverse, @fantasy.cartography, @domino44maps, @bewarethewizard"
-    },
-    {
-      "ts": "2026-06-17T09:00:58",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Approdo del Re (King's Landing)»",
-      "extra": {
-        "media_id": "18084892994635588"
-      }
-    },
-    {
-      "ts": "2026-06-17T09:01:05",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Approdo del Re (King's Landing)»"
-    },
-    {
-      "ts": "2026-06-17T09:01:16",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Approdo del Re (King's Landing)»"
-    },
-    {
-      "ts": "2026-06-17T09:12:58",
-      "severity": "info",
-      "source": "competitors",
-      "message": "🔎 Competitor (dati reali): 10 account letti · formato top: IMAGE · ~1.4 post/sett. I dati dicono chiaramente: immagine singola di alta qualità + bassa frequenza (~1-2/sett) + hashtag della community TTRP — nuovi: @mapeffects, @czepeku_dnd_maps, @inkarnaterpg, @krsolbergauthor — scartati (non leggibili): francescabaerald, devenrue, mistybeee, feedthemultiverse"
-    },
-    {
-      "ts": "2026-06-17T09:18:39",
-      "severity": "info",
-      "source": "competitors",
-      "message": "🔎 Competitor (dati reali): 14 account letti · formato top: IMAGE · ~1.5 post/sett. (sintesi AI non riuscita: Expecting value: line 1 column 1 (char 0); findings reali comunque salvati) — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
-    },
-    {
-      "ts": "2026-06-17T09:21:46",
-      "severity": "info",
-      "source": "competitors",
-      "message": "🔎 Competitor (dati reali): 14 account letti · formato top: IMAGE · ~1.5 post/sett. (sintesi AI non riuscita: Expecting value: line 1 column 1 (char 0); findings reali comunque salvati) — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
-    },
-    {
-      "ts": "2026-06-17T09:30:35",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Approdo del Re (King's Landing)» (anche su FB)"
-    },
-    {
-      "ts": "2026-06-17T09:34:51",
-      "severity": "info",
-      "source": "competitors",
-      "message": "🔎 Competitor (dati reali): 14 account letti · formato top: IMAGE · ~1.5 post/sett. I numeri dicono che nella nicchia delle mappe fantasy l'immagine singola batte nettamente Reel e caroselli per engagemen — nuovi: @fantasymapshop, @lightheartadventures — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
-    },
-    {
-      "ts": "2026-06-17T13:02:18",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Approdo del Re (King's Landing)»",
-      "extra": {
-        "media_id": "18174180511414191"
-      }
-    },
-    {
-      "ts": "2026-06-17T13:02:23",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Approdo del Re (King's Landing)»"
-    },
-    {
       "ts": "2026-06-17T13:02:35",
       "severity": "info",
       "source": "facebook",
@@ -3974,6 +4198,78 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 4 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-18T06:00:47",
+      "severity": "info",
+      "source": "ideas",
+      "message": "💡 Idee da pubblicare aggiornate (37 aperte) — CAROUSEL: 3 modi per disegnare le montagne a mano · REEL: Il lettering del cartiglio: la firma della mappa · CAROUSEL: Sketch → mappa finita: l'evoluzione del Mare d'Argento · REEL: Omaggio a Westeros"
+    },
+    {
+      "ts": "2026-06-18T13:00:14",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Vecchia Città e la Torre Alta (Oldtown / Hightower)»",
+      "extra": {
+        "media_id": "18110837350919838"
+      }
+    },
+    {
+      "ts": "2026-06-18T13:00:22",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Vecchia Città e la Torre Alta (Oldtown / Hightower)»"
+    },
+    {
+      "ts": "2026-06-18T13:00:30",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Vecchia Città e la Torre Alta (Oldtown / Hightower)»"
+    },
+    {
+      "ts": "2026-06-18T13:30:32",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Vecchia Città e la Torre Alta (Oldtown / Hightower)» (anche su FB)"
+    },
+    {
+      "ts": "2026-06-18T14:17:42",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 5 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-18T17:01:24",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Vecchia Città e la Torre Alta (Oldtown / Hightower)»",
+      "extra": {
+        "media_id": "17920876623165953"
+      }
+    },
+    {
+      "ts": "2026-06-18T17:01:29",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Vecchia Città e la Torre Alta (Oldtown / Hightower)»"
+    },
+    {
+      "ts": "2026-06-18T17:01:44",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Vecchia Città e la Torre Alta (Oldtown / Hightower)»"
+    },
+    {
+      "ts": "2026-06-18T17:02:19",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Vecchia Città e la Torre Alta (Oldtown / Hightower)»"
+    },
+    {
+      "ts": "2026-06-18T17:30:32",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Vecchia Città e la Torre Alta (Oldtown / Hightower)» (anche su FB)"
     }
   ],
   "ideas": {
@@ -4736,13 +5032,13 @@
     "generated_at": "2026-06-18T06:00"
   },
   "boost": {
-    "generated_at": "2026-06-17T20:01",
+    "generated_at": "2026-06-18T20:01",
     "suggestion": {
       "media_id": "18109669757309294",
       "title": "Nascono le città del regno",
       "kind": "reel",
       "published_at": "2026-06-13",
-      "age_days": 4,
+      "age_days": 5,
       "confidence": "media",
       "objective": "Visite al profilo (proxy crescita follower)",
       "budget_eur_day": 5,
@@ -4767,15 +5063,15 @@
         ]
       },
       "why": [
-        "reach 334 = 5.1× la tua media recente (66)",
+        "reach 334 = 5.06× la tua media recente (66)",
         "470 views",
         "1 salvataggi, 0 condivisioni",
         "reach pari al 36% dei tuoi follower"
       ]
     },
-    "considered": 16,
+    "considered": 18,
     "baseline": {
-      "reach_median": 65.5
+      "reach_median": 66.0
     },
     "last_notified": "18109669757309294"
   },
@@ -5416,28 +5712,28 @@
   "weekly": {
     "period_days": 7,
     "followers_start": 914,
-    "followers_end": 918,
-    "followers_gained": 4,
+    "followers_end": 919,
+    "followers_gained": 5,
     "from": "2026-06-11",
-    "to": "2026-06-17",
+    "to": "2026-06-18",
     "top_posts": [
       {
         "title": "Nascono le città del regno",
         "reach": 334,
         "saved": 1,
         "shares": 0,
-        "likes": 18
+        "likes": 19
       },
       {
         "title": "Montagne e foreste a inchiostro",
-        "reach": 173,
+        "reach": 174,
         "saved": 0,
         "shares": 0,
         "likes": 15
       },
       {
         "title": "Highcrest, il castello tra le vette",
-        "reach": 68,
+        "reach": 69,
         "saved": 2,
         "shares": 0,
         "likes": 15
