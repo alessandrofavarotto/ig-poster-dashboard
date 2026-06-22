@@ -1,5 +1,14 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-06-22
+Periodo ricco: ~16 post recenti misurati + storico 598. Confermato il pattern forte Reel >> foto per reach (Reel 84–337 vs foto 43–82; la fase 'dettagli' tocca 337, nuovo massimo). Emerge un segnale NUOVO e prudente: la serie a tema IP riconoscibile (Game of Thrones, 15–20 giu) ha alzato la reach d'account a 379–450 e ha prodotto l'UNICA condivisione del dataset (overview 'mappa completa di Westeros': reach 145, 1 share, 1 save) — i mondi fantasy noti aiutano scoperta/ricerca. Follower ora in lieve crescita (917→920/921), reach e views in netto aumento (views fino a 1412). Salvataggi/condivisioni ancora quasi assenti → CTA da tenere. Modifiche incrementali; orari invariati (storico conferma mattino presto e pomeriggio).
+- Obiettivo: aggiornati i numeri (follower in lieve crescita 917→920/921; reach account 379–450 e views fino a 1412 nei giorni con Reel + serie IP).
+- Aggiunto segnale (dato 06/2026, debole): contenuti basati su mondi/IP fantasy riconoscibili (Game of Thrones, ecc.) aumentano reach e scopribilità via ricerca; usare i nomi canonici come keyword e tag.
+- Reels: aggiornata l'evidenza — fase 'dettagli' a 337 (nuovo max), Reel-companion da foto statiche (GoT) 84–138 comunque sopra le foto; campione cresciuto (~16 Reel).
+- Caption/inoltrabilità: prima condivisione del dataset sull'overview 'mappa completa di un mondo noto' → la mappa intera di un mondo riconoscibile è il formato finora più inoltrabile.
+- Hashtag: confermato il taglio 3–5; i tag-IP (#gameofthrones #winterfell #kingslanding) agganciano community di ricerca ampie.
+- Orari: storico riconferma mattino presto (h07=22) e pomeriggio (h16–17); best_times invariati e diversificati (07/09/13/17).
+
 ## 2026-06-15
 15 post misurati (più storico di 598) danno un segnale chiaro e ripetuto: i Reel raggiungono molti più non-follower delle foto (reach 156–243 vs 53–73). Ho promosso a (dato) la leva Reel-companion e confermato il taglio a 3–5 hashtag (il Reel con reach 243 usava 5 tag mirati). Lo storico per ora premia mattino presto (h07≈22) e tardo pomeriggio (h16–17), quindi best_times resta diversificato su più fasce. Salvataggi/condivisioni sono ancora ~0 e i follower stabili (~915): nessuna regola forte su questi, solo CTA da rafforzare. Cambiamenti incrementali, prudenti.
 - Reels: aggiunte voci (dato 06/2026) — i Reel raggiungono 2,5–4× la reach delle foto (156–243 vs 53–73); leva Reel-companion confermata come principale per scoperta/reach (evidenza ancora giovane, ~6 Reel).
