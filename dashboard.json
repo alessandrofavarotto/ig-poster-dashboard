@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27",
+  "generated_at": "2026-06-28",
   "account": [
     {
       "date": "2026-06-05",
@@ -230,6 +230,16 @@
       "views": 552,
       "accounts_engaged": 10,
       "total_interactions": 27
+    },
+    {
+      "date": "2026-06-28",
+      "followers_count": 919,
+      "media_count": 673,
+      "reach": 96,
+      "profile_views": 0,
+      "views": 434,
+      "accounts_engaged": 7,
+      "total_interactions": 9
     }
   ],
   "posts": [
@@ -490,6 +500,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 121
+        },
+        "2026-06-28": {
+          "age_days": 23,
+          "reach": 57,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 121
         }
       }
     },
@@ -741,6 +761,16 @@
           "shares": 0,
           "total_interactions": 16,
           "views": 138
+        },
+        "2026-06-28": {
+          "age_days": 22,
+          "reach": 63,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 138
         }
       }
     },
@@ -982,6 +1012,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 119
+        },
+        "2026-06-28": {
+          "age_days": 21,
+          "reach": 70,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 119
         }
       }
     },
@@ -1214,6 +1254,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 88
+        },
+        "2026-06-28": {
+          "age_days": 20,
+          "reach": 57,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 88
         }
       }
     },
@@ -1428,6 +1478,16 @@
         },
         "2026-06-27": {
           "age_days": 18,
+          "reach": 64,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 112
+        },
+        "2026-06-28": {
+          "age_days": 19,
           "reach": 64,
           "likes": 8,
           "comments": 0,
@@ -1656,6 +1716,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 174
+        },
+        "2026-06-28": {
+          "age_days": 19,
+          "reach": 159,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 174
         }
       }
     },
@@ -1868,6 +1938,16 @@
           "shares": 0,
           "total_interactions": 15,
           "views": 134
+        },
+        "2026-06-28": {
+          "age_days": 18,
+          "reach": 84,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 134
         }
       }
     },
@@ -2067,6 +2147,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 223
+        },
+        "2026-06-28": {
+          "age_days": 17,
+          "reach": 165,
+          "likes": 6,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 223
         }
       }
     },
@@ -2249,6 +2339,16 @@
         },
         "2026-06-27": {
           "age_days": 15,
+          "reach": 177,
+          "likes": 16,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 23,
+          "views": 219
+        },
+        "2026-06-28": {
+          "age_days": 16,
           "reach": 177,
           "likes": 16,
           "comments": 4,
@@ -2446,6 +2546,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 127
+        },
+        "2026-06-28": {
+          "age_days": 16,
+          "reach": 55,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 127
         }
       }
     },
@@ -2616,6 +2726,16 @@
         },
         "2026-06-27": {
           "age_days": 14,
+          "reach": 54,
+          "likes": 10,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 83
+        },
+        "2026-06-28": {
+          "age_days": 15,
           "reach": 54,
           "likes": 10,
           "comments": 0,
@@ -2800,6 +2920,16 @@
           "shares": 0,
           "total_interactions": 4,
           "views": 56
+        },
+        "2026-06-28": {
+          "age_days": 15,
+          "reach": 44,
+          "likes": 2,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 56
         }
       }
     },
@@ -2972,6 +3102,16 @@
           "shares": 0,
           "total_interactions": 24,
           "views": 478
+        },
+        "2026-06-28": {
+          "age_days": 15,
+          "reach": 341,
+          "likes": 20,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 478
         }
       }
     },
@@ -3127,6 +3267,16 @@
         },
         "2026-06-27": {
           "age_days": 13,
+          "reach": 147,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 184
+        },
+        "2026-06-28": {
+          "age_days": 14,
           "reach": 147,
           "likes": 12,
           "comments": 2,
@@ -3295,6 +3445,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 106
+        },
+        "2026-06-28": {
+          "age_days": 13,
+          "reach": 55,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 106
         }
       }
     },
@@ -3311,12 +3471,12 @@
         "#asongoficeandfire",
         "#fantasymap"
       ],
-      "reach": 110,
+      "reach": 111,
       "likes": 8,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 129,
+      "views": 130,
       "history": {
         "2026-06-15": {
           "age_days": 0,
@@ -3447,6 +3607,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 129
+        },
+        "2026-06-28": {
+          "age_days": 13,
+          "reach": 111,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 130
         }
       }
     },
@@ -3582,6 +3752,16 @@
         },
         "2026-06-27": {
           "age_days": 11,
+          "reach": 68,
+          "likes": 14,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 17,
+          "views": 118
+        },
+        "2026-06-28": {
+          "age_days": 12,
           "reach": 68,
           "likes": 14,
           "comments": 2,
@@ -3731,6 +3911,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 107
+        },
+        "2026-06-28": {
+          "age_days": 12,
+          "reach": 91,
+          "likes": 6,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 107
         }
       }
     },
@@ -3752,7 +3942,7 @@
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 81,
+      "views": 82,
       "history": {
         "2026-06-17": {
           "age_days": 0,
@@ -3863,6 +4053,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 81
+        },
+        "2026-06-28": {
+          "age_days": 11,
+          "reach": 48,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 82
         }
       }
     },
@@ -3995,6 +4195,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 129
+        },
+        "2026-06-28": {
+          "age_days": 11,
+          "reach": 119,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 129
         }
       }
     },
@@ -4011,12 +4221,12 @@
         "#fantasymap",
         "#dndmaps"
       ],
-      "reach": 64,
-      "likes": 11,
+      "reach": 65,
+      "likes": 12,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 103,
+      "views": 105,
       "history": {
         "2026-06-18": {
           "age_days": 0,
@@ -4117,6 +4327,16 @@
           "shares": 0,
           "total_interactions": 15,
           "views": 103
+        },
+        "2026-06-28": {
+          "age_days": 10,
+          "reach": 65,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 105
         }
       }
     },
@@ -4133,12 +4353,12 @@
         "#gameofthrones",
         "#asoiaf"
       ],
-      "reach": 86,
+      "reach": 87,
       "likes": 10,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 94,
+      "views": 95,
       "history": {
         "2026-06-18": {
           "age_days": 0,
@@ -4239,6 +4459,16 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 94
+        },
+        "2026-06-28": {
+          "age_days": 10,
+          "reach": 87,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 95
         }
       }
     },
@@ -4351,6 +4581,16 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 96
+        },
+        "2026-06-28": {
+          "age_days": 9,
+          "reach": 55,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 96
         }
       }
     },
@@ -4367,7 +4607,7 @@
         "#fantasymap",
         "#cartography"
       ],
-      "reach": 211,
+      "reach": 212,
       "likes": 21,
       "saved": 2,
       "shares": 1,
@@ -4453,6 +4693,16 @@
           "shares": 1,
           "total_interactions": 29,
           "views": 309
+        },
+        "2026-06-28": {
+          "age_days": 8,
+          "reach": 212,
+          "likes": 21,
+          "comments": 2,
+          "saved": 2,
+          "shares": 1,
+          "total_interactions": 29,
+          "views": 309
         }
       }
     },
@@ -4469,12 +4719,12 @@
         "#gameofthrones",
         "#asoiaf"
       ],
-      "reach": 157,
+      "reach": 160,
       "likes": 10,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 186,
+      "views": 189,
       "history": {
         "2026-06-20": {
           "age_days": 0,
@@ -4555,6 +4805,16 @@
           "shares": 0,
           "total_interactions": 15,
           "views": 186
+        },
+        "2026-06-28": {
+          "age_days": 8,
+          "reach": 160,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 189
         }
       }
     },
@@ -4581,7 +4841,7 @@
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 61,
+      "views": 62,
       "history": {
         "2026-06-21": {
           "age_days": 0,
@@ -4652,6 +4912,16 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 61
+        },
+        "2026-06-28": {
+          "age_days": 7,
+          "reach": 42,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 62
         }
       }
     },
@@ -4673,12 +4943,12 @@
         "#dndworld",
         "#cartography"
       ],
-      "reach": 130,
-      "likes": 3,
+      "reach": 133,
+      "likes": 4,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 148,
+      "views": 151,
       "history": {
         "2026-06-21": {
           "age_days": 0,
@@ -4749,6 +5019,16 @@
           "shares": 0,
           "total_interactions": 6,
           "views": 148
+        },
+        "2026-06-28": {
+          "age_days": 7,
+          "reach": 133,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 151
         }
       }
     },
@@ -4836,6 +5116,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 66
+        },
+        "2026-06-28": {
+          "age_days": 6,
+          "reach": 36,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 66
         }
       }
     },
@@ -4857,12 +5147,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 121,
+      "reach": 123,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 136,
+      "views": 139,
       "history": {
         "2026-06-22": {
           "age_days": 0,
@@ -4923,6 +5213,16 @@
           "shares": 0,
           "total_interactions": 7,
           "views": 136
+        },
+        "2026-06-28": {
+          "age_days": 6,
+          "reach": 123,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 139
         }
       }
     },
@@ -4939,12 +5239,12 @@
         "#handdrawn",
         "#fairytaleart"
       ],
-      "reach": 34,
+      "reach": 36,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 55,
+      "views": 57,
       "history": {
         "2026-06-23": {
           "age_days": 0,
@@ -4995,6 +5295,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 55
+        },
+        "2026-06-28": {
+          "age_days": 5,
+          "reach": 36,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 57
         }
       }
     },
@@ -5016,12 +5326,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 126,
+      "reach": 129,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 132,
+      "views": 135,
       "history": {
         "2026-06-23": {
           "age_days": 0,
@@ -5072,6 +5382,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 132
+        },
+        "2026-06-28": {
+          "age_days": 5,
+          "reach": 129,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 135
         }
       }
     },
@@ -5088,12 +5408,12 @@
         "#handdrawn",
         "#fantasyart"
       ],
-      "reach": 23,
+      "reach": 27,
       "likes": 2,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 39,
+      "views": 45,
       "history": {
         "2026-06-24": {
           "age_days": 0,
@@ -5134,6 +5454,16 @@
           "shares": 0,
           "total_interactions": 6,
           "views": 39
+        },
+        "2026-06-28": {
+          "age_days": 4,
+          "reach": 27,
+          "likes": 2,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 45
         }
       }
     },
@@ -5155,12 +5485,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 116,
+      "reach": 117,
       "likes": 1,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 118,
+      "views": 119,
       "history": {
         "2026-06-24": {
           "age_days": 0,
@@ -5201,6 +5531,16 @@
           "shares": 0,
           "total_interactions": 5,
           "views": 118
+        },
+        "2026-06-28": {
+          "age_days": 4,
+          "reach": 117,
+          "likes": 1,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 119
         }
       }
     },
@@ -5217,12 +5557,12 @@
         "#worldbuilding",
         "#fantasycartography"
       ],
-      "reach": 25,
+      "reach": 29,
       "likes": 2,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 36,
+      "views": 42,
       "history": {
         "2026-06-25": {
           "age_days": 0,
@@ -5253,6 +5593,16 @@
           "shares": 0,
           "total_interactions": 6,
           "views": 36
+        },
+        "2026-06-28": {
+          "age_days": 3,
+          "reach": 29,
+          "likes": 2,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 42
         }
       }
     },
@@ -5275,12 +5625,12 @@
         "#handdrawnmap",
         "#dndmaps"
       ],
-      "reach": 42,
+      "reach": 44,
       "likes": 9,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 62,
+      "views": 67,
       "history": {
         "2026-06-26": {
           "age_days": 0,
@@ -5301,6 +5651,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 62
+        },
+        "2026-06-28": {
+          "age_days": 2,
+          "reach": 44,
+          "likes": 9,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 67
         }
       }
     },
@@ -5322,12 +5682,12 @@
         "#storytelling",
         "#conceptart"
       ],
-      "reach": 41,
+      "reach": 44,
       "likes": 0,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 48,
+      "views": 51,
       "history": {
         "2026-06-26": {
           "age_days": 0,
@@ -5348,6 +5708,16 @@
           "shares": 0,
           "total_interactions": 2,
           "views": 48
+        },
+        "2026-06-28": {
+          "age_days": 2,
+          "reach": 44,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 51
         }
       }
     }
@@ -6034,11 +6404,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 110,
+            "reach": 111,
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 129
+            "views": 130
           }
         },
         {
@@ -6143,7 +6513,7 @@
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 81
+            "views": 82
           }
         },
         {
@@ -6209,11 +6579,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 64,
-            "likes": 11,
+            "reach": 65,
+            "likes": 12,
             "saved": 0,
             "shares": 0,
-            "views": 103
+            "views": 105
           }
         },
         {
@@ -6244,11 +6614,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 86,
+            "reach": 87,
             "likes": 10,
             "saved": 1,
             "shares": 0,
-            "views": 94
+            "views": 95
           }
         },
         {
@@ -6314,7 +6684,7 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 211,
+            "reach": 212,
             "likes": 21,
             "saved": 2,
             "shares": 1,
@@ -6349,11 +6719,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 157,
+            "reach": 160,
             "likes": 10,
             "saved": 1,
             "shares": 0,
-            "views": 186
+            "views": 189
           }
         }
       ]
@@ -6398,7 +6768,7 @@
             "likes": 10,
             "saved": 0,
             "shares": 0,
-            "views": 61
+            "views": 62
           }
         },
         {
@@ -6434,11 +6804,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 130,
-            "likes": 3,
+            "reach": 133,
+            "likes": 4,
             "saved": 0,
             "shares": 0,
-            "views": 148
+            "views": 151
           }
         },
         {
@@ -6514,11 +6884,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 121,
+            "reach": 123,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 136
+            "views": 139
           }
         },
         {
@@ -6549,11 +6919,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 34,
+            "reach": 36,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 55
+            "views": 57
           }
         },
         {
@@ -6589,11 +6959,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 126,
+            "reach": 129,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 132
+            "views": 135
           }
         },
         {
@@ -6624,11 +6994,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 23,
+            "reach": 27,
             "likes": 2,
             "saved": 1,
             "shares": 0,
-            "views": 39
+            "views": 45
           }
         },
         {
@@ -6664,11 +7034,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 116,
+            "reach": 117,
             "likes": 1,
             "saved": 1,
             "shares": 0,
-            "views": 118
+            "views": 119
           }
         },
         {
@@ -6699,11 +7069,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 25,
+            "reach": 29,
             "likes": 2,
             "saved": 1,
             "shares": 0,
-            "views": 36
+            "views": 42
           }
         },
         {
@@ -6740,11 +7110,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 42,
+            "reach": 44,
             "likes": 9,
             "saved": 1,
             "shares": 0,
-            "views": 62
+            "views": 67
           }
         },
         {
@@ -6780,11 +7150,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 41,
+            "reach": 44,
             "likes": 0,
             "saved": 0,
             "shares": 0,
-            "views": 48
+            "views": 51
           }
         }
       ]
@@ -7522,24 +7892,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-25T17:00:26",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Dorothy»"
-    },
-    {
-      "ts": "2026-06-25T17:00:38",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Dorothy»"
-    },
-    {
-      "ts": "2026-06-25T17:30:28",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Dorothy» (anche su FB)"
-    },
-    {
       "ts": "2026-06-26T07:00:22",
       "severity": "info",
       "source": "publish",
@@ -7613,6 +7965,30 @@
     },
     {
       "ts": "2026-06-27T14:16:22",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-28T08:01:45",
+      "severity": "error",
+      "source": "process",
+      "message": "Analisi immagine fallita: conquerors_by_alessandrofavarotto_d9nnz4a.png",
+      "extra": {
+        "error": "output di claude non è JSON valido"
+      }
+    },
+    {
+      "ts": "2026-06-28T10:38:07",
+      "severity": "error",
+      "source": "process",
+      "message": "Analisi immagine fallita: tg299",
+      "extra": {
+        "error": "output di claude non è JSON valido"
+      }
+    },
+    {
+      "ts": "2026-06-28T14:16:17",
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
@@ -8378,13 +8754,13 @@
     "generated_at": "2026-06-25T06:00"
   },
   "boost": {
-    "generated_at": "2026-06-27T20:01",
+    "generated_at": "2026-06-28T20:01",
     "suggestion": {
       "media_id": "18109669757309294",
       "title": "Nascono le città del regno",
       "kind": "reel",
       "published_at": "2026-06-13",
-      "age_days": 14,
+      "age_days": 15,
       "confidence": "media",
       "objective": "Visite al profilo (proxy crescita follower)",
       "budget_eur_day": 5,
@@ -8409,15 +8785,15 @@
         ]
       },
       "why": [
-        "reach 341 = 4.87× la tua media recente (70)",
+        "reach 341 = 4.94× la tua media recente (69)",
         "478 views",
         "1 salvataggi, 0 condivisioni",
         "reach pari al 37% dei tuoi follower"
       ]
     },
-    "considered": 33,
+    "considered": 34,
     "baseline": {
-      "reach_median": 70
+      "reach_median": 69.0
     },
     "last_notified": "18109669757309294"
   },
@@ -9236,15 +9612,15 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 921,
+    "followers_start": 920,
     "followers_end": 919,
-    "followers_gained": -2,
-    "from": "2026-06-20",
-    "to": "2026-06-27",
+    "followers_gained": -1,
+    "from": "2026-06-21",
+    "to": "2026-06-28",
     "top_posts": [
       {
         "title": "Mappa completa di Westeros",
-        "reach": 211,
+        "reach": 212,
         "saved": 2,
         "shares": 1,
         "likes": 21
