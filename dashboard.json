@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28",
+  "generated_at": "2026-06-29",
   "account": [
     {
       "date": "2026-06-05",
@@ -7888,6 +7888,28 @@
         "Hashtag: confermato il taglio 3–5; i tag-IP (#gameofthrones #winterfell #kingslanding) agganciano community di ricerca ampie.",
         "Orari: storico riconferma mattino presto (h07=22) e pomeriggio (h16–17); best_times invariati e diversificati (07/09/13/17)."
       ]
+    },
+    {
+      "date": "2026-06-29",
+      "ts": "2026-06-29T05:02",
+      "enough_evidence": true,
+      "posts_measured": 36,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "09:00",
+        "13:00",
+        "17:00"
+      ],
+      "summary": "Riconfermati i pattern noti: Reel >> foto per reach (Oz: reel 117–160 vs foto 27–44) e fase 'dettagli' la migliore (341). Nuovo segnale prudente sulle SERIE-IP: non tutti i mondi rendono uguale — Game of Thrones (fandom IG enorme) ha trainato il picco di reach d'account (20–21 giu: 324/450 e l'unica condivisione), mentre la serie successiva su Il Mago di Oz è coincisa con reach calante (27–28 giu: 128/96) e follower in plateau (919–921). Inoltre le foto di SINGOLI PERSONAGGI di Oz (Uomo di Latta, Leone, Spaventapasseri, Dorothy) sono le foto a reach più bassa del dataset (27–44): le MAPPE di un mondo noto rendono più dei ritratti isolati. Salvataggi/condivisioni ancora quasi nulli. Modifiche incrementali; orari invariati.",
+      "changes": [
+        "Obiettivo: annotato che la reach d'account è trainata soprattutto dalla serie GoT (picco 20–21 giu) ed è calata con la serie Oz e dopo la fine di GoT (27–28 giu); follower in plateau (919–921).",
+        "Keyword/SEO: precisato che la leva 'mondo/IP riconoscibile' rende in PROPORZIONE alla dimensione del fandom su IG — GoT (community vastissima) >> Il Mago di Oz (overview Westeros reach 212 vs overview Oz 44; foto GoT 48–68 vs foto Oz 27–44). Scegliere IP con fanbase ampia e attiva.",
+        "Tipo di post: nuova nota (debole) — le MAPPE di un mondo noto rendono più dei RITRATTI di singoli personaggi: i character-design di Oz come foto sono i peggiori del dataset (27–44). Privilegiare mappe/luoghi rispetto a personaggi isolati.",
+        "Reels: riconfermato Reel >> foto anche sulla serie Oz (reel-companion 117–160 vs foto 27–44).",
+        "Caption/CTA: ribadito che send/salvataggi restano ~0 (eccetto l'overview Westeros) → CTA invariata, da rafforzare.",
+        "Orari: invariati (07/09/13/17), storico 598 post riconferma mattino presto e pomeriggio; aggiunto changelog 29 giu 2026."
+      ]
     }
   ],
   "alerts": [
@@ -9615,7 +9637,7 @@
     "followers_start": 920,
     "followers_end": 919,
     "followers_gained": -1,
-    "from": "2026-06-21",
+    "from": "2026-06-22",
     "to": "2026-06-28",
     "top_posts": [
       {
