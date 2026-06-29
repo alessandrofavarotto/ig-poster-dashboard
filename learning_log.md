@@ -1,5 +1,14 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-06-29
+Riconfermati i pattern noti: Reel >> foto per reach (Oz: reel 117–160 vs foto 27–44) e fase 'dettagli' la migliore (341). Nuovo segnale prudente sulle SERIE-IP: non tutti i mondi rendono uguale — Game of Thrones (fandom IG enorme) ha trainato il picco di reach d'account (20–21 giu: 324/450 e l'unica condivisione), mentre la serie successiva su Il Mago di Oz è coincisa con reach calante (27–28 giu: 128/96) e follower in plateau (919–921). Inoltre le foto di SINGOLI PERSONAGGI di Oz (Uomo di Latta, Leone, Spaventapasseri, Dorothy) sono le foto a reach più bassa del dataset (27–44): le MAPPE di un mondo noto rendono più dei ritratti isolati. Salvataggi/condivisioni ancora quasi nulli. Modifiche incrementali; orari invariati.
+- Obiettivo: annotato che la reach d'account è trainata soprattutto dalla serie GoT (picco 20–21 giu) ed è calata con la serie Oz e dopo la fine di GoT (27–28 giu); follower in plateau (919–921).
+- Keyword/SEO: precisato che la leva 'mondo/IP riconoscibile' rende in PROPORZIONE alla dimensione del fandom su IG — GoT (community vastissima) >> Il Mago di Oz (overview Westeros reach 212 vs overview Oz 44; foto GoT 48–68 vs foto Oz 27–44). Scegliere IP con fanbase ampia e attiva.
+- Tipo di post: nuova nota (debole) — le MAPPE di un mondo noto rendono più dei RITRATTI di singoli personaggi: i character-design di Oz come foto sono i peggiori del dataset (27–44). Privilegiare mappe/luoghi rispetto a personaggi isolati.
+- Reels: riconfermato Reel >> foto anche sulla serie Oz (reel-companion 117–160 vs foto 27–44).
+- Caption/CTA: ribadito che send/salvataggi restano ~0 (eccetto l'overview Westeros) → CTA invariata, da rafforzare.
+- Orari: invariati (07/09/13/17), storico 598 post riconferma mattino presto e pomeriggio; aggiunto changelog 29 giu 2026.
+
 ## 2026-06-22
 Periodo ricco: ~16 post recenti misurati + storico 598. Confermato il pattern forte Reel >> foto per reach (Reel 84–337 vs foto 43–82; la fase 'dettagli' tocca 337, nuovo massimo). Emerge un segnale NUOVO e prudente: la serie a tema IP riconoscibile (Game of Thrones, 15–20 giu) ha alzato la reach d'account a 379–450 e ha prodotto l'UNICA condivisione del dataset (overview 'mappa completa di Westeros': reach 145, 1 share, 1 save) — i mondi fantasy noti aiutano scoperta/ricerca. Follower ora in lieve crescita (917→920/921), reach e views in netto aumento (views fino a 1412). Salvataggi/condivisioni ancora quasi assenti → CTA da tenere. Modifiche incrementali; orari invariati (storico conferma mattino presto e pomeriggio).
 - Obiettivo: aggiornati i numeri (follower in lieve crescita 917→920/921; reach account 379–450 e views fino a 1412 nei giorni con Reel + serie IP).
