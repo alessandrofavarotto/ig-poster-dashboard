@@ -240,6 +240,16 @@
       "views": 434,
       "accounts_engaged": 7,
       "total_interactions": 9
+    },
+    {
+      "date": "2026-06-29",
+      "followers_count": 920,
+      "media_count": 673,
+      "reach": 86,
+      "profile_views": 0,
+      "views": 415,
+      "accounts_engaged": 7,
+      "total_interactions": 11
     }
   ],
   "posts": [
@@ -510,6 +520,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 121
+        },
+        "2026-06-29": {
+          "age_days": 24,
+          "reach": 57,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 121
         }
       }
     },
@@ -771,6 +791,16 @@
           "shares": 0,
           "total_interactions": 16,
           "views": 138
+        },
+        "2026-06-29": {
+          "age_days": 23,
+          "reach": 63,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 138
         }
       }
     },
@@ -1022,6 +1052,16 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 119
+        },
+        "2026-06-29": {
+          "age_days": 22,
+          "reach": 70,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 119
         }
       }
     },
@@ -1264,6 +1304,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 88
+        },
+        "2026-06-29": {
+          "age_days": 21,
+          "reach": 57,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 88
         }
       }
     },
@@ -1488,6 +1538,16 @@
         },
         "2026-06-28": {
           "age_days": 19,
+          "reach": 64,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 112
+        },
+        "2026-06-29": {
+          "age_days": 20,
           "reach": 64,
           "likes": 8,
           "comments": 0,
@@ -1726,6 +1786,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 174
+        },
+        "2026-06-29": {
+          "age_days": 20,
+          "reach": 159,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 174
         }
       }
     },
@@ -1757,7 +1827,7 @@
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 134,
+      "views": 136,
       "history": {
         "2026-06-10": {
           "age_days": 0,
@@ -1948,6 +2018,16 @@
           "shares": 0,
           "total_interactions": 15,
           "views": 134
+        },
+        "2026-06-29": {
+          "age_days": 19,
+          "reach": 84,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 136
         }
       }
     },
@@ -2157,6 +2237,16 @@
           "shares": 0,
           "total_interactions": 10,
           "views": 223
+        },
+        "2026-06-29": {
+          "age_days": 18,
+          "reach": 165,
+          "likes": 6,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 223
         }
       }
     },
@@ -2349,6 +2439,16 @@
         },
         "2026-06-28": {
           "age_days": 16,
+          "reach": 177,
+          "likes": 16,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 23,
+          "views": 219
+        },
+        "2026-06-29": {
+          "age_days": 17,
           "reach": 177,
           "likes": 16,
           "comments": 4,
@@ -2556,6 +2656,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 127
+        },
+        "2026-06-29": {
+          "age_days": 17,
+          "reach": 55,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 127
         }
       }
     },
@@ -2736,6 +2846,16 @@
         },
         "2026-06-28": {
           "age_days": 15,
+          "reach": 54,
+          "likes": 10,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 83
+        },
+        "2026-06-29": {
+          "age_days": 16,
           "reach": 54,
           "likes": 10,
           "comments": 0,
@@ -2930,6 +3050,16 @@
           "shares": 0,
           "total_interactions": 4,
           "views": 56
+        },
+        "2026-06-29": {
+          "age_days": 16,
+          "reach": 44,
+          "likes": 2,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 56
         }
       }
     },
@@ -3112,6 +3242,16 @@
           "shares": 0,
           "total_interactions": 24,
           "views": 478
+        },
+        "2026-06-29": {
+          "age_days": 16,
+          "reach": 341,
+          "likes": 20,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 478
         }
       }
     },
@@ -3277,6 +3417,16 @@
         },
         "2026-06-28": {
           "age_days": 14,
+          "reach": 147,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 184
+        },
+        "2026-06-29": {
+          "age_days": 15,
           "reach": 147,
           "likes": 12,
           "comments": 2,
@@ -3455,6 +3605,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 106
+        },
+        "2026-06-29": {
+          "age_days": 14,
+          "reach": 55,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 106
         }
       }
     },
@@ -3617,6 +3777,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 130
+        },
+        "2026-06-29": {
+          "age_days": 14,
+          "reach": 111,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 130
         }
       }
     },
@@ -3633,12 +3803,12 @@
         "#fantasymap",
         "#westeros"
       ],
-      "reach": 68,
-      "likes": 14,
+      "reach": 70,
+      "likes": 15,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 118,
+      "views": 121,
       "history": {
         "2026-06-16": {
           "age_days": 0,
@@ -3769,6 +3939,16 @@
           "shares": 0,
           "total_interactions": 17,
           "views": 118
+        },
+        "2026-06-29": {
+          "age_days": 13,
+          "reach": 70,
+          "likes": 15,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 18,
+          "views": 121
         }
       }
     },
@@ -3921,6 +4101,16 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 107
+        },
+        "2026-06-29": {
+          "age_days": 13,
+          "reach": 91,
+          "likes": 6,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 107
         }
       }
     },
@@ -3937,12 +4127,12 @@
         "#fantasymap",
         "#kingslanding"
       ],
-      "reach": 48,
+      "reach": 49,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 82,
+      "views": 83,
       "history": {
         "2026-06-17": {
           "age_days": 0,
@@ -4063,6 +4253,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 82
+        },
+        "2026-06-29": {
+          "age_days": 12,
+          "reach": 49,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 83
         }
       }
     },
@@ -4205,6 +4405,16 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 129
+        },
+        "2026-06-29": {
+          "age_days": 12,
+          "reach": 119,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 129
         }
       }
     },
@@ -4330,6 +4540,16 @@
         },
         "2026-06-28": {
           "age_days": 10,
+          "reach": 65,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 105
+        },
+        "2026-06-29": {
+          "age_days": 11,
           "reach": 65,
           "likes": 12,
           "comments": 2,
@@ -4469,6 +4689,16 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 95
+        },
+        "2026-06-29": {
+          "age_days": 11,
+          "reach": 87,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 95
         }
       }
     },
@@ -4591,6 +4821,16 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 96
+        },
+        "2026-06-29": {
+          "age_days": 10,
+          "reach": 55,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 96
         }
       }
     },
@@ -4607,12 +4847,12 @@
         "#fantasymap",
         "#cartography"
       ],
-      "reach": 212,
+      "reach": 214,
       "likes": 21,
       "saved": 2,
       "shares": 1,
       "comments": 2,
-      "views": 309,
+      "views": 315,
       "history": {
         "2026-06-20": {
           "age_days": 0,
@@ -4703,6 +4943,16 @@
           "shares": 1,
           "total_interactions": 29,
           "views": 309
+        },
+        "2026-06-29": {
+          "age_days": 9,
+          "reach": 214,
+          "likes": 21,
+          "comments": 2,
+          "saved": 2,
+          "shares": 1,
+          "total_interactions": 29,
+          "views": 315
         }
       }
     },
@@ -4808,6 +5058,16 @@
         },
         "2026-06-28": {
           "age_days": 8,
+          "reach": 160,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 189
+        },
+        "2026-06-29": {
+          "age_days": 9,
           "reach": 160,
           "likes": 10,
           "comments": 2,
@@ -4922,6 +5182,16 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 62
+        },
+        "2026-06-29": {
+          "age_days": 8,
+          "reach": 42,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 62
         }
       }
     },
@@ -5029,6 +5299,16 @@
           "shares": 0,
           "total_interactions": 7,
           "views": 151
+        },
+        "2026-06-29": {
+          "age_days": 8,
+          "reach": 133,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 151
         }
       }
     },
@@ -5050,12 +5330,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 36,
+      "reach": 38,
       "likes": 4,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 66,
+      "views": 68,
       "history": {
         "2026-06-22": {
           "age_days": 0,
@@ -5126,6 +5406,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 66
+        },
+        "2026-06-29": {
+          "age_days": 7,
+          "reach": 38,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 68
         }
       }
     },
@@ -5147,12 +5437,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 123,
+      "reach": 124,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 139,
+      "views": 141,
       "history": {
         "2026-06-22": {
           "age_days": 0,
@@ -5223,6 +5513,16 @@
           "shares": 0,
           "total_interactions": 7,
           "views": 139
+        },
+        "2026-06-29": {
+          "age_days": 7,
+          "reach": 124,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 141
         }
       }
     },
@@ -5239,12 +5539,12 @@
         "#handdrawn",
         "#fairytaleart"
       ],
-      "reach": 36,
+      "reach": 37,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 57,
+      "views": 58,
       "history": {
         "2026-06-23": {
           "age_days": 0,
@@ -5305,6 +5605,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 57
+        },
+        "2026-06-29": {
+          "age_days": 6,
+          "reach": 37,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 58
         }
       }
     },
@@ -5392,6 +5702,16 @@
           "shares": 0,
           "total_interactions": 8,
           "views": 135
+        },
+        "2026-06-29": {
+          "age_days": 6,
+          "reach": 129,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 135
         }
       }
     },
@@ -5408,12 +5728,12 @@
         "#handdrawn",
         "#fantasyart"
       ],
-      "reach": 27,
+      "reach": 29,
       "likes": 2,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 45,
+      "views": 48,
       "history": {
         "2026-06-24": {
           "age_days": 0,
@@ -5464,6 +5784,16 @@
           "shares": 0,
           "total_interactions": 6,
           "views": 45
+        },
+        "2026-06-29": {
+          "age_days": 5,
+          "reach": 29,
+          "likes": 2,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 48
         }
       }
     },
@@ -5485,12 +5815,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 117,
+      "reach": 120,
       "likes": 1,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 119,
+      "views": 122,
       "history": {
         "2026-06-24": {
           "age_days": 0,
@@ -5541,6 +5871,16 @@
           "shares": 0,
           "total_interactions": 5,
           "views": 119
+        },
+        "2026-06-29": {
+          "age_days": 5,
+          "reach": 120,
+          "likes": 1,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 122
         }
       }
     },
@@ -5557,12 +5897,12 @@
         "#worldbuilding",
         "#fantasycartography"
       ],
-      "reach": 29,
+      "reach": 33,
       "likes": 2,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 42,
+      "views": 52,
       "history": {
         "2026-06-25": {
           "age_days": 0,
@@ -5603,6 +5943,16 @@
           "shares": 0,
           "total_interactions": 6,
           "views": 42
+        },
+        "2026-06-29": {
+          "age_days": 4,
+          "reach": 33,
+          "likes": 2,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 52
         }
       }
     },
@@ -5625,12 +5975,12 @@
         "#handdrawnmap",
         "#dndmaps"
       ],
-      "reach": 44,
-      "likes": 9,
+      "reach": 53,
+      "likes": 10,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 67,
+      "views": 80,
       "history": {
         "2026-06-26": {
           "age_days": 0,
@@ -5661,6 +6011,16 @@
           "shares": 0,
           "total_interactions": 13,
           "views": 67
+        },
+        "2026-06-29": {
+          "age_days": 3,
+          "reach": 53,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 80
         }
       }
     },
@@ -5711,6 +6071,16 @@
         },
         "2026-06-28": {
           "age_days": 2,
+          "reach": 44,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 51
+        },
+        "2026-06-29": {
+          "age_days": 3,
           "reach": 44,
           "likes": 0,
           "comments": 2,
@@ -6032,7 +6402,7 @@
             "likes": 10,
             "saved": 1,
             "shares": 0,
-            "views": 134
+            "views": 136
           }
         }
       ]
@@ -6439,11 +6809,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 68,
-            "likes": 14,
+            "reach": 70,
+            "likes": 15,
             "saved": 0,
             "shares": 0,
-            "views": 118
+            "views": 121
           }
         },
         {
@@ -6509,11 +6879,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 48,
+            "reach": 49,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 82
+            "views": 83
           }
         },
         {
@@ -6684,11 +7054,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 212,
+            "reach": 214,
             "likes": 21,
             "saved": 2,
             "shares": 1,
-            "views": 309
+            "views": 315
           }
         },
         {
@@ -6844,11 +7214,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 36,
+            "reach": 38,
             "likes": 4,
             "saved": 0,
             "shares": 0,
-            "views": 66
+            "views": 68
           }
         },
         {
@@ -6884,11 +7254,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 123,
+            "reach": 124,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 139
+            "views": 141
           }
         },
         {
@@ -6919,11 +7289,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 36,
+            "reach": 37,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 57
+            "views": 58
           }
         },
         {
@@ -6994,11 +7364,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 27,
+            "reach": 29,
             "likes": 2,
             "saved": 1,
             "shares": 0,
-            "views": 45
+            "views": 48
           }
         },
         {
@@ -7034,11 +7404,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 117,
+            "reach": 120,
             "likes": 1,
             "saved": 1,
             "shares": 0,
-            "views": 119
+            "views": 122
           }
         },
         {
@@ -7069,11 +7439,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 29,
+            "reach": 33,
             "likes": 2,
             "saved": 1,
             "shares": 0,
-            "views": 42
+            "views": 52
           }
         },
         {
@@ -7110,11 +7480,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 44,
-            "likes": 9,
+            "reach": 53,
+            "likes": 10,
             "saved": 1,
             "shares": 0,
-            "views": 67
+            "views": 80
           }
         },
         {
@@ -7156,6 +7526,826 @@
             "shares": 0,
             "views": 51
           }
+        }
+      ]
+    },
+    {
+      "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
+      "posts": [
+        {
+          "title": "Montagne delle Aquile",
+          "status": "pending",
+          "scheduled_date": "2026-06-30",
+          "scheduled_time": "07:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Le Montagne delle Aquile attraversano il nord del continente come una cicatrice di pietra.\n\nOgni cresta è disegnata a china, vetta per vetta, con il cartiglio calligrafico che segue la curva della catena: il punto più difficile da tracciare a mano in tutta la mappa. Qui passano i valichi che separano i regni del nord dalle terre fertili del sud.\n\nQuale leggenda nasconderesti tra queste vette?\n\nSalva il dettaglio se ami la cartografia disegnata a mano e taggaci chi worldbuilda con te.\n\n· · ·\n\nThe Mountains of the Eagles cut across the north of the continent like a scar of stone.\n\nEvery ridge is inked peak by peak, with the calligraphic banner curving along the range — the hardest part of the whole map to draw by hand. These are the passes that divide the northern kingdoms from the fertile south.\n\nWhat legend would you hide among these peaks?\n\nSave this detail if you love hand-drawn cartography, and tag the worldbuilder you create with.",
+          "hashtags": [
+            "#fantasymap",
+            "#mountains",
+            "#cartography",
+            "#worldbuilding",
+            "#inkdrawing",
+            "#fantasycartography",
+            "#mapmaking",
+            "#dndmaps",
+            "#handdrawn",
+            "#fantasyart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Montagne delle Aquile",
+          "status": "pending",
+          "scheduled_date": "2026-06-30",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Le Montagne delle Aquile attraversano il nord del continente come una cicatrice di pietra.\n\nOgni cresta è disegnata a china, vetta per vetta, con il cartiglio calligrafico che segue la curva della catena: il punto più difficile da tracciare a mano in tutta la mappa. Qui passano i valichi che separano i regni del nord dalle terre fertili del sud.\n\nQuale leggenda nasconderesti tra queste vette?\n\nSalva il dettaglio se ami la cartografia disegnata a mano e taggaci chi worldbuilda con te.\n\n· · ·\n\nThe Mountains of the Eagles cut across the north of the continent like a scar of stone.\n\nEvery ridge is inked peak by peak, with the calligraphic banner curving along the range — the hardest part of the whole map to draw by hand. These are the passes that divide the northern kingdoms from the fertile south.\n\nWhat legend would you hide among these peaks?\n\nSave this detail if you love hand-drawn cartography, and tag the worldbuilder you create with.",
+          "hashtags": [
+            "#fantasymap",
+            "#mountains",
+            "#cartography",
+            "#worldbuilding",
+            "#inkdrawing",
+            "#fantasycartography",
+            "#mapmaking",
+            "#dndmaps",
+            "#handdrawn",
+            "#fantasyart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Emblema della Fenice di Nari City",
+          "status": "pending",
+          "scheduled_date": "2026-07-01",
+          "scheduled_time": "09:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Nel cuore del continente arde l'emblema di Nari City: una fenice scarlatta.\n\nÈ l'unico stemma a colori vivi di tutta la mappa, posato sulla capitale come un sigillo di potere. La fenice che risorge dalle ceneri è il simbolo perfetto per una città-stato di conquistatori che non cade mai del tutto.\n\nChe storia darest a questa fenice: rinascita, vendetta o impero?\n\nManda questo post a chi sta costruendo il suo mondo fantasy.\n\n· · ·\n\nAt the heart of the continent burns the emblem of Nari City: a scarlet phoenix.\n\nIt's the only vivid-colored crest on the whole map, set over the capital like a seal of power. A phoenix rising from the ashes is the perfect sigil for a city-state of conquerors that never truly falls.\n\nWhat story would you give this phoenix — rebirth, revenge or empire?\n\nSend this post to someone building their own fantasy world.",
+          "hashtags": [
+            "#fantasymap",
+            "#phoenix",
+            "#heraldry",
+            "#worldbuilding",
+            "#fantasyart",
+            "#dndcity",
+            "#fantasycartography",
+            "#ttrpg",
+            "#sigil",
+            "#dungeonsanddragons"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Emblema della Fenice di Nari City",
+          "status": "pending",
+          "scheduled_date": "2026-07-01",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Nel cuore del continente arde l'emblema di Nari City: una fenice scarlatta.\n\nÈ l'unico stemma a colori vivi di tutta la mappa, posato sulla capitale come un sigillo di potere. La fenice che risorge dalle ceneri è il simbolo perfetto per una città-stato di conquistatori che non cade mai del tutto.\n\nChe storia darest a questa fenice: rinascita, vendetta o impero?\n\nManda questo post a chi sta costruendo il suo mondo fantasy.\n\n· · ·\n\nAt the heart of the continent burns the emblem of Nari City: a scarlet phoenix.\n\nIt's the only vivid-colored crest on the whole map, set over the capital like a seal of power. A phoenix rising from the ashes is the perfect sigil for a city-state of conquerors that never truly falls.\n\nWhat story would you give this phoenix — rebirth, revenge or empire?\n\nSend this post to someone building their own fantasy world.",
+          "hashtags": [
+            "#fantasymap",
+            "#phoenix",
+            "#heraldry",
+            "#worldbuilding",
+            "#fantasyart",
+            "#dndcity",
+            "#fantasycartography",
+            "#ttrpg",
+            "#sigil",
+            "#dungeonsanddragons"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Araldica con teschio delle cittadelle del nord",
+          "status": "pending",
+          "scheduled_date": "2026-07-02",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "A guardia delle cittadelle del nord — Tarumlut e Kinbarak — sventola uno stemma con un teschio.\n\nUn dettaglio piccolo ma tremendo: nella tradizione di questo mondo è il marchio delle fortezze che non si arrendono e non fanno prigionieri. Bastano poche linee di china per raccontare un'intera cultura militare.\n\nChi metteresti a difendere queste mura?\n\nSalva l'idea per la tua prossima fazione e taggaci il Dungeon Master con cui giochi.\n\n· · ·\n\nGuarding the northern citadels — Tarumlut and Kinbarak — flies a crest bearing a skull.\n\nA tiny but chilling detail: in this world's lore it marks the fortresses that never surrender and take no prisoners. A few lines of ink are enough to tell a whole military culture.\n\nWho would you station to defend these walls?\n\nSave the idea for your next faction and tag the Dungeon Master you play with.",
+          "hashtags": [
+            "#fantasymap",
+            "#heraldry",
+            "#dndmaps",
+            "#worldbuilding",
+            "#fantasycartography",
+            "#ttrpg",
+            "#dungeonmaster",
+            "#fantasyart",
+            "#mapmaking",
+            "#dndlore"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Araldica con teschio delle cittadelle del nord",
+          "status": "pending",
+          "scheduled_date": "2026-07-02",
+          "scheduled_time": "17:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "A guardia delle cittadelle del nord — Tarumlut e Kinbarak — sventola uno stemma con un teschio.\n\nUn dettaglio piccolo ma tremendo: nella tradizione di questo mondo è il marchio delle fortezze che non si arrendono e non fanno prigionieri. Bastano poche linee di china per raccontare un'intera cultura militare.\n\nChi metteresti a difendere queste mura?\n\nSalva l'idea per la tua prossima fazione e taggaci il Dungeon Master con cui giochi.\n\n· · ·\n\nGuarding the northern citadels — Tarumlut and Kinbarak — flies a crest bearing a skull.\n\nA tiny but chilling detail: in this world's lore it marks the fortresses that never surrender and take no prisoners. A few lines of ink are enough to tell a whole military culture.\n\nWho would you station to defend these walls?\n\nSave the idea for your next faction and tag the Dungeon Master you play with.",
+          "hashtags": [
+            "#fantasymap",
+            "#heraldry",
+            "#dndmaps",
+            "#worldbuilding",
+            "#fantasycartography",
+            "#ttrpg",
+            "#dungeonmaster",
+            "#fantasyart",
+            "#mapmaking",
+            "#dndlore"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Il Mare Diviso e l'arcipelago",
+          "status": "pending",
+          "scheduled_date": "2026-07-03",
+          "scheduled_time": "17:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Il Mare Diviso frantuma il sud del continente in decine di isole, porti e penisole.\n\nÈ la zona più intricata da disegnare: ogni costa è tracciata a mano, ogni porto ha un nome, e gli stretti azzurri raccontano rotte commerciali e flotte da conquista. Un arcipelago è il sogno (e l'incubo) di ogni Dungeon Master che ama le avventure per mare.\n\nSu quale isola ambienteresti la tua prossima sessione?\n\nSalva la mappa per la tua campagna marinara e mandala a chi ama il worldbuilding.\n\n· · ·\n\nThe Sea Divided shatters the south of the continent into dozens of islands, ports and peninsulas.\n\nIt's the most intricate area to draw: every coastline inked by hand, every harbor named, and the blue straits hinting at trade routes and conquering fleets. An archipelago is the dream (and nightmare) of every Dungeon Master who loves seafaring adventures.\n\nWhich island would you set your next session on?\n\nSave the map for your nautical campaign and send it to a worldbuilder you know.",
+          "hashtags": [
+            "#fantasymap",
+            "#cartography",
+            "#worldbuilding",
+            "#archipelago",
+            "#dndmaps",
+            "#fantasycartography",
+            "#ttrpg",
+            "#mapmaking",
+            "#handdrawnmap",
+            "#dungeonsanddragons"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Overview mappa Conquerors",
+          "status": "pending",
+          "scheduled_date": "2026-07-04",
+          "scheduled_time": "07:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "La mappa completa di un mondo fantasy disegnato interamente a mano: Conquerors.\n\nDalle Montagne delle Aquile fino al Mare Diviso, ogni cittadella, foresta e rotta commerciale è tracciata a china per raccontare un intero continente pronto per una campagna di gioco di ruolo. Niente IA, niente texture riciclate: solo cartografia fantasy artigianale.\n\nChe regno governeresti per primo? E quale sarebbe il nome della tua capitale?\n\nSalva questa mappa per la tua prossima campagna e mandala al tuo Dungeon Master.\n\n· · ·\n\nThe full map of an entirely hand-drawn fantasy world: Conquerors.\n\nFrom the Mountains of the Eagles down to the Sea Divided, every citadel, forest and trade road is inked to bring an entire continent to life — ready for your tabletop campaign. No AI, no recycled textures: just handcrafted fantasy cartography.\n\nWhich realm would you conquer first? And what would you name your capital?\n\nSave this map for your next campaign and send it to your Dungeon Master.",
+          "hashtags": [
+            "#fantasymap",
+            "#fantasycartography",
+            "#worldbuilding",
+            "#dndmaps",
+            "#mapmaking",
+            "#cartography",
+            "#ttrpg",
+            "#dungeonsanddragons",
+            "#handdrawnmap",
+            "#dndart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Il Mare Diviso e l'arcipelago",
+          "status": "pending",
+          "scheduled_date": "2026-07-04",
+          "scheduled_time": "09:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Il Mare Diviso frantuma il sud del continente in decine di isole, porti e penisole.\n\nÈ la zona più intricata da disegnare: ogni costa è tracciata a mano, ogni porto ha un nome, e gli stretti azzurri raccontano rotte commerciali e flotte da conquista. Un arcipelago è il sogno (e l'incubo) di ogni Dungeon Master che ama le avventure per mare.\n\nSu quale isola ambienteresti la tua prossima sessione?\n\nSalva la mappa per la tua campagna marinara e mandala a chi ama il worldbuilding.\n\n· · ·\n\nThe Sea Divided shatters the south of the continent into dozens of islands, ports and peninsulas.\n\nIt's the most intricate area to draw: every coastline inked by hand, every harbor named, and the blue straits hinting at trade routes and conquering fleets. An archipelago is the dream (and nightmare) of every Dungeon Master who loves seafaring adventures.\n\nWhich island would you set your next session on?\n\nSave the map for your nautical campaign and send it to a worldbuilder you know.",
+          "hashtags": [
+            "#fantasymap",
+            "#cartography",
+            "#worldbuilding",
+            "#archipelago",
+            "#dndmaps",
+            "#fantasycartography",
+            "#ttrpg",
+            "#mapmaking",
+            "#handdrawnmap",
+            "#dungeonsanddragons"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        }
+      ]
+    },
+    {
+      "source_image": "Mappa Friuli castelli",
+      "posts": [
+        {
+          "title": "Cartiglio-titolo a pergamena",
+          "status": "pending",
+          "scheduled_date": "2026-07-05",
+          "scheduled_time": "07:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "«Famiglie e Comunità del General Parlamento del Friuli con Castelli e Opere Medievali». Il cartiglio in cima alla mappa è dipinto come una pergamena srotolata, con lettering calligrafico tracciato a mano: è la prima cosa che dà l'atmosfera a tutta l'illustrazione. Adoro disegnare questi nastri di carta antica — danno subito il sapore del manoscritto medievale. Curo la calligrafia parola per parola prima ancora dei castelli. Salva questo dettaglio se ami il lettering storico e i titoli su pergamena. Che nome daresti tu alla tua mappa?\n\n· · ·\n\n\"Families and Communities of the Friuli General Parliament, with Castles and Medieval Works.\" The cartouche crowning the map is painted as an unrolled parchment, with hand-drawn calligraphic lettering: it's the first thing that sets the mood for the whole illustration. I love drawing these strips of aged paper — instant medieval-manuscript flavor. Save this detail if you love historical lettering and parchment titles. What name would you give your own map?",
+          "hashtags": [
+            "#calligraphy",
+            "#lettering",
+            "#cartografia",
+            "#mappaillustrata",
+            "#medievalart",
+            "#handlettering"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Cartiglio-titolo a pergamena",
+          "status": "pending",
+          "scheduled_date": "2026-07-05",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "«Famiglie e Comunità del General Parlamento del Friuli con Castelli e Opere Medievali». Il cartiglio in cima alla mappa è dipinto come una pergamena srotolata, con lettering calligrafico tracciato a mano: è la prima cosa che dà l'atmosfera a tutta l'illustrazione. Adoro disegnare questi nastri di carta antica — danno subito il sapore del manoscritto medievale. Curo la calligrafia parola per parola prima ancora dei castelli. Salva questo dettaglio se ami il lettering storico e i titoli su pergamena. Che nome daresti tu alla tua mappa?\n\n· · ·\n\n\"Families and Communities of the Friuli General Parliament, with Castles and Medieval Works.\" The cartouche crowning the map is painted as an unrolled parchment, with hand-drawn calligraphic lettering: it's the first thing that sets the mood for the whole illustration. I love drawing these strips of aged paper — instant medieval-manuscript flavor. Save this detail if you love historical lettering and parchment titles. What name would you give your own map?",
+          "hashtags": [
+            "#calligraphy",
+            "#lettering",
+            "#cartografia",
+            "#mappaillustrata",
+            "#medievalart",
+            "#handlettering"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Alpi Carniche e Giulie (Monte Coglians, Jof Montasio)",
+          "status": "pending",
+          "scheduled_date": "2026-07-06",
+          "scheduled_time": "09:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Il tetto del Friuli, disegnato vetta per vetta. Qui le Alpi Carniche e Giulie chiudono la mappa a nord: il Monte Coglians (2780 m), la cima più alta della regione, e il Jof di Montasio (2753 m), tracciati con il classico tratteggio cartografico che dà rilievo alle montagne. Ogni catena è inchiostrata a mano per far sentire la roccia e il confine con l'Austria. È la parte che amo di più: linee fitte, pazienza e profondità. Salva questa mappa per la tua prossima campagna ambientata in montagna. Quale vetta scaleresti?\n\n· · ·\n\nThe roof of Friuli, drawn peak by peak. Here the Carnic and Julian Alps close the map to the north: Monte Coglians (2780 m), the region's highest summit, and Jof di Montasio (2753 m), rendered with classic cartographic hatching that gives the mountains relief. Every ridge is hand-inked to make you feel the rock and the Austrian border. My favorite part: dense lines, patience and depth. Save this map for your next mountain campaign. Which peak would you climb?",
+          "hashtags": [
+            "#alpicarniche",
+            "#cartography",
+            "#mappaillustrata",
+            "#mapmaking",
+            "#worldbuilding",
+            "#handdrawnmap"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Alpi Carniche e Giulie (Monte Coglians, Jof Montasio)",
+          "status": "pending",
+          "scheduled_date": "2026-07-06",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Il tetto del Friuli, disegnato vetta per vetta. Qui le Alpi Carniche e Giulie chiudono la mappa a nord: il Monte Coglians (2780 m), la cima più alta della regione, e il Jof di Montasio (2753 m), tracciati con il classico tratteggio cartografico che dà rilievo alle montagne. Ogni catena è inchiostrata a mano per far sentire la roccia e il confine con l'Austria. È la parte che amo di più: linee fitte, pazienza e profondità. Salva questa mappa per la tua prossima campagna ambientata in montagna. Quale vetta scaleresti?\n\n· · ·\n\nThe roof of Friuli, drawn peak by peak. Here the Carnic and Julian Alps close the map to the north: Monte Coglians (2780 m), the region's highest summit, and Jof di Montasio (2753 m), rendered with classic cartographic hatching that gives the mountains relief. Every ridge is hand-inked to make you feel the rock and the Austrian border. My favorite part: dense lines, patience and depth. Save this map for your next mountain campaign. Which peak would you climb?",
+          "hashtags": [
+            "#alpicarniche",
+            "#cartography",
+            "#mappaillustrata",
+            "#mapmaking",
+            "#worldbuilding",
+            "#handdrawnmap"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Castelli e borghi della pianura friulana",
+          "status": "pending",
+          "scheduled_date": "2026-07-07",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Una pianura punteggiata di castelli. Nel cuore della mappa ho disegnato decine di borghi e fortezze del Friuli medievale, ognuno con la sua minuscola architettura: torri, ville, mura e campanili tracciati uno per uno e collegati ai nomi delle comunità del General Parlamento. È un mondo in miniatura — ti puoi perdere a leggere ogni etichetta. Disegnare questi micro-edifici è come costruire un piccolo regno reale. Tagga l'amico/a con cui esploreresti questi castelli, o salva la mappa come riferimento per il tuo worldbuilding. Quale borgo sceglieresti come capitale?\n\n· · ·\n\nA plain dotted with castles. In the heart of the map I drew dozens of medieval Friulian villages and fortresses, each with its own tiny architecture: towers, villas, walls and bell towers, drawn one by one and tied to the names of the General Parliament's communities. A world in miniature — you can get lost reading every label. Tag the friend you'd explore these castles with, or save the map for your worldbuilding. Which village would be your capital?",
+          "hashtags": [
+            "#castelli",
+            "#fantasymap",
+            "#worldbuilding",
+            "#cartografia",
+            "#medioevo",
+            "#mapmaking"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Castelli e borghi della pianura friulana",
+          "status": "pending",
+          "scheduled_date": "2026-07-07",
+          "scheduled_time": "17:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Una pianura punteggiata di castelli. Nel cuore della mappa ho disegnato decine di borghi e fortezze del Friuli medievale, ognuno con la sua minuscola architettura: torri, ville, mura e campanili tracciati uno per uno e collegati ai nomi delle comunità del General Parlamento. È un mondo in miniatura — ti puoi perdere a leggere ogni etichetta. Disegnare questi micro-edifici è come costruire un piccolo regno reale. Tagga l'amico/a con cui esploreresti questi castelli, o salva la mappa come riferimento per il tuo worldbuilding. Quale borgo sceglieresti come capitale?\n\n· · ·\n\nA plain dotted with castles. In the heart of the map I drew dozens of medieval Friulian villages and fortresses, each with its own tiny architecture: towers, villas, walls and bell towers, drawn one by one and tied to the names of the General Parliament's communities. A world in miniature — you can get lost reading every label. Tag the friend you'd explore these castles with, or save the map for your worldbuilding. Which village would be your capital?",
+          "hashtags": [
+            "#castelli",
+            "#fantasymap",
+            "#worldbuilding",
+            "#cartografia",
+            "#medioevo",
+            "#mapmaking"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemmi araldici delle famiglie",
+          "status": "pending",
+          "scheduled_date": "2026-07-08",
+          "scheduled_time": "17:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Tredici stemmi, tredici famiglie del Friuli. In fondo alla mappa ho dipinto una fila di blasoni araldici: scudi a bande, aquile, scacchi, croci e colori smaltati che identificavano le casate e le comunità del General Parlamento. Ogni stemma è un piccolo quadro a sé — araldica vera, con i suoi simboli e le sue regole di colore. Sono il dettaglio più colorato di tutta l'illustrazione e quello che racconta di più sulle persone dietro i castelli. Quale di questi stemmi ti colpisce di più? Salva il post se ami l'araldica e mandalo a chi studia genealogia.\n\n· · ·\n\nThirteen coats of arms, thirteen Friulian families. At the foot of the map I painted a row of heraldic shields: bends, eagles, checks, crosses and enamel colors that identified the houses and communities of the General Parliament. Each blazon is a tiny painting in itself — real heraldry, with its symbols and color rules. They're the most colorful detail of the whole piece and the one that tells you most about the people behind the castles. Which shield catches your eye? Save it if you love heraldry, and send it to anyone into genealogy.",
+          "hashtags": [
+            "#araldica",
+            "#heraldry",
+            "#coatofarms",
+            "#medievalart",
+            "#friuli",
+            "#illustration"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Mappa intera del Friuli",
+          "status": "pending",
+          "scheduled_date": "2026-07-09",
+          "scheduled_time": "07:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Il Friuli medievale in un'unica mappa illustrata disegnata a mano: castelli, famiglie e comunità del General Parlamento del Friuli. Ho mappato ogni borgo, montagna e fortezza di questa terra di confine tra Veneto, Austria e Slovenia — dalle Alpi Carniche alla laguna adriatica. Cartografia storica come omaggio a secoli di storia friulana, fatta tutta a china e colore. Quale castello esploreresti per primo? Manda questa mappa a chi ama la storia del Friuli o a chi sta costruendo il suo mondo.\n\n· · ·\n\nMedieval Friuli in one hand-drawn illustrated map: castles, families and communities of the Friuli General Parliament. I charted every village, mountain and fortress of this borderland between Veneto, Austria and Slovenia — from the Carnic Alps to the Adriatic lagoon. Historical cartography as a tribute to centuries of Friulian history, all in ink and color. Which castle would you explore first? Send this map to someone who loves Italian history or is building their own world.",
+          "hashtags": [
+            "#mappaillustrata",
+            "#cartografia",
+            "#friuli",
+            "#illustratedmap",
+            "#handdrawnmap",
+            "#historicalmap"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemmi araldici delle famiglie",
+          "status": "pending",
+          "scheduled_date": "2026-07-09",
+          "scheduled_time": "09:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Tredici stemmi, tredici famiglie del Friuli. In fondo alla mappa ho dipinto una fila di blasoni araldici: scudi a bande, aquile, scacchi, croci e colori smaltati che identificavano le casate e le comunità del General Parlamento. Ogni stemma è un piccolo quadro a sé — araldica vera, con i suoi simboli e le sue regole di colore. Sono il dettaglio più colorato di tutta l'illustrazione e quello che racconta di più sulle persone dietro i castelli. Quale di questi stemmi ti colpisce di più? Salva il post se ami l'araldica e mandalo a chi studia genealogia.\n\n· · ·\n\nThirteen coats of arms, thirteen Friulian families. At the foot of the map I painted a row of heraldic shields: bends, eagles, checks, crosses and enamel colors that identified the houses and communities of the General Parliament. Each blazon is a tiny painting in itself — real heraldry, with its symbols and color rules. They're the most colorful detail of the whole piece and the one that tells you most about the people behind the castles. Which shield catches your eye? Save it if you love heraldry, and send it to anyone into genealogy.",
+          "hashtags": [
+            "#araldica",
+            "#heraldry",
+            "#coatofarms",
+            "#medievalart",
+            "#friuli",
+            "#illustration"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        }
+      ]
+    },
+    {
+      "source_image": "IMG_0010-1.PNG",
+      "posts": [
+        {
+          "title": "Emblema del drago di Skyrim",
+          "status": "pending",
+          "scheduled_date": "2026-07-10",
+          "scheduled_time": "07:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Il simbolo che riconosce chiunque abbia impugnato una spada nelle terre dei Nord: il drago di Skyrim, ali spiegate sul cartiglio.\n\nL'ho inchiostrato a mano partendo dalla silhouette iconica del Sangue di Drago. Pochi tratti, ma devono dire \"casa\" a chiunque ami questo mondo.\n\nLo riconosci senza nemmeno leggere il nome, vero?\n\nTagga l'amico/a con cui hai sognato di gridare in lingua dei draghi. Manda questo post a chi ha Skyrim nel cuore.\n\n· · ·\n\nThe symbol anyone who ever drew a blade in the land of the Nords will know on sight: the dragon of Skyrim, wings spread across the banner.\n\nInked by hand from the iconic Dragonborn silhouette. Few strokes, but they have to say \"home\" to anyone who loves this world.\n\nYou recognized it before reading the name, didn't you?\n\nTag the friend you dreamed of shouting in the dragon tongue with. Send this to someone who keeps Skyrim in their heart.",
+          "hashtags": [
+            "#skyrim",
+            "#dragonborn",
+            "#elderscrolls",
+            "#fusrodah",
+            "#tes5",
+            "#fantasyart",
+            "#inkart",
+            "#gamingart",
+            "#nords",
+            "#emblem"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Emblema del drago di Skyrim",
+          "status": "pending",
+          "scheduled_date": "2026-07-10",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Il simbolo che riconosce chiunque abbia impugnato una spada nelle terre dei Nord: il drago di Skyrim, ali spiegate sul cartiglio.\n\nL'ho inchiostrato a mano partendo dalla silhouette iconica del Sangue di Drago. Pochi tratti, ma devono dire \"casa\" a chiunque ami questo mondo.\n\nLo riconosci senza nemmeno leggere il nome, vero?\n\nTagga l'amico/a con cui hai sognato di gridare in lingua dei draghi. Manda questo post a chi ha Skyrim nel cuore.\n\n· · ·\n\nThe symbol anyone who ever drew a blade in the land of the Nords will know on sight: the dragon of Skyrim, wings spread across the banner.\n\nInked by hand from the iconic Dragonborn silhouette. Few strokes, but they have to say \"home\" to anyone who loves this world.\n\nYou recognized it before reading the name, didn't you?\n\nTag the friend you dreamed of shouting in the dragon tongue with. Send this to someone who keeps Skyrim in their heart.",
+          "hashtags": [
+            "#skyrim",
+            "#dragonborn",
+            "#elderscrolls",
+            "#fusrodah",
+            "#tes5",
+            "#fantasyart",
+            "#inkart",
+            "#gamingart",
+            "#nords",
+            "#emblem"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemma con testa cornuta (La Forgia/Markarth)",
+          "status": "pending",
+          "scheduled_date": "2026-07-11",
+          "scheduled_time": "09:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Tra le montagne più aspre di Skyrim, dove la pietra diventa città, sorge il Possedimento della Forgia con il suo stemma cornuto.\n\nAdoro disegnare gli stemmi araldici: una testa di bestia, due corni, e subito senti il vento gelido tra i picchi di Markarth. Il rosso brucia sul beige della pergamena.\n\nQuesto è il Possedimento più ostile o solo il più frainteso?\n\nSalva questo stemma se ami l'araldica fantasy. Manda il post al tuo Dungeon Master per la prossima ambientazione.\n\n· · ·\n\nAmong the harshest mountains of Skyrim, where stone becomes city, lies the Hold of the Reach with its horned crest.\n\nI love drawing heraldic crests: a beast's head, two horns, and you can already feel the icy wind among the peaks of Markarth. The red burns against the parchment beige.\n\nIs this the most hostile Hold, or just the most misunderstood?\n\nSave this crest if you love fantasy heraldry. Send the post to your Dungeon Master for the next setting.",
+          "hashtags": [
+            "#skyrim",
+            "#markarth",
+            "#thereach",
+            "#elderscrolls",
+            "#heraldry",
+            "#fantasymap",
+            "#worldbuilding",
+            "#dndart",
+            "#cartography",
+            "#fantasyart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemma con testa cornuta (La Forgia/Markarth)",
+          "status": "pending",
+          "scheduled_date": "2026-07-11",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Tra le montagne più aspre di Skyrim, dove la pietra diventa città, sorge il Possedimento della Forgia con il suo stemma cornuto.\n\nAdoro disegnare gli stemmi araldici: una testa di bestia, due corni, e subito senti il vento gelido tra i picchi di Markarth. Il rosso brucia sul beige della pergamena.\n\nQuesto è il Possedimento più ostile o solo il più frainteso?\n\nSalva questo stemma se ami l'araldica fantasy. Manda il post al tuo Dungeon Master per la prossima ambientazione.\n\n· · ·\n\nAmong the harshest mountains of Skyrim, where stone becomes city, lies the Hold of the Reach with its horned crest.\n\nI love drawing heraldic crests: a beast's head, two horns, and you can already feel the icy wind among the peaks of Markarth. The red burns against the parchment beige.\n\nIs this the most hostile Hold, or just the most misunderstood?\n\nSave this crest if you love fantasy heraldry. Send the post to your Dungeon Master for the next setting.",
+          "hashtags": [
+            "#skyrim",
+            "#markarth",
+            "#thereach",
+            "#elderscrolls",
+            "#heraldry",
+            "#fantasymap",
+            "#worldbuilding",
+            "#dndart",
+            "#cartography",
+            "#fantasyart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemma del cervo (Falkreath)",
+          "status": "pending",
+          "scheduled_date": "2026-07-12",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Una testa di cervo su campo blu, incorniciata dalle foreste più fitte e silenziose di Skyrim: lo stemma di Falkreath.\n\nÈ il Possedimento del cimitero e dei boschi profondi, e ho voluto uno stemma calmo, quasi malinconico. Il cervo guarda chi entra nelle sue valli.\n\nBoschi pacifici o terra di fantasmi? A Falkreath non si sa mai.\n\nCommenta il nome che daresti a questo regno se fosse tuo. Salva lo stemma per la tua mappa fantasy.\n\n· · ·\n\nA stag's head on a blue field, framed by the densest, quietest forests of Skyrim: the crest of Falkreath.\n\nIt's the Hold of the graveyard and deep woods, so I wanted a calm, almost melancholy crest. The stag watches whoever enters its valleys.\n\nPeaceful woods or land of ghosts? In Falkreath you never quite know.\n\nComment the name you'd give this realm if it were yours. Save the crest for your fantasy map.",
+          "hashtags": [
+            "#skyrim",
+            "#falkreath",
+            "#elderscrolls",
+            "#fantasymap",
+            "#stag",
+            "#worldbuilding",
+            "#dnd",
+            "#fantasycartography",
+            "#fantasyart",
+            "#tabletoprpg"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemma del cervo (Falkreath)",
+          "status": "pending",
+          "scheduled_date": "2026-07-12",
+          "scheduled_time": "17:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Una testa di cervo su campo blu, incorniciata dalle foreste più fitte e silenziose di Skyrim: lo stemma di Falkreath.\n\nÈ il Possedimento del cimitero e dei boschi profondi, e ho voluto uno stemma calmo, quasi malinconico. Il cervo guarda chi entra nelle sue valli.\n\nBoschi pacifici o terra di fantasmi? A Falkreath non si sa mai.\n\nCommenta il nome che daresti a questo regno se fosse tuo. Salva lo stemma per la tua mappa fantasy.\n\n· · ·\n\nA stag's head on a blue field, framed by the densest, quietest forests of Skyrim: the crest of Falkreath.\n\nIt's the Hold of the graveyard and deep woods, so I wanted a calm, almost melancholy crest. The stag watches whoever enters its valleys.\n\nPeaceful woods or land of ghosts? In Falkreath you never quite know.\n\nComment the name you'd give this realm if it were yours. Save the crest for your fantasy map.",
+          "hashtags": [
+            "#skyrim",
+            "#falkreath",
+            "#elderscrolls",
+            "#fantasymap",
+            "#stag",
+            "#worldbuilding",
+            "#dnd",
+            "#fantasycartography",
+            "#fantasyart",
+            "#tabletoprpg"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemma del cavallo (Whiterun)",
+          "status": "pending",
+          "scheduled_date": "2026-07-13",
+          "scheduled_time": "17:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Una testa di cavallo che corre nel cuore di Skyrim: lo stemma di Whiterun, il Possedimento più centrale e fiero dei Nord.\n\nÈ qui che passano tutte le strade, qui che batte il cuore della provincia. Ho voluto uno stemma dinamico, con la criniera al vento, su sfondo verde acqua.\n\nWhiterun è la prima città che visiti sempre per prima, ammettilo.\n\nTagga chi inizierebbe da qui la sua avventura. Manda la mappa a chi sta costruendo il suo mondo fantasy.\n\n· · ·\n\nA running horse's head at the very heart of Skyrim: the crest of Whiterun, the most central and proud Hold of the Nords.\n\nThis is where every road crosses, where the province's heart beats. I wanted a dynamic crest, mane in the wind, on a teal field.\n\nWhiterun is always the first city you visit, admit it.\n\nTag whoever would start their adventure here. Send the map to someone building their own fantasy world.",
+          "hashtags": [
+            "#skyrim",
+            "#whiterun",
+            "#elderscrolls",
+            "#tes5",
+            "#fantasymap",
+            "#worldbuilding",
+            "#heraldry",
+            "#dndmaps",
+            "#cartography",
+            "#fantasyart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemma con croce di Sant'Andrea (Il Rift/Riften)",
+          "status": "pending",
+          "scheduled_date": "2026-07-14",
+          "scheduled_time": "07:00",
+          "is_overview": false,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Una croce decussata su campo violaceo, all'angolo sud-orientale della mappa, dove i laghi e i boschi d'autunno incontrano i passi montani: lo stemma del Rift.\n\nMi piaceva spezzare la serie di teste d'animale con un disegno puramente geometrico: due assi incrociate, essenziali, eppure inconfondibili. Il viola lo rende il più \"regale\" della mappa.\n\nGeometria o bestia araldica: quale stemma preferisci tra quelli di Skyrim?\n\nSalva questo dettaglio per ispirare la tua prossima campagna. Manda il post a chi adora l'araldica.\n\n· · ·\n\nA saltire cross on a purple field, in the south-eastern corner of the map, where autumn lakes and woods meet the mountain passes: the crest of the Rift.\n\nI liked breaking the run of animal heads with a purely geometric design: two crossed bars, essential yet unmistakable. The purple makes it the most \"regal\" on the map.\n\nGeometry or heraldic beast: which Skyrim crest do you prefer?\n\nSave this detail to inspire your next campaign. Send the post to anyone who loves heraldry.",
+          "hashtags": [
+            "#skyrim",
+            "#riften",
+            "#therift",
+            "#elderscrolls",
+            "#heraldry",
+            "#fantasymap",
+            "#worldbuilding",
+            "#dndart",
+            "#fantasycartography",
+            "#tabletoprpg"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemma del cavallo (Whiterun)",
+          "status": "pending",
+          "scheduled_date": "2026-07-14",
+          "scheduled_time": "09:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Una testa di cavallo che corre nel cuore di Skyrim: lo stemma di Whiterun, il Possedimento più centrale e fiero dei Nord.\n\nÈ qui che passano tutte le strade, qui che batte il cuore della provincia. Ho voluto uno stemma dinamico, con la criniera al vento, su sfondo verde acqua.\n\nWhiterun è la prima città che visiti sempre per prima, ammettilo.\n\nTagga chi inizierebbe da qui la sua avventura. Manda la mappa a chi sta costruendo il suo mondo fantasy.\n\n· · ·\n\nA running horse's head at the very heart of Skyrim: the crest of Whiterun, the most central and proud Hold of the Nords.\n\nThis is where every road crosses, where the province's heart beats. I wanted a dynamic crest, mane in the wind, on a teal field.\n\nWhiterun is always the first city you visit, admit it.\n\nTag whoever would start their adventure here. Send the map to someone building their own fantasy world.",
+          "hashtags": [
+            "#skyrim",
+            "#whiterun",
+            "#elderscrolls",
+            "#tes5",
+            "#fantasymap",
+            "#worldbuilding",
+            "#heraldry",
+            "#dndmaps",
+            "#cartography",
+            "#fantasyart"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Stemma con croce di Sant'Andrea (Il Rift/Riften)",
+          "status": "pending",
+          "scheduled_date": "2026-07-14",
+          "scheduled_time": "13:00",
+          "is_overview": false,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Una croce decussata su campo violaceo, all'angolo sud-orientale della mappa, dove i laghi e i boschi d'autunno incontrano i passi montani: lo stemma del Rift.\n\nMi piaceva spezzare la serie di teste d'animale con un disegno puramente geometrico: due assi incrociate, essenziali, eppure inconfondibili. Il viola lo rende il più \"regale\" della mappa.\n\nGeometria o bestia araldica: quale stemma preferisci tra quelli di Skyrim?\n\nSalva questo dettaglio per ispirare la tua prossima campagna. Manda il post a chi adora l'araldica.\n\n· · ·\n\nA saltire cross on a purple field, in the south-eastern corner of the map, where autumn lakes and woods meet the mountain passes: the crest of the Rift.\n\nI liked breaking the run of animal heads with a purely geometric design: two crossed bars, essential yet unmistakable. The purple makes it the most \"regal\" on the map.\n\nGeometry or heraldic beast: which Skyrim crest do you prefer?\n\nSave this detail to inspire your next campaign. Send the post to anyone who loves heraldry.",
+          "hashtags": [
+            "#skyrim",
+            "#riften",
+            "#therift",
+            "#elderscrolls",
+            "#heraldry",
+            "#fantasymap",
+            "#worldbuilding",
+            "#dndart",
+            "#fantasycartography",
+            "#tabletoprpg"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Mappa completa di Skyrim",
+          "status": "pending",
+          "scheduled_date": "2026-07-15",
+          "scheduled_time": "09:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Mappa fantasy di Skyrim disegnata a mano: i Nove Possedimenti dei Nord, dalla tundra ghiacciata di Winterhold alle gole di Markarth.\n\nOgni stemma è un Possedimento, ogni catena montuosa una storia di draghi e leggende. L'ho ridisegnata a china e acquerello, omaggio al mondo di The Elder Scrolls V.\n\nQuale Possedimento sceglieresti come casa: la fierezza di Whiterun, il gelo di Windhelm o le foreste di Falkreath?\n\nManda questa mappa a chi ha consumato Skyrim a furia di \"Fus Ro Dah\". Salvala per la tua prossima campagna fantasy.\n\n· · ·\n\nHand-drawn fantasy map of Skyrim: the Nine Holds of the Nords, from the frozen tundra of Winterhold to the gorges of Markarth.\n\nEvery crest is a Hold, every mountain range a tale of dragons and legend. Redrawn in ink and watercolor, a tribute to the world of The Elder Scrolls V.\n\nWhich Hold would you call home: proud Whiterun, frozen Windhelm or the forests of Falkreath?\n\nSend this map to the friend who beat Skyrim three times. Save it for your next fantasy campaign.",
+          "hashtags": [
+            "#skyrim",
+            "#elderscrolls",
+            "#tes5",
+            "#skyrimmap",
+            "#fantasymap",
+            "#mapmaking",
+            "#worldbuilding",
+            "#cartography",
+            "#dragonborn",
+            "#handdrawnmap"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
         }
       ]
     }
@@ -7775,9 +8965,243 @@
     },
     "#fairytaleart": {
       "tier": "medio",
+      "trend": "in crescita",
+      "note": "arte fantasy, comunità attiva",
+      "updated": "2026-06-29"
+    },
+    "#mountains": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "milioni di post, generico",
+      "updated": "2026-06-29"
+    },
+    "#phoenix": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "ambiguo: città e mitologia",
+      "updated": "2026-06-29"
+    },
+    "#heraldry": {
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "nicchia arte fantasy, uso costante",
-      "updated": "2026-06-22"
+      "note": "araldica, settore ristretto",
+      "updated": "2026-06-29"
+    },
+    "#dndcity": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "mappe città D&D",
+      "updated": "2026-06-29"
+    },
+    "#sigil": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "ambiguo: occulto e D&D",
+      "updated": "2026-06-29"
+    },
+    "#dungeonmaster": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "comunità DM attiva",
+      "updated": "2026-06-29"
+    },
+    "#dndlore": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "lore D&D, mirato",
+      "updated": "2026-06-29"
+    },
+    "#archipelago": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "geografico, uso vario",
+      "updated": "2026-06-29"
+    },
+    "#dndart": {
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "arte D&D molto popolare",
+      "updated": "2026-06-29"
+    },
+    "#calligraphy": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "14M+ post, molto saturo",
+      "updated": "2026-06-29"
+    },
+    "#lettering": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "19M post, sovraffollato",
+      "updated": "2026-06-29"
+    },
+    "#mappaillustrata": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "nicchia italiana, poco affollata",
+      "updated": "2026-06-29"
+    },
+    "#medievalart": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "arte medievale, comunità solida",
+      "updated": "2026-06-29"
+    },
+    "#handlettering": {
+      "tier": "ampio",
+      "trend": "saturo",
+      "note": "12M post, saturo",
+      "updated": "2026-06-29"
+    },
+    "#alpicarniche": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "regionale FVG, micro-nicchia",
+      "updated": "2026-06-29"
+    },
+    "#castelli": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "castelli italiani, uso turistico",
+      "updated": "2026-06-29"
+    },
+    "#medioevo": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "medioevo italiano, divulgazione",
+      "updated": "2026-06-29"
+    },
+    "#coatofarms": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "stemmi, nicchia araldica",
+      "updated": "2026-06-29"
+    },
+    "#friuli": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "regionale, turismo attivo",
+      "updated": "2026-06-29"
+    },
+    "#illustratedmap": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "mappe illustrate, settore creativo",
+      "updated": "2026-06-29"
+    },
+    "#historicalmap": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "cartografia storica, nicchia",
+      "updated": "2026-06-29"
+    },
+    "#skyrim": {
+      "tier": "ampio",
+      "trend": "stabile",
+      "note": "1.83M post, evergreen gaming",
+      "updated": "2026-06-29"
+    },
+    "#dragonborn": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "260K post, Skyrim/D&D",
+      "updated": "2026-06-29"
+    },
+    "#elderscrolls": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "519K post, fanbase fedele",
+      "updated": "2026-06-29"
+    },
+    "#fusrodah": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "meme Skyrim riconoscibile",
+      "updated": "2026-06-29"
+    },
+    "#tes5": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "sigla TES, poco usata",
+      "updated": "2026-06-29"
+    },
+    "#inkart": {
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "arte a inchiostro, crescente",
+      "updated": "2026-06-29"
+    },
+    "#gamingart": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "arte gaming, molto usato",
+      "updated": "2026-06-29"
+    },
+    "#nords": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "ambiguo: Skyrim e generico",
+      "updated": "2026-06-29"
+    },
+    "#emblem": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "ambiguo, vari contesti",
+      "updated": "2026-06-29"
+    },
+    "#markarth": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "città Skyrim, pochi post",
+      "updated": "2026-06-29"
+    },
+    "#thereach": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "ambiguo, regione Skyrim",
+      "updated": "2026-06-29"
+    },
+    "#falkreath": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "località Skyrim, micro-nicchia",
+      "updated": "2026-06-29"
+    },
+    "#stag": {
+      "tier": "medio",
+      "trend": "stabile",
+      "note": "ambiguo: cervo e addii",
+      "updated": "2026-06-29"
+    },
+    "#tabletoprpg": {
+      "tier": "medio",
+      "trend": "in crescita",
+      "note": "GdR da tavolo, crescente",
+      "updated": "2026-06-29"
+    },
+    "#whiterun": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "città Skyrim, fan attivi",
+      "updated": "2026-06-29"
+    },
+    "#riften": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "città Skyrim, pochi post",
+      "updated": "2026-06-29"
+    },
+    "#therift": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "ambiguo, regione Skyrim",
+      "updated": "2026-06-29"
+    },
+    "#skyrimmap": {
+      "tier": "nicchia",
+      "trend": "in crescita",
+      "note": "mappe Skyrim, molto mirato",
+      "updated": "2026-06-29"
     }
   },
   "learnings": [
@@ -7914,15 +9338,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-06-26T07:00:22",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Mappa intera — Land of Oz»",
-      "extra": {
-        "media_id": "18396258682081562"
-      }
-    },
-    {
       "ts": "2026-06-26T07:00:29",
       "severity": "info",
       "source": "facebook",
@@ -8014,6 +9429,12 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-06-29T14:16:18",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 3 Storie pubblicate"
     }
   ],
   "ideas": {
@@ -8075,7 +9496,9 @@
           "#ttrpg"
         ],
         "id": "il-lettering-del-cartiglio-la-firma-della-mappa",
-        "status": "open"
+        "status": "done",
+        "done_at": "2026-06-29T20:02",
+        "done_reason": "Esiste già un reel 'Cartiglio-titolo a pergamena' (mappa Friuli) che mostra il cartiglio/lettering del titolo della mappa: stesso tema (cartiglio = firma della mappa) e stesso formato reel."
       },
       {
         "format": "carousel",
@@ -8773,16 +10196,16 @@
         "created_at": "2026-06-18T06:00"
       }
     ],
-    "generated_at": "2026-06-25T06:00"
+    "generated_at": "2026-06-29T20:02"
   },
   "boost": {
-    "generated_at": "2026-06-28T20:01",
+    "generated_at": "2026-06-29T20:02",
     "suggestion": {
       "media_id": "18109669757309294",
       "title": "Nascono le città del regno",
       "kind": "reel",
       "published_at": "2026-06-13",
-      "age_days": 15,
+      "age_days": 16,
       "confidence": "media",
       "objective": "Visite al profilo (proxy crescita follower)",
       "budget_eur_day": 5,
@@ -8807,15 +10230,15 @@
         ]
       },
       "why": [
-        "reach 341 = 4.94× la tua media recente (69)",
+        "reach 341 = 4.87× la tua media recente (70)",
         "478 views",
         "1 salvataggi, 0 condivisioni",
         "reach pari al 37% dei tuoi follower"
       ]
     },
-    "considered": 34,
+    "considered": 33,
     "baseline": {
-      "reach_median": 69.0
+      "reach_median": 70
     },
     "last_notified": "18109669757309294"
   },
@@ -9635,14 +11058,14 @@
   "weekly": {
     "period_days": 7,
     "followers_start": 920,
-    "followers_end": 919,
-    "followers_gained": -1,
+    "followers_end": 920,
+    "followers_gained": 0,
     "from": "2026-06-22",
-    "to": "2026-06-28",
+    "to": "2026-06-29",
     "top_posts": [
       {
         "title": "Mappa completa di Westeros",
-        "reach": 212,
+        "reach": 214,
         "saved": 2,
         "shares": 1,
         "likes": 21
