@@ -1,5 +1,13 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-07-01
+Ciclo di riconferma senza segnali nuovi forti. I Reel continuano a battere nettamente le foto (Montagne delle Aquile, mondo proprio: reel 119 vs foto 41; Oz: reel 117–160 vs foto 27–44) e la fase 'dettagli' resta la migliore (341). La reach d'account è scesa al minimo del mese dopo la fine della serie GoT/Oz (27–29 giu: 128/96/86), con lieve recupero al rientro su un mondo proprio (30 giu: 206); follower ancora in plateau (~920) e salvataggi/condivisioni ancora ~0 (unica share storica = overview Westeros). Modifiche minime e incrementali, orari invariati.
+- Aggiornata la riga (dato) in Obiettivo con i dati di fine giugno: reach d'account al minimo del mese dopo la fine di GoT/serie Oz (27–29 giu: 128/96/86) e lieve recupero col rientro a un mondo proprio (30 giu: 206); follower ancora in plateau (~920).
+- Nella sezione Reels: aggiunta la conferma Reel >> foto anche fuori dagli IP noti, al rientro su un mondo proprio (Montagne delle Aquile: reel 119 vs foto 41).
+- Orari invariati (07/09/13/17): lo storico riconferma mattino presto (h07=22) e pomeriggio (h16-17); i Reel recenti reggono a pranzo (13:00).
+- CTA send/salvataggio mantenuta: i due segnali più pesanti restano ~0 su quasi tutti i post.
+- Aggiunta riga di changelog del 01 lug 2026 (ciclo di riconferma, evidenze deboli → modifiche minime).
+
 ## 2026-06-29
 Riconfermati i pattern noti: Reel >> foto per reach (Oz: reel 117–160 vs foto 27–44) e fase 'dettagli' la migliore (341). Nuovo segnale prudente sulle SERIE-IP: non tutti i mondi rendono uguale — Game of Thrones (fandom IG enorme) ha trainato il picco di reach d'account (20–21 giu: 324/450 e l'unica condivisione), mentre la serie successiva su Il Mago di Oz è coincisa con reach calante (27–28 giu: 128/96) e follower in plateau (919–921). Inoltre le foto di SINGOLI PERSONAGGI di Oz (Uomo di Latta, Leone, Spaventapasseri, Dorothy) sono le foto a reach più bassa del dataset (27–44): le MAPPE di un mondo noto rendono più dei ritratti isolati. Salvataggi/condivisioni ancora quasi nulli. Modifiche incrementali; orari invariati.
 - Obiettivo: annotato che la reach d'account è trainata soprattutto dalla serie GoT (picco 20–21 giu) ed è calata con la serie Oz e dopo la fine di GoT (27–28 giu); follower in plateau (919–921).
