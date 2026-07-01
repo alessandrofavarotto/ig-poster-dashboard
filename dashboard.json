@@ -10681,9 +10681,29 @@
         "id": "da-bianco-a-pergamena-antica-invecchio-la-mappa-in",
         "status": "open",
         "created_at": "2026-06-18T06:00"
+      },
+      {
+        "id": "guild-2026-07",
+        "campaign": "guild",
+        "format": "post",
+        "title": "Cartographers' Guild — sfida di luglio 2026",
+        "cosa_fare": "Controlla il TEMA del mese sul forum del Guild e disegna una mappa; invia entro ~fine luglio (voto nei primi giorni del mese dopo).",
+        "perche": "Sfida mensile della community di riferimento per le mappe fantasy: visibilità + contenuto on-brand.",
+        "gancio": "🧭 Cartographers' Guild · luglio 2026",
+        "hashtags": [
+          "#cartographersguild",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "link": "https://www.cartographersguild.com/content.php?r=192-challenges",
+        "deadline": "2026-07-31",
+        "status": "open",
+        "created_at": "2026-07-01T09:00"
       }
     ],
-    "generated_at": "2026-06-29T20:02"
+    "generated_at": "2026-07-01T09:00"
   },
   "boost": {
     "generated_at": "2026-06-30T20:00",
