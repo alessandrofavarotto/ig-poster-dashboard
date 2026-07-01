@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30",
+  "generated_at": "2026-07-01",
   "account": [
     {
       "date": "2026-06-05",
@@ -9800,24 +9800,30 @@
         "Caption/CTA: ribadito che send/salvataggi restano ~0 (eccetto l'overview Westeros) → CTA invariata, da rafforzare.",
         "Orari: invariati (07/09/13/17), storico 598 post riconferma mattino presto e pomeriggio; aggiunto changelog 29 giu 2026."
       ]
+    },
+    {
+      "date": "2026-07-01",
+      "ts": "2026-07-01T08:35",
+      "enough_evidence": true,
+      "posts_measured": 38,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "09:00",
+        "13:00",
+        "17:00"
+      ],
+      "summary": "Ciclo di riconferma senza segnali nuovi forti. I Reel continuano a battere nettamente le foto (Montagne delle Aquile, mondo proprio: reel 119 vs foto 41; Oz: reel 117–160 vs foto 27–44) e la fase 'dettagli' resta la migliore (341). La reach d'account è scesa al minimo del mese dopo la fine della serie GoT/Oz (27–29 giu: 128/96/86), con lieve recupero al rientro su un mondo proprio (30 giu: 206); follower ancora in plateau (~920) e salvataggi/condivisioni ancora ~0 (unica share storica = overview Westeros). Modifiche minime e incrementali, orari invariati.",
+      "changes": [
+        "Aggiornata la riga (dato) in Obiettivo con i dati di fine giugno: reach d'account al minimo del mese dopo la fine di GoT/serie Oz (27–29 giu: 128/96/86) e lieve recupero col rientro a un mondo proprio (30 giu: 206); follower ancora in plateau (~920).",
+        "Nella sezione Reels: aggiunta la conferma Reel >> foto anche fuori dagli IP noti, al rientro su un mondo proprio (Montagne delle Aquile: reel 119 vs foto 41).",
+        "Orari invariati (07/09/13/17): lo storico riconferma mattino presto (h07=22) e pomeriggio (h16-17); i Reel recenti reggono a pranzo (13:00).",
+        "CTA send/salvataggio mantenuta: i due segnali più pesanti restano ~0 su quasi tutti i post.",
+        "Aggiunta riga di changelog del 01 lug 2026 (ciclo di riconferma, evidenze deboli → modifiche minime)."
+      ]
     }
   ],
   "alerts": [
-    {
-      "ts": "2026-06-27T14:16:22",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 3 Storie pubblicate"
-    },
-    {
-      "ts": "2026-06-28T08:01:45",
-      "severity": "error",
-      "source": "process",
-      "message": "Analisi immagine fallita: conquerors_by_alessandrofavarotto_d9nnz4a.png",
-      "extra": {
-        "error": "output di claude non è JSON valido"
-      }
-    },
     {
       "ts": "2026-06-28T10:38:07",
       "severity": "error",
@@ -9904,6 +9910,18 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 4 Storie pubblicate"
+    },
+    {
+      "ts": "2026-07-01T06:01:04",
+      "severity": "warning",
+      "source": "algo",
+      "message": "Ricerca algoritmo fallita: Extra data: line 2 column 1 (char 2677)"
+    },
+    {
+      "ts": "2026-07-01T06:02:28",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Competitor (dati reali): 18 account letti · formato top: IMAGE · ~1.3 post/sett. Nella nicchia cartografia fantasy le immagini singole battono nettamente Reel e caroselli (378 vs 219 vs 181), e la cade — nuovi: @fantastic_maps, @fantasy_map, @tamaps.carto — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
     }
   ],
   "ideas": {
@@ -10734,7 +10752,10 @@
       "fantasymapshop",
       "lightheartadventures",
       "the_reclusive_cartographer",
-      "caeora"
+      "caeora",
+      "fantastic_maps",
+      "fantasy_map",
+      "tamaps.carto"
     ],
     "runs": [
       {
@@ -11515,6 +11536,197 @@
           "mistybeee",
           "feedthemultiverse"
         ]
+      },
+      {
+        "date": "2026-07-01",
+        "summary": "Nella nicchia cartografia fantasy le immagini singole battono nettamente Reel e caroselli (378 vs 219 vs 181), e la cadenza vincente è bassa e curata (~1.3 post/settimana): gli account che postano poco ma bene, anche piccoli, surclassano chi pubblica di più. La leva strategica è concentrarsi su poche mappe ad alto impatto, ancorare hashtag e caption al pubblico D&D/worldbuilding (#dnd, #fantasymap, #worldbuilding) e ridimensionare la sovrapproduzione di caroselli e reel-companion.",
+        "new_handles": [
+          "fantastic_maps",
+          "fantasy_map",
+          "tamaps.carto"
+        ],
+        "lessons": [
+          "Il formato IMAGE è il re della nicchia: engagement medio 378 contro 219 dei REELS e 181 dei CAROUSEL_ALBUM, su campioni ampi (194 immagini). La nostra pipeline oggi moltiplica reel-companion e caroselli: va ribilanciata dando priorità al SINGOLO post immagine (la mappa intera/overview come 'hero shot') e trattando Reel e caroselli come contorno, non come colonna portante.",
+          "La cadenza vincente è BASSA e curata: mediana 1.3 post/settimana. paths.peculiar fa 1482 di engagement medio con solo 1.3 post/sett, mentre morenopaissanart posta 7.6 volte/sett e crolla a 79. Il nostro 1 post/giorno da decomposizione rischia di essere sovrapproduzione: meglio diradare a ~2-4 post/settimana, scegliendo solo i dettagli migliori invece di svuotare ogni immagine.",
+          "L'engagement non segue i follower: mapsbyowen (15k follower) fa 354 e fantasymapink (14k) fa 417, battendo inkarnaterpg (70k → 349) e dungeonmapster (20k → 144). Per un account piccolo come il nostro conta la FORZA del singolo pezzo, non il volume: puntare su poche mappe ad alto impatto visivo è una strategia realistica per crescere.",
+          "Gli hashtag devono ancorarsi al MOTORE D&D/TTRPG, non all'arte generica: i tag più usati dai competitor sono #dnd, #dungeonsanddragons, #fantasymap, #worldbuilding, #rpg, #dungeonmaster, #tabletoprpg, #ttrpg. #art e #fantasy (troppo generici e saturi) vanno relegati in coda. Le nostre caption/hashtag vanno riorientate verso chi usa le mappe per giocare (DM, worldbuilder), non solo verso l'apprezzamento estetico.",
+          "Il CAROUSEL_ALBUM è il formato più debole (181) nonostante il campione enorme (180 post): molti competitor ci investono ma rende poco. La nostra strada 'Caroselli' e la decomposizione multi-slide vanno usate con parsimonia, riservandole a contenuti dove la sequenza aggiunge valore reale (es. before/after, zoom guidato), non come default.",
+          "I REELS (219) restano sotto le immagini ma valgono per la reach su NON-follower: teniamo i Reel Ken Burns come strumento di scoperta/top-funnel, misurando però che non cannibalizzino i post immagine ad alto engagement. Se le nostre metriche confermano il pattern del settore, ridurne la frequenza a favore di immagini statiche di qualità."
+        ],
+        "stats": {
+          "readable": 18,
+          "unreadable": 4,
+          "best_format": "IMAGE",
+          "best_formats": [
+            {
+              "type": "IMAGE",
+              "avg_engagement": 378,
+              "campione": 194
+            },
+            {
+              "type": "REELS",
+              "avg_engagement": 219,
+              "campione": 75
+            },
+            {
+              "type": "CAROUSEL_ALBUM",
+              "avg_engagement": 181,
+              "campione": 180
+            }
+          ],
+          "median_posts_per_week": 1.3,
+          "top_hashtags": [
+            "dnd",
+            "dungeonsanddragons",
+            "fantasymap",
+            "worldbuilding",
+            "rpg",
+            "map",
+            "cartography",
+            "dungeonmaster",
+            "art",
+            "fantasy",
+            "tabletoprpg",
+            "dndart",
+            "fantasycartography",
+            "tabletopgames",
+            "ttrpg"
+          ]
+        },
+        "accounts": [
+          {
+            "handle": "mapeffects",
+            "followers": 131560,
+            "media_count": 1316,
+            "avg_eng": 503,
+            "posts_per_week": 5.3
+          },
+          {
+            "handle": "paths.peculiar",
+            "followers": 82517,
+            "media_count": 1055,
+            "avg_eng": 1482,
+            "posts_per_week": 1.3
+          },
+          {
+            "handle": "inkarnaterpg",
+            "followers": 70491,
+            "media_count": 1551,
+            "avg_eng": 349,
+            "posts_per_week": 3.6
+          },
+          {
+            "handle": "danielsmaps",
+            "followers": 62726,
+            "media_count": 1752,
+            "avg_eng": 265,
+            "posts_per_week": 5.0
+          },
+          {
+            "handle": "the_reclusive_cartographer",
+            "followers": 33634,
+            "media_count": 970,
+            "avg_eng": 200,
+            "posts_per_week": 2.0
+          },
+          {
+            "handle": "czepeku_dnd_maps",
+            "followers": 21769,
+            "media_count": 1609,
+            "avg_eng": 248,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "dungeonmapster",
+            "followers": 20681,
+            "media_count": 1132,
+            "avg_eng": 144,
+            "posts_per_week": 1.3
+          },
+          {
+            "handle": "fantasymapshop",
+            "followers": 15070,
+            "media_count": 859,
+            "avg_eng": 162,
+            "posts_per_week": 1.1
+          },
+          {
+            "handle": "mapsbyowen",
+            "followers": 14997,
+            "media_count": 283,
+            "avg_eng": 354,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "inkcompass.maps",
+            "followers": 14171,
+            "media_count": 1017,
+            "avg_eng": 104,
+            "posts_per_week": 4.9
+          },
+          {
+            "handle": "fantasymapink",
+            "followers": 14109,
+            "media_count": 169,
+            "avg_eng": 417,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "domino44maps",
+            "followers": 7151,
+            "media_count": 418,
+            "avg_eng": 260,
+            "posts_per_week": 1.5
+          },
+          {
+            "handle": "morenopaissanart",
+            "followers": 5735,
+            "media_count": 595,
+            "avg_eng": 79,
+            "posts_per_week": 7.6
+          },
+          {
+            "handle": "bewarethewizard",
+            "followers": 5492,
+            "media_count": 140,
+            "avg_eng": 44,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "fantasy.cartography",
+            "followers": 1332,
+            "media_count": 42,
+            "avg_eng": 81,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "lightheartadventures",
+            "followers": 1322,
+            "media_count": 427,
+            "avg_eng": 34,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "caeora",
+            "followers": 900,
+            "media_count": 195,
+            "avg_eng": 23,
+            "posts_per_week": 0.5
+          },
+          {
+            "handle": "krsolbergauthor",
+            "followers": 557,
+            "media_count": 149,
+            "avg_eng": 149,
+            "posts_per_week": 2.0
+          }
+        ],
+        "unreadable_handles": [
+          "francescabaerald",
+          "devenrue",
+          "mistybeee",
+          "feedthemultiverse"
+        ]
       }
     ],
     "unreadable": [
@@ -11529,7 +11741,7 @@
     "followers_start": 919,
     "followers_end": 920,
     "followers_gained": 1,
-    "from": "2026-06-23",
+    "from": "2026-06-24",
     "to": "2026-06-30",
     "top_posts": [
       {
