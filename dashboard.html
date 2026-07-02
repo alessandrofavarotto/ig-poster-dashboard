@@ -52,6 +52,16 @@
   #calroot a { color:#eee; text-decoration:none; }
   #calroot .fc-toolbar-title { font-size:1rem; }
   #calroot .fc-col-header-cell-cushion, #calroot .fc-daygrid-day-number { color:#cfcfd6; }
+  /* niente sforamento in larghezza su mobile: 7 colonne a larghezza fissa dentro il contenitore */
+  #calroot { overflow-x:hidden; }
+  #calroot .fc-scrollgrid, #calroot .fc-scrollgrid table { width:100% !important; }
+  #calroot .fc-col-header, #calroot .fc-daygrid-body,
+  #calroot .fc-daygrid-body table, #calroot .fc-scrollgrid-sync-table { table-layout:fixed !important; width:100% !important; }
+  #calroot .fc-daygrid-day-frame { overflow:hidden; }
+  #calroot .fc-daygrid-event { white-space:normal; font-size:.62rem; padding:0 1px; }
+  #calroot .fc-daygrid-day-number { padding:1px 3px; font-size:.7rem; }
+  #calroot .fc-col-header-cell-cushion { padding:2px; font-size:.68rem; }
+  #calroot .fc-toolbar.fc-header-toolbar { flex-wrap:wrap; gap:6px; margin-bottom:8px; }
   .post { background:#16161a; border-radius:10px; padding:10px 12px; margin-bottom:8px; }
   .ph { display:flex; gap:8px; align-items:center; margin-bottom:4px; }
   .badge { color:#0b0b0d; font-size:.7rem; font-weight:700; padding:2px 8px; border-radius:20px; }
