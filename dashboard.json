@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01",
+  "generated_at": "2026-07-02",
   "account": [
     {
       "date": "2026-06-05",
@@ -11213,9 +11213,27 @@
         "deadline": "2026-07-31",
         "status": "open",
         "created_at": "2026-07-01T09:00"
+      },
+      {
+        "format": "reel",
+        "title": "Disegno una rosa dei venti a mano, dall'inizio alla fine",
+        "cosa_fare": "Registra in time-lapse ravvicinato il disegno di una rosa dei venti (bussola) su pergamena: dalla matita alla china fino agli ornati finali, con la mano sempre in campo. Chiudi sul dettaglio finito con un piccolo loop pulito.",
+        "perche": "Sfrutta la fase 'dettagli' del processo (la più performante nei tuoi dati, reach fino a 341) e l'effetto soddisfacente ravvicinato che tiene alto il watch-time; un elemento iconico e riconoscibile è molto inoltrabile in DM.",
+        "gancio": "La rosa dei venti è il dettaglio che fa sembrare vera una mappa fantasy",
+        "hashtags": [
+          "#fantasymap",
+          "#dndmaps",
+          "#worldbuilding",
+          "#cartography",
+          "#mapmaking",
+          "#artprocess"
+        ],
+        "id": "disegno-una-rosa-dei-venti-a-mano-dall-inizio-alla",
+        "status": "open",
+        "created_at": "2026-07-02T06:00"
       }
     ],
-    "generated_at": "2026-07-01T09:00"
+    "generated_at": "2026-07-02T06:00"
   },
   "boost": {
     "generated_at": "2026-07-01T20:01",
@@ -12273,7 +12291,7 @@
     "followers_start": 919,
     "followers_end": 919,
     "followers_gained": 0,
-    "from": "2026-06-24",
+    "from": "2026-06-25",
     "to": "2026-07-01",
     "top_posts": [
       {
