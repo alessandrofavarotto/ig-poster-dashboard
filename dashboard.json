@@ -10336,15 +10336,25 @@
         "CTA send/salvataggio mantenuta: i due segnali più pesanti restano ~0 su quasi tutti i post.",
         "Aggiunta riga di changelog del 01 lug 2026 (ciclo di riconferma, evidenze deboli → modifiche minime)."
       ]
+    },
+    {
+      "date": "2026-07-02",
+      "ts": "2026-07-02T08:05",
+      "enough_evidence": false,
+      "posts_measured": 40,
+      "strategy_updated": false,
+      "best_times": [],
+      "summary": "Ciclo di riconferma: solo 2 post nuovi (30 giu–1 lug) rispetto all'ultimo giro, nessun segnale statisticamente nuovo. Reel>>foto tiene anche sul nuovo mondo proprio (Montagne delle Aquile: reel 131 vs foto 54) e la reach d'account continua il lieve recupero (206→251) col rientro a un mondo proprio, ma i follower restano in plateau (~919–920) e salvataggi/condivisioni ~0. Unico micro-indizio prudente: l'emblema araldico isolato (Fenice di Nari City) è il Reel a reach più bassa del dataset (38), coerente col fatto che soggetti isolati/simbolici rendono meno delle mappe. Modifiche minime e incrementali; orari invariati.",
+      "changes": [
+        "Aggiornati in 'Obiettivo' i numeri di inizio luglio: il recupero di reach col rientro a un mondo proprio prosegue (206→251, 30 giu–1 lug), follower ancora in plateau (~919–920).",
+        "Nella sezione 'Reels' aggiornati i numeri del rientro al mondo proprio (Montagne delle Aquile: reel 131 vs foto 54) e aggiunto micro-indizio: l'emblema/stemma araldico isolato (Fenice di Nari City) è il Reel a reach più bassa del dataset (38) — i simboli/stemmi isolati rendono poco anche come Reel.",
+        "In 'Cosa evitare' estesa la nota sui soggetti isolati includendo stemmi/emblemi/sigilli araldici accanto ai ritratti di singoli personaggi (evidenza debole, n piccolo).",
+        "Aggiunta riga di changelog 02/07/2026 (dati insufficienti per cambi forti).",
+        "Orari invariati (07:00 / 09:00 / 13:00 / 17:00), diversità fra fasce mantenuta."
+      ]
     }
   ],
   "alerts": [
-    {
-      "ts": "2026-06-30T13:30:39",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Montagne delle Aquile» (anche su FB)"
-    },
     {
       "ts": "2026-06-30T14:16:41",
       "severity": "info",
@@ -10434,6 +10444,12 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 5 Storie pubblicate"
+    },
+    {
+      "ts": "2026-07-02T06:00:47",
+      "severity": "info",
+      "source": "ideas",
+      "message": "💡 Idee da pubblicare aggiornate (38 aperte) — CAROUSEL: 3 modi per disegnare le montagne a mano · CAROUSEL: Sketch → mappa finita: l'evoluzione del Mare d'Argento · REEL: Omaggio a Westeros: disegno il Continente Occidentale · CAROUSEL: Mappa pro"
     }
   ],
   "ideas": {
