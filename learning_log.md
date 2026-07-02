@@ -1,5 +1,13 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-07-02
+Ciclo di riconferma: solo 2 post nuovi (30 giu–1 lug) rispetto all'ultimo giro, nessun segnale statisticamente nuovo. Reel>>foto tiene anche sul nuovo mondo proprio (Montagne delle Aquile: reel 131 vs foto 54) e la reach d'account continua il lieve recupero (206→251) col rientro a un mondo proprio, ma i follower restano in plateau (~919–920) e salvataggi/condivisioni ~0. Unico micro-indizio prudente: l'emblema araldico isolato (Fenice di Nari City) è il Reel a reach più bassa del dataset (38), coerente col fatto che soggetti isolati/simbolici rendono meno delle mappe. Modifiche minime e incrementali; orari invariati.
+- Aggiornati in 'Obiettivo' i numeri di inizio luglio: il recupero di reach col rientro a un mondo proprio prosegue (206→251, 30 giu–1 lug), follower ancora in plateau (~919–920).
+- Nella sezione 'Reels' aggiornati i numeri del rientro al mondo proprio (Montagne delle Aquile: reel 131 vs foto 54) e aggiunto micro-indizio: l'emblema/stemma araldico isolato (Fenice di Nari City) è il Reel a reach più bassa del dataset (38) — i simboli/stemmi isolati rendono poco anche come Reel.
+- In 'Cosa evitare' estesa la nota sui soggetti isolati includendo stemmi/emblemi/sigilli araldici accanto ai ritratti di singoli personaggi (evidenza debole, n piccolo).
+- Aggiunta riga di changelog 02/07/2026 (dati insufficienti per cambi forti).
+- Orari invariati (07:00 / 09:00 / 13:00 / 17:00), diversità fra fasce mantenuta.
+
 ## 2026-07-01
 Ciclo di riconferma senza segnali nuovi forti. I Reel continuano a battere nettamente le foto (Montagne delle Aquile, mondo proprio: reel 119 vs foto 41; Oz: reel 117–160 vs foto 27–44) e la fase 'dettagli' resta la migliore (341). La reach d'account è scesa al minimo del mese dopo la fine della serie GoT/Oz (27–29 giu: 128/96/86), con lieve recupero al rientro su un mondo proprio (30 giu: 206); follower ancora in plateau (~920) e salvataggi/condivisioni ancora ~0 (unica share storica = overview Westeros). Modifiche minime e incrementali, orari invariati.
 - Aggiornata la riga (dato) in Obiettivo con i dati di fine giugno: reach d'account al minimo del mese dopo la fine di GoT/serie Oz (27–29 giu: 128/96/86) e lieve recupero col rientro a un mondo proprio (30 giu: 206); follower ancora in plateau (~920).
