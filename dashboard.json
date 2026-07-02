@@ -10588,8 +10588,10 @@
           "#mappafantasy"
         ],
         "link": "https://www.cartographersguild.com/forumdisplay.php?f=45",
-        "status": "open",
-        "created_at": "2026-06-16T08:44"
+        "status": "expired",
+        "created_at": "2026-06-16T08:44",
+        "done_reason": "mese di giugno concluso",
+        "done_at": "2026-07-02T09:05"
       },
       {
         "format": "reel",
