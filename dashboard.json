@@ -283,13 +283,13 @@
     },
     {
       "date": "2026-07-02",
-      "followers_count": 920,
-      "media_count": 678,
-      "reach": 211,
+      "followers_count": 922,
+      "media_count": 680,
+      "reach": 230,
       "profile_views": 1,
-      "views": 714,
+      "views": 810,
       "accounts_engaged": 10,
-      "total_interactions": 21
+      "total_interactions": 25
     }
   ],
   "posts": [
@@ -5669,12 +5669,12 @@
         "#fantasymap",
         "#cartography"
       ],
-      "reach": 217,
+      "reach": 218,
       "likes": 21,
       "saved": 2,
       "shares": 1,
       "comments": 2,
-      "views": 320,
+      "views": 321,
       "follows": 2,
       "profile_visits": 5,
       "history": {
@@ -5800,13 +5800,13 @@
         },
         "2026-07-02": {
           "age_days": 12,
-          "reach": 217,
+          "reach": 218,
           "likes": 21,
           "comments": 2,
           "saved": 2,
           "shares": 1,
           "total_interactions": 29,
-          "views": 320,
+          "views": 321,
           "follows": 2,
           "profile_visits": 5
         }
@@ -7171,12 +7171,12 @@
         "#handdrawnmap",
         "#dndmaps"
       ],
-      "reach": 72,
+      "reach": 73,
       "likes": 15,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 106,
+      "views": 110,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -7242,13 +7242,13 @@
         },
         "2026-07-02": {
           "age_days": 6,
-          "reach": 72,
+          "reach": 73,
           "likes": 15,
           "comments": 2,
           "saved": 1,
           "shares": 0,
           "total_interactions": 19,
-          "views": 106,
+          "views": 110,
           "follows": 0,
           "profile_visits": 0
         }
@@ -7434,12 +7434,12 @@
         "#handdrawn",
         "#fantasyart"
       ],
-      "reach": 133,
+      "reach": 134,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 148,
+      "views": 149,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -7465,13 +7465,13 @@
         },
         "2026-07-02": {
           "age_days": 2,
-          "reach": 133,
+          "reach": 134,
           "likes": 7,
           "comments": 2,
           "saved": 1,
           "shares": 0,
           "total_interactions": 11,
-          "views": 148,
+          "views": 149,
           "follows": null,
           "profile_visits": null
         }
@@ -7592,26 +7592,67 @@
         "#dungeonmaster",
         "#cartography"
       ],
-      "reach": 15,
-      "likes": 1,
+      "reach": 21,
+      "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 25,
+      "views": 35,
       "follows": 0,
       "profile_visits": 0,
       "history": {
         "2026-07-02": {
           "age_days": 0,
-          "reach": 15,
-          "likes": 1,
+          "reach": 21,
+          "likes": 3,
           "comments": 2,
           "saved": 0,
           "shares": 0,
-          "total_interactions": 3,
-          "views": 25,
+          "total_interactions": 6,
+          "views": 35,
           "follows": 0,
           "profile_visits": 0
+        }
+      }
+    },
+    {
+      "media_id": "18023989307672911",
+      "title": "Araldica con teschio delle cittadelle del nord",
+      "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
+      "is_overview": false,
+      "published_at": "2026-07-02",
+      "hashtags": [
+        "#fantasymap",
+        "#heraldry",
+        "#dndmaps",
+        "#worldbuilding",
+        "#fantasycartography",
+        "#ttrpg",
+        "#dungeonmaster",
+        "#fantasyart",
+        "#mapmaking",
+        "#dndlore"
+      ],
+      "reach": 7,
+      "likes": 0,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 10,
+      "follows": null,
+      "profile_visits": null,
+      "history": {
+        "2026-07-02": {
+          "age_days": 0,
+          "reach": 7,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 10,
+          "follows": null,
+          "profile_visits": null
         }
       }
     }
@@ -8578,11 +8619,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 217,
+            "reach": 218,
             "likes": 21,
             "saved": 2,
             "shares": 1,
-            "views": 320
+            "views": 321
           }
         },
         {
@@ -9004,11 +9045,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 72,
+            "reach": 73,
             "likes": 15,
             "saved": 1,
             "shares": 0,
-            "views": 106
+            "views": 110
           }
         },
         {
@@ -9129,11 +9170,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 133,
+            "reach": 134,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 148
+            "views": 149
           }
         },
         {
@@ -9244,16 +9285,16 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 15,
-            "likes": 1,
+            "reach": 21,
+            "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 25
+            "views": 35
           }
         },
         {
           "title": "Araldica con teschio delle cittadelle del nord",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-07-02",
           "scheduled_time": "17:00",
           "is_overview": false,
@@ -9272,13 +9313,24 @@
             "#mapmaking",
             "#dndlore"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "media_id": "18023989307672911",
+          "published_at": "2026-07-02",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 7,
+            "likes": 0,
+            "saved": 0,
+            "shares": 0,
+            "views": 10
+          }
         },
         {
           "title": "Il Mare Diviso e l'arcipelago",
@@ -10982,39 +11034,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-07-01T09:00:23",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Emblema della Fenice di Nari City»"
-    },
-    {
-      "ts": "2026-07-01T09:00:34",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Emblema della Fenice di Nari City»"
-    },
-    {
-      "ts": "2026-07-01T09:30:30",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Emblema della Fenice di Nari City» (anche su FB)"
-    },
-    {
-      "ts": "2026-07-01T11:00:51",
-      "severity": "info",
-      "source": "showcase",
-      "message": "🎬 Reel showcase pronto (4 pezzi) — in coda per il 2026-07-16T07:00:00"
-    },
-    {
-      "ts": "2026-07-01T13:01:34",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Emblema della Fenice di Nari City»",
-      "extra": {
-        "media_id": "18107305387959983"
-      }
-    },
-    {
       "ts": "2026-07-01T13:01:44",
       "severity": "info",
       "source": "facebook",
@@ -11073,6 +11092,39 @@
     },
     {
       "ts": "2026-07-02T13:30:29",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Araldica con teschio delle cittadelle del nord» (anche su FB)"
+    },
+    {
+      "ts": "2026-07-02T17:01:45",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Araldica con teschio delle cittadelle del nord»",
+      "extra": {
+        "media_id": "18023989307672911"
+      }
+    },
+    {
+      "ts": "2026-07-02T17:01:52",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Araldica con teschio delle cittadelle del nord»"
+    },
+    {
+      "ts": "2026-07-02T17:02:03",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Araldica con teschio delle cittadelle del nord»"
+    },
+    {
+      "ts": "2026-07-02T17:03:17",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Araldica con teschio delle cittadelle del nord»"
+    },
+    {
+      "ts": "2026-07-02T17:30:29",
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Araldica con teschio delle cittadelle del nord» (anche su FB)"
@@ -11301,7 +11353,7 @@
     "generated_at": "2026-07-02T09:04"
   },
   "boost": {
-    "generated_at": "2026-07-02T15:38",
+    "generated_at": "2026-07-02T20:01",
     "suggestion": {
       "media_id": "18109669757309294",
       "title": "Nascono le città del regno",
@@ -11332,7 +11384,7 @@
         ]
       },
       "why": [
-        "reach 341 = 4.74× la tua media recente (72)",
+        "reach 341 = 4.67× la tua media recente (73)",
         "478 views",
         "1 salvataggi, 0 condivisioni",
         "reach pari al 37% dei tuoi follower"
@@ -11340,7 +11392,7 @@
     },
     "considered": 31,
     "baseline": {
-      "reach_median": 72
+      "reach_median": 73
     },
     "last_notified": "18109669757309294"
   },
@@ -12354,14 +12406,14 @@
   "weekly": {
     "period_days": 7,
     "followers_start": 919,
-    "followers_end": 920,
-    "followers_gained": 1,
+    "followers_end": 922,
+    "followers_gained": 3,
     "from": "2026-06-25",
     "to": "2026-07-02",
     "top_posts": [
       {
         "title": "Mappa completa di Westeros",
-        "reach": 217,
+        "reach": 218,
         "saved": 2,
         "shares": 1,
         "likes": 21
