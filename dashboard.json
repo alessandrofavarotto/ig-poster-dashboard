@@ -17000,6 +17000,25 @@
     },
     "last_notified": "18396258682081562"
   },
+  "boost_tracking": {
+    "active": [
+      {
+        "media_id": "18076872398658648",
+        "title": "Mappa completa di Westeros",
+        "kind": "image",
+        "start_date": "2026-07-04",
+        "start_followers": 922,
+        "days": 11,
+        "budget_total_eur": null,
+        "status": "active",
+        "current_followers": 931,
+        "end_date": "2026-07-15",
+        "elapsed_days": 6,
+        "gained_so_far": 9
+      }
+    ],
+    "reported": []
+  },
   "competitors": {
     "known_handles": [
       "francescabaerald",
