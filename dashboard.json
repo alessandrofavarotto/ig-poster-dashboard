@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10",
-  "insights_updated": "2026-07-10",
+  "generated_at": "2026-07-11",
+  "insights_updated": "2026-07-11",
   "best_times": {
     "times": [
       "07:00",
@@ -370,6 +370,16 @@
       "views": 2827,
       "accounts_engaged": 23,
       "total_interactions": 44
+    },
+    {
+      "date": "2026-07-11",
+      "followers_count": 938,
+      "media_count": 696,
+      "reach": 1867,
+      "profile_views": 408,
+      "views": 2780,
+      "accounts_engaged": 20,
+      "total_interactions": 48
     }
   ],
   "posts": [
@@ -780,6 +790,18 @@
           "views": 121,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 36,
+          "reach": 57,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 121,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -1181,6 +1203,18 @@
           "views": 138,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 35,
+          "reach": 63,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 138,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -1572,6 +1606,18 @@
           "views": 119,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 34,
+          "reach": 70,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 119,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -1954,6 +2000,18 @@
           "views": 88,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 33,
+          "reach": 57,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 88,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -2325,6 +2383,18 @@
           "views": 112,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 32,
+          "reach": 64,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 112,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -2350,12 +2420,12 @@
         "#illustrazione",
         "#fantasylore"
       ],
-      "reach": 161,
+      "reach": 162,
       "likes": 8,
       "saved": 1,
       "shares": 0,
       "comments": 0,
-      "views": 174,
+      "views": 175,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -2694,6 +2764,18 @@
           "shares": 0,
           "total_interactions": 11,
           "views": 174,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 32,
+          "reach": 162,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 175,
           "follows": null,
           "profile_visits": null
         }
@@ -3058,6 +3140,18 @@
           "views": 141,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 31,
+          "reach": 90,
+          "likes": 11,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 141,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -3081,12 +3175,12 @@
         "#illustrazione",
         "#mapmaking"
       ],
-      "reach": 168,
+      "reach": 169,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 1,
-      "views": 224,
+      "views": 225,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -3407,6 +3501,18 @@
           "views": 224,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 30,
+          "reach": 169,
+          "likes": 7,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 225,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -3430,12 +3536,12 @@
         "#speedpaint",
         "#disegnoamano"
       ],
-      "reach": 179,
+      "reach": 180,
       "likes": 16,
       "saved": 0,
       "shares": 0,
       "comments": 4,
-      "views": 220,
+      "views": 221,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -3744,6 +3850,18 @@
           "shares": 0,
           "total_interactions": 23,
           "views": 220,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 29,
+          "reach": 180,
+          "likes": 16,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 23,
+          "views": 221,
           "follows": null,
           "profile_visits": null
         }
@@ -4086,6 +4204,18 @@
           "views": 129,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 29,
+          "reach": 56,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 129,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -4413,6 +4543,18 @@
           "views": 86,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 28,
+          "reach": 58,
+          "likes": 11,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 86,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -4434,12 +4576,12 @@
         "#darkillustration",
         "#artepsichedelica"
       ],
-      "reach": 46,
+      "reach": 47,
       "likes": 2,
       "saved": 0,
       "shares": 0,
       "comments": 0,
-      "views": 58,
+      "views": 59,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -4740,6 +4882,18 @@
           "views": 58,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 28,
+          "reach": 47,
+          "likes": 2,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 59,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -4756,12 +4910,12 @@
         "#worldbuilding",
         "#castle"
       ],
-      "reach": 344,
+      "reach": 348,
       "likes": 20,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 483,
+      "views": 486,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -5062,6 +5216,18 @@
           "views": 483,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 28,
+          "reach": 348,
+          "likes": 20,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 486,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -5078,12 +5244,12 @@
         "#artprocess",
         "#timelapseart"
       ],
-      "reach": 153,
+      "reach": 156,
       "likes": 13,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 191,
+      "views": 196,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -5374,6 +5540,18 @@
           "views": 191,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 27,
+          "reach": 156,
+          "likes": 13,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 196,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -5399,12 +5577,12 @@
         "#dndmaps",
         "#hboitalia"
       ],
-      "reach": 58,
+      "reach": 60,
       "likes": 8,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 111,
+      "views": 114,
       "follows": 0,
       "profile_visits": 1,
       "history": {
@@ -5685,6 +5863,18 @@
           "views": 111,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 26,
+          "reach": 60,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 114,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -5701,12 +5891,12 @@
         "#asongoficeandfire",
         "#fantasymap"
       ],
-      "reach": 114,
+      "reach": 117,
       "likes": 8,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 135,
+      "views": 138,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -5987,6 +6177,18 @@
           "views": 135,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 26,
+          "reach": 117,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 138,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -6003,12 +6205,12 @@
         "#fantasymap",
         "#westeros"
       ],
-      "reach": 72,
+      "reach": 73,
       "likes": 15,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 125,
+      "views": 126,
       "follows": 1,
       "profile_visits": 1,
       "history": {
@@ -6279,6 +6481,18 @@
           "views": 125,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 25,
+          "reach": 73,
+          "likes": 15,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 18,
+          "views": 126,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
@@ -6295,12 +6509,12 @@
         "#asoiaf",
         "#westeros"
       ],
-      "reach": 94,
+      "reach": 96,
       "likes": 6,
       "saved": 0,
       "shares": 0,
       "comments": 4,
-      "views": 110,
+      "views": 114,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -6571,6 +6785,18 @@
           "views": 110,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 25,
+          "reach": 96,
+          "likes": 6,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 114,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -6587,12 +6813,12 @@
         "#fantasymap",
         "#kingslanding"
       ],
-      "reach": 51,
+      "reach": 52,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 87,
+      "views": 89,
       "follows": 0,
       "profile_visits": 1,
       "history": {
@@ -6853,6 +7079,18 @@
           "views": 87,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 24,
+          "reach": 52,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 89,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -6869,12 +7107,12 @@
         "#gameofthrones",
         "#asoiaf"
       ],
-      "reach": 122,
+      "reach": 124,
       "likes": 6,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 134,
+      "views": 137,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -7135,6 +7373,18 @@
           "views": 134,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 24,
+          "reach": 124,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 137,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -7151,12 +7401,12 @@
         "#fantasymap",
         "#dndmaps"
       ],
-      "reach": 68,
+      "reach": 69,
       "likes": 12,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 110,
+      "views": 111,
       "follows": 0,
       "profile_visits": 1,
       "history": {
@@ -7407,6 +7657,18 @@
           "views": 110,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 23,
+          "reach": 69,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 111,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -7423,12 +7685,12 @@
         "#gameofthrones",
         "#asoiaf"
       ],
-      "reach": 92,
+      "reach": 93,
       "likes": 10,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 100,
+      "views": 102,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -7677,6 +7939,18 @@
           "shares": 0,
           "total_interactions": 14,
           "views": 100,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 23,
+          "reach": 93,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 102,
           "follows": null,
           "profile_visits": null
         }
@@ -7941,6 +8215,18 @@
           "views": 104,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 22,
+          "reach": 62,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 104,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -7957,14 +8243,14 @@
         "#fantasymap",
         "#cartography"
       ],
-      "reach": 375,
-      "likes": 26,
-      "saved": 8,
+      "reach": 474,
+      "likes": 27,
+      "saved": 10,
       "shares": 1,
       "comments": 2,
-      "views": 690,
+      "views": 940,
       "follows": 2,
-      "profile_visits": 6,
+      "profile_visits": 7,
       "history": {
         "2026-06-20": {
           "age_days": 0,
@@ -8193,6 +8479,18 @@
           "views": 690,
           "follows": 2,
           "profile_visits": 6
+        },
+        "2026-07-11": {
+          "age_days": 21,
+          "reach": 474,
+          "likes": 27,
+          "comments": 2,
+          "saved": 10,
+          "shares": 1,
+          "total_interactions": 43,
+          "views": 940,
+          "follows": 2,
+          "profile_visits": 7
         }
       }
     },
@@ -8209,12 +8507,12 @@
         "#gameofthrones",
         "#asoiaf"
       ],
-      "reach": 165,
+      "reach": 167,
       "likes": 10,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 194,
+      "views": 197,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -8445,6 +8743,18 @@
           "views": 194,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 21,
+          "reach": 167,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 197,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -8466,12 +8776,12 @@
         "#dndworld",
         "#cartography"
       ],
-      "reach": 46,
+      "reach": 47,
       "likes": 10,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 66,
+      "views": 67,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -8692,6 +9002,18 @@
           "views": 66,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 20,
+          "reach": 47,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 67,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -8713,12 +9035,12 @@
         "#dndworld",
         "#cartography"
       ],
-      "reach": 134,
+      "reach": 136,
       "likes": 4,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 153,
+      "views": 156,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -8939,6 +9261,18 @@
           "views": 153,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 20,
+          "reach": 136,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 156,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -8960,12 +9294,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 42,
+      "reach": 43,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 74,
+      "views": 75,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -9176,6 +9510,18 @@
           "views": 74,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 19,
+          "reach": 43,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 75,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -9197,12 +9543,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 127,
+      "reach": 129,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 144,
+      "views": 146,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -9413,6 +9759,18 @@
           "views": 144,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 19,
+          "reach": 129,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 146,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -9429,12 +9787,12 @@
         "#handdrawn",
         "#fairytaleart"
       ],
-      "reach": 40,
+      "reach": 41,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 62,
+      "views": 63,
       "follows": 0,
       "profile_visits": 1,
       "history": {
@@ -9635,6 +9993,18 @@
           "views": 62,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 18,
+          "reach": 41,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 63,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -9656,12 +10026,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 136,
+      "reach": 139,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 140,
+      "views": 143,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -9862,6 +10232,18 @@
           "views": 140,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 18,
+          "reach": 139,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 143,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -9878,12 +10260,12 @@
         "#handdrawn",
         "#fantasyart"
       ],
-      "reach": 38,
+      "reach": 40,
       "likes": 3,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 59,
+      "views": 61,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -10074,6 +10456,18 @@
           "views": 59,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 17,
+          "reach": 40,
+          "likes": 3,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 61,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -10095,12 +10489,12 @@
         "#fantasycharacter",
         "#conceptart"
       ],
-      "reach": 127,
+      "reach": 130,
       "likes": 2,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 130,
+      "views": 133,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -10291,6 +10685,18 @@
           "views": 130,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 17,
+          "reach": 130,
+          "likes": 2,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 133,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -10307,12 +10713,12 @@
         "#worldbuilding",
         "#fantasycartography"
       ],
-      "reach": 43,
+      "reach": 45,
       "likes": 3,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 66,
+      "views": 68,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -10493,6 +10899,18 @@
           "views": 66,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 16,
+          "reach": 45,
+          "likes": 3,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 68,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -10515,12 +10933,12 @@
         "#handdrawnmap",
         "#dndmaps"
       ],
-      "reach": 204,
-      "likes": 17,
-      "saved": 2,
+      "reach": 300,
+      "likes": 18,
+      "saved": 3,
       "shares": 0,
       "comments": 2,
-      "views": 443,
+      "views": 656,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -10691,6 +11109,18 @@
           "views": 443,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 15,
+          "reach": 300,
+          "likes": 18,
+          "comments": 2,
+          "saved": 3,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 656,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -10712,12 +11142,12 @@
         "#storytelling",
         "#conceptart"
       ],
-      "reach": 55,
+      "reach": 58,
       "likes": 2,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 63,
+      "views": 66,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -10888,6 +11318,18 @@
           "views": 63,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 15,
+          "reach": 58,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 66,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -10909,12 +11351,12 @@
         "#handdrawn",
         "#fantasyart"
       ],
-      "reach": 76,
+      "reach": 78,
       "likes": 4,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 119,
+      "views": 121,
       "follows": 0,
       "profile_visits": 1,
       "history": {
@@ -11045,6 +11487,18 @@
           "views": 119,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 11,
+          "reach": 78,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 121,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -11066,12 +11520,12 @@
         "#handdrawn",
         "#fantasyart"
       ],
-      "reach": 144,
+      "reach": 151,
       "likes": 8,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 159,
+      "views": 166,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -11202,6 +11656,18 @@
           "views": 159,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 11,
+          "reach": 151,
+          "likes": 8,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 166,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -11223,12 +11689,12 @@
         "#sigil",
         "#dungeonsanddragons"
       ],
-      "reach": 58,
+      "reach": 64,
       "likes": 7,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 88,
+      "views": 94,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -11349,6 +11815,18 @@
           "views": 88,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 10,
+          "reach": 64,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 94,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -11370,12 +11848,12 @@
         "#sigil",
         "#dungeonsanddragons"
       ],
-      "reach": 111,
+      "reach": 118,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 117,
+      "views": 122,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -11496,6 +11974,18 @@
           "views": 117,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 10,
+          "reach": 118,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 122,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -11512,12 +12002,12 @@
         "#dungeonmaster",
         "#cartography"
       ],
-      "reach": 61,
+      "reach": 65,
       "likes": 6,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 91,
+      "views": 96,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -11628,6 +12118,18 @@
           "views": 91,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 9,
+          "reach": 65,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 96,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -11649,12 +12151,12 @@
         "#mapmaking",
         "#dndlore"
       ],
-      "reach": 79,
+      "reach": 84,
       "likes": 2,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 80,
+      "views": 85,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -11765,6 +12267,18 @@
           "views": 80,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 9,
+          "reach": 84,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 85,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -11781,12 +12295,12 @@
         "#cartography",
         "#ttrpg"
       ],
-      "reach": 63,
+      "reach": 69,
       "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 99,
+      "views": 106,
       "follows": 1,
       "profile_visits": 1,
       "history": {
@@ -11885,6 +12399,18 @@
           "views": 99,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-07-11": {
+          "age_days": 8,
+          "reach": 69,
+          "likes": 6,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 106,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
@@ -11901,12 +12427,12 @@
         "#cartography",
         "#dungeonmaster"
       ],
-      "reach": 141,
-      "likes": 7,
-      "saved": 1,
+      "reach": 193,
+      "likes": 8,
+      "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 233,
+      "views": 304,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -11993,6 +12519,18 @@
           "views": 233,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 7,
+          "reach": 193,
+          "likes": 8,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 304,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -12014,12 +12552,12 @@
         "#handdrawnmap",
         "#dungeonsanddragons"
       ],
-      "reach": 110,
+      "reach": 118,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 123,
+      "views": 131,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -12106,6 +12644,18 @@
           "views": 123,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 7,
+          "reach": 118,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 131,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -12123,12 +12673,12 @@
         "#medievalart",
         "#handlettering"
       ],
-      "reach": 56,
+      "reach": 62,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 82,
+      "views": 88,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -12203,6 +12753,18 @@
           "views": 82,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 6,
+          "reach": 62,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 88,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -12220,12 +12782,12 @@
         "#medievalart",
         "#handlettering"
       ],
-      "reach": 60,
+      "reach": 74,
       "likes": 0,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 69,
+      "views": 81,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -12300,6 +12862,18 @@
           "views": 69,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 6,
+          "reach": 74,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 81,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -12316,12 +12890,12 @@
         "#illustratedmap",
         "#handdrawnmap"
       ],
-      "reach": 91,
+      "reach": 104,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 121,
+      "views": 137,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -12384,6 +12958,18 @@
           "views": 121,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 5,
+          "reach": 104,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 137,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -12401,12 +12987,12 @@
         "#worldbuilding",
         "#handdrawnmap"
       ],
-      "reach": 105,
+      "reach": 126,
       "likes": 0,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 106,
+      "views": 129,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -12469,6 +13055,18 @@
           "views": 106,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 5,
+          "reach": 126,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 129,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -12485,12 +13083,12 @@
         "#aquileia",
         "#illustratedmap"
       ],
-      "reach": 103,
+      "reach": 123,
       "likes": 4,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 128,
+      "views": 150,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -12541,6 +13139,18 @@
           "views": 128,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 4,
+          "reach": 123,
+          "likes": 4,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 150,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -12558,12 +13168,12 @@
         "#medioevo",
         "#mapmaking"
       ],
-      "reach": 110,
+      "reach": 136,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 121,
+      "views": 147,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -12614,6 +13224,18 @@
           "views": 121,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 4,
+          "reach": 136,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 147,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -12630,12 +13252,12 @@
         "#dndart",
         "#ttrpg"
       ],
-      "reach": 117,
+      "reach": 155,
       "likes": 2,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 167,
+      "views": 217,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -12674,6 +13296,18 @@
           "views": 167,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 3,
+          "reach": 155,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 217,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -12690,12 +13324,12 @@
         "#fantasycartography",
         "#mapillustration"
       ],
-      "reach": 101,
-      "likes": 4,
+      "reach": 151,
+      "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 158,
+      "views": 223,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -12722,6 +13356,18 @@
           "views": 158,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 2,
+          "reach": 151,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 223,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -12739,12 +13385,12 @@
         "#friuli",
         "#illustration"
       ],
-      "reach": 157,
+      "reach": 211,
       "likes": 0,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 155,
+      "views": 202,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -12771,6 +13417,18 @@
           "views": 155,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 2,
+          "reach": 211,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 202,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -12783,12 +13441,12 @@
       "hashtags": [
         "#skyrim #elderscrolls #tamriel #fantasycartography #worldbuilding"
       ],
-      "reach": 54,
+      "reach": 97,
       "likes": 5,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 106,
+      "views": 155,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -12801,6 +13459,18 @@
           "shares": 0,
           "total_interactions": 9,
           "views": 106,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-07-11": {
+          "age_days": 1,
+          "reach": 97,
+          "likes": 5,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 155,
           "follows": 0,
           "profile_visits": 0
         }
@@ -12824,12 +13494,12 @@
         "#nords",
         "#emblem"
       ],
-      "reach": 59,
-      "likes": 3,
-      "saved": 0,
+      "reach": 194,
+      "likes": 6,
+      "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 60,
+      "views": 183,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -12842,6 +13512,95 @@
           "shares": 0,
           "total_interactions": 6,
           "views": 60,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-07-11": {
+          "age_days": 1,
+          "reach": 194,
+          "likes": 6,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 183,
+          "follows": null,
+          "profile_visits": null
+        }
+      }
+    },
+    {
+      "media_id": "18157669852422312",
+      "title": "Stemma con testa cornuta (La Forgia/Markarth)",
+      "source_image": "IMG_0010-1.PNG",
+      "is_overview": false,
+      "published_at": "2026-07-11",
+      "hashtags": [
+        "#fantasymap",
+        "#fantasycartography",
+        "#worldbuilding",
+        "#dndart",
+        "#heraldry"
+      ],
+      "reach": 63,
+      "likes": 4,
+      "saved": 1,
+      "shares": 0,
+      "comments": 2,
+      "views": 117,
+      "follows": 0,
+      "profile_visits": 0,
+      "history": {
+        "2026-07-11": {
+          "age_days": 0,
+          "reach": 63,
+          "likes": 4,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 117,
+          "follows": 0,
+          "profile_visits": 0
+        }
+      }
+    },
+    {
+      "media_id": "18115054054910141",
+      "title": "Stemma con testa cornuta (La Forgia/Markarth)",
+      "source_image": "IMG_0010-1.PNG",
+      "is_overview": false,
+      "published_at": "2026-07-11",
+      "hashtags": [
+        "#skyrim",
+        "#markarth",
+        "#thereach",
+        "#elderscrolls",
+        "#heraldry",
+        "#fantasymap",
+        "#worldbuilding",
+        "#dndart",
+        "#cartography",
+        "#fantasyart"
+      ],
+      "reach": 125,
+      "likes": 2,
+      "saved": 0,
+      "shares": 0,
+      "comments": 3,
+      "views": 129,
+      "follows": null,
+      "profile_visits": null,
+      "history": {
+        "2026-07-11": {
+          "age_days": 0,
+          "reach": 125,
+          "likes": 2,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 129,
           "follows": null,
           "profile_visits": null
         }
@@ -13109,11 +13868,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 161,
+            "reach": 162,
             "likes": 8,
             "saved": 1,
             "shares": 0,
-            "views": 174
+            "views": 175
           }
         },
         {
@@ -13201,11 +13960,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 168,
+            "reach": 169,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 224
+            "views": 225
           }
         },
         {
@@ -13243,11 +14002,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 179,
+            "reach": 180,
             "likes": 16,
             "saved": 0,
             "shares": 0,
-            "views": 220
+            "views": 221
           }
         },
         {
@@ -13278,11 +14037,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 344,
+            "reach": 348,
             "likes": 20,
             "saved": 1,
             "shares": 0,
-            "views": 483
+            "views": 486
           }
         },
         {
@@ -13313,11 +14072,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 153,
+            "reach": 156,
             "likes": 13,
             "saved": 0,
             "shares": 0,
-            "views": 191
+            "views": 196
           }
         }
       ]
@@ -13446,11 +14205,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 46,
+            "reach": 47,
             "likes": 2,
             "saved": 0,
             "shares": 0,
-            "views": 58
+            "views": 59
           }
         }
       ]
@@ -13495,11 +14254,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 58,
+            "reach": 60,
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 111
+            "views": 114
           }
         },
         {
@@ -13530,11 +14289,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 114,
+            "reach": 117,
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 135
+            "views": 138
           }
         },
         {
@@ -13565,11 +14324,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 72,
+            "reach": 73,
             "likes": 15,
             "saved": 0,
             "shares": 0,
-            "views": 125
+            "views": 126
           }
         },
         {
@@ -13600,11 +14359,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 94,
+            "reach": 96,
             "likes": 6,
             "saved": 0,
             "shares": 0,
-            "views": 110
+            "views": 114
           }
         },
         {
@@ -13635,11 +14394,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 51,
+            "reach": 52,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 87
+            "views": 89
           }
         },
         {
@@ -13670,11 +14429,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 122,
+            "reach": 124,
             "likes": 6,
             "saved": 0,
             "shares": 0,
-            "views": 134
+            "views": 137
           }
         },
         {
@@ -13705,11 +14464,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 68,
+            "reach": 69,
             "likes": 12,
             "saved": 0,
             "shares": 0,
-            "views": 110
+            "views": 111
           }
         },
         {
@@ -13740,11 +14499,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 92,
+            "reach": 93,
             "likes": 10,
             "saved": 1,
             "shares": 0,
-            "views": 100
+            "views": 102
           }
         },
         {
@@ -13810,11 +14569,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 375,
-            "likes": 26,
-            "saved": 8,
+            "reach": 474,
+            "likes": 27,
+            "saved": 10,
             "shares": 1,
-            "views": 690
+            "views": 940
           }
         },
         {
@@ -13845,11 +14604,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 165,
+            "reach": 167,
             "likes": 10,
             "saved": 1,
             "shares": 0,
-            "views": 194
+            "views": 197
           }
         }
       ]
@@ -13890,11 +14649,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 46,
+            "reach": 47,
             "likes": 10,
             "saved": 0,
             "shares": 0,
-            "views": 66
+            "views": 67
           }
         },
         {
@@ -13930,11 +14689,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 134,
+            "reach": 136,
             "likes": 4,
             "saved": 0,
             "shares": 0,
-            "views": 153
+            "views": 156
           }
         },
         {
@@ -13970,11 +14729,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 42,
+            "reach": 43,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 74
+            "views": 75
           }
         },
         {
@@ -14010,11 +14769,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 127,
+            "reach": 129,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 144
+            "views": 146
           }
         },
         {
@@ -14045,11 +14804,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 40,
+            "reach": 41,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 62
+            "views": 63
           }
         },
         {
@@ -14085,11 +14844,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 136,
+            "reach": 139,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 140
+            "views": 143
           }
         },
         {
@@ -14120,11 +14879,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 38,
+            "reach": 40,
             "likes": 3,
             "saved": 1,
             "shares": 0,
-            "views": 59
+            "views": 61
           }
         },
         {
@@ -14160,11 +14919,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 127,
+            "reach": 130,
             "likes": 2,
             "saved": 1,
             "shares": 0,
-            "views": 130
+            "views": 133
           }
         },
         {
@@ -14195,11 +14954,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 43,
+            "reach": 45,
             "likes": 3,
             "saved": 1,
             "shares": 0,
-            "views": 66
+            "views": 68
           }
         },
         {
@@ -14236,11 +14995,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 204,
-            "likes": 17,
-            "saved": 2,
+            "reach": 300,
+            "likes": 18,
+            "saved": 3,
             "shares": 0,
-            "views": 443
+            "views": 656
           }
         },
         {
@@ -14276,11 +15035,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 55,
+            "reach": 58,
             "likes": 2,
             "saved": 0,
             "shares": 0,
-            "views": 63
+            "views": 66
           }
         }
       ]
@@ -14321,11 +15080,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 76,
+            "reach": 78,
             "likes": 4,
             "saved": 0,
             "shares": 0,
-            "views": 119
+            "views": 121
           }
         },
         {
@@ -14361,11 +15120,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 144,
+            "reach": 151,
             "likes": 8,
             "saved": 1,
             "shares": 0,
-            "views": 159
+            "views": 166
           }
         },
         {
@@ -14401,11 +15160,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 58,
+            "reach": 64,
             "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 88
+            "views": 94
           }
         },
         {
@@ -14441,11 +15200,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 111,
+            "reach": 118,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 117
+            "views": 122
           }
         },
         {
@@ -14476,11 +15235,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 61,
+            "reach": 65,
             "likes": 6,
             "saved": 0,
             "shares": 0,
-            "views": 91
+            "views": 96
           }
         },
         {
@@ -14516,11 +15275,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 79,
+            "reach": 84,
             "likes": 2,
             "saved": 0,
             "shares": 0,
-            "views": 80
+            "views": 85
           }
         },
         {
@@ -14551,11 +15310,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 63,
+            "reach": 69,
             "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 99
+            "views": 106
           }
         },
         {
@@ -14586,11 +15345,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 141,
-            "likes": 7,
-            "saved": 1,
+            "reach": 193,
+            "likes": 8,
+            "saved": 2,
             "shares": 0,
-            "views": 233
+            "views": 304
           }
         },
         {
@@ -14626,11 +15385,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 110,
+            "reach": 118,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 123
+            "views": 131
           }
         }
       ]
@@ -14667,11 +15426,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 56,
+            "reach": 62,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 82
+            "views": 88
           }
         },
         {
@@ -14703,11 +15462,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 60,
+            "reach": 74,
             "likes": 0,
             "saved": 0,
             "shares": 0,
-            "views": 69
+            "views": 81
           }
         },
         {
@@ -14738,11 +15497,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 91,
+            "reach": 104,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 121
+            "views": 137
           }
         },
         {
@@ -14774,11 +15533,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 105,
+            "reach": 126,
             "likes": 0,
             "saved": 0,
             "shares": 0,
-            "views": 106
+            "views": 129
           }
         },
         {
@@ -14809,11 +15568,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 103,
+            "reach": 123,
             "likes": 4,
             "saved": 1,
             "shares": 0,
-            "views": 128
+            "views": 150
           }
         },
         {
@@ -14845,11 +15604,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 110,
+            "reach": 136,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 121
+            "views": 147
           }
         },
         {
@@ -14880,11 +15639,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 117,
+            "reach": 155,
             "likes": 2,
             "saved": 0,
             "shares": 0,
-            "views": 167
+            "views": 217
           }
         },
         {
@@ -14915,11 +15674,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 101,
-            "likes": 4,
+            "reach": 151,
+            "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 158
+            "views": 223
           }
         },
         {
@@ -14951,11 +15710,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 157,
+            "reach": 211,
             "likes": 0,
             "saved": 0,
             "shares": 0,
-            "views": 155
+            "views": 202
           }
         }
       ]
@@ -14987,11 +15746,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 54,
+            "reach": 97,
             "likes": 5,
             "saved": 1,
             "shares": 0,
-            "views": 106
+            "views": 155
           }
         },
         {
@@ -15027,16 +15786,16 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 59,
-            "likes": 3,
-            "saved": 0,
+            "reach": 194,
+            "likes": 6,
+            "saved": 1,
             "shares": 0,
-            "views": 60
+            "views": 183
           }
         },
         {
           "title": "Stemma con testa cornuta (La Forgia/Markarth)",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-07-11",
           "scheduled_time": "09:00",
           "is_overview": false,
@@ -15050,17 +15809,28 @@
             "#dndart",
             "#heraldry"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18157669852422312",
+          "published_at": "2026-07-11",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 63,
+            "likes": 4,
+            "saved": 1,
+            "shares": 0,
+            "views": 117
+          }
         },
         {
           "title": "Stemma con testa cornuta (La Forgia/Markarth)",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-07-11",
           "scheduled_time": "13:00",
           "is_overview": false,
@@ -15079,13 +15849,24 @@
             "#cartography",
             "#fantasyart"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "media_id": "18115054054910141",
+          "published_at": "2026-07-11",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 125,
+            "likes": 2,
+            "saved": 0,
+            "shares": 0,
+            "views": 129
+          }
         },
         {
           "title": "Stemma del cervo (Falkreath)",
@@ -15550,242 +16331,242 @@
     "#Thornhold": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Brand specifico, pochissimi post",
-      "updated": "2026-07-04"
+      "note": "termine inventato, quasi inesistente",
+      "updated": "2026-07-11"
     },
     "#stemmaaraldico": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Nicchia italiana araldica specializzata",
-      "updated": "2026-07-04"
+      "note": "italiano, pochissimi post",
+      "updated": "2026-07-11"
     },
     "#toro": {
-      "tier": "ampio",
+      "tier": "medio",
       "trend": "stabile",
-      "note": "Polisemico, alta competizione",
-      "updated": "2026-07-04"
+      "note": "zodiaco e animali, concorrenza",
+      "updated": "2026-07-11"
     },
     "#araldica": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Interesse storico-culturale italiano",
-      "updated": "2026-07-04"
+      "note": "community storica italiana piccola",
+      "updated": "2026-07-11"
     },
     "#fantasyart": {
       "tier": "ampio",
-      "trend": "in crescita",
-      "note": "Milioni di post, comunità attiva",
-      "updated": "2026-07-04"
+      "trend": "saturo",
+      "note": "4.78M post, alta competizione",
+      "updated": "2026-07-11"
     },
     "#worldbuilding": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "131K post, TTRPG e narrativa crescono",
-      "updated": "2026-07-10"
+      "note": "130-190K post, trend positivo",
+      "updated": "2026-07-11"
     },
     "#cittafantasy": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Italiano specifico, micro-nicchia",
-      "updated": "2026-07-04"
+      "note": "italiano, rarissimo",
+      "updated": "2026-07-11"
     },
     "#fantasy": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "6M+ post, competizione altissima",
-      "updated": "2026-07-04"
+      "note": "18.66M post, difficile emergere",
+      "updated": "2026-07-11"
     },
     "#corna": {
-      "tier": "ampio",
-      "trend": "stabile",
-      "note": "Polisemico, uso variegato diffuso",
-      "updated": "2026-07-04"
-    },
-    "#simbolismo": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "Artistico-culturale, interesse costante",
-      "updated": "2026-07-04"
+      "note": "polisemia, uso misto",
+      "updated": "2026-07-11"
+    },
+    "#simbolismo": {
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "artistico-accademico, pochi post",
+      "updated": "2026-07-11"
     },
     "#illustrazione": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "Trending italiano, forte comunità art",
-      "updated": "2026-07-04"
+      "note": "community IT arte attiva",
+      "updated": "2026-07-11"
     },
     "#coraggio": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "Motivazionale generico italiano",
-      "updated": "2026-07-04"
+      "note": "motivazionale, popolare in Italia",
+      "updated": "2026-07-11"
     },
     "#fantasyworld": {
       "tier": "medio",
-      "trend": "in crescita",
-      "note": "Comunità engaged, buon equilibrio",
-      "updated": "2026-07-04"
+      "trend": "stabile",
+      "note": "325K post, competizione media",
+      "updated": "2026-07-11"
     },
     "#compassrose": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "Cartografia specializzata emergente",
-      "updated": "2026-07-04"
+      "note": "cartografia, nicchia dinamica",
+      "updated": "2026-07-11"
     },
     "#rosadeiventi": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Cartografia italiana, poca competizione",
-      "updated": "2026-07-04"
+      "note": "italiano, pochissimi post",
+      "updated": "2026-07-11"
     },
     "#fantasymap": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "Comunità DnD/mapping in crescita",
-      "updated": "2026-07-04"
+      "note": "25-40K post, nicchia in crescita",
+      "updated": "2026-07-11"
     },
     "#cartografia": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "Specializzato italiano, crescita costante",
-      "updated": "2026-07-04"
+      "trend": "stabile",
+      "note": "italiano, comunità piccola",
+      "updated": "2026-07-11"
     },
     "#mapmaking": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "Comunità internazionale niche growing",
-      "updated": "2026-07-04"
+      "note": "44K post, nicchia in espansione",
+      "updated": "2026-07-11"
     },
     "#detail": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "Troppo generico, scarsa efficacia",
-      "updated": "2026-07-04"
+      "note": "generico, milioni post, basso targeting",
+      "updated": "2026-07-11"
     },
     "#inkdrawing": {
       "tier": "medio",
-      "trend": "in crescita",
-      "note": "Arte tradizionale, trend emergente",
-      "updated": "2026-07-04"
+      "trend": "stabile",
+      "note": "tecnica artistica consolidata",
+      "updated": "2026-07-11"
     },
     "#dnd": {
       "tier": "ampio",
-      "trend": "stabile",
-      "note": "Comunità massiccia molto attiva",
-      "updated": "2026-07-04"
+      "trend": "saturo",
+      "note": "5.8M post, competizione massima",
+      "updated": "2026-07-11"
     },
     "#cartographyart": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "Specializzato emergente, bassa saturazione",
-      "updated": "2026-07-04"
+      "note": "17K post, nicchia attiva",
+      "updated": "2026-07-11"
     },
     "#fantasydetails": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "Worldbuilding specifico, poca competizione",
-      "updated": "2026-07-04"
+      "trend": "stabile",
+      "note": "molto pochi post",
+      "updated": "2026-07-11"
     },
     "#handdrawn": {
       "tier": "medio",
-      "trend": "in crescita",
-      "note": "Arte manuale, engagement elevato",
-      "updated": "2026-07-04"
+      "trend": "stabile",
+      "note": "arte tradizionale ben consolidata",
+      "updated": "2026-07-11"
     },
     "#fantasycity": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "Architettura fantasy, comunità crescente",
-      "updated": "2026-07-04"
+      "trend": "stabile",
+      "note": "pochi post, community piccola",
+      "updated": "2026-07-11"
     },
     "#castle": {
       "tier": "ampio",
-      "trend": "stabile",
-      "note": "Fotografico e fantasy, uso misto",
-      "updated": "2026-07-04"
+      "trend": "saturo",
+      "note": "milioni post, turismo e storia",
+      "updated": "2026-07-11"
     },
     "#castello": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "Italiano architettura, turismo culturale",
-      "updated": "2026-07-04"
+      "note": "italiano, buona community locale",
+      "updated": "2026-07-11"
     },
     "#mountainfortress": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Architettura fantasy molto specifica",
-      "updated": "2026-07-04"
+      "note": "molto specifico, rarissimo",
+      "updated": "2026-07-11"
     },
     "#ttrpg": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "Tabletop gaming crescita costante",
-      "updated": "2026-07-04"
+      "note": "RPG tavolo in forte espansione",
+      "updated": "2026-07-11"
     },
     "#lighthouse": {
-      "tier": "ampio",
+      "tier": "medio",
       "trend": "stabile",
-      "note": "Fotografico generico, alta competizione",
-      "updated": "2026-07-04"
+      "note": "foto paesaggi, stabile popolare",
+      "updated": "2026-07-11"
     },
     "#faro": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "Italiano architettura, interesse locale",
-      "updated": "2026-07-04"
+      "note": "italiano, turismo e fotografia",
+      "updated": "2026-07-11"
     },
     "#coastalcity": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Urbano costiero, uso settoriale",
-      "updated": "2026-07-04"
+      "note": "turismo specifico, pochi post",
+      "updated": "2026-07-11"
     },
     "#seaport": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Portualità specifica, micro-nicchia",
-      "updated": "2026-07-04"
+      "note": "molto specifico, rarissimo",
+      "updated": "2026-07-11"
     },
     "#portcity": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Urbano specifico, bassa visibilità",
-      "updated": "2026-07-04"
+      "note": "molto specifico, pochi post",
+      "updated": "2026-07-11"
     },
     "#dungeonsanddragons": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "Franchise consolidato, community enorme",
-      "updated": "2026-07-04"
+      "note": "1-3M post, community forte",
+      "updated": "2026-07-11"
     },
     "#fantasylore": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "Worldbuilding narrativo emergente",
-      "updated": "2026-07-04"
+      "note": "worldbuilding narrativo in crescita",
+      "updated": "2026-07-11"
     },
     "#mappafantasy": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Italiano molto specifico, micro-nicchia",
-      "updated": "2026-07-04"
+      "note": "italiano, pochissimi post",
+      "updated": "2026-07-11"
     },
     "#handdrawnmap": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "Cartografia manuale, comunità crescente",
-      "updated": "2026-07-04"
+      "note": "nicchia cartografi attiva",
+      "updated": "2026-07-11"
     },
     "#artfantasy": {
-      "tier": "medio",
-      "trend": "in crescita",
-      "note": "Fantasy art ibrido, buon engagement",
-      "updated": "2026-07-04"
+      "tier": "nicchia",
+      "trend": "stabile",
+      "note": "variante minore di fantasyart",
+      "updated": "2026-07-11"
     },
     "#giochidiruolo": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "Tabletop italiano, comunità emergente",
-      "updated": "2026-07-04"
+      "note": "TTRPG italiano in crescita",
+      "updated": "2026-07-11"
     },
     "#cartography": {
       "tier": "medio",
@@ -15904,8 +16685,8 @@
     "#fantasycartography": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "15K post, community creativa in espansione",
-      "updated": "2026-07-10"
+      "note": "15K post, crescita costante",
+      "updated": "2026-07-11"
     },
     "#got": {
       "tier": "ampio",
@@ -16294,8 +17075,8 @@
     "#skyrim": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "1.8M post, gaming mainstream",
-      "updated": "2026-07-10"
+      "note": "gioco sempreverde, milioni post",
+      "updated": "2026-07-11"
     },
     "#dragonborn": {
       "tier": "medio",
@@ -16304,10 +17085,10 @@
       "updated": "2026-07-06"
     },
     "#elderscrolls": {
-      "tier": "ampio",
+      "tier": "medio",
       "trend": "stabile",
-      "note": "513K post, franchise consolidata",
-      "updated": "2026-07-10"
+      "note": "brand Bethesda, community attiva",
+      "updated": "2026-07-11"
     },
     "#fusrodah": {
       "tier": "nicchia",
@@ -16442,10 +17223,10 @@
       "updated": "2026-07-02"
     },
     "#tamriel": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "98K post, fan lore dedicati",
-      "updated": "2026-07-10"
+      "note": "lore specifico, fan dedicati",
+      "updated": "2026-07-11"
     },
     "#Friuli": {
       "tier": "nicchia",
@@ -16643,76 +17424,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-07-09T09:02:26",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Stemmi araldici delle famiglie»",
-      "extra": {
-        "media_id": "18475208839097855"
-      }
-    },
-    {
-      "ts": "2026-07-09T09:02:33",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Stemmi araldici delle famiglie»"
-    },
-    {
-      "ts": "2026-07-09T09:02:47",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Stemmi araldici delle famiglie»"
-    },
-    {
-      "ts": "2026-07-09T09:03:22",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Stemmi araldici delle famiglie»"
-    },
-    {
-      "ts": "2026-07-09T09:30:51",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Stemmi araldici delle famiglie» (anche su FB)"
-    },
-    {
-      "ts": "2026-07-09T14:17:47",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 7 Storie pubblicate"
-    },
-    {
-      "ts": "2026-07-10T07:00:16",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Emblema del drago di Skyrim»",
-      "extra": {
-        "media_id": "18113003461730939"
-      }
-    },
-    {
-      "ts": "2026-07-10T07:00:21",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Emblema del drago di Skyrim»"
-    },
-    {
-      "ts": "2026-07-10T07:30:47",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Emblema del drago di Skyrim» (anche su FB)"
-    },
-    {
-      "ts": "2026-07-10T13:00:04",
-      "severity": "error",
-      "source": "publish",
-      "message": "Pubblicazione FALLITA: «Emblema del drago di Skyrim»",
-      "extra": {
-        "post_id": "IMG_0010-1.PNG::2::2026-07-10::reel",
-        "error": "upload host fallito"
-      }
-    },
-    {
       "ts": "2026-07-10T14:19:45",
       "severity": "info",
       "source": "publish",
@@ -16744,6 +17455,72 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Emblema del drago di Skyrim» (anche su FB)"
+    },
+    {
+      "ts": "2026-07-11T09:00:16",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Stemma con testa cornuta (La Forgia/Markarth)»",
+      "extra": {
+        "media_id": "18157669852422312"
+      }
+    },
+    {
+      "ts": "2026-07-11T09:00:22",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Stemma con testa cornuta (La Forgia/Markarth)»"
+    },
+    {
+      "ts": "2026-07-11T09:00:32",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Stemma con testa cornuta (La Forgia/Markarth)»"
+    },
+    {
+      "ts": "2026-07-11T09:30:57",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Stemma con testa cornuta (La Forgia/Markarth)» (anche su FB)"
+    },
+    {
+      "ts": "2026-07-11T13:02:12",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Stemma con testa cornuta (La Forgia/Markarth)»",
+      "extra": {
+        "media_id": "18115054054910141"
+      }
+    },
+    {
+      "ts": "2026-07-11T13:02:18",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Stemma con testa cornuta (La Forgia/Markarth)»"
+    },
+    {
+      "ts": "2026-07-11T13:02:30",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Stemma con testa cornuta (La Forgia/Markarth)»"
+    },
+    {
+      "ts": "2026-07-11T13:03:04",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Stemma con testa cornuta (La Forgia/Markarth)»"
+    },
+    {
+      "ts": "2026-07-11T13:30:54",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Stemma con testa cornuta (La Forgia/Markarth)» (anche su FB)"
+    },
+    {
+      "ts": "2026-07-11T14:17:15",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 5 Storie pubblicate"
     }
   ],
   "ideas": {
@@ -16969,14 +17746,14 @@
     "generated_at": "2026-07-09T06:00"
   },
   "boost": {
-    "generated_at": "2026-07-10T20:02",
+    "generated_at": "2026-07-11T20:02",
     "suggestion": {
       "media_id": "18396258682081562",
       "title": "Mappa intera — Land of Oz",
       "kind": "image",
       "published_at": "2026-06-26",
-      "age_days": 14,
-      "confidence": "bassa",
+      "age_days": 15,
+      "confidence": "alta",
       "objective": "Visite al profilo (proxy crescita follower)",
       "budget_eur_day": 5,
       "days": 6,
@@ -17000,15 +17777,15 @@
         ]
       },
       "why": [
-        "reach 204 = 2.24× la tua media recente (91)",
-        "443 views",
-        "2 salvataggi, 0 condivisioni",
-        "reach pari al 22% dei tuoi follower"
+        "reach 300 = 2.54× la tua media recente (118)",
+        "656 views",
+        "3 salvataggi, 0 condivisioni (ottimo segnale per l'algoritmo)",
+        "reach pari al 32% dei tuoi follower"
       ]
     },
-    "considered": 29,
+    "considered": 30,
     "baseline": {
-      "reach_median": 91
+      "reach_median": 118.0
     },
     "last_notified": "18396258682081562"
   },
@@ -17023,10 +17800,10 @@
         "days": 11,
         "budget_total_eur": null,
         "status": "active",
-        "current_followers": 931,
+        "current_followers": 938,
         "end_date": "2026-07-15",
-        "elapsed_days": 6,
-        "gained_so_far": 9
+        "elapsed_days": 7,
+        "gained_so_far": 16
       }
     ],
     "reported": []
@@ -18253,31 +19030,31 @@
   "weekly": {
     "period_days": 7,
     "followers_start": 922,
-    "followers_end": 931,
-    "followers_gained": 9,
-    "from": "2026-07-03",
-    "to": "2026-07-10",
+    "followers_end": 938,
+    "followers_gained": 16,
+    "from": "2026-07-04",
+    "to": "2026-07-11",
     "top_posts": [
       {
         "title": "Mappa completa di Westeros",
-        "reach": 375,
-        "saved": 8,
+        "reach": 474,
+        "saved": 10,
         "shares": 1,
-        "likes": 26
-      },
-      {
-        "title": "Nascono le città del regno",
-        "reach": 344,
-        "saved": 1,
-        "shares": 0,
-        "likes": 20
+        "likes": 27
       },
       {
         "title": "Mappa intera — Land of Oz",
-        "reach": 204,
-        "saved": 2,
+        "reach": 300,
+        "saved": 3,
         "shares": 0,
-        "likes": 17
+        "likes": 18
+      },
+      {
+        "title": "Nascono le città del regno",
+        "reach": 348,
+        "saved": 1,
+        "shares": 0,
+        "likes": 20
       }
     ]
   }
