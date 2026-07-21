@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20",
-  "insights_updated": "2026-07-20",
+  "generated_at": "2026-07-21",
+  "insights_updated": "2026-07-21",
   "best_times": {
     "times": [
       "07:00",
@@ -470,11 +470,22 @@
       "views": 907,
       "accounts_engaged": 13,
       "total_interactions": 34
+    },
+    {
+      "date": "2026-07-21",
+      "followers_count": 944,
+      "media_count": 712,
+      "reach": 239,
+      "profile_views": 3,
+      "views": 889,
+      "accounts_engaged": 14,
+      "total_interactions": 31
     }
   ],
   "posts": [
     {
       "media_id": "17884152435591163",
+      "boosted": false,
       "title": "Thornhold: dove regna il Toro",
       "source_image": "Mappa_Social (2).png",
       "is_overview": null,
@@ -1000,11 +1011,24 @@
           "views": 122,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 46,
+          "reach": 58,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 122,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18054090563741521",
+      "boosted": false,
       "title": "Rosa dei venti con spada e rosa",
       "source_image": "Mappa_Social (2).png",
       "is_overview": null,
@@ -1521,11 +1545,24 @@
           "views": 139,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 45,
+          "reach": 64,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 139,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "18040175534601532",
+      "boosted": false,
       "title": "Highcrest, il castello tra le vette",
       "source_image": "Mappa_Social (2).png",
       "is_overview": null,
@@ -2032,11 +2069,24 @@
           "views": 120,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 44,
+          "reach": 71,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 120,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "17980336443011159",
+      "boosted": false,
       "title": "Beacon's End, il faro sul mare",
       "source_image": "Mappa_Social (2).png",
       "is_overview": null,
@@ -2534,11 +2584,24 @@
           "views": 90,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 43,
+          "reach": 59,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 90,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "18094441574261386",
+      "boosted": false,
       "title": "Moonhaven, la grande città costiera",
       "source_image": "Mappa_Social (2).png",
       "is_overview": null,
@@ -3025,11 +3088,24 @@
           "views": 115,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 42,
+          "reach": 67,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 115,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18100020163927589",
+      "boosted": false,
       "title": "Moonhaven, la grande città costiera",
       "source_image": "Mappa_Social (2).png",
       "is_overview": false,
@@ -3516,11 +3592,24 @@
           "views": 176,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 42,
+          "reach": 163,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 176,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "17880305793450356",
+      "boosted": false,
       "title": "Mappa completa del regno",
       "source_image": "Mappa_Social (2).png",
       "is_overview": null,
@@ -3998,11 +4087,24 @@
           "views": 142,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 41,
+          "reach": 92,
+          "likes": 11,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 142,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18101088299112837",
+      "boosted": false,
       "title": "Si parte dalle coste",
       "source_image": "Mappa_Social.mp4",
       "is_overview": false,
@@ -4467,11 +4569,24 @@
           "views": 225,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 40,
+          "reach": 169,
+          "likes": 7,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 225,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "17952312618175511",
+      "boosted": false,
       "title": "Montagne e foreste a inchiostro",
       "source_image": "Mappa_Social.mp4",
       "is_overview": false,
@@ -4926,11 +5041,24 @@
           "views": 221,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 39,
+          "reach": 180,
+          "likes": 16,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 23,
+          "views": 221,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18004413644938168",
+      "boosted": false,
       "title": "tg42",
       "source_image": "tg42",
       "is_overview": false,
@@ -5386,11 +5514,24 @@
           "views": 131,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 39,
+          "reach": 57,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 131,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18117569707828937",
+      "boosted": false,
       "title": "tg75",
       "source_image": "tg75",
       "is_overview": true,
@@ -5833,11 +5974,24 @@
           "views": 88,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 38,
+          "reach": 59,
+          "likes": 11,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 88,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18189164401378606",
+      "boosted": false,
       "title": "tg75",
       "source_image": "tg75",
       "is_overview": true,
@@ -6280,11 +6434,24 @@
           "views": 61,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 38,
+          "reach": 48,
+          "likes": 2,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 61,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18109669757309294",
+      "boosted": false,
       "title": "Nascono le città del regno",
       "source_image": "Mappa_Social.mp4",
       "is_overview": false,
@@ -6722,11 +6889,24 @@
           "views": 487,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 38,
+          "reach": 349,
+          "likes": 20,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 487,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "17857862163662533",
+      "boosted": false,
       "title": "Dal bianco e nero al colore",
       "source_image": "Mappa_Social.mp4",
       "is_overview": false,
@@ -7154,11 +7334,24 @@
           "views": 197,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 37,
+          "reach": 158,
+          "likes": 13,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 197,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18094464893251681",
+      "boosted": false,
       "title": "Il Titano di Braavos",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -7585,11 +7778,24 @@
           "views": 116,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 36,
+          "reach": 62,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 116,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "17891166837539648",
+      "boosted": false,
       "title": "Il Titano di Braavos",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -8007,11 +8213,24 @@
           "views": 142,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 36,
+          "reach": 121,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 142,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18442943161143579",
+      "boosted": false,
       "title": "Il Nido dell'Aquila (The Eyrie)",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -8419,11 +8638,24 @@
           "views": 133,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 35,
+          "reach": 78,
+          "likes": 15,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 18,
+          "views": 133,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "17921648247363972",
+      "boosted": false,
       "title": "Il Nido dell'Aquila (The Eyrie)",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -8831,11 +9063,24 @@
           "views": 120,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 35,
+          "reach": 103,
+          "likes": 6,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 120,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18084892994635588",
+      "boosted": false,
       "title": "Approdo del Re (King's Landing)",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -9233,11 +9478,24 @@
           "views": 101,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 34,
+          "reach": 61,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 101,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "18174180511414191",
+      "boosted": false,
       "title": "Approdo del Re (King's Landing)",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -9635,11 +9893,24 @@
           "views": 143,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 34,
+          "reach": 133,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 143,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18110837350919838",
+      "boosted": false,
       "title": "Vecchia Città e la Torre Alta (Oldtown / Hightower)",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -10027,11 +10298,24 @@
           "views": 120,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 33,
+          "reach": 76,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 120,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "17920876623165953",
+      "boosted": false,
       "title": "Vecchia Città e la Torre Alta (Oldtown / Hightower)",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -10419,11 +10703,24 @@
           "views": 108,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 33,
+          "reach": 101,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 108,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18394378126089508",
+      "boosted": false,
       "title": "Grande Inverno (Winterfell)",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -10801,11 +11098,24 @@
           "views": 116,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 32,
+          "reach": 70,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 116,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18076872398658648",
+      "boosted": false,
       "title": "Mappa completa di Westeros",
       "source_image": "game_of_thrones.png",
       "is_overview": true,
@@ -10817,7 +11127,7 @@
         "#fantasymap",
         "#cartography"
       ],
-      "reach": 740,
+      "reach": 751,
       "likes": 32,
       "saved": 11,
       "shares": 1,
@@ -11173,11 +11483,24 @@
           "views": 1534,
           "follows": 2,
           "profile_visits": 8
+        },
+        "2026-07-21": {
+          "age_days": 31,
+          "reach": 751,
+          "likes": 32,
+          "comments": 2,
+          "saved": 11,
+          "shares": 1,
+          "total_interactions": 50,
+          "views": 1534,
+          "follows": 2,
+          "profile_visits": 8
         }
       }
     },
     {
       "media_id": "17893917687509913",
+      "boosted": false,
       "title": "Grande Inverno (Winterfell)",
       "source_image": "game_of_thrones.png",
       "is_overview": false,
@@ -11545,11 +11868,24 @@
           "views": 206,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 31,
+          "reach": 176,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 206,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18129850060715577",
+      "boosted": false,
       "title": "Città di Smeraldo",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -11912,11 +12248,24 @@
           "views": 73,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 30,
+          "reach": 52,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 73,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18101936381328627",
+      "boosted": false,
       "title": "Città di Smeraldo",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -12279,11 +12628,24 @@
           "views": 158,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 30,
+          "reach": 140,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 158,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18127442053617047",
+      "boosted": false,
       "title": "Uomo di Latta (Tin Man)",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -12636,11 +12998,24 @@
           "views": 78,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 29,
+          "reach": 46,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 78,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18096231437604483",
+      "boosted": false,
       "title": "Uomo di Latta (Tin Man)",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -12993,11 +13368,24 @@
           "views": 149,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 29,
+          "reach": 133,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 149,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "17978798223016836",
+      "boosted": false,
       "title": "Leone Codardo (Cowardly Lion)",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -13335,11 +13723,24 @@
           "views": 67,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 28,
+          "reach": 45,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 67,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "18102638984112933",
+      "boosted": false,
       "title": "Leone Codardo (Cowardly Lion)",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -13682,11 +14083,24 @@
           "views": 148,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 28,
+          "reach": 144,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 148,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "17900487279459497",
+      "boosted": false,
       "title": "Spaventapasseri (Scarecrow)",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -14014,11 +14428,24 @@
           "views": 65,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 27,
+          "reach": 44,
+          "likes": 3,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 65,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "17906607543438539",
+      "boosted": false,
       "title": "Spaventapasseri (Scarecrow)",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -14351,11 +14778,24 @@
           "views": 137,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 27,
+          "reach": 134,
+          "likes": 2,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 137,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "17885457291597290",
+      "boosted": false,
       "title": "Dorothy",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -14673,11 +15113,24 @@
           "views": 73,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 26,
+          "reach": 50,
+          "likes": 3,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 73,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18396258682081562",
+      "boosted": false,
       "title": "Mappa intera — Land of Oz",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": true,
@@ -14695,7 +15148,7 @@
         "#handdrawnmap",
         "#dndmaps"
       ],
-      "reach": 527,
+      "reach": 529,
       "likes": 18,
       "saved": 3,
       "shares": 0,
@@ -14991,11 +15444,24 @@
           "views": 1173,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 25,
+          "reach": 529,
+          "likes": 18,
+          "comments": 2,
+          "saved": 3,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 1173,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "17886429870416698",
+      "boosted": false,
       "title": "Dorothy",
       "source_image": "Wizard_Of_Oz.png",
       "is_overview": false,
@@ -15308,11 +15774,24 @@
           "views": 74,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 25,
+          "reach": 65,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 74,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18102540478957057",
+      "boosted": false,
       "title": "Montagne delle Aquile",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": false,
@@ -15585,11 +16064,24 @@
           "views": 133,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 21,
+          "reach": 87,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 133,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "18089981906377221",
+      "boosted": false,
       "title": "Montagne delle Aquile",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": false,
@@ -15862,11 +16354,24 @@
           "views": 177,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 21,
+          "reach": 162,
+          "likes": 8,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 177,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18087054020329435",
+      "boosted": false,
       "title": "Emblema della Fenice di Nari City",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": false,
@@ -16129,11 +16634,24 @@
           "views": 109,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 20,
+          "reach": 76,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 109,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18107305387959983",
+      "boosted": false,
       "title": "Emblema della Fenice di Nari City",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": false,
@@ -16396,11 +16914,24 @@
           "views": 133,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 20,
+          "reach": 129,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 133,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18069551315384764",
+      "boosted": false,
       "title": "Araldica con teschio delle cittadelle del nord",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": false,
@@ -16648,11 +17179,24 @@
           "views": 110,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 19,
+          "reach": 77,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 110,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18023989307672911",
+      "boosted": false,
       "title": "Araldica con teschio delle cittadelle del nord",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": false,
@@ -16905,11 +17449,24 @@
           "views": 99,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 19,
+          "reach": 98,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 99,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "17991138422810313",
+      "boosted": false,
       "title": "Il Mare Diviso e l'arcipelago",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": false,
@@ -17145,11 +17702,24 @@
           "views": 135,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 18,
+          "reach": 91,
+          "likes": 7,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 135,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "18430565461134550",
+      "boosted": false,
       "title": "Overview mappa Conquerors",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": true,
@@ -17373,11 +17943,24 @@
           "views": 539,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 17,
+          "reach": 361,
+          "likes": 8,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 539,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "18459883633119316",
+      "boosted": false,
       "title": "Il Mare Diviso e l'arcipelago",
       "source_image": "conquerors_by_alessandrofavarotto_d9nnz4a.png",
       "is_overview": false,
@@ -17606,11 +18189,24 @@
           "views": 151,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 17,
+          "reach": 139,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 151,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18427661881176167",
+      "boosted": false,
       "title": "Cartiglio-titolo a pergamena",
       "source_image": "Mappa Friuli castelli",
       "is_overview": false,
@@ -17823,11 +18419,24 @@
           "views": 113,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 16,
+          "reach": 84,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 113,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18026767610837395",
+      "boosted": false,
       "title": "Cartiglio-titolo a pergamena",
       "source_image": "Mappa Friuli castelli",
       "is_overview": false,
@@ -18040,11 +18649,24 @@
           "views": 106,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 16,
+          "reach": 98,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 106,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18158516665480709",
+      "boosted": false,
       "title": "Alpi Carniche e Giulie (Monte Coglians, Jof Montasio)",
       "source_image": "Mappa Friuli castelli",
       "is_overview": false,
@@ -18244,11 +18866,24 @@
           "views": 183,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 15,
+          "reach": 148,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 183,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18010724561916482",
+      "boosted": false,
       "title": "Alpi Carniche e Giulie (Monte Coglians, Jof Montasio)",
       "source_image": "Mappa Friuli castelli",
       "is_overview": false,
@@ -18449,11 +19084,24 @@
           "views": 160,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 15,
+          "reach": 163,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 160,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "17969663315914558",
+      "boosted": false,
       "title": "Castelli e borghi della pianura friulana",
       "source_image": "Mappa Friuli castelli",
       "is_overview": false,
@@ -18641,11 +19289,24 @@
           "views": 205,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 14,
+          "reach": 171,
+          "likes": 6,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 205,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18321818734275672",
+      "boosted": false,
       "title": "Castelli e borghi della pianura friulana",
       "source_image": "Mappa Friuli castelli",
       "is_overview": false,
@@ -18658,12 +19319,12 @@
         "#medioevo",
         "#mapmaking"
       ],
-      "reach": 172,
+      "reach": 173,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 184,
+      "views": 185,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -18834,11 +19495,24 @@
           "views": 184,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 14,
+          "reach": 173,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 185,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18144118858483807",
+      "boosted": false,
       "title": "Stemmi araldici delle famiglie",
       "source_image": "Mappa Friuli castelli",
       "is_overview": false,
@@ -19014,11 +19688,24 @@
           "views": 297,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 13,
+          "reach": 218,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 297,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18106311188095610",
+      "boosted": false,
       "title": "Mappa intera del Friuli",
       "source_image": "Mappa Friuli castelli",
       "is_overview": true,
@@ -19030,7 +19717,7 @@
         "#fantasycartography",
         "#mapillustration"
       ],
-      "reach": 233,
+      "reach": 234,
       "likes": 11,
       "saved": 2,
       "shares": 0,
@@ -19182,11 +19869,24 @@
           "views": 312,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 12,
+          "reach": 234,
+          "likes": 11,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 312,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18475208839097855",
+      "boosted": false,
       "title": "Stemmi araldici delle famiglie",
       "source_image": "Mappa Friuli castelli",
       "is_overview": false,
@@ -19351,11 +20051,24 @@
           "views": 264,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 12,
+          "reach": 280,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 264,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18113003461730939",
+      "boosted": false,
       "title": "Emblema del drago di Skyrim",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -19368,7 +20081,7 @@
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 245,
+      "views": 246,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -19503,11 +20216,24 @@
           "views": 245,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 11,
+          "reach": 173,
+          "likes": 5,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 246,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18402863866155523",
+      "boosted": false,
       "title": "Emblema del drago di Skyrim",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -19664,11 +20390,24 @@
           "views": 269,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 11,
+          "reach": 281,
+          "likes": 9,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 269,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18157669852422312",
+      "boosted": false,
       "title": "Stemma con testa cornuta (La Forgia/Markarth)",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -19808,11 +20547,24 @@
           "views": 250,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 10,
+          "reach": 164,
+          "likes": 7,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 250,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18115054054910141",
+      "boosted": false,
       "title": "Stemma con testa cornuta (La Forgia/Markarth)",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -19829,12 +20581,12 @@
         "#cartography",
         "#fantasyart"
       ],
-      "reach": 297,
+      "reach": 298,
       "likes": 4,
       "saved": 0,
       "shares": 0,
       "comments": 3,
-      "views": 293,
+      "views": 294,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -19957,11 +20709,24 @@
           "views": 293,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 10,
+          "reach": 298,
+          "likes": 4,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 294,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18059798753756955",
+      "boosted": false,
       "title": "Stemma del cervo (Falkreath)",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -20089,11 +20854,24 @@
           "views": 187,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 9,
+          "reach": 136,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 187,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18109683650295848",
+      "boosted": false,
       "title": "Stemma del cervo (Falkreath)",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -20110,12 +20888,12 @@
         "#fantasyart",
         "#tabletoprpg"
       ],
-      "reach": 258,
+      "reach": 259,
       "likes": 3,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 255,
+      "views": 256,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -20226,11 +21004,24 @@
           "views": 255,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 9,
+          "reach": 259,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 256,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18106792646082768",
+      "boosted": false,
       "title": "Stemma del cavallo (Whiterun)",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -20242,12 +21033,12 @@
         "#fantasycartography",
         "#ttrpg"
       ],
-      "reach": 108,
+      "reach": 109,
       "likes": 4,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 194,
+      "views": 195,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -20346,11 +21137,24 @@
           "views": 194,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 8,
+          "reach": 109,
+          "likes": 4,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 195,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18345265876221973",
+      "boosted": false,
       "title": "Stemma con croce di Sant'Andrea (Il Rift/Riften)",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -20362,12 +21166,12 @@
         "#fantasycartography",
         "#worldbuilding"
       ],
-      "reach": 60,
+      "reach": 63,
       "likes": 3,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 83,
+      "views": 86,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -20454,11 +21258,24 @@
           "views": 83,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 7,
+          "reach": 63,
+          "likes": 3,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 86,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18609135286003607",
+      "boosted": false,
       "title": "Stemma del cavallo (Whiterun)",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -20567,11 +21384,24 @@
           "views": 115,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 7,
+          "reach": 114,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 115,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18124667074663527",
+      "boosted": false,
       "title": "Stemma con croce di Sant'Andrea (Il Rift/Riften)",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": false,
@@ -20593,7 +21423,7 @@
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 156,
+      "views": 158,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -20680,11 +21510,24 @@
           "views": 156,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 7,
+          "reach": 157,
+          "likes": 7,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 158,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18114619837928950",
+      "boosted": false,
       "title": "Mappa completa di Skyrim",
       "source_image": "IMG_0010-1.PNG",
       "is_overview": true,
@@ -20696,12 +21539,12 @@
         "#worldbuilding",
         "#cartography"
       ],
-      "reach": 54,
+      "reach": 55,
       "likes": 10,
       "saved": 3,
       "shares": 0,
       "comments": 2,
-      "views": 111,
+      "views": 112,
       "follows": 1,
       "profile_visits": 1,
       "history": {
@@ -20776,11 +21619,24 @@
           "views": 111,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 6,
+          "reach": 55,
+          "likes": 10,
+          "comments": 2,
+          "saved": 3,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 112,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "18167004085450767",
+      "boosted": false,
       "title": "Showcase — fantasy maps & art",
       "source_image": "showcase",
       "is_overview": false,
@@ -20792,12 +21648,12 @@
         "#worldbuilding",
         "#dndmaps"
       ],
-      "reach": 139,
+      "reach": 140,
       "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 161,
+      "views": 162,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -20860,11 +21716,24 @@
           "views": 161,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 5,
+          "reach": 140,
+          "likes": 6,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 162,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18444684787187201",
+      "boosted": false,
       "title": "Come disegnare le terre emerse",
       "source_image": "guide_terre",
       "is_overview": false,
@@ -20879,11 +21748,11 @@
         "#illustrationtips"
       ],
       "reach": 80,
-      "likes": 5,
+      "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 5,
-      "views": 152,
+      "views": 158,
       "follows": 0,
       "profile_visits": 1,
       "history": {
@@ -20934,11 +21803,24 @@
           "views": 152,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-07-21": {
+          "age_days": 4,
+          "reach": 80,
+          "likes": 6,
+          "comments": 5,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 158,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
     {
       "media_id": "17976546891100310",
+      "boosted": false,
       "title": "Kraken nei mari del Nord",
       "source_image": "Mappa2.png",
       "is_overview": false,
@@ -20950,12 +21832,12 @@
         "#cartography",
         "#ttrpg"
       ],
-      "reach": 28,
+      "reach": 30,
       "likes": 4,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 46,
+      "views": 48,
       "follows": 0,
       "profile_visits": 2,
       "history": {
@@ -20994,11 +21876,24 @@
           "views": 46,
           "follows": 0,
           "profile_visits": 2
+        },
+        "2026-07-21": {
+          "age_days": 3,
+          "reach": 30,
+          "likes": 4,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 48,
+          "follows": 0,
+          "profile_visits": 2
         }
       }
     },
     {
       "media_id": "18383043625167327",
+      "boosted": false,
       "title": "Kraken nei mari del Nord",
       "source_image": "Mappa2.png",
       "is_overview": false,
@@ -21010,12 +21905,12 @@
         "#dndmaps",
         "#worldbuilding"
       ],
-      "reach": 116,
-      "likes": 4,
+      "reach": 117,
+      "likes": 6,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 137,
+      "views": 139,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -21054,11 +21949,24 @@
           "views": 137,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 3,
+          "reach": 117,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 139,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18125776357674839",
+      "boosted": false,
       "title": "Bulrabad — porto artico ai confini del mondo",
       "source_image": "Mappa2.png",
       "is_overview": false,
@@ -21070,12 +21978,12 @@
         "#fantasycartography",
         "#ttrpg"
       ],
-      "reach": 33,
+      "reach": 35,
       "likes": 3,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 57,
+      "views": 61,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -21102,11 +22010,24 @@
           "views": 57,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 2,
+          "reach": 35,
+          "likes": 3,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 61,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18433505386192279",
+      "boosted": false,
       "title": "Bulrabad — porto artico ai confini del mondo",
       "source_image": "Mappa2.png",
       "is_overview": false,
@@ -21118,12 +22039,12 @@
         "#dnd",
         "#fantasycartography"
       ],
-      "reach": 114,
-      "likes": 3,
+      "reach": 116,
+      "likes": 4,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 125,
+      "views": 127,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -21150,11 +22071,24 @@
           "views": 125,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 2,
+          "reach": 116,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 127,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
     {
       "media_id": "18085402919183883",
+      "boosted": false,
       "title": "Veliero nei mari inesplorati",
       "source_image": "Mappa2.png",
       "is_overview": false,
@@ -21166,12 +22100,12 @@
         "#fantasycartography",
         "#ttrpg"
       ],
-      "reach": 22,
-      "likes": 4,
+      "reach": 32,
+      "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 41,
+      "views": 55,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -21186,11 +22120,24 @@
           "views": 41,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-07-21": {
+          "age_days": 1,
+          "reach": 32,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 55,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
     {
       "media_id": "18021563873890703",
+      "boosted": false,
       "title": "Veliero nei mari inesplorati",
       "source_image": "Mappa2.png",
       "is_overview": false,
@@ -21202,12 +22149,12 @@
         "#dndmaps",
         "#fantasycartography"
       ],
-      "reach": 34,
-      "likes": 3,
+      "reach": 119,
+      "likes": 6,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 43,
+      "views": 133,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -21222,6 +22169,55 @@
           "views": 43,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-07-21": {
+          "age_days": 1,
+          "reach": 119,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 133,
+          "follows": null,
+          "profile_visits": null
+        }
+      }
+    },
+    {
+      "media_id": "17926890441383583",
+      "boosted": false,
+      "title": "Fortezza costiera settentrionale",
+      "source_image": "Mappa2.png",
+      "is_overview": false,
+      "published_at": "2026-07-21",
+      "hashtags": [
+        "#fantasymap",
+        "#worldbuilding",
+        "#dndmaps",
+        "#fantasycartography",
+        "#ttrpg"
+      ],
+      "reach": 15,
+      "likes": 3,
+      "saved": 0,
+      "shares": 0,
+      "comments": 2,
+      "views": 23,
+      "follows": 0,
+      "profile_visits": 0,
+      "history": {
+        "2026-07-21": {
+          "age_days": 0,
+          "reach": 15,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 23,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     }
@@ -22188,7 +23184,7 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 740,
+            "reach": 751,
             "likes": 32,
             "saved": 11,
             "shares": 1,
@@ -22614,7 +23610,7 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 527,
+            "reach": 529,
             "likes": 18,
             "saved": 3,
             "shares": 0,
@@ -23223,11 +24219,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 172,
+            "reach": 173,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 184
+            "views": 185
           }
         },
         {
@@ -23293,7 +24289,7 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 233,
+            "reach": 234,
             "likes": 11,
             "saved": 2,
             "shares": 0,
@@ -23369,7 +24365,7 @@
             "likes": 5,
             "saved": 1,
             "shares": 0,
-            "views": 245
+            "views": 246
           }
         },
         {
@@ -23480,11 +24476,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 297,
+            "reach": 298,
             "likes": 4,
             "saved": 0,
             "shares": 0,
-            "views": 293
+            "views": 294
           }
         },
         {
@@ -23555,11 +24551,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 258,
+            "reach": 259,
             "likes": 3,
             "saved": 0,
             "shares": 0,
-            "views": 255
+            "views": 256
           }
         },
         {
@@ -23590,11 +24586,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 108,
+            "reach": 109,
             "likes": 4,
             "saved": 1,
             "shares": 0,
-            "views": 194
+            "views": 195
           }
         },
         {
@@ -23625,11 +24621,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 60,
+            "reach": 63,
             "likes": 3,
             "saved": 1,
             "shares": 0,
-            "views": 83
+            "views": 86
           }
         },
         {
@@ -23709,7 +24705,7 @@
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 156
+            "views": 158
           }
         },
         {
@@ -23740,11 +24736,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 54,
+            "reach": 55,
             "likes": 10,
             "saved": 3,
             "shares": 0,
-            "views": 111
+            "views": 112
           }
         }
       ]
@@ -23780,11 +24776,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 139,
+            "reach": 140,
             "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 161
+            "views": 162
           }
         }
       ]
@@ -23823,10 +24819,10 @@
           },
           "metrics": {
             "reach": 80,
-            "likes": 5,
+            "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 152
+            "views": 158
           }
         }
       ]
@@ -23862,11 +24858,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 28,
+            "reach": 30,
             "likes": 4,
             "saved": 1,
             "shares": 0,
-            "views": 46
+            "views": 48
           }
         },
         {
@@ -23897,11 +24893,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 116,
-            "likes": 4,
+            "reach": 117,
+            "likes": 6,
             "saved": 0,
             "shares": 0,
-            "views": 137
+            "views": 139
           }
         },
         {
@@ -23932,11 +24928,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 33,
+            "reach": 35,
             "likes": 3,
             "saved": 1,
             "shares": 0,
-            "views": 57
+            "views": 61
           }
         },
         {
@@ -23967,11 +24963,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 114,
-            "likes": 3,
+            "reach": 116,
+            "likes": 4,
             "saved": 0,
             "shares": 0,
-            "views": 125
+            "views": 127
           }
         },
         {
@@ -24002,11 +24998,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 22,
-            "likes": 4,
+            "reach": 32,
+            "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 41
+            "views": 55
           }
         },
         {
@@ -24037,16 +25033,16 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 34,
-            "likes": 3,
+            "reach": 119,
+            "likes": 6,
             "saved": 0,
             "shares": 0,
-            "views": 43
+            "views": 133
           }
         },
         {
           "title": "Fortezza costiera settentrionale",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-07-21",
           "scheduled_time": "17:00",
           "is_overview": false,
@@ -24060,13 +25056,24 @@
             "#fantasycartography",
             "#ttrpg"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "17926890441383583",
+          "published_at": "2026-07-21",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 15,
+            "likes": 3,
+            "saved": 0,
+            "shares": 0,
+            "views": 23
+          }
         },
         {
           "title": "Panoramica — mappa fantasy completa",
@@ -24285,8 +25292,8 @@
     "#worldbuilding": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "~130K post, trend creativo",
-      "updated": "2026-07-20"
+      "note": "~130K post, community creativa attiva",
+      "updated": "2026-07-21"
     },
     "#cittafantasy": {
       "tier": "nicchia",
@@ -24609,8 +25616,8 @@
     "#fantasycartography": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "~7K post, vivace e libero",
-      "updated": "2026-07-20"
+      "note": "~7.6K post, TTRPG in ascesa",
+      "updated": "2026-07-21"
     },
     "#got": {
       "tier": "ampio",
@@ -24999,8 +26006,8 @@
     "#skyrim": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "milioni post, gioco iconico",
-      "updated": "2026-07-20"
+      "note": "1.8M post, community consolidata",
+      "updated": "2026-07-21"
     },
     "#dragonborn": {
       "tier": "medio",
@@ -25009,10 +26016,10 @@
       "updated": "2026-07-20"
     },
     "#elderscrolls": {
-      "tier": "medio",
+      "tier": "ampio",
       "trend": "stabile",
-      "note": "franchise gaming consolidato",
-      "updated": "2026-07-20"
+      "note": "ecosystem TES, attesa ES6",
+      "updated": "2026-07-21"
     },
     "#fusrodah": {
       "tier": "nicchia",
@@ -25149,8 +26156,8 @@
     "#tamriel": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "lore TES, fandom dedicato",
-      "updated": "2026-07-20"
+      "note": "fandom di settore, volumi bassi",
+      "updated": "2026-07-21"
     },
     "#Friuli": {
       "tier": "nicchia",
@@ -25360,39 +26367,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-07-19T13:32:10",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Bulrabad — porto artico ai confini del mondo»"
-    },
-    {
-      "ts": "2026-07-19T13:32:24",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Bulrabad — porto artico ai confini del mondo»"
-    },
-    {
-      "ts": "2026-07-19T13:36:16",
-      "severity": "warning",
-      "source": "threads",
-      "message": "Crosspost Threads fallito: «Bulrabad — porto artico ai confini del mondo»",
-      "extra": {
-        "error": "publish Threads 400"
-      }
-    },
-    {
-      "ts": "2026-07-19T14:00:39",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Bulrabad — porto artico ai confini del mondo» (anche su FB)"
-    },
-    {
-      "ts": "2026-07-19T14:17:25",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 5 Storie pubblicate"
-    },
-    {
       "ts": "2026-07-20T13:00:12",
       "severity": "info",
       "source": "publish",
@@ -25457,6 +26431,39 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Veliero nei mari inesplorati» (anche su FB)"
+    },
+    {
+      "ts": "2026-07-21T14:18:05",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 6 Storie pubblicate"
+    },
+    {
+      "ts": "2026-07-21T17:00:13",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Fortezza costiera settentrionale»",
+      "extra": {
+        "media_id": "17926890441383583"
+      }
+    },
+    {
+      "ts": "2026-07-21T17:00:20",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Fortezza costiera settentrionale»"
+    },
+    {
+      "ts": "2026-07-21T17:00:31",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Fortezza costiera settentrionale»"
+    },
+    {
+      "ts": "2026-07-21T17:30:43",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Fortezza costiera settentrionale» (anche su FB)"
     }
   ],
   "ideas": {
@@ -25682,13 +26689,13 @@
     "generated_at": "2026-07-16T06:00"
   },
   "boost": {
-    "generated_at": "2026-07-20T20:04",
+    "generated_at": "2026-07-21T20:02",
     "suggestion": {
       "media_id": "18430565461134550",
       "title": "Overview mappa Conquerors",
       "kind": "image",
       "published_at": "2026-07-04",
-      "age_days": 16,
+      "age_days": 17,
       "confidence": "media",
       "objective": "Visite al profilo (proxy crescita follower)",
       "budget_eur_day": 5,
@@ -25713,15 +26720,15 @@
         ]
       },
       "why": [
-        "reach 361 = 2.6× la tua media recente (139)",
+        "reach 361 = 2.65× la tua media recente (136)",
         "539 views",
         "2 salvataggi, 0 condivisioni",
         "reach pari al 38% dei tuoi follower"
       ]
     },
-    "considered": 33,
+    "considered": 35,
     "baseline": {
-      "reach_median": 139
+      "reach_median": 136
     },
     "last_notified": "18430565461134550"
   },
@@ -27192,22 +28199,22 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 942,
-    "followers_end": 945,
-    "followers_gained": 3,
-    "from": "2026-07-13",
-    "to": "2026-07-20",
+    "followers_start": 944,
+    "followers_end": 944,
+    "followers_gained": 0,
+    "from": "2026-07-14",
+    "to": "2026-07-21",
     "top_posts": [
       {
         "title": "Mappa completa di Westeros",
-        "reach": 740,
+        "reach": 751,
         "saved": 11,
         "shares": 1,
         "likes": 32
       },
       {
         "title": "Mappa intera — Land of Oz",
-        "reach": 527,
+        "reach": 529,
         "saved": 3,
         "shares": 0,
         "likes": 18
