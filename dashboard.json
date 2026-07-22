@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21",
+  "generated_at": "2026-07-22",
   "insights_updated": "2026-07-21",
   "best_times": {
     "times": [
@@ -25083,13 +25083,13 @@
           "is_overview": true,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Dove finisce la terra e comincia il mare, nascono le leggende.\n\nLa Sword Coast: una lingua di scogliere e porti nascosti, solcata da velieri coraggiosi e infestata da creature degli abissi. Città arroccate sulle alture, fari nella nebbia, bandiere che segnano i confini tra regni dimenticati. Ogni angolo di questa mappa racconta un'avventura diversa, ogni nome una storia che aspetta ancora di essere scritta.\n\nManda questa mappa al tuo Dungeon Master o al compagno di campagna — e salvala per la tua prossima sessione.\n\n· · ·\n\nWhere the land ends and the sea begins, legends are born.\n\nThe Sword Coast: a stretch of cliffs and hidden harbors, sailed by brave ships and haunted by creatures of the deep. Cities perched on the heights, lighthouses in the fog, banners marking the borders of forgotten kingdoms. Every corner of this map holds a different adventure, every name a story waiting to be written.\n\nSend this map to your Dungeon Master or fellow adventurer — and save it for your next session.",
+          "caption": "Mappa fantasy disegnata a mano — coste frastagliate, mari infestati da kraken e rotte commerciali da non perdere.\n\nDal porto di Bulrabad fino ai deserti del sud, ogni angolo di questa terra nasconde una storia: fari solitari su scogliere ventose, la sede del Lion's Key and Sword Collective, carovane che attraversano foreste dense. Quante avventure potrebbero nascere da una sola sessione qui?\n\nSalvala per la tua prossima campagna — o mandala al tuo Dungeon Master e vedi cosa succede.\n\n· · ·\n\nHand-drawn fantasy map — rugged coastlines, kraken-haunted seas and trade routes worth dying for.\n\nFrom the port of Bulrabad to the southern deserts, every corner of this land holds a story: lonely lighthouses on windswept cliffs, the halls of the Lion's Key and Sword Collective, caravans threading through dense forest. How many adventures could begin with a single session here?\n\nSave it for your next campaign — or send it to your Dungeon Master and see what happens.",
           "hashtags": [
-            "#swordcoast",
             "#fantasymap",
-            "#dnd",
             "#worldbuilding",
-            "#fantasycartography"
+            "#dndmaps",
+            "#fantasycartography",
+            "#ttrpg"
           ],
           "media_id": null,
           "published_at": null,
@@ -26367,15 +26367,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-07-20T13:00:12",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Veliero nei mari inesplorati»",
-      "extra": {
-        "media_id": "18085402919183883"
-      }
-    },
-    {
       "ts": "2026-07-20T13:00:18",
       "severity": "info",
       "source": "facebook",
@@ -26464,6 +26455,12 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Fortezza costiera settentrionale» (anche su FB)"
+    },
+    {
+      "ts": "2026-07-22T06:02:04",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Competitor (dati reali): 26 account letti · formato top: REELS · ~1.4 post/sett. Il dato più azionabile è il divario di formato: i Reel convertono 7× meglio di qualsiasi altro contenuto, ma i competito — nuovi: @darkestmaps, @miskasmaps, @dm_andy_maps — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
     }
   ],
   "ideas": {
@@ -26784,7 +26781,10 @@
       "rustymaps",
       "lord_ofmaps",
       "thefantasymapsforge",
-      "red_quills"
+      "red_quills",
+      "darkestmaps",
+      "miskasmaps",
+      "dm_andy_maps"
     ],
     "runs": [
       {
@@ -28188,6 +28188,254 @@
           "mistybeee",
           "feedthemultiverse"
         ]
+      },
+      {
+        "date": "2026-07-22",
+        "summary": "Il dato più azionabile è il divario di formato: i Reel convertono 7× meglio di qualsiasi altro contenuto, ma i competitor li pubblicano tardi (23:00) — fascia completamente assente nei nostri orari appresi. La priorità immediata è testare Reel alle 22:00–23:00 e immagini alle 18:00–19:00, mantenendo una cadenza di 1–2 post/settimana di alta qualità con un core fisso di hashtag (fantasymap, dnd, worldbuilding, ttrpg, cartography). mapeffects è il modello da replicare: alta frequenza sostenibile solo con video-tutorial sistematici, altrimenti meno post e più cura.",
+        "new_handles": [
+          "darkestmaps",
+          "miskasmaps",
+          "dm_andy_maps"
+        ],
+        "lessons": [
+          "I Reel generano in media 7,4× più engagement delle immagini (2 581 vs 350) e 10,4× dei caroselli (247): è il formato prioritario assoluto. Con soli 131 campioni contro 299 immagini e 219 caroselli nel panel, i competitor li usano ancora poco — significa che lo spazio è meno saturo. Ogni mappa o time-lapse del processo va trasformato in Reel come formato principale, non come ripiego.",
+          "I competitor postano immagini prevalentemente tra le 17:00 e le 20:00 (picco 18:00–19:00); i nostri orari appresi coprono 07:00, 09:00, 13:00 e 17:00. Sovrapposizione minima: solo 17:00. Le fasce 18:00–20:00 sono completamente scoperte per noi. Conviene testare almeno una slot serale (18:00 o 19:00) per le immagini/caroselli, perché la nicchia fantasy/D&D è prevalentemente europea e serale.",
+          "I Reel dei competitor vengono pubblicati alle 23:00 — un orario molto lontano dai nostri. La community fantasy/gioco-di-ruolo è notoriamente 'nottambula' (sessioni serali, streaming). Testare i Reel alle 22:00–23:00 per 4 settimane è la priorità sperimentale più importante: se funziona, ridefinisce tutta la pianificazione dei Reel.",
+          "La cadenza mediana dei competitor è 1,4 post/settimana. Gli account che pubblicano 5+ volte/settimana mostrano engagement inversamente proporzionale: morenopaissanart (7,6/sett.) → 73 eng medio; inkcompass.maps (5,3/sett.) → 79 eng. mapeffects fa eccezione (5,5/sett., 6 366 eng) ma è un account con tutorial video sistematici. La lezione è: 1–2 post/settimana di alta qualità battono la quantità; incrementare la frequenza senza contenuto forte abbassa l'engagement medio.",
+          "Il mix hashtag ottimale da dati reali: un core fisso di 4–5 tag ad alta reach (fantasymap, dnd, worldbuilding, ttrpg, cartography) + 3–4 tag di nicchia stretta (fantasycartography, fantasymaps, cartographer, dungeonmaster) + 2–3 tag contestuali (es. criticalrole per mappe D&D, rpg per contenuti gioco). Evitare tag troppo generici come 'art' in isolamento: sono rumorosi e portano traffico non targettizzato.",
+          "mapeffects (140 k follower, 4,5 % di engagement rate, 5,5 post/sett.) è il benchmark tecnico più realistico per noi: follower medi ma performance eccezionale. Il loro segreto è quasi certamente il formato Reel/video-tutorial. Analizzare i loro contenuti più condivisi per capire struttura, durata e hook dei Reel è più utile che guardare lord_ofmaps (440 k follower, probabilmente boost da viralità passata).",
+          "Micro-account come red_quills (1 161 follower, 306 eng medio = ~26 % engagement rate) e krsolbergauthor (563 follower, 148 eng = ~26 %) dimostrano che una community piccola ma iper-coinvolta è raggiungibile anche da zero. Ciò avviene tipicamente con contenuti molto specifici (dettaglio tecnico, processo, lore) e risposta attiva ai commenti. Nei nostri post, privilegiare domande dirette alla community ('quale regione disegno dopo?', 'quale sistema di gioco usereste su questa mappa?') per alimentare i commenti."
+        ],
+        "stats": {
+          "readable": 26,
+          "unreadable": 4,
+          "best_format": "REELS",
+          "best_formats": [
+            {
+              "type": "REELS",
+              "avg_engagement": 2581,
+              "campione": 131
+            },
+            {
+              "type": "IMAGE",
+              "avg_engagement": 350,
+              "campione": 299
+            },
+            {
+              "type": "CAROUSEL_ALBUM",
+              "avg_engagement": 247,
+              "campione": 219
+            }
+          ],
+          "median_posts_per_week": 1.4,
+          "top_hashtags": [
+            "fantasymap",
+            "dnd",
+            "worldbuilding",
+            "dungeonsanddragons",
+            "map",
+            "rpg",
+            "cartography",
+            "fantasy",
+            "fantasycartography",
+            "ttrpg",
+            "art",
+            "cartographer",
+            "criticalrole",
+            "dungeonmaster",
+            "fantasymaps"
+          ]
+        },
+        "accounts": [
+          {
+            "handle": "lord_ofmaps",
+            "followers": 440776,
+            "media_count": 404,
+            "avg_eng": 7215,
+            "posts_per_week": 0.7
+          },
+          {
+            "handle": "mapeffects",
+            "followers": 140121,
+            "media_count": 1331,
+            "avg_eng": 6366,
+            "posts_per_week": 5.5
+          },
+          {
+            "handle": "rustymaps",
+            "followers": 98614,
+            "media_count": 1304,
+            "avg_eng": 379,
+            "posts_per_week": 2.0
+          },
+          {
+            "handle": "paths.peculiar",
+            "followers": 82436,
+            "media_count": 1056,
+            "avg_eng": 1472,
+            "posts_per_week": 1.2
+          },
+          {
+            "handle": "inkarnaterpg",
+            "followers": 70654,
+            "media_count": 1566,
+            "avg_eng": 393,
+            "posts_per_week": 4.4
+          },
+          {
+            "handle": "danielsmaps",
+            "followers": 62933,
+            "media_count": 1766,
+            "avg_eng": 323,
+            "posts_per_week": 5.1
+          },
+          {
+            "handle": "the_reclusive_cartographer",
+            "followers": 33579,
+            "media_count": 975,
+            "avg_eng": 179,
+            "posts_per_week": 1.8
+          },
+          {
+            "handle": "fantastic_maps",
+            "followers": 29095,
+            "media_count": 595,
+            "avg_eng": 714,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "czepeku_dnd_maps",
+            "followers": 21818,
+            "media_count": 1613,
+            "avg_eng": 231,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "dungeonmapster",
+            "followers": 20662,
+            "media_count": 1137,
+            "avg_eng": 146,
+            "posts_per_week": 1.7
+          },
+          {
+            "handle": "fantasymapshop",
+            "followers": 15069,
+            "media_count": 862,
+            "avg_eng": 151,
+            "posts_per_week": 1.1
+          },
+          {
+            "handle": "mapsbyowen",
+            "followers": 15019,
+            "media_count": 283,
+            "avg_eng": 354,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "inkcompass.maps",
+            "followers": 14175,
+            "media_count": 1034,
+            "avg_eng": 79,
+            "posts_per_week": 5.3
+          },
+          {
+            "handle": "fantasymapink",
+            "followers": 14076,
+            "media_count": 169,
+            "avg_eng": 416,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "cartographybird",
+            "followers": 8167,
+            "media_count": 51,
+            "avg_eng": 304,
+            "posts_per_week": 3.6
+          },
+          {
+            "handle": "domino44maps",
+            "followers": 7356,
+            "media_count": 426,
+            "avg_eng": 306,
+            "posts_per_week": 1.5
+          },
+          {
+            "handle": "morenopaissanart",
+            "followers": 5805,
+            "media_count": 617,
+            "avg_eng": 73,
+            "posts_per_week": 7.6
+          },
+          {
+            "handle": "bewarethewizard",
+            "followers": 5486,
+            "media_count": 140,
+            "avg_eng": 44,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "fantasy_map",
+            "followers": 1717,
+            "media_count": 154,
+            "avg_eng": 16,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "fantasy.cartography",
+            "followers": 1339,
+            "media_count": 43,
+            "avg_eng": 80,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "lightheartadventures",
+            "followers": 1322,
+            "media_count": 427,
+            "avg_eng": 34,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "red_quills",
+            "followers": 1161,
+            "media_count": 446,
+            "avg_eng": 306,
+            "posts_per_week": 15.9
+          },
+          {
+            "handle": "caeora",
+            "followers": 900,
+            "media_count": 195,
+            "avg_eng": 23,
+            "posts_per_week": 0.5
+          },
+          {
+            "handle": "thefantasymapsforge",
+            "followers": 671,
+            "media_count": 94,
+            "avg_eng": 110,
+            "posts_per_week": 3.1
+          },
+          {
+            "handle": "krsolbergauthor",
+            "followers": 563,
+            "media_count": 151,
+            "avg_eng": 148,
+            "posts_per_week": 1.6
+          },
+          {
+            "handle": "tamaps.carto",
+            "followers": 231,
+            "media_count": 40,
+            "avg_eng": 16,
+            "posts_per_week": 0.2
+          }
+        ],
+        "unreadable_handles": [
+          "francescabaerald",
+          "devenrue",
+          "mistybeee",
+          "feedthemultiverse"
+        ]
       }
     ],
     "unreadable": [
@@ -28199,10 +28447,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 944,
+    "followers_start": 945,
     "followers_end": 944,
-    "followers_gained": 0,
-    "from": "2026-07-14",
+    "followers_gained": -1,
+    "from": "2026-07-15",
     "to": "2026-07-21",
     "top_posts": [
       {
