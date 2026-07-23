@@ -495,15 +495,15 @@
     },
     {
       "date": "2026-07-23",
-      "followers_count": 949,
+      "followers_count": 948,
       "media_count": 715,
-      "reach": 294,
-      "reach_follower": 106,
-      "reach_non_follower": 192,
-      "profile_views": 10,
-      "views": 970,
-      "accounts_engaged": 21,
-      "total_interactions": 53
+      "reach": 244,
+      "reach_follower": 89,
+      "reach_non_follower": 156,
+      "profile_views": 8,
+      "views": 751,
+      "accounts_engaged": 17,
+      "total_interactions": 36
     }
   ],
   "posts": [
@@ -11703,12 +11703,12 @@
         "#fantasymap",
         "#cartography"
       ],
-      "reach": 763,
+      "reach": 764,
       "likes": 32,
       "saved": 11,
       "shares": 1,
       "comments": 2,
-      "views": 1538,
+      "views": 1539,
       "follows": 2,
       "profile_visits": 8,
       "history": {
@@ -12086,13 +12086,13 @@
         },
         "2026-07-23": {
           "age_days": 33,
-          "reach": 763,
+          "reach": 764,
           "likes": 32,
           "comments": 2,
           "saved": 11,
           "shares": 1,
           "total_interactions": 50,
-          "views": 1538,
+          "views": 1539,
           "follows": 2,
           "profile_visits": 8
         }
@@ -18787,12 +18787,12 @@
         "#cartography",
         "#dungeonmaster"
       ],
-      "reach": 363,
+      "reach": 365,
       "likes": 9,
       "saved": 2,
       "shares": 0,
       "comments": 0,
-      "views": 543,
+      "views": 546,
       "follows": 1,
       "profile_visits": 1,
       "history": {
@@ -19026,13 +19026,13 @@
         },
         "2026-07-23": {
           "age_days": 19,
-          "reach": 363,
+          "reach": 365,
           "likes": 9,
           "comments": 0,
           "saved": 2,
           "shares": 0,
           "total_interactions": 12,
-          "views": 543,
+          "views": 546,
           "follows": 1,
           "profile_visits": 1
         }
@@ -21973,12 +21973,12 @@
         "#cartography",
         "#fantasyart"
       ],
-      "reach": 298,
-      "likes": 4,
+      "reach": 299,
+      "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 3,
-      "views": 294,
+      "views": 295,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -22128,13 +22128,13 @@
         },
         "2026-07-23": {
           "age_days": 12,
-          "reach": 298,
-          "likes": 4,
+          "reach": 299,
+          "likes": 5,
           "comments": 3,
           "saved": 0,
           "shares": 0,
-          "total_interactions": 8,
-          "views": 294,
+          "total_interactions": 9,
+          "views": 295,
           "follows": null,
           "profile_visits": null
         }
@@ -22159,7 +22159,7 @@
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 187,
+      "views": 188,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -22303,7 +22303,7 @@
           "saved": 0,
           "shares": 0,
           "total_interactions": 10,
-          "views": 187,
+          "views": 188,
           "follows": 0,
           "profile_visits": 0
         }
@@ -22502,7 +22502,7 @@
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 197,
+      "views": 198,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -22634,7 +22634,7 @@
           "saved": 1,
           "shares": 0,
           "total_interactions": 8,
-          "views": 197,
+          "views": 198,
           "follows": 0,
           "profile_visits": 0
         }
@@ -22954,12 +22954,12 @@
         "#fantasycartography",
         "#tabletoprpg"
       ],
-      "reach": 158,
+      "reach": 159,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 158,
+      "views": 159,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -23073,13 +23073,13 @@
         },
         "2026-07-23": {
           "age_days": 9,
-          "reach": 158,
+          "reach": 159,
           "likes": 7,
           "comments": 2,
           "saved": 1,
           "shares": 0,
           "total_interactions": 10,
-          "views": 158,
+          "views": 159,
           "follows": null,
           "profile_visits": null
         }
@@ -23099,12 +23099,12 @@
         "#worldbuilding",
         "#cartography"
       ],
-      "reach": 59,
+      "reach": 60,
       "likes": 10,
       "saved": 2,
       "shares": 0,
       "comments": 2,
-      "views": 119,
+      "views": 121,
       "follows": 1,
       "profile_visits": 1,
       "history": {
@@ -23206,13 +23206,13 @@
         },
         "2026-07-23": {
           "age_days": 8,
-          "reach": 59,
+          "reach": 60,
           "likes": 10,
           "comments": 2,
           "saved": 2,
           "shares": 0,
           "total_interactions": 15,
-          "views": 119,
+          "views": 121,
           "follows": 1,
           "profile_visits": 1
         }
@@ -23232,12 +23232,12 @@
         "#worldbuilding",
         "#dndmaps"
       ],
-      "reach": 140,
+      "reach": 141,
       "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 163,
+      "views": 164,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -23327,13 +23327,13 @@
         },
         "2026-07-23": {
           "age_days": 7,
-          "reach": 140,
+          "reach": 141,
           "likes": 6,
           "comments": 2,
           "saved": 1,
           "shares": 0,
           "total_interactions": 9,
-          "views": 163,
+          "views": 164,
           "follows": null,
           "profile_visits": null
         }
@@ -23355,12 +23355,12 @@
         "#fantasyart",
         "#illustrationtips"
       ],
-      "reach": 82,
+      "reach": 83,
       "likes": 7,
       "saved": 1,
       "shares": 0,
       "comments": 5,
-      "views": 162,
+      "views": 163,
       "follows": 0,
       "profile_visits": 1,
       "history": {
@@ -23438,13 +23438,13 @@
         },
         "2026-07-23": {
           "age_days": 6,
-          "reach": 82,
+          "reach": 83,
           "likes": 7,
           "comments": 5,
           "saved": 1,
           "shares": 0,
           "total_interactions": 14,
-          "views": 162,
+          "views": 163,
           "follows": 0,
           "profile_visits": 1
         }
@@ -23464,12 +23464,12 @@
         "#cartography",
         "#ttrpg"
       ],
-      "reach": 33,
-      "likes": 4,
+      "reach": 36,
+      "likes": 6,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 52,
+      "views": 55,
       "follows": 0,
       "profile_visits": 2,
       "history": {
@@ -23535,13 +23535,13 @@
         },
         "2026-07-23": {
           "age_days": 5,
-          "reach": 33,
-          "likes": 4,
+          "reach": 36,
+          "likes": 6,
           "comments": 2,
           "saved": 1,
           "shares": 0,
-          "total_interactions": 8,
-          "views": 52,
+          "total_interactions": 10,
+          "views": 55,
           "follows": 0,
           "profile_visits": 2
         }
@@ -23658,12 +23658,12 @@
         "#fantasycartography",
         "#ttrpg"
       ],
-      "reach": 36,
-      "likes": 3,
+      "reach": 39,
+      "likes": 4,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 63,
+      "views": 67,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -23717,13 +23717,13 @@
         },
         "2026-07-23": {
           "age_days": 4,
-          "reach": 36,
-          "likes": 3,
+          "reach": 39,
+          "likes": 4,
           "comments": 2,
           "saved": 1,
           "shares": 0,
-          "total_interactions": 7,
-          "views": 63,
+          "total_interactions": 8,
+          "views": 67,
           "follows": 0,
           "profile_visits": 0
         }
@@ -23743,12 +23743,12 @@
         "#dnd",
         "#fantasycartography"
       ],
-      "reach": 119,
+      "reach": 122,
       "likes": 4,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 130,
+      "views": 134,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -23802,13 +23802,13 @@
         },
         "2026-07-23": {
           "age_days": 4,
-          "reach": 119,
+          "reach": 122,
           "likes": 4,
           "comments": 2,
           "saved": 0,
           "shares": 0,
           "total_interactions": 6,
-          "views": 130,
+          "views": 134,
           "follows": null,
           "profile_visits": null
         }
@@ -23828,12 +23828,12 @@
         "#fantasycartography",
         "#ttrpg"
       ],
-      "reach": 34,
+      "reach": 38,
       "likes": 5,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 59,
+      "views": 64,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -23875,13 +23875,13 @@
         },
         "2026-07-23": {
           "age_days": 3,
-          "reach": 34,
+          "reach": 38,
           "likes": 5,
           "comments": 2,
           "saved": 0,
           "shares": 0,
           "total_interactions": 8,
-          "views": 59,
+          "views": 64,
           "follows": 0,
           "profile_visits": 0
         }
@@ -23901,12 +23901,12 @@
         "#dndmaps",
         "#fantasycartography"
       ],
-      "reach": 126,
+      "reach": 127,
       "likes": 8,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 145,
+      "views": 148,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -23948,13 +23948,13 @@
         },
         "2026-07-23": {
           "age_days": 3,
-          "reach": 126,
+          "reach": 127,
           "likes": 8,
           "comments": 2,
           "saved": 0,
           "shares": 0,
           "total_interactions": 10,
-          "views": 145,
+          "views": 148,
           "follows": null,
           "profile_visits": null
         }
@@ -23974,12 +23974,12 @@
         "#fantasycartography",
         "#ttrpg"
       ],
-      "reach": 60,
+      "reach": 65,
       "likes": 12,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 99,
+      "views": 106,
       "follows": 1,
       "profile_visits": 1,
       "history": {
@@ -24009,13 +24009,13 @@
         },
         "2026-07-23": {
           "age_days": 2,
-          "reach": 60,
+          "reach": 65,
           "likes": 12,
           "comments": 2,
           "saved": 0,
           "shares": 0,
           "total_interactions": 15,
-          "views": 99,
+          "views": 106,
           "follows": 1,
           "profile_visits": 1
         }
@@ -24035,12 +24035,12 @@
         "#fantasycartography",
         "#ttrpg"
       ],
-      "reach": 43,
+      "reach": 46,
       "likes": 8,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 77,
+      "views": 82,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -24058,13 +24058,13 @@
         },
         "2026-07-23": {
           "age_days": 1,
-          "reach": 43,
+          "reach": 46,
           "likes": 8,
           "comments": 2,
           "saved": 1,
           "shares": 0,
           "total_interactions": 12,
-          "views": 77,
+          "views": 82,
           "follows": 0,
           "profile_visits": 0
         }
@@ -24084,12 +24084,12 @@
         "#worldbuilding",
         "#ttrpg"
       ],
-      "reach": 130,
+      "reach": 134,
       "likes": 5,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 145,
+      "views": 150,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -24107,13 +24107,13 @@
         },
         "2026-07-23": {
           "age_days": 1,
-          "reach": 130,
+          "reach": 134,
           "likes": 5,
           "comments": 2,
           "saved": 1,
           "shares": 0,
           "total_interactions": 9,
-          "views": 145,
+          "views": 150,
           "follows": null,
           "profile_visits": null
         }
@@ -24135,25 +24135,25 @@
         "#mapillustration",
         "#fantasyart"
       ],
-      "reach": 10,
-      "likes": 1,
-      "saved": 0,
+      "reach": 45,
+      "likes": 6,
+      "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 22,
-      "follows": 0,
+      "views": 92,
+      "follows": 1,
       "profile_visits": 0,
       "history": {
         "2026-07-23": {
           "age_days": 0,
-          "reach": 10,
-          "likes": 1,
+          "reach": 45,
+          "likes": 6,
           "comments": 2,
-          "saved": 0,
+          "saved": 1,
           "shares": 0,
-          "total_interactions": 3,
-          "views": 22,
-          "follows": 0,
+          "total_interactions": 10,
+          "views": 92,
+          "follows": 1,
           "profile_visits": 0
         }
       }
@@ -25121,11 +25121,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 763,
+            "reach": 764,
             "likes": 32,
             "saved": 11,
             "shares": 1,
-            "views": 1538
+            "views": 1539
           }
         },
         {
@@ -25897,11 +25897,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 363,
+            "reach": 365,
             "likes": 9,
             "saved": 2,
             "shares": 0,
-            "views": 543
+            "views": 546
           }
         },
         {
@@ -26413,11 +26413,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 298,
-            "likes": 4,
+            "reach": 299,
+            "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 294
+            "views": 295
           }
         },
         {
@@ -26452,7 +26452,7 @@
             "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 187
+            "views": 188
           }
         },
         {
@@ -26527,7 +26527,7 @@
             "likes": 4,
             "saved": 1,
             "shares": 0,
-            "views": 197
+            "views": 198
           }
         },
         {
@@ -26638,11 +26638,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 158,
+            "reach": 159,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 158
+            "views": 159
           }
         },
         {
@@ -26673,11 +26673,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 59,
+            "reach": 60,
             "likes": 10,
             "saved": 2,
             "shares": 0,
-            "views": 119
+            "views": 121
           }
         }
       ]
@@ -26713,11 +26713,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 140,
+            "reach": 141,
             "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 163
+            "views": 164
           }
         }
       ]
@@ -26755,11 +26755,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 82,
+            "reach": 83,
             "likes": 7,
             "saved": 1,
             "shares": 0,
-            "views": 162
+            "views": 163
           }
         }
       ]
@@ -26795,11 +26795,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 33,
-            "likes": 4,
+            "reach": 36,
+            "likes": 6,
             "saved": 1,
             "shares": 0,
-            "views": 52
+            "views": 55
           }
         },
         {
@@ -26865,11 +26865,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 36,
-            "likes": 3,
+            "reach": 39,
+            "likes": 4,
             "saved": 1,
             "shares": 0,
-            "views": 63
+            "views": 67
           }
         },
         {
@@ -26900,11 +26900,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 119,
+            "reach": 122,
             "likes": 4,
             "saved": 0,
             "shares": 0,
-            "views": 130
+            "views": 134
           }
         },
         {
@@ -26935,11 +26935,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 34,
+            "reach": 38,
             "likes": 5,
             "saved": 0,
             "shares": 0,
-            "views": 59
+            "views": 64
           }
         },
         {
@@ -26970,11 +26970,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 126,
+            "reach": 127,
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 145
+            "views": 148
           }
         },
         {
@@ -27005,11 +27005,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 60,
+            "reach": 65,
             "likes": 12,
             "saved": 0,
             "shares": 0,
-            "views": 99
+            "views": 106
           }
         },
         {
@@ -27040,11 +27040,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 43,
+            "reach": 46,
             "likes": 8,
             "saved": 1,
             "shares": 0,
-            "views": 77
+            "views": 82
           }
         },
         {
@@ -27075,11 +27075,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 130,
+            "reach": 134,
             "likes": 5,
             "saved": 1,
             "shares": 0,
-            "views": 145
+            "views": 150
           }
         }
       ]
@@ -27117,11 +27117,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 10,
-            "likes": 1,
-            "saved": 0,
+            "reach": 45,
+            "likes": 6,
+            "saved": 1,
             "shares": 0,
-            "views": 22
+            "views": 92
           }
         }
       ]
@@ -27315,7 +27315,7 @@
     "#worldbuilding": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "community creativa in forte crescita",
+      "note": "trasversale, scrittori e artisti fantasy",
       "updated": "2026-07-23"
     },
     "#cittafantasy": {
@@ -27639,7 +27639,7 @@
     "#fantasycartography": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "~7K post, subcommunity in espansione",
+      "note": "boom TTRPG, community in espansione",
       "updated": "2026-07-23"
     },
     "#got": {
@@ -28028,8 +28028,8 @@
     },
     "#skyrim": {
       "tier": "ampio",
-      "trend": "stabile",
-      "note": "gaming community ancora molto attiva",
+      "trend": "saturo",
+      "note": "1.8M post, community molto affollata",
       "updated": "2026-07-23"
     },
     "#dragonborn": {
@@ -28041,7 +28041,7 @@
     "#elderscrolls": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "~490K post, fanbase costante",
+      "note": "franchise tag, nicchia fedele attiva",
       "updated": "2026-07-23"
     },
     "#fusrodah": {
@@ -28179,7 +28179,7 @@
     "#tamriel": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "lore ES, appassionati di nicchia",
+      "note": "lore-specifico, fan hardcore",
       "updated": "2026-07-23"
     },
     "#Friuli": {
@@ -28402,15 +28402,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-07-22T07:00:18",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Panoramica — mappa fantasy completa»",
-      "extra": {
-        "media_id": "18026962685836760"
-      }
-    },
-    {
       "ts": "2026-07-22T07:00:26",
       "severity": "info",
       "source": "facebook",
@@ -28499,6 +28490,12 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Gli elementi fondamentali di una mappa»"
+    },
+    {
+      "ts": "2026-07-23T14:16:22",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 3 Storie pubblicate"
     }
   ],
   "ideas": {
@@ -28724,7 +28721,7 @@
     "generated_at": "2026-07-23T06:00"
   },
   "boost": {
-    "generated_at": "2026-07-23T08:15",
+    "generated_at": "2026-07-23T20:02",
     "suggestion": {
       "media_id": "18430565461134550",
       "title": "Overview mappa Conquerors",
@@ -28755,15 +28752,15 @@
         ]
       },
       "why": [
-        "reach 363 = 2.77× la tua media recente (131)",
-        "543 views",
+        "reach 365 = 2.78× la tua media recente (132)",
+        "546 views",
         "2 salvataggi, 0 condivisioni",
-        "reach pari al 38% dei tuoi follower"
+        "reach pari al 39% dei tuoi follower"
       ]
     },
     "considered": 34,
     "baseline": {
-      "reach_median": 131.0
+      "reach_median": 131.5
     },
     "last_notified": "18430565461134550"
   },
@@ -30486,14 +30483,14 @@
   "weekly": {
     "period_days": 7,
     "followers_start": 945,
-    "followers_end": 949,
-    "followers_gained": 4,
+    "followers_end": 948,
+    "followers_gained": 3,
     "from": "2026-07-16",
     "to": "2026-07-23",
     "top_posts": [
       {
         "title": "Mappa completa di Westeros",
-        "reach": 763,
+        "reach": 764,
         "saved": 11,
         "shares": 1,
         "likes": 32
