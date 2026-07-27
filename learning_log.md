@@ -1,6 +1,14 @@
 # Diario di apprendimento del sistema IG
 
 ## 2026-07-27
+Il dataset (80+ post misurati + storico 598) conferma tutti i pattern già acquisiti. La novità più concreta è l'esplicitazione della divisione funzionale per formato tramite il campo per_formato: immagini/caroselli 0.17 follows/post (n=40) vs Reel 0.0 (n=34), chiarendo con numeri che i Reel servono la scoperta e le immagini la conversione. Appare per la prima volta la metrica reach_non_follower (ultimi 5 giorni: 63–83% della reach d'account da non-follower), segnale positivo che la distribuzione funziona anche fuori dai cicli IP. I caroselli educativi confermano il pattern su entrambi i dati (saved > 0 in entrambi, follows 2 in uno). Modifiche minime e incrementali; best_times invariati.
+- Aggiunta in 'Obiettivo': bullet reach_non_follower (63–83% non-follower negli ultimi 5 giorni, nuova metrica, segnale positivo di scoperta)
+- Aggiornata prima bullet in 'Reels': sostituita la nota 'follows=null' con il dato per_formato esplicito (Reel 0.0 vs immagine 0.17 follows/post, n=74) e chiarita la divisione funzionale Reel=scoperta / immagine=conversione
+- Aggiunta in 'Tipo di post': bullet 'Divisione funzionale dei formati' con numeri per_formato e collegamento alla metrica reach_non_follower
+- Affinata in 'Tipo di post': nota caroselli educativi — ora esplicita che entrambi i 2 dati mostrano saved > 0 e uno follows 2, pattern consistente (ancora debole)
+- Aggiunto in Changelog: riga 2° passaggio 27-lug con riassunto delle modifiche incrementali
+
+## 2026-07-27
 Skyrim è il secondo IP di massa a confermare il pattern GoT: la serie 10–15 lug ha generato +17 follower in una settimana e reach record (2249), con crescita totale 917→948 in ~7 settimane. Il segnale più robusto è la rimozione di 13:00 dai best_times: 28 post immagine con 0.0 conversione follows contro 0.24 di 07:00 — evidenza chiara e robusta su cui agire. Corretta la misura dell'overview Land of Oz a maturità (reach 529, non 44–61 delle prime misure), e registrate prime evidenze positive sui caroselli educativi (follows 2, saved 3 in 3 giorni).
 - Obiettivo: aggiornato plateau→crescita (917→948, +31); aggiunti dati serie Skyrim (+17 follower in una settimana, reach record 2249, visite profilo 433) come secondo IP di massa confermato dopo GoT; nota Oz overview a maturità (529 vs misura iniziale 44–61).
 - Keyword/SEO: aggiunto Skyrim/Elder Scrolls (#skyrim #elderscrolls #tamriel) come secondo IP confermato; lista IP ampliata a gaming/fantasy di massa (GoT, Skyrim, Middle-earth, D&D); aggiornati i dati di reach per entrambe le serie.

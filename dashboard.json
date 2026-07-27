@@ -31695,6 +31695,27 @@
         "Orari: rimosso 13:00 (28 post immagine, 0.0 conversione follows — segnale più robusto del dataset); aggiunto 21:00 per copertura fascia sera; riorganizzata la sezione con dati di conversione espliciti per slot; best_times → [07:00, 17:00, 09:00, 21:00].",
         "Cosa evitare: aggiunta voce esplicita su 13:00 per post immagine (0.0 su 28 post); precisato che i Reel a quest'ora mantengono comunque una reach attiva."
       ]
+    },
+    {
+      "date": "2026-07-27",
+      "ts": "2026-07-27T10:54",
+      "enough_evidence": true,
+      "posts_measured": 80,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "09:00",
+        "21:00"
+      ],
+      "summary": "Il dataset (80+ post misurati + storico 598) conferma tutti i pattern già acquisiti. La novità più concreta è l'esplicitazione della divisione funzionale per formato tramite il campo per_formato: immagini/caroselli 0.17 follows/post (n=40) vs Reel 0.0 (n=34), chiarendo con numeri che i Reel servono la scoperta e le immagini la conversione. Appare per la prima volta la metrica reach_non_follower (ultimi 5 giorni: 63–83% della reach d'account da non-follower), segnale positivo che la distribuzione funziona anche fuori dai cicli IP. I caroselli educativi confermano il pattern su entrambi i dati (saved > 0 in entrambi, follows 2 in uno). Modifiche minime e incrementali; best_times invariati.",
+      "changes": [
+        "Aggiunta in 'Obiettivo': bullet reach_non_follower (63–83% non-follower negli ultimi 5 giorni, nuova metrica, segnale positivo di scoperta)",
+        "Aggiornata prima bullet in 'Reels': sostituita la nota 'follows=null' con il dato per_formato esplicito (Reel 0.0 vs immagine 0.17 follows/post, n=74) e chiarita la divisione funzionale Reel=scoperta / immagine=conversione",
+        "Aggiunta in 'Tipo di post': bullet 'Divisione funzionale dei formati' con numeri per_formato e collegamento alla metrica reach_non_follower",
+        "Affinata in 'Tipo di post': nota caroselli educativi — ora esplicita che entrambi i 2 dati mostrano saved > 0 e uno follows 2, pattern consistente (ancora debole)",
+        "Aggiunto in Changelog: riga 2° passaggio 27-lug con riassunto delle modifiche incrementali"
+      ]
     }
   ],
   "alerts": [
