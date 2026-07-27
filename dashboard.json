@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-26",
+  "generated_at": "2026-07-27",
   "insights_updated": "2026-07-26",
   "best_times": {
     "times": [
       "07:00",
+      "17:00",
       "09:00",
-      "13:00",
-      "17:00"
+      "21:00"
     ],
-    "updated": "2026-07-01"
+    "updated": "2026-07-27"
   },
   "account": [
     {
@@ -31672,15 +31672,32 @@
         "Aggiunta riga di changelog 02/07/2026 (dati insufficienti per cambi forti).",
         "Orari invariati (07:00 / 09:00 / 13:00 / 17:00), diversità fra fasce mantenuta."
       ]
+    },
+    {
+      "date": "2026-07-27",
+      "ts": "2026-07-27T08:19",
+      "enough_evidence": true,
+      "posts_measured": 80,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "09:00",
+        "21:00"
+      ],
+      "summary": "Skyrim è il secondo IP di massa a confermare il pattern GoT: la serie 10–15 lug ha generato +17 follower in una settimana e reach record (2249), con crescita totale 917→948 in ~7 settimane. Il segnale più robusto è la rimozione di 13:00 dai best_times: 28 post immagine con 0.0 conversione follows contro 0.24 di 07:00 — evidenza chiara e robusta su cui agire. Corretta la misura dell'overview Land of Oz a maturità (reach 529, non 44–61 delle prime misure), e registrate prime evidenze positive sui caroselli educativi (follows 2, saved 3 in 3 giorni).",
+      "changes": [
+        "Obiettivo: aggiornato plateau→crescita (917→948, +31); aggiunti dati serie Skyrim (+17 follower in una settimana, reach record 2249, visite profilo 433) come secondo IP di massa confermato dopo GoT; nota Oz overview a maturità (529 vs misura iniziale 44–61).",
+        "Keyword/SEO: aggiunto Skyrim/Elder Scrolls (#skyrim #elderscrolls #tamriel) come secondo IP confermato; lista IP ampliata a gaming/fantasy di massa (GoT, Skyrim, Middle-earth, D&D); aggiornati i dati di reach per entrambe le serie.",
+        "Hashtag: aggiunto #skyrim/#elderscrolls/#tamriel tra i tag-IP da usare su contenuti del franchise; voce ora marcata (dato 06-07/2026).",
+        "Reels: aggiunta fase 'schizzo' (primo dato lug: reach 136, saved 2); classifica fasi aggiornata (linee/inchiostrazione 165–249, dettagli 341 maturo); aggiunta nota sull'assenza tracciamento follows per Reel (follows=null nel dataset).",
+        "Tipo di post: numeri overview aggiornati a maturità (Westeros 781/+11save/+2follows, Oz 529/+3save, Conquerors 366/+2save/+1follow); aggiunte prime evidenze caroselli educativi (follows 2, saved 3 — debole, solo 2 dati).",
+        "Orari: rimosso 13:00 (28 post immagine, 0.0 conversione follows — segnale più robusto del dataset); aggiunto 21:00 per copertura fascia sera; riorganizzata la sezione con dati di conversione espliciti per slot; best_times → [07:00, 17:00, 09:00, 21:00].",
+        "Cosa evitare: aggiunta voce esplicita su 13:00 per post immagine (0.0 su 28 post); precisato che i Reel a quest'ora mantengono comunque una reach attiva."
+      ]
     }
   ],
   "alerts": [
-    {
-      "ts": "2026-07-24T07:02:55",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Schizzo iniziale»"
-    },
     {
       "ts": "2026-07-24T07:30:45",
       "severity": "info",
@@ -31770,6 +31787,12 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-07-27T05:06:42",
+      "severity": "warning",
+      "source": "job:learn",
+      "message": "⚠️ Apprendimento (learn) FALLITO: strategia non aggiornata"
     }
   ],
   "ideas": {
@@ -33759,7 +33782,7 @@
     "followers_start": 945,
     "followers_end": 948,
     "followers_gained": 3,
-    "from": "2026-07-19",
+    "from": "2026-07-20",
     "to": "2026-07-26",
     "top_posts": [
       {

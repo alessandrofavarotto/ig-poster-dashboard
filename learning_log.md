@@ -1,5 +1,15 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-07-27
+Skyrim è il secondo IP di massa a confermare il pattern GoT: la serie 10–15 lug ha generato +17 follower in una settimana e reach record (2249), con crescita totale 917→948 in ~7 settimane. Il segnale più robusto è la rimozione di 13:00 dai best_times: 28 post immagine con 0.0 conversione follows contro 0.24 di 07:00 — evidenza chiara e robusta su cui agire. Corretta la misura dell'overview Land of Oz a maturità (reach 529, non 44–61 delle prime misure), e registrate prime evidenze positive sui caroselli educativi (follows 2, saved 3 in 3 giorni).
+- Obiettivo: aggiornato plateau→crescita (917→948, +31); aggiunti dati serie Skyrim (+17 follower in una settimana, reach record 2249, visite profilo 433) come secondo IP di massa confermato dopo GoT; nota Oz overview a maturità (529 vs misura iniziale 44–61).
+- Keyword/SEO: aggiunto Skyrim/Elder Scrolls (#skyrim #elderscrolls #tamriel) come secondo IP confermato; lista IP ampliata a gaming/fantasy di massa (GoT, Skyrim, Middle-earth, D&D); aggiornati i dati di reach per entrambe le serie.
+- Hashtag: aggiunto #skyrim/#elderscrolls/#tamriel tra i tag-IP da usare su contenuti del franchise; voce ora marcata (dato 06-07/2026).
+- Reels: aggiunta fase 'schizzo' (primo dato lug: reach 136, saved 2); classifica fasi aggiornata (linee/inchiostrazione 165–249, dettagli 341 maturo); aggiunta nota sull'assenza tracciamento follows per Reel (follows=null nel dataset).
+- Tipo di post: numeri overview aggiornati a maturità (Westeros 781/+11save/+2follows, Oz 529/+3save, Conquerors 366/+2save/+1follow); aggiunte prime evidenze caroselli educativi (follows 2, saved 3 — debole, solo 2 dati).
+- Orari: rimosso 13:00 (28 post immagine, 0.0 conversione follows — segnale più robusto del dataset); aggiunto 21:00 per copertura fascia sera; riorganizzata la sezione con dati di conversione espliciti per slot; best_times → [07:00, 17:00, 09:00, 21:00].
+- Cosa evitare: aggiunta voce esplicita su 13:00 per post immagine (0.0 su 28 post); precisato che i Reel a quest'ora mantengono comunque una reach attiva.
+
 ## 2026-07-02
 Ciclo di riconferma: solo 2 post nuovi (30 giu–1 lug) rispetto all'ultimo giro, nessun segnale statisticamente nuovo. Reel>>foto tiene anche sul nuovo mondo proprio (Montagne delle Aquile: reel 131 vs foto 54) e la reach d'account continua il lieve recupero (206→251) col rientro a un mondo proprio, ma i follower restano in plateau (~919–920) e salvataggi/condivisioni ~0. Unico micro-indizio prudente: l'emblema araldico isolato (Fenice di Nari City) è il Reel a reach più bassa del dataset (38), coerente col fatto che soggetti isolati/simbolici rendono meno delle mappe. Modifiche minime e incrementali; orari invariati.
 - Aggiornati in 'Obiettivo' i numeri di inizio luglio: il recupero di reach col rientro a un mondo proprio prosegue (206→251, 30 giu–1 lug), follower ancora in plateau (~919–920).
