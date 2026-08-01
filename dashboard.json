@@ -37619,9 +37619,29 @@
         "deadline": "2026-07-31",
         "status": "open",
         "created_at": "2026-07-02T09:04"
+      },
+      {
+        "id": "guild-2026-08",
+        "campaign": "guild",
+        "format": "post",
+        "title": "Cartographers' Guild — sfida di agosto 2026",
+        "cosa_fare": "Controlla il TEMA del mese sul forum del Guild e disegna una mappa; invia entro ~fine agosto (voto nei primi giorni del mese dopo).",
+        "perche": "Sfida mensile della community di riferimento per le mappe fantasy: visibilità + contenuto on-brand.",
+        "gancio": "🧭 Cartographers' Guild · agosto 2026",
+        "hashtags": [
+          "#cartographersguild",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "link": "https://www.cartographersguild.com/forumdisplay.php?f=45",
+        "deadline": "2026-08-31",
+        "status": "open",
+        "created_at": "2026-08-01T09:00"
       }
     ],
-    "generated_at": "2026-07-30T06:00"
+    "generated_at": "2026-08-01T09:00"
   },
   "boost": {
     "generated_at": "2026-07-31T20:02",
