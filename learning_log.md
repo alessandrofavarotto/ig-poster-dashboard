@@ -1,5 +1,17 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-08-03
+Dati su ~100 post misurati (storico 598). Cinque aggiornamenti incrementali: i numeri di conversione per orario sono aggiornati (07:00 sale a 0.35, 17:00 a 0.29) con ranking invariato; i caroselli educativi emergono come il formato con conversione più alta (media_conv 0.67, n=3); la fase 'colore' viene rivalutata al rialzo (reach 250 a 17:00); i Reel a 13:00 sono confermati i peggiori per salvasp_x1000 (2.07); la serie Risorgimento/Italia 1848 mostra Reel con reach alta (281, 451) come segnale debole su nicchia storica. best_times invariati (07:00, 17:00, 09:00, 21:00).
+- Sezione Obiettivo: aggiornato conto follower (949→957 al 2 ago) e intervallo reach_non_follower (70–83%, picco 83% il 1° ago con reach 609).
+- Sezione Caption: aggiunta la seconda condivisione del dataset ('Nord Italia — patchwork dei ducati', immagine) come ulteriore esempio di contenuto inoltrabile (storico/geografico riconoscibile).
+- Sezione Keyword/SEO: aggiunto segnale debole su mappe storiche/Risorgimento — Reel 'Sud — Due Sicilie' reach 451, 'Nord Italia' reach 281; potenziale nicchia storico-geografica, non IP gaming; da confermare con altre serie storiche.
+- Sezione Reels: aggiornate le reach per fase time-lapse (linee 165–260; colore rivalutata a 250 da 158; schizzo 149; dettagli 179–341); nessuna fase ora 'chiaramente debole'. Aggiunto dato Reel per orario: 17:00 migliore (salvasp_x1000=3.75), 09:00 secondo (2.53), 13:00 peggiore (2.07) → privilegiare 17:00 e 09:00 anche per i Reel.
+- Sezione Tipo di post: promossi i caroselli educativi con il nuovo dato per_formato (media_conv 0.67, n=3, massimo del dataset); suggerito di aumentarne la frequenza. Aggiornata la divisione funzionale dei formati con numeri correnti (immagine n=42, carosello n=3). Aggiunta nota su contenuti fuori nicchia (space art reach 33–64).
+- Sezione Orari: aggiornati i valori di conversione (07:00: 0.35 n=17; 17:00: 0.29 n=7; 09:00: 0.12 n=8; 13:00: 0.0 n=11). Aggiunta nota che 13:00 è negativo anche per Reel (salvasp peggiore). 21:00 confermato esplorativo (1 solo dato immagine).
+- Sezione Cosa evitare: aggiornata la nota su 13:00 estendendola anche ai Reel (non solo alle immagini); aggiunto avviso su contenuti fuori nicchia (space art, illustrazione non cartografica).
+- Sezione Overview Westeros: aggiornato il dato di reach a maturità (822, +12 save, da precedente 781).
+- Changelog: aggiunta riga 2026-08-03.
+
 ## 2026-07-27
 Il dataset (80+ post misurati + storico 598) conferma tutti i pattern già acquisiti. La novità più concreta è l'esplicitazione della divisione funzionale per formato tramite il campo per_formato: immagini/caroselli 0.17 follows/post (n=40) vs Reel 0.0 (n=34), chiarendo con numeri che i Reel servono la scoperta e le immagini la conversione. Appare per la prima volta la metrica reach_non_follower (ultimi 5 giorni: 63–83% della reach d'account da non-follower), segnale positivo che la distribuzione funziona anche fuori dai cicli IP. I caroselli educativi confermano il pattern su entrambi i dati (saved > 0 in entrambi, follows 2 in uno). Modifiche minime e incrementali; best_times invariati.
 - Aggiunta in 'Obiettivo': bullet reach_non_follower (63–83% non-follower negli ultimi 5 giorni, nuova metrica, segnale positivo di scoperta)

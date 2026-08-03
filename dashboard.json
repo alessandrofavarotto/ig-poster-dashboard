@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02",
+  "generated_at": "2026-08-03",
   "insights_updated": "2026-08-02",
   "best_times": {
     "times": [
@@ -8,7 +8,7 @@
       "09:00",
       "21:00"
     ],
-    "updated": "2026-07-27"
+    "updated": "2026-08-03"
   },
   "account": [
     {
@@ -39647,6 +39647,31 @@
         "Affinata in 'Tipo di post': nota caroselli educativi — ora esplicita che entrambi i 2 dati mostrano saved > 0 e uno follows 2, pattern consistente (ancora debole)",
         "Aggiunto in Changelog: riga 2° passaggio 27-lug con riassunto delle modifiche incrementali"
       ]
+    },
+    {
+      "date": "2026-08-03",
+      "ts": "2026-08-03T05:21",
+      "enough_evidence": true,
+      "posts_measured": 92,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "09:00",
+        "21:00"
+      ],
+      "summary": "Dati su ~100 post misurati (storico 598). Cinque aggiornamenti incrementali: i numeri di conversione per orario sono aggiornati (07:00 sale a 0.35, 17:00 a 0.29) con ranking invariato; i caroselli educativi emergono come il formato con conversione più alta (media_conv 0.67, n=3); la fase 'colore' viene rivalutata al rialzo (reach 250 a 17:00); i Reel a 13:00 sono confermati i peggiori per salvasp_x1000 (2.07); la serie Risorgimento/Italia 1848 mostra Reel con reach alta (281, 451) come segnale debole su nicchia storica. best_times invariati (07:00, 17:00, 09:00, 21:00).",
+      "changes": [
+        "Sezione Obiettivo: aggiornato conto follower (949→957 al 2 ago) e intervallo reach_non_follower (70–83%, picco 83% il 1° ago con reach 609).",
+        "Sezione Caption: aggiunta la seconda condivisione del dataset ('Nord Italia — patchwork dei ducati', immagine) come ulteriore esempio di contenuto inoltrabile (storico/geografico riconoscibile).",
+        "Sezione Keyword/SEO: aggiunto segnale debole su mappe storiche/Risorgimento — Reel 'Sud — Due Sicilie' reach 451, 'Nord Italia' reach 281; potenziale nicchia storico-geografica, non IP gaming; da confermare con altre serie storiche.",
+        "Sezione Reels: aggiornate le reach per fase time-lapse (linee 165–260; colore rivalutata a 250 da 158; schizzo 149; dettagli 179–341); nessuna fase ora 'chiaramente debole'. Aggiunto dato Reel per orario: 17:00 migliore (salvasp_x1000=3.75), 09:00 secondo (2.53), 13:00 peggiore (2.07) → privilegiare 17:00 e 09:00 anche per i Reel.",
+        "Sezione Tipo di post: promossi i caroselli educativi con il nuovo dato per_formato (media_conv 0.67, n=3, massimo del dataset); suggerito di aumentarne la frequenza. Aggiornata la divisione funzionale dei formati con numeri correnti (immagine n=42, carosello n=3). Aggiunta nota su contenuti fuori nicchia (space art reach 33–64).",
+        "Sezione Orari: aggiornati i valori di conversione (07:00: 0.35 n=17; 17:00: 0.29 n=7; 09:00: 0.12 n=8; 13:00: 0.0 n=11). Aggiunta nota che 13:00 è negativo anche per Reel (salvasp peggiore). 21:00 confermato esplorativo (1 solo dato immagine).",
+        "Sezione Cosa evitare: aggiornata la nota su 13:00 estendendola anche ai Reel (non solo alle immagini); aggiunto avviso su contenuti fuori nicchia (space art, illustrazione non cartografica).",
+        "Sezione Overview Westeros: aggiornato il dato di reach a maturità (822, +12 save, da precedente 781).",
+        "Changelog: aggiunta riga 2026-08-03."
+      ]
     }
   ],
   "alerts": [
@@ -42030,10 +42055,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 948,
+    "followers_start": 949,
     "followers_end": 957,
-    "followers_gained": 9,
-    "from": "2026-07-26",
+    "followers_gained": 8,
+    "from": "2026-07-27",
     "to": "2026-08-02",
     "top_posts": [
       {
