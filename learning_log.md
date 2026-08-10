@@ -1,5 +1,16 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-08-10
+17:00 supera 07:00 come primo orario di conversione follower (0.44 vs 0.33); il 4° carosello educativo 'Geografia credibile' (reach 276, saved 9, follows 2) consolida il pattern con media_conv 1.0. Spike di reach account 8-9 ago (1751/1637, >94% non-follower): segnale di Reel ancora in circolazione oltre la finestra di pubblicazione. La serie Monte Argentario (cartografia reale locale italiana) conferma reach bassa su immagini (27-95, 0 conversioni follower), nicchia fantasy/storico resta prioritaria.
+- Orari: 17:00 promosso a primo slot per conversione follower (0.44, n=9); 07:00 scende al secondo (0.33, n=21); best_times aggiornato a [17:00, 07:00, 09:00, 21:00]; parametri Reel aggiornati (17:00: salvasp=2.97 n=12; 09:00: salvasp=2.20 n=8; 13:00: salvasp=2.06 n=18)
+- Caroselli educativi: media_conv aggiornata a 1.0 (n=4); 'Geografia credibile' (reach 276, saved 9, follows 2, profile_visits 6) — massimo di salvataggi del dataset; pattern robusto su 4 dati coerenti
+- Obiettivo: follower aggiornato a 963 (9 ago, +6 settimana); nota spike reach 8-9 ago (>94% non-follower) come coda lunga dei Reel
+- Caption: aggiornata nota sui salvataggi — caroselli guida attivano il segnale (saved 4-9), formula più efficace per CTA salvataggio
+- Reels: range reach aggiornato (74-480); percentuale reach_non_follower aggiornata a 70-95%; fasi aggiornate (linee 169-268, dettagli 191-349, colore reach 262); nota su 21:00 Reel (Porto Santo Stefano reach 280, 1 dato)
+- Keyword/SEO: aggiornati reach Risorgimento Reel (Sud Due Sicilie 480, Nord Italia 290)
+- Tipo di post: aggiornati n (immagini n=48, caroselli n=4) e media_conv (caroselli 1.0); aggiunta info 'Geografia credibile'; Conquerors overview reach 373
+- Cosa evitare: aggiunta nota su mappe cartografiche reali locali italiane (Monte Argentario: immagini 27-95, 0 conversioni follower — conferma nicchia fantasy/storico)
+
 ## 2026-08-03
 Dati su ~100 post misurati (storico 598). Cinque aggiornamenti incrementali: i numeri di conversione per orario sono aggiornati (07:00 sale a 0.35, 17:00 a 0.29) con ranking invariato; i caroselli educativi emergono come il formato con conversione più alta (media_conv 0.67, n=3); la fase 'colore' viene rivalutata al rialzo (reach 250 a 17:00); i Reel a 13:00 sono confermati i peggiori per salvasp_x1000 (2.07); la serie Risorgimento/Italia 1848 mostra Reel con reach alta (281, 451) come segnale debole su nicchia storica. best_times invariati (07:00, 17:00, 09:00, 21:00).
 - Sezione Obiettivo: aggiornato conto follower (949→957 al 2 ago) e intervallo reach_non_follower (70–83%, picco 83% il 1° ago con reach 609).
