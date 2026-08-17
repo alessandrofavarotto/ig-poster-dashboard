@@ -1,5 +1,15 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-08-17
+Con ~140 post misurati (965 follower al 16 ago), emergono quattro aggiornamenti rilevanti: 07:00 e 17:00 ora pari per conversione follower (entrambi 0.36, con 07:00 più robusto n=22); 09:00 migliorato a 0.22; per i Reel il ranking per slot è cambiato — 21:00 è diventato il peggiore (salvasp=0.0, n=3, contenuti off-nicchia) e 13:00 è ora secondo, non più peggiore. La serie Monte Argentario si chiude: Reel reach 128-327 ma 0 quality signals; prima comparsa di contenuto LoTR (immaturo). Modifiche incrementali a orari, Reel per slot, reach di 'Geografia credibile', nota Argentario.
+- Orari: 07:00 e 17:00 ora pari (media_conv 0.36) — best_times riordinato con 07:00 primo per campione più robusto (n=22); 17:00 aggiornato da 0.44 n=9 a 0.36 n=11; 09:00 migliorato da 0.12 a 0.22 (n=9)
+- Reel per orario: 09:00 sceso a salvasp=1.81 (terzo, ora sotto 13:00=2.06 che è diventato secondo); 21:00 aggiunto come peggiore per Reel (salvasp=0.0, n=3 — contenuti prevalentemente off-nicchia); 17:00 confermato primo (2.95)
+- Cosa evitare: nota 13:00 differenziata — resta il peggiore per immagini (0 follows n=11), ma per i Reel è ora secondo (non più il peggiore); 21:00 aggiunto come slot problematico per i Reel
+- Obiettivo: follower aggiornati a 965 (16 ago); crescita 963→965 in una settimana (lenta post-Argentario)
+- Tipo di post: reach di 'Geografia credibile' aggiornato da 276 a 284
+- Keyword/SEO: aggiunta nota prima serie LoTR/Middle-earth (ago 2026) — dati immaturi (age_days 0-6), da monitorare
+- Cosa evitare: Monte Argentario aggiornato con serie completa — Reel reach 128-327 (meglio del previsto) ma 0 quality signals; overview 1 follow; valutazione 'evitare come focus' confermata
+
 ## 2026-08-10
 17:00 supera 07:00 come primo orario di conversione follower (0.44 vs 0.33); il 4° carosello educativo 'Geografia credibile' (reach 276, saved 9, follows 2) consolida il pattern con media_conv 1.0. Spike di reach account 8-9 ago (1751/1637, >94% non-follower): segnale di Reel ancora in circolazione oltre la finestra di pubblicazione. La serie Monte Argentario (cartografia reale locale italiana) conferma reach bassa su immagini (27-95, 0 conversioni follower), nicchia fantasy/storico resta prioritaria.
 - Orari: 17:00 promosso a primo slot per conversione follower (0.44, n=9); 07:00 scende al secondo (0.33, n=21); best_times aggiornato a [17:00, 07:00, 09:00, 21:00]; parametri Reel aggiornati (17:00: salvasp=2.97 n=12; 09:00: salvasp=2.20 n=8; 13:00: salvasp=2.06 n=18)

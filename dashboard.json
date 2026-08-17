@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-16",
+  "generated_at": "2026-08-17",
   "insights_updated": "2026-08-16",
   "best_times": {
     "times": [
-      "17:00",
       "07:00",
+      "17:00",
       "09:00",
       "21:00"
     ],
-    "updated": "2026-08-10"
+    "updated": "2026-08-17"
   },
   "account": [
     {
@@ -59062,6 +59062,29 @@
         "Tipo di post: aggiornati n (immagini n=48, caroselli n=4) e media_conv (caroselli 1.0); aggiunta info 'Geografia credibile'; Conquerors overview reach 373",
         "Cosa evitare: aggiunta nota su mappe cartografiche reali locali italiane (Monte Argentario: immagini 27-95, 0 conversioni follower — conferma nicchia fantasy/storico)"
       ]
+    },
+    {
+      "date": "2026-08-17",
+      "ts": "2026-08-17T05:20",
+      "enough_evidence": true,
+      "posts_measured": 118,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "09:00",
+        "21:00"
+      ],
+      "summary": "Con ~140 post misurati (965 follower al 16 ago), emergono quattro aggiornamenti rilevanti: 07:00 e 17:00 ora pari per conversione follower (entrambi 0.36, con 07:00 più robusto n=22); 09:00 migliorato a 0.22; per i Reel il ranking per slot è cambiato — 21:00 è diventato il peggiore (salvasp=0.0, n=3, contenuti off-nicchia) e 13:00 è ora secondo, non più peggiore. La serie Monte Argentario si chiude: Reel reach 128-327 ma 0 quality signals; prima comparsa di contenuto LoTR (immaturo). Modifiche incrementali a orari, Reel per slot, reach di 'Geografia credibile', nota Argentario.",
+      "changes": [
+        "Orari: 07:00 e 17:00 ora pari (media_conv 0.36) — best_times riordinato con 07:00 primo per campione più robusto (n=22); 17:00 aggiornato da 0.44 n=9 a 0.36 n=11; 09:00 migliorato da 0.12 a 0.22 (n=9)",
+        "Reel per orario: 09:00 sceso a salvasp=1.81 (terzo, ora sotto 13:00=2.06 che è diventato secondo); 21:00 aggiunto come peggiore per Reel (salvasp=0.0, n=3 — contenuti prevalentemente off-nicchia); 17:00 confermato primo (2.95)",
+        "Cosa evitare: nota 13:00 differenziata — resta il peggiore per immagini (0 follows n=11), ma per i Reel è ora secondo (non più il peggiore); 21:00 aggiunto come slot problematico per i Reel",
+        "Obiettivo: follower aggiornati a 965 (16 ago); crescita 963→965 in una settimana (lenta post-Argentario)",
+        "Tipo di post: reach di 'Geografia credibile' aggiornato da 276 a 284",
+        "Keyword/SEO: aggiunta nota prima serie LoTR/Middle-earth (ago 2026) — dati immaturi (age_days 0-6), da monitorare",
+        "Cosa evitare: Monte Argentario aggiornato con serie completa — Reel reach 128-327 (meglio del previsto) ma 0 quality signals; overview 1 follow; valutazione 'evitare come focus' confermata"
+      ]
     }
   ],
   "alerts": [
@@ -62023,7 +62046,7 @@
     "followers_start": 963,
     "followers_end": 965,
     "followers_gained": 2,
-    "from": "2026-08-09",
+    "from": "2026-08-10",
     "to": "2026-08-16",
     "top_posts": [
       {
