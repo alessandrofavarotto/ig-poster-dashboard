@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19",
+  "generated_at": "2026-08-20",
   "insights_updated": "2026-08-19",
   "best_times": {
     "times": [
@@ -64092,17 +64092,17 @@
         "created_at": "2026-08-01T09:00"
       }
     ],
-    "generated_at": "2026-08-13T06:00"
+    "generated_at": "2026-08-20T06:00"
   },
   "boost": {
-    "generated_at": "2026-08-19T20:05",
+    "generated_at": "2026-08-19T20:16",
     "suggestion": {
-      "media_id": "18023446469689165",
-      "title": "Geografia credibile: fiumi, climi e citta'",
-      "kind": "carousel",
-      "published_at": "2026-08-04",
-      "age_days": 15,
-      "confidence": "alta",
+      "media_id": "17981570273876905",
+      "title": "Sud — Regno delle Due Sicilie",
+      "kind": "reel",
+      "published_at": "2026-07-31",
+      "age_days": 19,
+      "confidence": "media",
       "objective": "Visite al profilo (proxy crescita follower)",
       "budget_eur_day": 5,
       "days": 6,
@@ -64126,20 +64126,35 @@
         ]
       },
       "why": [
-        "reach 290 = 2.65× la tua media recente (110)",
-        "523 views",
-        "9 salvataggi, 0 condivisioni (ottimo segnale per l'algoritmo)",
-        "reach pari al 30% dei tuoi follower"
+        "reach 483 = 4.78× la tua media recente (101)",
+        "581 views",
+        "0 salvataggi, 1 condivisioni",
+        "reach pari al 50% dei tuoi follower"
       ]
     },
-    "considered": 34,
+    "considered": 33,
     "baseline": {
-      "reach_median": 109.5
+      "reach_median": 101
     },
-    "last_notified": "18023446469689165"
+    "last_notified": "17981570273876905"
   },
   "boost_tracking": {
-    "active": [],
+    "active": [
+      {
+        "media_id": "18023446469689165",
+        "title": "Geografia credibile: fiumi, climi e citta'",
+        "kind": "carousel",
+        "start_date": "2026-08-19",
+        "start_followers": 965,
+        "days": 6,
+        "budget_total_eur": 30,
+        "status": "active",
+        "current_followers": 965,
+        "end_date": "2026-08-25",
+        "elapsed_days": 1,
+        "gained_so_far": 0
+      }
+    ],
     "reported": [
       {
         "media_id": "18076872398658648",
@@ -67001,10 +67016,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 964,
+    "followers_start": 963,
     "followers_end": 965,
-    "followers_gained": 1,
-    "from": "2026-08-12",
+    "followers_gained": 2,
+    "from": "2026-08-13",
     "to": "2026-08-19",
     "top_posts": [
       {
