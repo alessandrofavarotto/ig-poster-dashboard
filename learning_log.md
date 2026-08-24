@@ -1,5 +1,18 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-08-24
+Follower a 970 (+5 negli ultimi 6 giorni, lieve accelerazione rispetto al plateau precedente). Principali aggiornamenti: 09:00 immagini indebolito a 0.0 (n=6, da 0.22 n=9 — campione ridotto per esclusione post immaturi, da monitorare prima di conclusioni definitive); 21:00 Reel rivalutato (salvasp=2.8, n=4, non più il peggiore — era 0.0 su 3 post off-nicchia); 07:00 Reel mostra salvasp eccezionale (6.99, n=3 — troppo piccolo per agire ma da testare sistematicamente); caroselli educativi scendono a 0.8 (n=5) per 2 nuovi caroselli immaturi, il pattern sui 3 maturi rimane solidissimo. Orbetello Reel (17:00, reach 2155) annotato come outlier eccezionale in nicchia altrimenti debole. LoTR ancora immaturo (age_days 13-20, nessun segnale di picco GoT/Skyrim).
+- Obiettivo: follower aggiornato a 970 (23 ago), +53 in ~2,5 mesi; lieve accelerazione +5 negli ultimi 6 giorni
+- Obiettivo: reach_non_follower rivista — baseline corrente ~50-70% (dati 17-23 ago), picchi 70-95% solo durante Reel virali
+- Keyword/SEO: LoTR aggiornato a age_days 13-20 (parzialmente maturo), non emergono segnali di picco GoT/Skyrim
+- Reels divisione funzionale: numeri aggiornati a immagini 0.11 (n=46), caroselli 0.8 (n=5)
+- Reels orario: completamente aggiornato — 07:00 salvasp=6.99 (n=3, promettente); 17:00 salvasp=2.79 (n=15, robusto); 21:00 rivalutato salvasp=2.8 (n=4); 09:00 terzo (2.21, n=8); 13:00 peggiore (2.09, n=13)
+- Reels: aggiunto outlier Orbetello Reel (17:00, reach 2155, caso isolato in nicchia debole)
+- Tipo di post: caroselli media_conv 0.8 (n=5) — da 1.0 (n=4) per 2 nuovi caroselli immaturi; pattern 3 maturi invariato
+- Tipo di post: immagini media_conv aggiornata a 0.11 (n=46); nota Orbetello Reel outlier in sezione Monte Argentario
+- Orari immagini: 09:00 segnale indebolito (0.0, n=6, da 0.22 n=9 — campione ridotto, da monitorare); 07:00 e 17:00 a 0.30 ciascuno
+- Cosa evitare: 21:00 Reel rimosso da segnale negativo, rivalutato (salvasp=2.8, n=4); 13:00 ora il peggiore per i Reel; aggiunto avviso 09:00 immagini da monitorare
+
 ## 2026-08-17
 Con ~140 post misurati (965 follower al 16 ago), emergono quattro aggiornamenti rilevanti: 07:00 e 17:00 ora pari per conversione follower (entrambi 0.36, con 07:00 più robusto n=22); 09:00 migliorato a 0.22; per i Reel il ranking per slot è cambiato — 21:00 è diventato il peggiore (salvasp=0.0, n=3, contenuti off-nicchia) e 13:00 è ora secondo, non più peggiore. La serie Monte Argentario si chiude: Reel reach 128-327 ma 0 quality signals; prima comparsa di contenuto LoTR (immaturo). Modifiche incrementali a orari, Reel per slot, reach di 'Geografia credibile', nota Argentario.
 - Orari: 07:00 e 17:00 ora pari (media_conv 0.36) — best_times riordinato con 07:00 primo per campione più robusto (n=22); 17:00 aggiornato da 0.44 n=9 a 0.36 n=11; 09:00 migliorato da 0.12 a 0.22 (n=9)

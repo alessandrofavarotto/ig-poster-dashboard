@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23",
+  "generated_at": "2026-08-24",
   "insights_updated": "2026-08-23",
   "best_times": {
     "times": [
@@ -8,7 +8,7 @@
       "09:00",
       "21:00"
     ],
-    "updated": "2026-08-17"
+    "updated": "2026-08-24"
   },
   "account": [
     {
@@ -70052,6 +70052,32 @@
         "Keyword/SEO: aggiunta nota prima serie LoTR/Middle-earth (ago 2026) — dati immaturi (age_days 0-6), da monitorare",
         "Cosa evitare: Monte Argentario aggiornato con serie completa — Reel reach 128-327 (meglio del previsto) ma 0 quality signals; overview 1 follow; valutazione 'evitare come focus' confermata"
       ]
+    },
+    {
+      "date": "2026-08-24",
+      "ts": "2026-08-24T05:16",
+      "enough_evidence": true,
+      "posts_measured": 105,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "09:00",
+        "21:00"
+      ],
+      "summary": "Follower a 970 (+5 negli ultimi 6 giorni, lieve accelerazione rispetto al plateau precedente). Principali aggiornamenti: 09:00 immagini indebolito a 0.0 (n=6, da 0.22 n=9 — campione ridotto per esclusione post immaturi, da monitorare prima di conclusioni definitive); 21:00 Reel rivalutato (salvasp=2.8, n=4, non più il peggiore — era 0.0 su 3 post off-nicchia); 07:00 Reel mostra salvasp eccezionale (6.99, n=3 — troppo piccolo per agire ma da testare sistematicamente); caroselli educativi scendono a 0.8 (n=5) per 2 nuovi caroselli immaturi, il pattern sui 3 maturi rimane solidissimo. Orbetello Reel (17:00, reach 2155) annotato come outlier eccezionale in nicchia altrimenti debole. LoTR ancora immaturo (age_days 13-20, nessun segnale di picco GoT/Skyrim).",
+      "changes": [
+        "Obiettivo: follower aggiornato a 970 (23 ago), +53 in ~2,5 mesi; lieve accelerazione +5 negli ultimi 6 giorni",
+        "Obiettivo: reach_non_follower rivista — baseline corrente ~50-70% (dati 17-23 ago), picchi 70-95% solo durante Reel virali",
+        "Keyword/SEO: LoTR aggiornato a age_days 13-20 (parzialmente maturo), non emergono segnali di picco GoT/Skyrim",
+        "Reels divisione funzionale: numeri aggiornati a immagini 0.11 (n=46), caroselli 0.8 (n=5)",
+        "Reels orario: completamente aggiornato — 07:00 salvasp=6.99 (n=3, promettente); 17:00 salvasp=2.79 (n=15, robusto); 21:00 rivalutato salvasp=2.8 (n=4); 09:00 terzo (2.21, n=8); 13:00 peggiore (2.09, n=13)",
+        "Reels: aggiunto outlier Orbetello Reel (17:00, reach 2155, caso isolato in nicchia debole)",
+        "Tipo di post: caroselli media_conv 0.8 (n=5) — da 1.0 (n=4) per 2 nuovi caroselli immaturi; pattern 3 maturi invariato",
+        "Tipo di post: immagini media_conv aggiornata a 0.11 (n=46); nota Orbetello Reel outlier in sezione Monte Argentario",
+        "Orari immagini: 09:00 segnale indebolito (0.0, n=6, da 0.22 n=9 — campione ridotto, da monitorare); 07:00 e 17:00 a 0.30 ciascuno",
+        "Cosa evitare: 21:00 Reel rimosso da segnale negativo, rivalutato (salvasp=2.8, n=4); 13:00 ora il peggiore per i Reel; aggiunto avviso 09:00 immagini da monitorare"
+      ]
     }
   ],
   "alerts": [
@@ -70456,7 +70482,7 @@
         "status": "active",
         "current_followers": 970,
         "end_date": "2026-08-25",
-        "elapsed_days": 4,
+        "elapsed_days": 5,
         "gained_so_far": 5
       }
     ],
@@ -73324,7 +73350,7 @@
     "followers_start": 965,
     "followers_end": 970,
     "followers_gained": 5,
-    "from": "2026-08-16",
+    "from": "2026-08-17",
     "to": "2026-08-23",
     "top_posts": [
       {
