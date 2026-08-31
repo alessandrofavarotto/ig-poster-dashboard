@@ -1,5 +1,22 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-08-31
+Follower 970→974 (+4 da 23 ago, crescita lenta post-Kerberos; Skyrim recap al giorno 0 dà un mini-segnale positivo). Aggiornamenti chiave: 21:00 Reel promosso da 'rivalutato' a secondo slot solido (salvasp=3.45, n=5); 17:00 immagini sceso da 0.30 a 0.25 (più dati lo diluiscono, resta secondo); 13:00 immagini aggiornato da 0.0 a 0.11 (1 follow su 9 post, ancora il più debole); caroselli 0.57 (n=7, da 0.8) per aggiunta recap-caroselli immaturi. Aggiunta sezione Threads: IG supera Threads 7× (mediana 112.5 vs 16 views), con outlier Argentario overview (858 views Threads) e Skyrim recap (333 views Threads).
+- Follower aggiornato a 974 (2026-08-30); +4 in ~5 giorni, crescita lenta post-Kerberos
+- reach_non_follower baseline abbassata a ~34-55% (era ~50-70%): in assenza di IP grandi o Reel virali la quota non-follower scende
+- 21:00 Reel: promosso da 'rivalutato, da confermare' a 'secondo slot solido' (salvasp=3.45, n=5) — ora secondo dopo 07:00 e prima di 17:00 per salvasp
+- 17:00 immagini: media_conv aggiornato da 0.30 (n=10) a 0.25 (n=12) — più dati lo diluiscono, resta secondo slot per le immagini
+- 07:00 immagini: media_conv aggiornato da 0.30 (n=20) a 0.29 (n=21) — stabile
+- 13:00 immagini: media_conv aggiornato da 0.0 a 0.11 (n=9 — 1 follow su 9 post, ancora il più debole per le immagini; non più zero)
+- 09:00 immagini: confermato 0.0 (n=7, da n=6)
+- 21:00 immagini: confermato 0.0 (n=5, da n=4)
+- Caroselli media_conv: 0.57 (n=7, da 0.8 n=5) — calo per aggiunta recap-caroselli immaturi; guide maturi restano eccellenti
+- Immagini media_conv: 0.12 (n=49, da 0.11 n=46)
+- Aggiunta nota recap-caroselli di serie (segnale precoce: Skyrim reach 118, 2 follows a giorno 0)
+- Aggiornati dati Argentario a maturità: overview reach 308 (era 135), 5 saves (erano 2); immagine Orbetello reach 389; Reel Orbetello reach 2213 (era 2155)
+- Aggiunta sezione 'Cross-post: Threads' con confronto n=40 post: mediana IG 112.5 vs Threads 16 views; outlier Argentario (858 Threads) e Skyrim recap (333 Threads)
+- best_times invariati: [07:00, 17:00, 09:00, 21:00]
+
 ## 2026-08-24
 Follower a 970 (+5 negli ultimi 6 giorni, lieve accelerazione rispetto al plateau precedente). Principali aggiornamenti: 09:00 immagini indebolito a 0.0 (n=6, da 0.22 n=9 — campione ridotto per esclusione post immaturi, da monitorare prima di conclusioni definitive); 21:00 Reel rivalutato (salvasp=2.8, n=4, non più il peggiore — era 0.0 su 3 post off-nicchia); 07:00 Reel mostra salvasp eccezionale (6.99, n=3 — troppo piccolo per agire ma da testare sistematicamente); caroselli educativi scendono a 0.8 (n=5) per 2 nuovi caroselli immaturi, il pattern sui 3 maturi rimane solidissimo. Orbetello Reel (17:00, reach 2155) annotato come outlier eccezionale in nicchia altrimenti debole. LoTR ancora immaturo (age_days 13-20, nessun segnale di picco GoT/Skyrim).
 - Obiettivo: follower aggiornato a 970 (23 ago), +53 in ~2,5 mesi; lieve accelerazione +5 negli ultimi 6 giorni

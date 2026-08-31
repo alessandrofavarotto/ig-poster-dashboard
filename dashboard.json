@@ -8,7 +8,7 @@
       "09:00",
       "21:00"
     ],
-    "updated": "2026-08-24"
+    "updated": "2026-08-31"
   },
   "account": [
     {
@@ -79810,7 +79810,7 @@
       "posts": [
         {
           "title": "La serie completa",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-08-31",
           "scheduled_time": "07:00",
           "is_overview": false,
@@ -79824,11 +79824,11 @@
             "#fantasycartography",
             "#ttrpg"
           ],
-          "media_id": null,
-          "published_at": null,
+          "media_id": "17967365820137972",
+          "published_at": "2026-08-31",
           "facebook": false,
-          "story": false,
-          "comment_posted": false,
+          "story": true,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         }
@@ -81410,40 +81410,39 @@
         "Orari immagini: 09:00 segnale indebolito (0.0, n=6, da 0.22 n=9 — campione ridotto, da monitorare); 07:00 e 17:00 a 0.30 ciascuno",
         "Cosa evitare: 21:00 Reel rimosso da segnale negativo, rivalutato (salvasp=2.8, n=4); 13:00 ora il peggiore per i Reel; aggiunto avviso 09:00 immagini da monitorare"
       ]
+    },
+    {
+      "date": "2026-08-31",
+      "ts": "2026-08-31T12:24",
+      "enough_evidence": true,
+      "posts_measured": 110,
+      "strategy_updated": false,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "09:00",
+        "21:00"
+      ],
+      "summary": "Follower 970→974 (+4 da 23 ago, crescita lenta post-Kerberos; Skyrim recap al giorno 0 dà un mini-segnale positivo). Aggiornamenti chiave: 21:00 Reel promosso da 'rivalutato' a secondo slot solido (salvasp=3.45, n=5); 17:00 immagini sceso da 0.30 a 0.25 (più dati lo diluiscono, resta secondo); 13:00 immagini aggiornato da 0.0 a 0.11 (1 follow su 9 post, ancora il più debole); caroselli 0.57 (n=7, da 0.8) per aggiunta recap-caroselli immaturi. Aggiunta sezione Threads: IG supera Threads 7× (mediana 112.5 vs 16 views), con outlier Argentario overview (858 views Threads) e Skyrim recap (333 views Threads).",
+      "changes": [
+        "Follower aggiornato a 974 (2026-08-30); +4 in ~5 giorni, crescita lenta post-Kerberos",
+        "reach_non_follower baseline abbassata a ~34-55% (era ~50-70%): in assenza di IP grandi o Reel virali la quota non-follower scende",
+        "21:00 Reel: promosso da 'rivalutato, da confermare' a 'secondo slot solido' (salvasp=3.45, n=5) — ora secondo dopo 07:00 e prima di 17:00 per salvasp",
+        "17:00 immagini: media_conv aggiornato da 0.30 (n=10) a 0.25 (n=12) — più dati lo diluiscono, resta secondo slot per le immagini",
+        "07:00 immagini: media_conv aggiornato da 0.30 (n=20) a 0.29 (n=21) — stabile",
+        "13:00 immagini: media_conv aggiornato da 0.0 a 0.11 (n=9 — 1 follow su 9 post, ancora il più debole per le immagini; non più zero)",
+        "09:00 immagini: confermato 0.0 (n=7, da n=6)",
+        "21:00 immagini: confermato 0.0 (n=5, da n=4)",
+        "Caroselli media_conv: 0.57 (n=7, da 0.8 n=5) — calo per aggiunta recap-caroselli immaturi; guide maturi restano eccellenti",
+        "Immagini media_conv: 0.12 (n=49, da 0.11 n=46)",
+        "Aggiunta nota recap-caroselli di serie (segnale precoce: Skyrim reach 118, 2 follows a giorno 0)",
+        "Aggiornati dati Argentario a maturità: overview reach 308 (era 135), 5 saves (erano 2); immagine Orbetello reach 389; Reel Orbetello reach 2213 (era 2155)",
+        "Aggiunta sezione 'Cross-post: Threads' con confronto n=40 post: mediana IG 112.5 vs Threads 16 views; outlier Argentario (858 Threads) e Skyrim recap (333 Threads)",
+        "best_times invariati: [07:00, 17:00, 09:00, 21:00]"
+      ]
     }
   ],
   "alerts": [
-    {
-      "ts": "2026-08-27T07:01:15",
-      "severity": "info",
-      "source": "publish",
-      "message": "🖼️ Carosello pubblicato: «Kerberos — la serie completa» (anche su FB) + Storia di richiamo",
-      "extra": {
-        "media_id": "18010947029954808"
-      }
-    },
-    {
-      "ts": "2026-08-27T07:01:50",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Kerberos — la serie completa»"
-    },
-    {
-      "ts": "2026-08-27T07:30:25",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Kerberos — la serie completa»"
-    },
-    {
-      "ts": "2026-08-28T07:00:34",
-      "severity": "warning",
-      "source": "publish",
-      "message": "⏳ Pubblicazione rimandata (servizio esterno non disponibile): «Conquerors — la serie completa».\nResta in coda e riparte da sola appena il servizio torna — non devi fare nulla.\nMotivo: hosting pubblico del media non disponibile dopo 3 tentativi (litterbox): <!doctype html><html lang=\"en\"><meta charset=\"UTF-8\"><meta content=\"nofollow,noarchive,noindex\" name=\"robots\"><title>500 | Internal Server Error</title><meta content=\"width=device-width,initial-scale=. È un intoppo transitorio dell'host gratuito — di norma si risolve al giro successivo.",
-      "extra": {
-        "post_id": "recap_conquerors_by_alessandrofavarotto_d9nnz4::carousel::2026-08-28::07:00",
-        "error": "hosting pubblico del media non disponibile dopo 3 tentativi (litterbox): <!doctype html><html lang=\"en\"><meta charset=\"UTF-8\"><meta content=\"nofollow,noarchive,noindex\" name=\"robots\"><title>500 | Internal Server Error</title><meta content=\"width=device-width,initial-scale=. È un intoppo transitorio dell'host gratuito — di norma si risolve al giro successivo."
-      }
-    },
     {
       "ts": "2026-08-28T07:31:18",
       "severity": "info",
@@ -81518,6 +81517,33 @@
       "severity": "warning",
       "source": "job:learn",
       "message": "⚠️ Apprendimento (learn) FALLITO: strategia non aggiornata — 1800s)\nTraceback (most recent call last):\n  File \"/home/ubuntu/image-posting/scripts/learn.py\", line 440, in <module>\n    main()\n  File \"/home/ubuntu/image-posting/scripts/learn.py\", line 385, in main\n    enough = bool(out.get(\"enough_evidence\"))\nAttributeError: 'list' object has no attribute 'get'"
+    },
+    {
+      "ts": "2026-08-31T07:01:24",
+      "severity": "info",
+      "source": "publish",
+      "message": "🖼️ Carosello pubblicato: «La serie completa» (anche su FB) + Storia di richiamo",
+      "extra": {
+        "media_id": "17967365820137972"
+      }
+    },
+    {
+      "ts": "2026-08-31T07:02:14",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «La serie completa»"
+    },
+    {
+      "ts": "2026-08-31T07:30:30",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «La serie completa»"
+    },
+    {
+      "ts": "2026-08-31T08:34:20",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 Lettore commenti aggiornato: da ora vedo anche i commenti degli ALTRI.\nArretrati trovati e NON notificati uno per uno: 2 su 1 post (Skyrim — la serie completa)."
     }
   ],
   "ideas": {
