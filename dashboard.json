@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30",
+  "generated_at": "2026-08-31",
   "insights_updated": "2026-08-30",
   "best_times": {
     "times": [
@@ -79841,7 +79841,7 @@
           "title": "Italia 1848 — la serie completa",
           "status": "pending",
           "scheduled_date": "2026-09-01",
-          "scheduled_time": "07:00",
+          "scheduled_time": "17:00",
           "is_overview": false,
           "media_kind": "carousel",
           "from_image": null,
@@ -81414,12 +81414,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-08-27T06:00:58",
-      "severity": "info",
-      "source": "ideas",
-      "message": "💡 Idee da pubblicare aggiornate (7 aperte) — CAROUSEL: 3 modi per disegnare le montagne a mano · CAROUSEL: Sketch → mappa finita: l'evoluzione del Mare d'Argento · REEL: Omaggio a Westeros: disegno il Continente Occidentale · CAROUSEL: Mappa pro"
-    },
-    {
       "ts": "2026-08-27T07:01:15",
       "severity": "info",
       "source": "publish",
@@ -81518,6 +81512,12 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Skyrim — la serie completa»"
+    },
+    {
+      "ts": "2026-08-31T05:37:33",
+      "severity": "warning",
+      "source": "job:learn",
+      "message": "⚠️ Apprendimento (learn) FALLITO: strategia non aggiornata — 1800s)\nTraceback (most recent call last):\n  File \"/home/ubuntu/image-posting/scripts/learn.py\", line 440, in <module>\n    main()\n  File \"/home/ubuntu/image-posting/scripts/learn.py\", line 385, in main\n    enough = bool(out.get(\"enough_evidence\"))\nAttributeError: 'list' object has no attribute 'get'"
     }
   ],
   "ideas": {
@@ -84988,7 +84988,7 @@
     "followers_start": 970,
     "followers_end": 974,
     "followers_gained": 4,
-    "from": "2026-08-23",
+    "from": "2026-08-24",
     "to": "2026-08-30",
     "top_posts": [
       {
