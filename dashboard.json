@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-01",
   "insights_updated": "2026-08-31",
   "best_times": {
     "times": [
@@ -83432,9 +83432,29 @@
         "deadline": "2026-08-31",
         "status": "open",
         "created_at": "2026-08-01T09:00"
+      },
+      {
+        "id": "guild-2026-09",
+        "campaign": "guild",
+        "format": "post",
+        "title": "Cartographers' Guild — sfida di settembre 2026",
+        "cosa_fare": "Controlla il TEMA del mese sul forum del Guild e disegna una mappa; invia entro ~fine settembre (voto nei primi giorni del mese dopo).",
+        "perche": "Sfida mensile della community di riferimento per le mappe fantasy: visibilità + contenuto on-brand.",
+        "gancio": "🧭 Cartographers' Guild · settembre 2026",
+        "hashtags": [
+          "#cartographersguild",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "link": "https://www.cartographersguild.com/forumdisplay.php?f=45",
+        "deadline": "2026-09-30",
+        "status": "open",
+        "created_at": "2026-09-01T09:00"
       }
     ],
-    "generated_at": "2026-08-30T20:05"
+    "generated_at": "2026-09-01T09:00"
   },
   "boost": {
     "generated_at": "2026-08-31T20:03",
@@ -86658,7 +86678,7 @@
     "followers_start": 970,
     "followers_end": 975,
     "followers_gained": 5,
-    "from": "2026-08-24",
+    "from": "2026-08-25",
     "to": "2026-08-31",
     "top_posts": [
       {
