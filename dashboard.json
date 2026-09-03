@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02",
+  "generated_at": "2026-09-03",
   "insights_updated": "2026-09-02",
   "best_times": {
     "times": [
@@ -86830,9 +86830,28 @@
         "deadline": "2026-09-30",
         "status": "open",
         "created_at": "2026-09-01T09:00"
+      },
+      {
+        "format": "carousel",
+        "title": "5 modi per disegnare una foresta dall'alto (a confronto)",
+        "cosa_fare": "Disegna 5 stili di foresta vista dall'alto su slide separate — dal più semplice (cerchi sovrapposti) al più dettagliato (alberi singoli con ombra). Ultima slide: tutti e 5 affiancati su piccola legenda comparativa.",
+        "perche": "Il formato 'tecnica a confronto' ha il massimo dei salvataggi nella tua nicchia (vedi 'Geografia credibile': 9 save, record dataset) perché chi disegna vuole tornare a rivederlo. Ogni slide è uno scroll in più = watch time elevato. DM e worldbuilder lo inoltrano a chi sta imparando.",
+        "gancio": "Cinque modi per disegnare una foresta — quale usi per le tue mappe?",
+        "hashtags": [
+          "#dndmaps",
+          "#fantasymap",
+          "#worldbuilding",
+          "#cartography",
+          "#mapmaking",
+          "#fantasycartography",
+          "#ttrpg"
+        ],
+        "id": "5-modi-per-disegnare-una-foresta-dall-alto-a-confr",
+        "status": "open",
+        "created_at": "2026-09-03T06:01"
       }
     ],
-    "generated_at": "2026-09-01T20:05"
+    "generated_at": "2026-09-03T06:01"
   },
   "boost": {
     "generated_at": "2026-09-02T20:04",
@@ -90365,10 +90384,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 970,
+    "followers_start": 971,
     "followers_end": 978,
-    "followers_gained": 8,
-    "from": "2026-08-26",
+    "followers_gained": 7,
+    "from": "2026-08-27",
     "to": "2026-09-02",
     "top_posts": [
       {
