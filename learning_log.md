@@ -1,5 +1,12 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-09-07
+07:00 esce dal pareggio con 17:00 e diventa chiaramente il primo slot per immagini/caroselli (0.44, n=27 vs 0.23, n=13 — il pareggio era un artefatto del campione più piccolo). Il carosello si consolida come formato a conversione più alta (0.71, n=14 — quasi 5× le immagini 0.14 n=50), con il recap 'Skyrim' che stabilisce il record assoluto di condivisioni del dataset (5 shares). Su Threads emerge la distinzione netta tra recap narrativi di serie (unici da crosspostare: mediana 77) e caroselli tematici/editoriali (inutili: mediana 10). L'orario 09:00 per le immagini non è più a zero (0.12, n=8): segnale negativo attenuato, da trattare come slot esplorativo.
+- ## Orari: 07:00 aggiornato a 0.44 (n=27), primo netto non più in pareggio; 17:00 scende a 0.23 (n=13), secondo; 09:00 da 0.0 (n=7) a 0.12 (n=8), ora terzo slot esplorativo per immagini; best_times invariato
+- ## Tipo di post e sequenza: caroselli educativi aggiornati a media_conv 0.71 n=14 (da 0.8 n=5, ora molto più robusto); recap di serie: aggiunto record 5 shares Skyrim, upgradato da (ipotesi) a (indicativo); divisione funzionale: immagini a 0.14 n=50, caroselli a 0.71 n=14
+- ## Threads: mediana recente aggiornata a 67.5 (era 46.0), rapporto ~60%; voce generica 'carosello migliore' sostituita con due lezioni più precise (solo recap narrativi; Threads co-primario per questo formato)
+- ## Cosa evitare: 09:00 per immagini non più 'da evitare' — segnale negativo attenuato, trattare come slot esplorativo valido
+
 ## 2026-08-31
 Follower 970→974 (+4 da 23 ago, crescita lenta post-Kerberos; Skyrim recap al giorno 0 dà un mini-segnale positivo). Aggiornamenti chiave: 21:00 Reel promosso da 'rivalutato' a secondo slot solido (salvasp=3.45, n=5); 17:00 immagini sceso da 0.30 a 0.25 (più dati lo diluiscono, resta secondo); 13:00 immagini aggiornato da 0.0 a 0.11 (1 follow su 9 post, ancora il più debole); caroselli 0.57 (n=7, da 0.8) per aggiunta recap-caroselli immaturi. Aggiunta sezione Threads: IG supera Threads 7× (mediana 112.5 vs 16 views), con outlier Argentario overview (858 views Threads) e Skyrim recap (333 views Threads).
 - Follower aggiornato a 974 (2026-08-30); +4 in ~5 giorni, crescita lenta post-Kerberos
