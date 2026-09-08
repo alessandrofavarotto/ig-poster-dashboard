@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07",
-  "insights_updated": "2026-09-07",
+  "generated_at": "2026-09-08",
+  "insights_updated": "2026-09-08",
   "best_times": {
     "times": [
       "07:00",
@@ -1056,6 +1056,18 @@
       "views": 313,
       "accounts_engaged": 2,
       "total_interactions": 3
+    },
+    {
+      "date": "2026-09-08",
+      "followers_count": 977,
+      "media_count": 777,
+      "reach": 155,
+      "reach_follower": 91,
+      "reach_non_follower": 64,
+      "profile_views": 4,
+      "views": 391,
+      "accounts_engaged": 15,
+      "total_interactions": 27
     }
   ],
   "posts": [
@@ -2175,6 +2187,18 @@
           "views": 122,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 95,
+          "reach": 58,
+          "likes": 7,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 122,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -3285,6 +3309,18 @@
           "views": 139,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 94,
+          "reach": 64,
+          "likes": 11,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 139,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -4385,6 +4421,18 @@
           "views": 120,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 93,
+          "reach": 71,
+          "likes": 15,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 120,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -5476,6 +5524,18 @@
           "views": 90,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 92,
+          "reach": 59,
+          "likes": 9,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 90,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -6547,6 +6607,18 @@
         },
         "2026-09-07": {
           "age_days": 90,
+          "reach": 67,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 115,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 91,
           "reach": 67,
           "likes": 8,
           "comments": 0,
@@ -7636,6 +7708,18 @@
           "views": 176,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 91,
+          "reach": 163,
+          "likes": 8,
+          "comments": 0,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 176,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -8707,6 +8791,18 @@
           "views": 142,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 90,
+          "reach": 95,
+          "likes": 11,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 142,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -9765,6 +9861,18 @@
           "views": 228,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 89,
+          "reach": 171,
+          "likes": 7,
+          "comments": 1,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 228,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -10804,6 +10912,18 @@
         },
         "2026-09-07": {
           "age_days": 87,
+          "reach": 183,
+          "likes": 17,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 228,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 88,
           "reach": 183,
           "likes": 17,
           "comments": 4,
@@ -11862,6 +11982,18 @@
           "views": 131,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 88,
+          "reach": 57,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 131,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -12889,6 +13021,18 @@
         },
         "2026-09-07": {
           "age_days": 86,
+          "reach": 59,
+          "likes": 11,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 88,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 87,
           "reach": 59,
           "likes": 11,
           "comments": 0,
@@ -13934,6 +14078,18 @@
           "views": 61,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 87,
+          "reach": 48,
+          "likes": 2,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 61,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -14965,6 +15121,18 @@
           "views": 487,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 87,
+          "reach": 349,
+          "likes": 20,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 487,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -15977,6 +16145,18 @@
         },
         "2026-09-07": {
           "age_days": 85,
+          "reach": 158,
+          "likes": 13,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 197,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 86,
           "reach": 158,
           "likes": 13,
           "comments": 2,
@@ -17006,6 +17186,18 @@
           "views": 116,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 85,
+          "reach": 62,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 116,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -18017,6 +18209,18 @@
           "views": 142,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 85,
+          "reach": 121,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 142,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -19009,6 +19213,18 @@
         },
         "2026-09-07": {
           "age_days": 83,
+          "reach": 78,
+          "likes": 15,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 18,
+          "views": 133,
+          "follows": 1,
+          "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 84,
           "reach": 78,
           "likes": 15,
           "comments": 2,
@@ -20019,6 +20235,18 @@
           "views": 121,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 84,
+          "reach": 104,
+          "likes": 6,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 121,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -21001,6 +21229,18 @@
         },
         "2026-09-07": {
           "age_days": 82,
+          "reach": 61,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 101,
+          "follows": 0,
+          "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 83,
           "reach": 61,
           "likes": 5,
           "comments": 2,
@@ -22001,6 +22241,18 @@
           "views": 143,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 83,
+          "reach": 133,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 143,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -22973,6 +23225,18 @@
         },
         "2026-09-07": {
           "age_days": 81,
+          "reach": 76,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 120,
+          "follows": 0,
+          "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 82,
           "reach": 76,
           "likes": 12,
           "comments": 2,
@@ -23963,6 +24227,18 @@
           "views": 112,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 82,
+          "reach": 104,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 112,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -24934,6 +25210,18 @@
           "views": 116,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 81,
+          "reach": 70,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 116,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -24951,7 +25239,7 @@
         "#fantasymap",
         "#cartography"
       ],
-      "reach": 1011,
+      "reach": 1013,
       "likes": 35,
       "saved": 12,
       "shares": 1,
@@ -25887,6 +26175,18 @@
         "2026-09-07": {
           "age_days": 79,
           "reach": 1011,
+          "likes": 35,
+          "comments": 2,
+          "saved": 12,
+          "shares": 1,
+          "total_interactions": 54,
+          "views": 1563,
+          "follows": 2,
+          "profile_visits": 9
+        },
+        "2026-09-08": {
+          "age_days": 80,
+          "reach": 1013,
           "likes": 35,
           "comments": 2,
           "saved": 12,
@@ -26856,6 +27156,18 @@
           "views": 211,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 80,
+          "reach": 180,
+          "likes": 10,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 211,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -27803,6 +28115,18 @@
         },
         "2026-09-07": {
           "age_days": 78,
+          "reach": 52,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 73,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 79,
           "reach": 52,
           "likes": 10,
           "comments": 2,
@@ -28768,6 +29092,18 @@
           "views": 158,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 79,
+          "reach": 140,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 158,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -29705,6 +30041,18 @@
         },
         "2026-09-07": {
           "age_days": 77,
+          "reach": 46,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 78,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 78,
           "reach": 46,
           "likes": 5,
           "comments": 2,
@@ -30660,6 +31008,18 @@
           "views": 149,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 78,
+          "reach": 133,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 149,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -31582,6 +31942,18 @@
         },
         "2026-09-07": {
           "age_days": 76,
+          "reach": 46,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 67,
+          "follows": 0,
+          "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 77,
           "reach": 46,
           "likes": 5,
           "comments": 2,
@@ -32527,6 +32899,18 @@
           "views": 149,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 77,
+          "reach": 145,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 149,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -33439,6 +33823,18 @@
         },
         "2026-09-07": {
           "age_days": 75,
+          "reach": 45,
+          "likes": 3,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 68,
+          "follows": 1,
+          "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 76,
           "reach": 45,
           "likes": 3,
           "comments": 2,
@@ -34374,6 +34770,18 @@
           "views": 138,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 76,
+          "reach": 136,
+          "likes": 2,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 138,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -35276,6 +35684,18 @@
         },
         "2026-09-07": {
           "age_days": 74,
+          "reach": 50,
+          "likes": 3,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 73,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 75,
           "reach": 50,
           "likes": 3,
           "comments": 2,
@@ -36192,6 +36612,18 @@
           "views": 1174,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 74,
+          "reach": 530,
+          "likes": 18,
+          "comments": 2,
+          "saved": 3,
+          "shares": 0,
+          "total_interactions": 24,
+          "views": 1174,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -37098,6 +37530,18 @@
           "views": 74,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 74,
+          "reach": 65,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 74,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -37955,6 +38399,18 @@
         },
         "2026-09-07": {
           "age_days": 69,
+          "reach": 87,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 133,
+          "follows": 0,
+          "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 70,
           "reach": 87,
           "likes": 4,
           "comments": 2,
@@ -38830,6 +39286,18 @@
           "views": 177,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 70,
+          "reach": 162,
+          "likes": 8,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 177,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -39677,6 +40145,18 @@
         },
         "2026-09-07": {
           "age_days": 68,
+          "reach": 77,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 109,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 69,
           "reach": 77,
           "likes": 8,
           "comments": 2,
@@ -40542,6 +41022,18 @@
           "views": 135,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 69,
+          "reach": 130,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 135,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -41374,6 +41866,18 @@
         },
         "2026-09-07": {
           "age_days": 67,
+          "reach": 77,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 110,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 68,
           "reach": 77,
           "likes": 6,
           "comments": 2,
@@ -42229,6 +42733,18 @@
           "views": 100,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 68,
+          "reach": 99,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 100,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -43058,6 +43574,18 @@
           "views": 136,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 67,
+          "reach": 92,
+          "likes": 7,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 136,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
@@ -43866,6 +44394,18 @@
         },
         "2026-09-07": {
           "age_days": 65,
+          "reach": 373,
+          "likes": 11,
+          "comments": 0,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 566,
+          "follows": 1,
+          "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 66,
           "reach": 373,
           "likes": 11,
           "comments": 0,
@@ -44697,6 +45237,18 @@
           "views": 151,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 66,
+          "reach": 139,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 151,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -45494,6 +46046,18 @@
         },
         "2026-09-07": {
           "age_days": 64,
+          "reach": 84,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 113,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 65,
           "reach": 84,
           "likes": 3,
           "comments": 2,
@@ -46309,6 +46873,18 @@
           "views": 106,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 65,
+          "reach": 98,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 106,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -47093,6 +47669,18 @@
         },
         "2026-09-07": {
           "age_days": 63,
+          "reach": 223,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 184,
+          "follows": 1,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 64,
           "reach": 223,
           "likes": 5,
           "comments": 2,
@@ -47896,6 +48484,18 @@
           "views": 161,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 64,
+          "reach": 163,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 161,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -48668,6 +49268,18 @@
         },
         "2026-09-07": {
           "age_days": 62,
+          "reach": 194,
+          "likes": 6,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 205,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 63,
           "reach": 194,
           "likes": 6,
           "comments": 2,
@@ -49459,6 +50071,18 @@
           "views": 186,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 63,
+          "reach": 174,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 186,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -50228,6 +50852,18 @@
           "views": 301,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 62,
+          "reach": 219,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 301,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -50976,6 +51612,18 @@
         },
         "2026-09-07": {
           "age_days": 60,
+          "reach": 256,
+          "likes": 14,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 317,
+          "follows": 0,
+          "profile_visits": 2
+        },
+        "2026-09-08": {
+          "age_days": 61,
           "reach": 256,
           "likes": 14,
           "comments": 2,
@@ -51743,6 +52391,18 @@
           "views": 265,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 61,
+          "reach": 282,
+          "likes": 0,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 2,
+          "views": 265,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -52475,6 +53135,18 @@
         },
         "2026-09-07": {
           "age_days": 59,
+          "reach": 176,
+          "likes": 5,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 252,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 60,
           "reach": 176,
           "likes": 5,
           "comments": 2,
@@ -53234,6 +53906,18 @@
           "views": 269,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 60,
+          "reach": 281,
+          "likes": 9,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 269,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -53958,6 +54642,18 @@
         },
         "2026-09-07": {
           "age_days": 58,
+          "reach": 165,
+          "likes": 7,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 251,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 59,
           "reach": 165,
           "likes": 7,
           "comments": 2,
@@ -54705,6 +55401,18 @@
           "views": 297,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 59,
+          "reach": 301,
+          "likes": 6,
+          "comments": 3,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 297,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -55417,6 +56125,18 @@
         },
         "2026-09-07": {
           "age_days": 57,
+          "reach": 139,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 191,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 58,
           "reach": 139,
           "likes": 8,
           "comments": 2,
@@ -56152,6 +56872,18 @@
           "views": 261,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 58,
+          "reach": 263,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 261,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -56861,6 +57593,18 @@
           "views": 205,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 57,
+          "reach": 117,
+          "likes": 5,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 205,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -57549,6 +58293,18 @@
         },
         "2026-09-07": {
           "age_days": 55,
+          "reach": 67,
+          "likes": 5,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 93,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 56,
           "reach": 67,
           "likes": 5,
           "comments": 2,
@@ -58260,6 +59016,18 @@
           "views": 124,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 56,
+          "reach": 118,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 124,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -58962,6 +59730,18 @@
           "views": 166,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 56,
+          "reach": 163,
+          "likes": 8,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 166,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -59647,6 +60427,18 @@
           "views": 133,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 55,
+          "reach": 74,
+          "likes": 13,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 18,
+          "views": 133,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
@@ -60320,6 +61112,18 @@
           "views": 170,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 54,
+          "reach": 145,
+          "likes": 7,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 170,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -60983,6 +61787,18 @@
           "views": 198,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 53,
+          "reach": 102,
+          "likes": 8,
+          "comments": 5,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 198,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -61623,6 +62439,18 @@
         },
         "2026-09-07": {
           "age_days": 51,
+          "reach": 46,
+          "likes": 7,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 71,
+          "follows": 0,
+          "profile_visits": 2
+        },
+        "2026-09-08": {
+          "age_days": 52,
           "reach": 46,
           "likes": 7,
           "comments": 2,
@@ -62281,6 +63109,18 @@
           "views": 153,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 52,
+          "reach": 126,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 153,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -62909,6 +63749,18 @@
         },
         "2026-09-07": {
           "age_days": 50,
+          "reach": 61,
+          "likes": 6,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 95,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 51,
           "reach": 61,
           "likes": 6,
           "comments": 2,
@@ -63555,6 +64407,18 @@
           "views": 145,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 51,
+          "reach": 128,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 145,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -64171,6 +65035,18 @@
         },
         "2026-09-07": {
           "age_days": 49,
+          "reach": 50,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 77,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 50,
           "reach": 50,
           "likes": 7,
           "comments": 2,
@@ -64805,6 +65681,18 @@
           "views": 158,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 50,
+          "reach": 135,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 158,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -65418,6 +66306,18 @@
           "views": 145,
           "follows": 1,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 49,
+          "reach": 90,
+          "likes": 16,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 145,
+          "follows": 1,
+          "profile_visits": 1
         }
       }
     },
@@ -66010,6 +66910,18 @@
         },
         "2026-09-07": {
           "age_days": 47,
+          "reach": 80,
+          "likes": 13,
+          "comments": 4,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 131,
+          "follows": 1,
+          "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 48,
           "reach": 80,
           "likes": 13,
           "comments": 4,
@@ -66620,6 +67532,18 @@
           "views": 166,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 48,
+          "reach": 149,
+          "likes": 7,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 166,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -67211,6 +68135,18 @@
           "views": 231,
           "follows": 2,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 47,
+          "reach": 115,
+          "likes": 16,
+          "comments": 8,
+          "saved": 4,
+          "shares": 0,
+          "total_interactions": 30,
+          "views": 231,
+          "follows": 2,
+          "profile_visits": 1
         }
       }
     },
@@ -67788,6 +68724,18 @@
           "views": 184,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 46,
+          "reach": 153,
+          "likes": 9,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 184,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -68353,6 +69301,18 @@
           "views": 354,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 45,
+          "reach": 271,
+          "likes": 19,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 23,
+          "views": 354,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -68906,6 +69866,18 @@
           "views": 247,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 44,
+          "reach": 196,
+          "likes": 24,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 29,
+          "views": 247,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -69447,6 +70419,18 @@
           "views": 378,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 43,
+          "reach": 263,
+          "likes": 27,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 33,
+          "views": 378,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -69976,6 +70960,18 @@
           "views": 64,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 42,
+          "reach": 43,
+          "likes": 2,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 64,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -70493,6 +71489,18 @@
           "views": 97,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 42,
+          "reach": 75,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 97,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -71001,6 +72009,18 @@
         },
         "2026-09-07": {
           "age_days": 40,
+          "reach": 92,
+          "likes": 11,
+          "comments": 2,
+          "saved": 0,
+          "shares": 1,
+          "total_interactions": 15,
+          "views": 157,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 41,
           "reach": 92,
           "likes": 11,
           "comments": 2,
@@ -71532,6 +72552,18 @@
           "views": 361,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 41,
+          "reach": 291,
+          "likes": 4,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 361,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -72025,6 +73057,18 @@
           "views": 100,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 40,
+          "reach": 61,
+          "likes": 11,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 100,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -72509,6 +73553,18 @@
         },
         "2026-09-07": {
           "age_days": 38,
+          "reach": 57,
+          "likes": 7,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 94,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 39,
           "reach": 57,
           "likes": 7,
           "comments": 2,
@@ -73016,6 +74072,18 @@
           "views": 206,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 39,
+          "reach": 164,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 206,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -73514,6 +74582,18 @@
           "views": 585,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 39,
+          "reach": 487,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 1,
+          "total_interactions": 9,
+          "views": 585,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -74000,6 +75080,18 @@
           "views": 115,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 38,
+          "reach": 69,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 115,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -74460,6 +75552,18 @@
         },
         "2026-09-07": {
           "age_days": 36,
+          "reach": 64,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 108,
+          "follows": 0,
+          "profile_visits": 2
+        },
+        "2026-09-08": {
+          "age_days": 37,
           "reach": 64,
           "likes": 7,
           "comments": 2,
@@ -74938,6 +76042,18 @@
           "views": 157,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 37,
+          "reach": 132,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 157,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -75395,6 +76511,18 @@
           "views": 86,
           "follows": 1,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 36,
+          "reach": 52,
+          "likes": 8,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 86,
+          "follows": 1,
+          "profile_visits": 0
         }
       }
     },
@@ -75842,6 +76970,18 @@
           "views": 525,
           "follows": 2,
           "profile_visits": 6
+        },
+        "2026-09-08": {
+          "age_days": 35,
+          "reach": 300,
+          "likes": 25,
+          "comments": 2,
+          "saved": 9,
+          "shares": 0,
+          "total_interactions": 37,
+          "views": 525,
+          "follows": 2,
+          "profile_visits": 6
         }
       }
     },
@@ -76266,6 +77406,18 @@
         },
         "2026-09-07": {
           "age_days": 33,
+          "reach": 30,
+          "likes": 4,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 46,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 34,
           "reach": 30,
           "likes": 4,
           "comments": 2,
@@ -76708,6 +77860,18 @@
           "views": 147,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 34,
+          "reach": 129,
+          "likes": 8,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 11,
+          "views": 147,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -77129,6 +78293,18 @@
           "views": 106,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 33,
+          "reach": 77,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 106,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -77151,7 +78327,7 @@
       "saved": 0,
       "shares": 0,
       "comments": 4,
-      "views": 460,
+      "views": 461,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -77538,6 +78714,18 @@
           "views": 460,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 33,
+          "reach": 389,
+          "likes": 8,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 461,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -77555,7 +78743,7 @@
         "#mapmaking",
         "#Toscana"
       ],
-      "reach": 445,
+      "reach": 454,
       "likes": 12,
       "saved": 1,
       "shares": 1,
@@ -77947,6 +79135,18 @@
           "views": 127,
           "follows": 0,
           "profile_visits": 2
+        },
+        "2026-09-08": {
+          "age_days": 32,
+          "reach": 454,
+          "likes": 12,
+          "comments": 2,
+          "saved": 1,
+          "shares": 1,
+          "total_interactions": 17,
+          "views": 127,
+          "follows": 0,
+          "profile_visits": 2
         }
       }
     },
@@ -77964,12 +79164,12 @@
         "#cartografia",
         "#italianhistory"
       ],
-      "reach": 2270,
+      "reach": 2276,
       "likes": 14,
       "saved": 2,
       "shares": 2,
       "comments": 2,
-      "views": 3014,
+      "views": 3020,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -78356,6 +79556,18 @@
           "views": 3014,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 32,
+          "reach": 2276,
+          "likes": 14,
+          "comments": 2,
+          "saved": 2,
+          "shares": 2,
+          "total_interactions": 21,
+          "views": 3020,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -78373,7 +79585,7 @@
         "#italianmap",
         "#mapartist"
       ],
-      "reach": 184,
+      "reach": 185,
       "likes": 5,
       "saved": 0,
       "shares": 0,
@@ -78741,6 +79953,18 @@
           "views": 95,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 31,
+          "reach": 185,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 7,
+          "views": 95,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -78758,7 +79982,7 @@
         "#Toscana",
         "#cartography"
       ],
-      "reach": 389,
+      "reach": 396,
       "likes": 6,
       "saved": 5,
       "shares": 1,
@@ -79126,6 +80350,18 @@
           "views": 108,
           "follows": 1,
           "profile_visits": 4
+        },
+        "2026-09-08": {
+          "age_days": 30,
+          "reach": 396,
+          "likes": 6,
+          "comments": 2,
+          "saved": 5,
+          "shares": 1,
+          "total_interactions": 15,
+          "views": 108,
+          "follows": 1,
+          "profile_visits": 4
         }
       }
     },
@@ -79143,12 +80379,12 @@
         "#Maremma",
         "#cartografia"
       ],
-      "reach": 326,
+      "reach": 327,
       "likes": 2,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 389,
+      "views": 390,
       "follows": null,
       "profile_visits": null,
       "history": {
@@ -79509,6 +80745,18 @@
           "shares": 0,
           "total_interactions": 5,
           "views": 389,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 30,
+          "reach": 327,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 390,
           "follows": null,
           "profile_visits": null
         }
@@ -79884,6 +81132,18 @@
           "views": 105,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 29,
+          "reach": 61,
+          "likes": 3,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 6,
+          "views": 105,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -80236,6 +81496,18 @@
         },
         "2026-09-07": {
           "age_days": 28,
+          "reach": 140,
+          "likes": 4,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 5,
+          "views": 170,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 29,
           "reach": 140,
           "likes": 4,
           "comments": 0,
@@ -80656,6 +81928,18 @@
           "views": 113,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 26,
+          "reach": 66,
+          "likes": 12,
+          "comments": 4,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 17,
+          "views": 113,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -80993,6 +82277,18 @@
           "views": 184,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 26,
+          "reach": 154,
+          "likes": 11,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 184,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -81309,6 +82605,18 @@
         },
         "2026-09-07": {
           "age_days": 25,
+          "reach": 64,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 112,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 26,
           "reach": 64,
           "likes": 9,
           "comments": 2,
@@ -81643,6 +82951,18 @@
           "views": 154,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 25,
+          "reach": 132,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 154,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -81968,6 +83288,18 @@
           "views": 59,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 25,
+          "reach": 36,
+          "likes": 7,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 59,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -82272,6 +83604,18 @@
         },
         "2026-09-07": {
           "age_days": 24,
+          "reach": 135,
+          "likes": 8,
+          "comments": 2,
+          "saved": 2,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 161,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 25,
           "reach": 135,
           "likes": 8,
           "comments": 2,
@@ -82594,6 +83938,18 @@
           "views": 82,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 24,
+          "reach": 53,
+          "likes": 9,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 82,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -82907,6 +84263,18 @@
           "views": 152,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 24,
+          "reach": 130,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 152,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -83199,6 +84567,18 @@
         },
         "2026-09-07": {
           "age_days": 23,
+          "reach": 118,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 210,
+          "follows": 0,
+          "profile_visits": 3
+        },
+        "2026-09-08": {
+          "age_days": 24,
           "reach": 118,
           "likes": 10,
           "comments": 2,
@@ -83509,6 +84889,18 @@
           "views": 105,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 23,
+          "reach": 58,
+          "likes": 8,
+          "comments": 0,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 9,
+          "views": 105,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -83801,6 +85193,18 @@
         },
         "2026-09-07": {
           "age_days": 22,
+          "reach": 90,
+          "likes": 2,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 4,
+          "views": 99,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 23,
           "reach": 90,
           "likes": 2,
           "comments": 2,
@@ -84111,6 +85515,18 @@
           "views": 176,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 23,
+          "reach": 142,
+          "likes": 6,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 176,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -84400,6 +85816,18 @@
           "views": 91,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 22,
+          "reach": 60,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 91,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -84679,6 +86107,18 @@
           "views": 163,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 21,
+          "reach": 66,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 163,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -84935,6 +86375,18 @@
         },
         "2026-09-07": {
           "age_days": 19,
+          "reach": 42,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 73,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 20,
           "reach": 42,
           "likes": 6,
           "comments": 2,
@@ -85209,6 +86661,18 @@
           "views": 179,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 20,
+          "reach": 153,
+          "likes": 11,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 13,
+          "views": 179,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -85462,6 +86926,18 @@
           "views": 87,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 19,
+          "reach": 51,
+          "likes": 6,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 87,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -85694,6 +87170,18 @@
         },
         "2026-09-07": {
           "age_days": 18,
+          "reach": 138,
+          "likes": 5,
+          "comments": 2,
+          "saved": 0,
+          "shares": 1,
+          "total_interactions": 8,
+          "views": 170,
+          "follows": null,
+          "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 19,
           "reach": 138,
           "likes": 5,
           "comments": 2,
@@ -85944,6 +87432,18 @@
           "views": 108,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 18,
+          "reach": 60,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 108,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -86185,6 +87685,18 @@
           "views": 179,
           "follows": null,
           "profile_visits": null
+        },
+        "2026-09-08": {
+          "age_days": 18,
+          "reach": 152,
+          "likes": 9,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 12,
+          "views": 179,
+          "follows": null,
+          "profile_visits": null
         }
       }
     },
@@ -86402,6 +87914,18 @@
           "views": 109,
           "follows": 0,
           "profile_visits": 1
+        },
+        "2026-09-08": {
+          "age_days": 17,
+          "reach": 60,
+          "likes": 12,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 15,
+          "views": 109,
+          "follows": 0,
+          "profile_visits": 1
         }
       }
     },
@@ -86424,7 +87948,7 @@
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 155,
+      "views": 156,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -86617,6 +88141,18 @@
           "shares": 0,
           "total_interactions": 19,
           "views": 155,
+          "follows": 0,
+          "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 16,
+          "reach": 67,
+          "likes": 15,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 19,
+          "views": 156,
           "follows": 0,
           "profile_visits": 0
         }
@@ -86812,6 +88348,18 @@
           "views": 100,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 14,
+          "reach": 78,
+          "likes": 10,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 14,
+          "views": 100,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -86829,12 +88377,12 @@
         "#dndmaps",
         "#mapmaking"
       ],
-      "reach": 74,
-      "likes": 17,
+      "reach": 75,
+      "likes": 18,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 149,
+      "views": 150,
       "follows": 2,
       "profile_visits": 0,
       "history": {
@@ -86981,6 +88529,18 @@
           "views": 149,
           "follows": 2,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 12,
+          "reach": 75,
+          "likes": 18,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 21,
+          "views": 150,
+          "follows": 2,
+          "profile_visits": 0
         }
       }
     },
@@ -87003,7 +88563,7 @@
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 93,
+      "views": 95,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -87138,6 +88698,18 @@
           "views": 93,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 11,
+          "reach": 45,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 95,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -87155,12 +88727,12 @@
         "#fantasycartography",
         "#mapillustration"
       ],
-      "reach": 74,
+      "reach": 76,
       "likes": 22,
       "saved": 1,
       "shares": 0,
       "comments": 2,
-      "views": 145,
+      "views": 146,
       "follows": 1,
       "profile_visits": 3,
       "history": {
@@ -87281,6 +88853,18 @@
           "shares": 0,
           "total_interactions": 26,
           "views": 145,
+          "follows": 1,
+          "profile_visits": 3
+        },
+        "2026-09-08": {
+          "age_days": 10,
+          "reach": 76,
+          "likes": 22,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 26,
+          "views": 146,
           "follows": 1,
           "profile_visits": 3
         }
@@ -87416,6 +89000,18 @@
           "views": 498,
           "follows": 3,
           "profile_visits": 3
+        },
+        "2026-09-08": {
+          "age_days": 9,
+          "reach": 280,
+          "likes": 33,
+          "comments": 10,
+          "saved": 4,
+          "shares": 5,
+          "total_interactions": 54,
+          "views": 498,
+          "follows": 3,
+          "profile_visits": 3
         }
       }
     },
@@ -87433,12 +89029,12 @@
         "#fantasycartography",
         "#ttrpg"
       ],
-      "reach": 62,
-      "likes": 17,
+      "reach": 64,
+      "likes": 18,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 121,
+      "views": 126,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -87537,6 +89133,18 @@
           "views": 121,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 8,
+          "reach": 64,
+          "likes": 18,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 21,
+          "views": 126,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -87559,12 +89167,12 @@
         "#1848",
         "#antiquemap"
       ],
-      "reach": 49,
+      "reach": 51,
       "likes": 7,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 89,
+      "views": 93,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -87651,6 +89259,18 @@
           "views": 89,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 7,
+          "reach": 51,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 93,
+          "follows": 0,
+          "profile_visits": 0
         }
       }
     },
@@ -87670,12 +89290,12 @@
         "#mapmaking",
         "#mountainillustration"
       ],
-      "reach": 45,
+      "reach": 46,
       "likes": 7,
       "saved": 0,
       "shares": 0,
       "comments": 2,
-      "views": 102,
+      "views": 105,
       "follows": 0,
       "profile_visits": 0,
       "history": {
@@ -87750,6 +89370,98 @@
           "views": 102,
           "follows": 0,
           "profile_visits": 0
+        },
+        "2026-09-08": {
+          "age_days": 6,
+          "reach": 46,
+          "likes": 7,
+          "comments": 2,
+          "saved": 0,
+          "shares": 0,
+          "total_interactions": 10,
+          "views": 105,
+          "follows": 0,
+          "profile_visits": 0
+        }
+      }
+    },
+    {
+      "media_id": "18166438930463638",
+      "boosted": false,
+      "title": "La catena montuosa — barriera naturale del mondo",
+      "source_image": "tg1875",
+      "is_overview": false,
+      "published_at": "2026-09-08",
+      "hashtags": [
+        "#fantasymap",
+        "#dndmaps",
+        "#mapmaking",
+        "#cartography",
+        "#worldbuilding",
+        "#ttrpg",
+        "#dungeonmaster",
+        "#homebrewdnd"
+      ],
+      "reach": 45,
+      "likes": 12,
+      "saved": 1,
+      "shares": 0,
+      "comments": 2,
+      "views": 88,
+      "follows": 0,
+      "profile_visits": 1,
+      "history": {
+        "2026-09-08": {
+          "age_days": 0,
+          "reach": 45,
+          "likes": 12,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 16,
+          "views": 88,
+          "follows": 0,
+          "profile_visits": 1
+        }
+      }
+    },
+    {
+      "media_id": "18115027934055327",
+      "boosted": false,
+      "title": "La catena montuosa — barriera naturale del mondo",
+      "source_image": "tg1875",
+      "is_overview": false,
+      "published_at": "2026-09-08",
+      "hashtags": [
+        "#fantasymap",
+        "#dndmaps",
+        "#mapmaking",
+        "#cartography",
+        "#worldbuilding",
+        "#ttrpg",
+        "#dungeonmaster",
+        "#homebrewdnd"
+      ],
+      "reach": 19,
+      "likes": 4,
+      "saved": 1,
+      "shares": 0,
+      "comments": 2,
+      "views": 23,
+      "follows": null,
+      "profile_visits": null,
+      "history": {
+        "2026-09-08": {
+          "age_days": 0,
+          "reach": 19,
+          "likes": 4,
+          "comments": 2,
+          "saved": 1,
+          "shares": 0,
+          "total_interactions": 8,
+          "views": 23,
+          "follows": null,
+          "profile_visits": null
         }
       }
     }
@@ -88716,7 +90428,7 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 1011,
+            "reach": 1013,
             "likes": 35,
             "saved": 12,
             "shares": 1,
@@ -91503,7 +93215,7 @@
             "likes": 8,
             "saved": 0,
             "shares": 0,
-            "views": 460
+            "views": 461
           }
         },
         {
@@ -91534,7 +93246,7 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 445,
+            "reach": 454,
             "likes": 12,
             "saved": 1,
             "shares": 1,
@@ -91569,11 +93281,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 2270,
+            "reach": 2276,
             "likes": 14,
             "saved": 2,
             "shares": 2,
-            "views": 3014
+            "views": 3020
           }
         },
         {
@@ -91604,7 +93316,7 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 184,
+            "reach": 185,
             "likes": 5,
             "saved": 0,
             "shares": 0,
@@ -91639,7 +93351,7 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 389,
+            "reach": 396,
             "likes": 6,
             "saved": 5,
             "shares": 1,
@@ -91674,11 +93386,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 326,
+            "reach": 327,
             "likes": 2,
             "saved": 0,
             "shares": 0,
-            "views": 389
+            "views": 390
           }
         }
       ]
@@ -92673,7 +94385,7 @@
             "likes": 15,
             "saved": 0,
             "shares": 0,
-            "views": 155
+            "views": 156
           }
         }
       ]
@@ -92778,11 +94490,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 74,
-            "likes": 17,
+            "reach": 75,
+            "likes": 18,
             "saved": 0,
             "shares": 0,
-            "views": 149
+            "views": 150
           }
         }
       ]
@@ -92822,7 +94534,7 @@
             "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 93
+            "views": 95
           }
         }
       ]
@@ -92858,11 +94570,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 74,
+            "reach": 76,
             "likes": 22,
             "saved": 1,
             "shares": 0,
-            "views": 145
+            "views": 146
           }
         }
       ]
@@ -92938,11 +94650,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 62,
-            "likes": 17,
+            "reach": 64,
+            "likes": 18,
             "saved": 0,
             "shares": 0,
-            "views": 121
+            "views": 126
           }
         }
       ]
@@ -92983,11 +94695,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 49,
+            "reach": 51,
             "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 89
+            "views": 93
           }
         }
       ]
@@ -93025,11 +94737,11 @@
             "replies_to_my_comment": 0
           },
           "metrics": {
-            "reach": 45,
+            "reach": 46,
             "likes": 7,
             "saved": 0,
             "shares": 0,
-            "views": 102
+            "views": 105
           }
         }
       ]
@@ -93039,7 +94751,7 @@
       "posts": [
         {
           "title": "La catena montuosa — barriera naturale del mondo",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-09-08",
           "scheduled_time": "07:00",
           "is_overview": false,
@@ -93056,17 +94768,28 @@
             "#dungeonmaster",
             "#homebrewdnd"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18166438930463638",
+          "published_at": "2026-09-08",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 45,
+            "likes": 12,
+            "saved": 1,
+            "shares": 0,
+            "views": 88
+          }
         },
         {
           "title": "La catena montuosa — barriera naturale del mondo",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-09-08",
           "scheduled_time": "17:00",
           "is_overview": false,
@@ -93083,13 +94806,24 @@
             "#dungeonmaster",
             "#homebrewdnd"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
-          "comments": null,
-          "metrics": null
+          "media_id": "18115027934055327",
+          "published_at": "2026-09-08",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
+          "comments": {
+            "received": 0,
+            "replied": 0,
+            "unanswered": 0,
+            "replies_to_my_comment": 0
+          },
+          "metrics": {
+            "reach": 19,
+            "likes": 4,
+            "saved": 1,
+            "shares": 0,
+            "views": 23
+          }
         },
         {
           "title": "Rosa dei venti — il dettaglio cartografico",
@@ -93265,8 +94999,8 @@
     "#worldbuilding": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "130K post, community creativa attiva",
-      "updated": "2026-09-07"
+      "note": "131K post, trend creativo in crescita",
+      "updated": "2026-09-08"
     },
     "#cittafantasy": {
       "tier": "nicchia",
@@ -93589,8 +95323,8 @@
     "#fantasycartography": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "10-15K post, nicchia in espansione",
-      "updated": "2026-09-07"
+      "note": "~7.6K post, nicchia in espansione",
+      "updated": "2026-09-08"
     },
     "#got": {
       "tier": "medio",
@@ -93846,129 +95580,129 @@
     },
     "#fairytaleart": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "estetica fiaba in ascesa",
-      "updated": "2026-09-01"
+      "trend": "stabile",
+      "note": "arte di nicchia, comunità attiva piccola",
+      "updated": "2026-09-08"
     },
     "#mountains": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "decine di milioni, visibilità nulla",
-      "updated": "2026-09-01"
+      "note": "847M post, reach minimo",
+      "updated": "2026-09-08"
     },
     "#phoenix": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "generico, pubblico molto eterogeneo",
-      "updated": "2026-09-01"
+      "note": "9M post, difficoltà alta",
+      "updated": "2026-09-08"
     },
     "#heraldry": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "trend medievale rinascente 2026",
-      "updated": "2026-09-01"
+      "note": "comunità storica e fantasy in espansione",
+      "updated": "2026-09-08"
     },
     "#dndcity": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "D&D urban art in crescita",
-      "updated": "2026-09-01"
+      "trend": "stabile",
+      "note": "tag ristretto nella nicchia DnD",
+      "updated": "2026-09-08"
     },
     "#sigil": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "occultismo e fantasy sovrapposti",
-      "updated": "2026-09-01"
+      "note": "ambiguo, uso gaming e fantasy",
+      "updated": "2026-09-08"
     },
     "#dungeonmaster": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "D&D mainstream, pubblico solido",
-      "updated": "2026-09-01"
+      "note": "~468K post, DnD stabile",
+      "updated": "2026-09-08"
     },
     "#dndlore": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "lore fan D&D crescono",
-      "updated": "2026-09-01"
+      "trend": "stabile",
+      "note": "lore DnD, pubblico ristretto fedele",
+      "updated": "2026-09-08"
     },
     "#archipelago": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "geografico e ludico, nicchia",
-      "updated": "2026-09-01"
+      "note": "geografico e fantasy, volumi bassi",
+      "updated": "2026-09-08"
     },
     "#dndart": {
       "tier": "medio",
-      "trend": "in crescita",
-      "note": "165k post, in espansione",
-      "updated": "2026-09-01"
+      "trend": "stabile",
+      "note": "165K post, comunità DnD consolidata",
+      "updated": "2026-09-08"
     },
     "#calligraphy": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "17M post, difficile emergere",
-      "updated": "2026-09-01"
+      "note": "17M post, alta concorrenza",
+      "updated": "2026-09-08"
     },
     "#lettering": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "19M post, saturato",
-      "updated": "2026-09-01"
+      "note": "19M post, mercato saturo",
+      "updated": "2026-09-08"
     },
     "#mappaillustrata": {
       "tier": "nicchia",
-      "trend": "stabile",
-      "note": "italiano, pochissimi post",
-      "updated": "2026-09-01"
+      "trend": "in crescita",
+      "note": "tag italiano emergente, pochi post",
+      "updated": "2026-09-08"
     },
     "#medievalart": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "medievale trendy nel 2026",
-      "updated": "2026-09-01"
+      "note": "storia e fantasy, crescita costante",
+      "updated": "2026-09-08"
     },
     "#handlettering": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "11M post, saturato",
-      "updated": "2026-09-01"
+      "note": "10M post, molto competitivo",
+      "updated": "2026-09-08"
     },
     "#alpicarniche": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "locale Friuli, pochissimi post",
-      "updated": "2026-09-01"
+      "note": "tag locale italiano, bassissimo volume",
+      "updated": "2026-09-08"
     },
     "#castelli": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "turismo e storia italiana",
-      "updated": "2026-09-01"
+      "note": "italiano, turismo medievale locale",
+      "updated": "2026-09-08"
     },
     "#medioevo": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "storico italiano, costante",
-      "updated": "2026-09-01"
+      "note": "italiano, cultura medievale di nicchia",
+      "updated": "2026-09-08"
     },
     "#coatofarms": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "heraldry trend traina traffico",
-      "updated": "2026-09-01"
+      "note": "araldica e fantasy in espansione",
+      "updated": "2026-09-08"
     },
     "#friuli": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "geografico regionale, costante",
-      "updated": "2026-09-01"
+      "note": "regione italiana, volume locale basso",
+      "updated": "2026-09-08"
     },
     "#illustratedmap": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "cartografia artistica in crescita",
-      "updated": "2026-09-01"
+      "note": "cartografia illustrata, nicchia fertile",
+      "updated": "2026-09-08"
     },
     "#historicalmap": {
       "tier": "nicchia",
@@ -93979,104 +95713,104 @@
     "#skyrim": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "1.8M post, fandom storico consolidato",
-      "updated": "2026-09-07"
+      "note": "1.83M post, fandom longevo",
+      "updated": "2026-09-08"
     },
     "#dragonborn": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "Skyrim e D&D, doppio target",
-      "updated": "2026-09-01"
+      "note": "260K post, TES e fantasy",
+      "updated": "2026-09-08"
     },
     "#elderscrolls": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "500K post, community gaming fedele",
-      "updated": "2026-09-07"
+      "note": "fandom TES attivo e fedele",
+      "updated": "2026-09-08"
     },
     "#fusrodah": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "meme Skyrim, audience di culto",
-      "updated": "2026-09-01"
+      "note": "meme Skyrim, volumi molto bassi",
+      "updated": "2026-09-08"
     },
     "#tes5": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "tecnico, pochissimi post",
-      "updated": "2026-09-01"
+      "note": "tag tecnico, volume minimo",
+      "updated": "2026-09-08"
     },
     "#inkart": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "inchiostro artistico di tendenza",
-      "updated": "2026-09-01"
+      "note": "arte a inchiostro, comunità creativa attiva",
+      "updated": "2026-09-08"
     },
     "#gamingart": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "arte gaming cresce su IG",
-      "updated": "2026-09-01"
+      "note": "arte gaming, segmento in espansione",
+      "updated": "2026-09-08"
     },
     "#nords": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "esclusivo fan Skyrim",
-      "updated": "2026-09-01"
+      "note": "fandom TES molto ristretto",
+      "updated": "2026-09-08"
     },
     "#emblem": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "vasto ma generico",
-      "updated": "2026-09-01"
+      "note": "araldica e design, uso vasto",
+      "updated": "2026-09-08"
     },
     "#markarth": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "città Skyrim, super nicchia",
-      "updated": "2026-09-01"
+      "note": "città Skyrim, volume minimo",
+      "updated": "2026-09-08"
     },
     "#thereach": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Hold Skyrim, pochissimi post",
-      "updated": "2026-09-01"
+      "note": "hold Skyrim, volume bassissimo",
+      "updated": "2026-09-08"
     },
     "#falkreath": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Hold Skyrim, pochissimi post",
-      "updated": "2026-09-01"
+      "note": "hold Skyrim, volume bassissimo",
+      "updated": "2026-09-08"
     },
     "#stag": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "natura e fantasy sovrapposti",
-      "updated": "2026-09-01"
+      "note": "fauna e simbolismo, medio-basso",
+      "updated": "2026-09-08"
     },
     "#tabletoprpg": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "298k post, in espansione",
-      "updated": "2026-09-01"
+      "note": "436K post, TTRPG in espansione",
+      "updated": "2026-09-08"
     },
     "#whiterun": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "fan art Skyrim, dedicato",
-      "updated": "2026-09-01"
+      "note": "città Skyrim iconica, volumi bassi",
+      "updated": "2026-09-08"
     },
     "#riften": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "città Skyrim, fan dedicati",
-      "updated": "2026-09-01"
+      "note": "città Skyrim, volume molto basso",
+      "updated": "2026-09-08"
     },
     "#therift": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "Hold Skyrim, pochi post",
-      "updated": "2026-09-01"
+      "note": "hold Skyrim, uso ambiguo",
+      "updated": "2026-09-08"
     },
     "#skyrimmap": {
       "tier": "nicchia",
@@ -94129,8 +95863,8 @@
     "#tamriel": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "100K post, lore-specific efficace",
-      "updated": "2026-09-07"
+      "note": "~98K post, nicchia TES dedicata",
+      "updated": "2026-09-08"
     },
     "#Friuli": {
       "tier": "medio",
@@ -94165,8 +95899,8 @@
     "#illustrationtips": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "educational molto richiesto ora",
-      "updated": "2026-09-01"
+      "note": "contenuto educativo illustrazione, crescente",
+      "updated": "2026-09-08"
     },
     "#apollo": {
       "tier": "medio",
@@ -94261,8 +95995,8 @@
     "#risorgimento": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "storico italiano, audience accademica",
-      "updated": "2026-09-01"
+      "note": "storico italiano, volume bassissimo",
+      "updated": "2026-09-08"
     },
     "#italia1848": {
       "tier": "nicchia",
@@ -94291,8 +96025,8 @@
     "#antiquemap": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "mappe antiche tornano di moda",
-      "updated": "2026-09-01"
+      "note": "mappe antiche, nicchia collezionistica viva",
+      "updated": "2026-09-08"
     },
     "#storiaitalia": {
       "tier": "nicchia",
@@ -94868,66 +96602,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-08-31T07:02:14",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «La serie completa»"
-    },
-    {
-      "ts": "2026-08-31T07:30:30",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «La serie completa»"
-    },
-    {
-      "ts": "2026-08-31T08:34:20",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 Lettore commenti aggiornato: da ora vedo anche i commenti degli ALTRI.\nArretrati trovati e NON notificati uno per uno: 2 su 1 post (Skyrim — la serie completa)."
-    },
-    {
-      "ts": "2026-09-01T17:01:14",
-      "severity": "info",
-      "source": "publish",
-      "message": "🖼️ Carosello pubblicato: «Italia 1848 — la serie completa» (anche su FB) + Storia di richiamo",
-      "extra": {
-        "media_id": "17961796821009722"
-      }
-    },
-    {
-      "ts": "2026-09-01T17:01:50",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Italia 1848 — la serie completa»"
-    },
-    {
-      "ts": "2026-09-01T17:30:39",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Italia 1848 — la serie completa»"
-    },
-    {
-      "ts": "2026-09-02T06:03:46",
-      "severity": "info",
-      "source": "competitors",
-      "message": "🔎 Competitor (dati reali): 35 account letti · formato top: REELS · ~0.6 post/sett. Il dato più azionabile è il gap 5× tra Reel e gli altri formati: ogni immagine forte dovrebbe uscire anche come video co — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
-    },
-    {
-      "ts": "2026-09-02T07:01:45",
-      "severity": "info",
-      "source": "publish",
-      "message": "🖼️ Carosello pubblicato: «Montagne a profilo o dall'alto: quale scegliere e come» (anche su FB) + Storia di richiamo",
-      "extra": {
-        "media_id": "18083709362291919"
-      }
-    },
-    {
-      "ts": "2026-09-02T07:02:56",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Montagne a profilo o dall'alto: quale scegliere e come»"
-    },
-    {
       "ts": "2026-09-02T07:30:35",
       "severity": "info",
       "source": "comments",
@@ -94962,6 +96636,71 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-09-08T07:00:31",
+      "severity": "warning",
+      "source": "publish",
+      "message": "⏳ Pubblicazione rimandata (servizio esterno non disponibile): «La catena montuosa — barriera naturale del mondo».\nResta in coda e riparte da sola appena il servizio torna — non devi fare nulla.\nMotivo: hosting pubblico del media non disponibile dopo 3 tentativi (litterbox): <!doctype html><html lang=\"en\"><meta charset=\"UTF-8\"><meta content=\"nofollow,noarchive,noindex\" name=\"robots\"><title>500 | Internal Server Error</title><meta content=\"width=device-width,initial-scale=. È un intoppo transitorio dell'host gratuito — di norma si risolve al giro successivo.",
+      "extra": {
+        "post_id": "tg1875::2::2026-09-08",
+        "error": "hosting pubblico del media non disponibile dopo 3 tentativi (litterbox): <!doctype html><html lang=\"en\"><meta charset=\"UTF-8\"><meta content=\"nofollow,noarchive,noindex\" name=\"robots\"><title>500 | Internal Server Error</title><meta content=\"width=device-width,initial-scale=. È un intoppo transitorio dell'host gratuito — di norma si risolve al giro successivo."
+      }
+    },
+    {
+      "ts": "2026-09-08T08:00:20",
+      "severity": "info",
+      "source": "publish",
+      "message": "✅ Recuperato dopo 2 intoppi — 📷 Post pubblicato: «La catena montuosa — barriera naturale del mondo»",
+      "extra": {
+        "media_id": "18166438930463638"
+      }
+    },
+    {
+      "ts": "2026-09-08T08:00:24",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «La catena montuosa — barriera naturale del mondo»"
+    },
+    {
+      "ts": "2026-09-08T08:00:37",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «La catena montuosa — barriera naturale del mondo»"
+    },
+    {
+      "ts": "2026-09-08T08:31:02",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «La catena montuosa — barriera naturale del mondo» (anche su FB)"
+    },
+    {
+      "ts": "2026-09-08T17:01:16",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «La catena montuosa — barriera naturale del mondo» · copertina ✅",
+      "extra": {
+        "media_id": "18115027934055327",
+        "cover": true
+      }
+    },
+    {
+      "ts": "2026-09-08T17:01:21",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «La catena montuosa — barriera naturale del mondo»"
+    },
+    {
+      "ts": "2026-09-08T17:01:32",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «La catena montuosa — barriera naturale del mondo»"
+    },
+    {
+      "ts": "2026-09-08T17:30:49",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «La catena montuosa — barriera naturale del mondo» (anche su FB)"
     }
   ],
   "ideas": {
@@ -95341,13 +97080,13 @@
     "generated_at": "2026-09-04T15:35"
   },
   "boost": {
-    "generated_at": "2026-09-07T20:05",
+    "generated_at": "2026-09-08T20:05",
     "suggestion": {
       "media_id": "18194845888376276",
       "title": "Skyrim — la serie completa",
       "kind": "carousel",
       "published_at": "2026-08-30",
-      "age_days": 8,
+      "age_days": 9,
       "confidence": "alta",
       "objective": "Visite al profilo (proxy crescita follower)",
       "budget_eur_day": 5,
@@ -95372,15 +97111,15 @@
         ]
       },
       "why": [
-        "reach 280 = 4.37× la tua media recente (64)",
+        "reach 280 = 4.24× la tua media recente (66)",
         "498 views",
         "4 salvataggi, 5 condivisioni (ottimo segnale per l'algoritmo)",
         "reach pari al 29% dei tuoi follower"
       ]
     },
-    "considered": 18,
+    "considered": 17,
     "baseline": {
-      "reach_median": 64.0
+      "reach_median": 66
     },
     "last_notified": "18194845888376276"
   },
@@ -98871,11 +100610,11 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 975,
-    "followers_end": 978,
-    "followers_gained": 3,
-    "from": "2026-08-31",
-    "to": "2026-09-07",
+    "followers_start": 976,
+    "followers_end": 977,
+    "followers_gained": 1,
+    "from": "2026-09-01",
+    "to": "2026-09-08",
     "top_posts": [
       {
         "title": "Skyrim — la serie completa",
