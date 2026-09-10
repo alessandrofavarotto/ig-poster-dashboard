@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09",
+  "generated_at": "2026-09-10",
   "insights_updated": "2026-09-09",
   "best_times": {
     "times": [
@@ -96555,7 +96555,7 @@
         },
         {
           "title": "Rosa dei venti — il dettaglio cartografico",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-09-09",
           "scheduled_time": "21:00",
           "is_overview": false,
@@ -96572,11 +96572,11 @@
             "#ttrpg",
             "#mapmaking"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
+          "media_id": "18125643454790279",
+          "published_at": "2026-09-09",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -98300,37 +98300,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-09-08T07:00:31",
-      "severity": "warning",
-      "source": "publish",
-      "message": "⏳ Pubblicazione rimandata (servizio esterno non disponibile): «La catena montuosa — barriera naturale del mondo».\nResta in coda e riparte da sola appena il servizio torna — non devi fare nulla.\nMotivo: hosting pubblico del media non disponibile dopo 3 tentativi (litterbox): <!doctype html><html lang=\"en\"><meta charset=\"UTF-8\"><meta content=\"nofollow,noarchive,noindex\" name=\"robots\"><title>500 | Internal Server Error</title><meta content=\"width=device-width,initial-scale=. È un intoppo transitorio dell'host gratuito — di norma si risolve al giro successivo.",
-      "extra": {
-        "post_id": "tg1875::2::2026-09-08",
-        "error": "hosting pubblico del media non disponibile dopo 3 tentativi (litterbox): <!doctype html><html lang=\"en\"><meta charset=\"UTF-8\"><meta content=\"nofollow,noarchive,noindex\" name=\"robots\"><title>500 | Internal Server Error</title><meta content=\"width=device-width,initial-scale=. È un intoppo transitorio dell'host gratuito — di norma si risolve al giro successivo."
-      }
-    },
-    {
-      "ts": "2026-09-08T08:00:20",
-      "severity": "info",
-      "source": "publish",
-      "message": "✅ Recuperato dopo 2 intoppi — 📷 Post pubblicato: «La catena montuosa — barriera naturale del mondo»",
-      "extra": {
-        "media_id": "18166438930463638"
-      }
-    },
-    {
-      "ts": "2026-09-08T08:00:24",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «La catena montuosa — barriera naturale del mondo»"
-    },
-    {
-      "ts": "2026-09-08T08:00:37",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «La catena montuosa — barriera naturale del mondo»"
-    },
-    {
       "ts": "2026-09-08T08:31:02",
       "severity": "info",
       "source": "comments",
@@ -98399,6 +98368,34 @@
     },
     {
       "ts": "2026-09-09T17:30:53",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Rosa dei venti — il dettaglio cartografico» (anche su FB)"
+    },
+    {
+      "ts": "2026-09-09T21:01:12",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Rosa dei venti — il dettaglio cartografico» · copertina ✅",
+      "extra": {
+        "media_id": "18125643454790279",
+        "cover": true
+      }
+    },
+    {
+      "ts": "2026-09-09T21:01:18",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Rosa dei venti — il dettaglio cartografico»"
+    },
+    {
+      "ts": "2026-09-09T21:01:26",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Rosa dei venti — il dettaglio cartografico»"
+    },
+    {
+      "ts": "2026-09-09T21:30:44",
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Rosa dei venti — il dettaglio cartografico» (anche su FB)"
@@ -98778,7 +98775,7 @@
         "status": "open"
       }
     ],
-    "generated_at": "2026-09-04T15:35"
+    "generated_at": "2026-09-10T06:00"
   },
   "boost": {
     "generated_at": "2026-09-09T20:05",
@@ -102628,10 +102625,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 978,
+    "followers_start": 977,
     "followers_end": 978,
-    "followers_gained": 0,
-    "from": "2026-09-02",
+    "followers_gained": 1,
+    "from": "2026-09-03",
     "to": "2026-09-09",
     "top_posts": [
       {
