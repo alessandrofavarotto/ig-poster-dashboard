@@ -1,5 +1,7 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-09-14
+
 ## 2026-09-07
 07:00 esce dal pareggio con 17:00 e diventa chiaramente il primo slot per immagini/caroselli (0.44, n=27 vs 0.23, n=13 — il pareggio era un artefatto del campione più piccolo). Il carosello si consolida come formato a conversione più alta (0.71, n=14 — quasi 5× le immagini 0.14 n=50), con il recap 'Skyrim' che stabilisce il record assoluto di condivisioni del dataset (5 shares). Su Threads emerge la distinzione netta tra recap narrativi di serie (unici da crosspostare: mediana 77) e caroselli tematici/editoriali (inutili: mediana 10). L'orario 09:00 per le immagini non è più a zero (0.12, n=8): segnale negativo attenuato, da trattare come slot esplorativo.
 - ## Orari: 07:00 aggiornato a 0.44 (n=27), primo netto non più in pareggio; 17:00 scende a 0.23 (n=13), secondo; 09:00 da 0.0 (n=7) a 0.12 (n=8), ora terzo slot esplorativo per immagini; best_times invariato

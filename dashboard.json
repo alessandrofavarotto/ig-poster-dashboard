@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13",
+  "generated_at": "2026-09-14",
   "insights_updated": "2026-09-13",
   "best_times": {
     "times": [
@@ -8,7 +8,7 @@
       "09:00",
       "21:00"
     ],
-    "updated": "2026-09-07"
+    "updated": "2026-09-14"
   },
   "account": [
     {
@@ -105483,18 +105483,24 @@
         "## Threads: mediana recente aggiornata a 67.5 (era 46.0), rapporto ~60%; voce generica 'carosello migliore' sostituita con due lezioni più precise (solo recap narrativi; Threads co-primario per questo formato)",
         "## Cosa evitare: 09:00 per immagini non più 'da evitare' — segnale negativo attenuato, trattare come slot esplorativo valido"
       ]
+    },
+    {
+      "date": "2026-09-14",
+      "ts": "2026-09-14T05:17",
+      "enough_evidence": true,
+      "posts_measured": 123,
+      "strategy_updated": false,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "09:00",
+        "21:00"
+      ],
+      "summary": null,
+      "changes": []
     }
   ],
   "alerts": [
-    {
-      "ts": "2026-09-11T21:02:00",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «La mappa intera — il mondo della campagna»",
-      "extra": {
-        "media_id": "18054276116571145"
-      }
-    },
     {
       "ts": "2026-09-11T21:02:05",
       "severity": "info",
@@ -105600,6 +105606,12 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-09-14T05:17:57",
+      "severity": "warning",
+      "source": "job:learn",
+      "message": "⚠️ learn: lezioni disponibili ma NESSUNA sezione del playbook aggiornata (piattaforme con evidenze: instagram, threads). Strategia invariata."
     }
   ],
   "ideas": {
@@ -109828,10 +109840,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 979,
+    "followers_start": 978,
     "followers_end": 980,
-    "followers_gained": 1,
-    "from": "2026-09-06",
+    "followers_gained": 2,
+    "from": "2026-09-07",
     "to": "2026-09-13",
     "top_posts": [
       {
