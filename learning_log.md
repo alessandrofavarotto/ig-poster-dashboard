@@ -1,6 +1,13 @@
 # Diario di apprendimento del sistema IG
 
 ## 2026-09-14
+Set 2026: 17:00 e 21:00 ora equivalenti per i Reel (salvasp 2.95 n=17 vs 2.98 n=6); 07:00 immagini consolidato (0.46 n=28). Ipotesi debole: nei caroselli educativi i temi fondamentali del world-building battono le micro-tecniche sui salvataggi. Su Threads la mediana aggregata va sostituita con monitoraggio per-formato; il recap più recente raggiunge il 96% di IG già al giorno 0.
+- Obiettivo prioritario: follower aggiornato a 982 (12 set)
+- Reels / time-lapse: 17:00 e 21:00 ora equivalenti; data aggiornata a 07-09/2026; salvasp 17:00 aggiornato da 2.67 n=16 a 2.95 n=17
+- Tipo di post e sequenza: aggiunta voce (ipotesi) temi fondamentali vs micro-tecnica nei caroselli educativi
+- Orari: 07:00 a 0.46 n=28; 17:00 salvasp Reel aggiornato; 21:00 Reel da secondo posto a equivalente a 17:00; summary e best_times allineati
+- Cosa evitare: 21:00 Reel aggiornato — slot intercambiabile con 17:00, non più secondo posto netto
+- Threads: monitoraggio aggiornato a per-formato; aggiunta parity rapida (24-48h); aggiunta ipotesi anomalia Monte Argentario
 
 ## 2026-09-07
 07:00 esce dal pareggio con 17:00 e diventa chiaramente il primo slot per immagini/caroselli (0.44, n=27 vs 0.23, n=13 — il pareggio era un artefatto del campione più piccolo). Il carosello si consolida come formato a conversione più alta (0.71, n=14 — quasi 5× le immagini 0.14 n=50), con il recap 'Skyrim' che stabilisce il record assoluto di condivisioni del dataset (5 shares). Su Threads emerge la distinzione netta tra recap narrativi di serie (unici da crosspostare: mediana 77) e caroselli tematici/editoriali (inutili: mediana 10). L'orario 09:00 per le immagini non è più a zero (0.12, n=8): segnale negativo attenuato, da trattare come slot esplorativo.
