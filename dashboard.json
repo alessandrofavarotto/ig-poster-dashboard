@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16",
+  "generated_at": "2026-09-17",
   "insights_updated": "2026-09-16",
   "best_times": {
     "times": [
@@ -111312,7 +111312,7 @@
         "status": "open"
       }
     ],
-    "generated_at": "2026-09-12T20:04"
+    "generated_at": "2026-09-17T06:00"
   },
   "boost": {
     "generated_at": "2026-09-16T20:04",
@@ -115491,10 +115491,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 978,
+    "followers_start": 979,
     "followers_end": 983,
-    "followers_gained": 5,
-    "from": "2026-09-09",
+    "followers_gained": 4,
+    "from": "2026-09-10",
     "to": "2026-09-16",
     "top_posts": [
       {
