@@ -1,5 +1,13 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-09-21
+Aggiornati i dati degli orari: 21:00 esce dalla zona campione insufficiente e sale al terzo slot per conversione follower sulle immagini (media_conv 0.17, n=6, era 0.0 n=4), con ricalibrazione di tutti i valori salvasp Reel (17:00=2.87 n=18, 21:00=2.97 n=6). Aggiunto segnale precoce debole sul carosello tipografia/font ('Nomi e font sulla mappa', 12 commenti e 4 salvataggi a 4 giorni). Su Threads ritrattata la 'forte accelerazione' come artefatto format-specific — al netto dei recap la mediana stabile è 10–14 views — e abbassata la soglia di riferimento Threads/IG da ≥70% a ≥60%.
+- Orari: 21:00 promosso a terzo slot per conversione follower immagini (0.17 n=6, era 0.0 n=4); aggiornati tutti i valori: 07:00 (0.45 n=31), 17:00 (0.21 n=14), 09:00 (0.11 n=9)
+- Reels: aggiornati salvasp 17:00 (2.87 n=18) e 21:00 (2.97 n=6); nominalmente equivalenti, con 21:00 come seconda scelta serale quando 17:00 è occupato
+- Tipo di post: aggiunta ipotesi debole su segnale precoce eccezionale del carosello 'Nomi e font sulla mappa' (12 commenti massimo dataset, 4 salvataggi a soli 4 giorni)
+- Threads: ritratta la 'forte accelerazione' come artefatto format-specific; aggiunto rapporto Threads/IG generale (~13%); soglia recap abbassata da ≥70% a ≥60%
+- Cosa evitare: 21:00 aggiornato — immagini ora terzo slot (non più campione insufficiente), Reel secondo posto (salvasp 2.97 n=6); aggiornati i valori 09:00 (salvasp 2.16)
+
 ## 2026-09-14
 Set 2026: 17:00 e 21:00 ora equivalenti per i Reel (salvasp 2.95 n=17 vs 2.98 n=6); 07:00 immagini consolidato (0.46 n=28). Ipotesi debole: nei caroselli educativi i temi fondamentali del world-building battono le micro-tecniche sui salvataggi. Su Threads la mediana aggregata va sostituita con monitoraggio per-formato; il recap più recente raggiunge il 96% di IG già al giorno 0.
 - Obiettivo prioritario: follower aggiornato a 982 (12 set)
