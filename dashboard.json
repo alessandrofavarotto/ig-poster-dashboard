@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27",
+  "generated_at": "2026-09-28",
   "insights_updated": "2026-09-27",
   "best_times": {
     "times": [
@@ -8,7 +8,7 @@
       "21:00",
       "09:00"
     ],
-    "updated": "2026-09-21"
+    "updated": "2026-09-28"
   },
   "account": [
     {
@@ -130120,6 +130120,34 @@
         "## Threads",
         "## Cosa evitare"
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "ts": "2026-09-28T05:10",
+      "enough_evidence": true,
+      "posts_measured": 124,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "21:00",
+        "09:00"
+      ],
+      "summary": "Tre aggiornamenti principali: (1) 17:00 per immagini sale a media_conv 0.29 (n=14, stessa coorte maturata a settembre) — ora secondo slot netto con distacco più netto da 21:00 (0.17); la conversione media generale immagini sale a 0.18 n=55. (2) Il segnale 'Nomi e font sulla mappa' viene aggiornato (age=11, saved=5, 12 commenti record confermato) e il pattern dei recap 'serie completa' circoscritto agli IP con fanbase ampia — i mondi custom producono sistematicamente 0 follows (ipotesi, forza debole). (3) Su Threads, la regola 'solo recap' sale da indicativa a solida (n=5 non-recap documentati al 3–10% Threads/IG); aggiunta ipotesi su immagini singole con ratio ≥60%.",
+      "changes": [
+        "Orari: 17:00 media_conv 0.21 → 0.29 (n=14, stesso campione maturato set 2026), distacco netto da 21:00 (0.17, n=6)",
+        "Orari: conversione media immagini 0.14 n=50 → 0.18 n=55 (maturazione post recenti), aggiunta come voce separata",
+        "Tipo di post — caroselli educativi: ratio vs immagini aggiornato da 'quasi 5×' a 'quasi 4×' (0.71/0.18); divisione funzionale: immagini aggiornata a 0.18 n=55",
+        "Tipo di post — segnale 'Nomi e font': aggiornato a age=11, saved=5; titolo ampliato a 'tema visivo-fondamentale (tipografia sulla mappa)'",
+        "Tipo di post — recap serie completa: aggiunta ipotesi che la conversione follower valga solo su IP con fanbase ampia; mondi custom (DnD, Conquerors, Firs'Talia) documentati con 0 follows sistematici",
+        "Threads — 'solo recap' promossa da indicativa a solida (n=5 non-recap, tutti 3–10%); evidenza completa aggiunta",
+        "Threads — aggiunta ipotesi su immagini singole con ratio Threads/IG ≥60% (n=7, asse predittivo non chiaro)"
+      ],
+      "sezioni_applicate": [
+        "## Orari",
+        "## Tipo di post e sequenza",
+        "## Threads"
+      ]
     }
   ],
   "alerts": [
@@ -135108,7 +135136,7 @@
     "followers_start": 984,
     "followers_end": 986,
     "followers_gained": 2,
-    "from": "2026-09-20",
+    "from": "2026-09-21",
     "to": "2026-09-27",
     "top_posts": [
       {

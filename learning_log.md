@@ -1,5 +1,15 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-09-28
+Tre aggiornamenti principali: (1) 17:00 per immagini sale a media_conv 0.29 (n=14, stessa coorte maturata a settembre) — ora secondo slot netto con distacco più netto da 21:00 (0.17); la conversione media generale immagini sale a 0.18 n=55. (2) Il segnale 'Nomi e font sulla mappa' viene aggiornato (age=11, saved=5, 12 commenti record confermato) e il pattern dei recap 'serie completa' circoscritto agli IP con fanbase ampia — i mondi custom producono sistematicamente 0 follows (ipotesi, forza debole). (3) Su Threads, la regola 'solo recap' sale da indicativa a solida (n=5 non-recap documentati al 3–10% Threads/IG); aggiunta ipotesi su immagini singole con ratio ≥60%.
+- Orari: 17:00 media_conv 0.21 → 0.29 (n=14, stesso campione maturato set 2026), distacco netto da 21:00 (0.17, n=6)
+- Orari: conversione media immagini 0.14 n=50 → 0.18 n=55 (maturazione post recenti), aggiunta come voce separata
+- Tipo di post — caroselli educativi: ratio vs immagini aggiornato da 'quasi 5×' a 'quasi 4×' (0.71/0.18); divisione funzionale: immagini aggiornata a 0.18 n=55
+- Tipo di post — segnale 'Nomi e font': aggiornato a age=11, saved=5; titolo ampliato a 'tema visivo-fondamentale (tipografia sulla mappa)'
+- Tipo di post — recap serie completa: aggiunta ipotesi che la conversione follower valga solo su IP con fanbase ampia; mondi custom (DnD, Conquerors, Firs'Talia) documentati con 0 follows sistematici
+- Threads — 'solo recap' promossa da indicativa a solida (n=5 non-recap, tutti 3–10%); evidenza completa aggiunta
+- Threads — aggiunta ipotesi su immagini singole con ratio Threads/IG ≥60% (n=7, asse predittivo non chiaro)
+
 ## 2026-09-21
 Aggiornati i dati degli orari: 21:00 esce dalla zona campione insufficiente e sale al terzo slot per conversione follower sulle immagini (media_conv 0.17, n=6, era 0.0 n=4), con ricalibrazione di tutti i valori salvasp Reel (17:00=2.87 n=18, 21:00=2.97 n=6). Aggiunto segnale precoce debole sul carosello tipografia/font ('Nomi e font sulla mappa', 12 commenti e 4 salvataggi a 4 giorni). Su Threads ritrattata la 'forte accelerazione' come artefatto format-specific — al netto dei recap la mediana stabile è 10–14 views — e abbassata la soglia di riferimento Threads/IG da ≥70% a ≥60%.
 - Orari: 21:00 promosso a terzo slot per conversione follower immagini (0.17 n=6, era 0.0 n=4); aggiornati tutti i valori: 07:00 (0.45 n=31), 17:00 (0.21 n=14), 09:00 (0.11 n=9)
