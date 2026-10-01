@@ -135408,12 +135408,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-09-19T14:17:26",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 3 Storie pubblicate"
-    },
-    {
       "ts": "2026-09-20T14:17:46",
       "severity": "info",
       "source": "stories",
@@ -135496,6 +135490,12 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-10-01T06:00:48",
+      "severity": "info",
+      "source": "ideas",
+      "message": "💡 Idee da pubblicare aggiornate (38 aperte) — CAROUSEL: 3 modi per disegnare le montagne a mano · CAROUSEL: Sketch → mappa finita: l'evoluzione del Mare d'Argento · CAROUSEL: Mappa pronta al tavolo: versione bella + versione con griglia · REEL: D"
     }
   ],
   "ideas": {
@@ -136503,9 +136503,29 @@
         "deadline": "2026-11-30",
         "status": "open",
         "created_at": "2026-10-01T06:00"
+      },
+      {
+        "id": "guild-2026-10",
+        "campaign": "guild",
+        "format": "post",
+        "title": "Cartographers' Guild — sfida di ottobre 2026",
+        "cosa_fare": "Controlla il TEMA del mese sul forum del Guild e disegna una mappa; invia entro ~fine ottobre (voto nei primi giorni del mese dopo).",
+        "perche": "Sfida mensile della community di riferimento per le mappe fantasy: visibilità + contenuto on-brand.",
+        "gancio": "🧭 Cartographers' Guild · ottobre 2026",
+        "hashtags": [
+          "#cartographersguild",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "link": "https://www.cartographersguild.com/forumdisplay.php?f=45",
+        "deadline": "2026-10-31",
+        "status": "open",
+        "created_at": "2026-10-01T09:00"
       }
     ],
-    "generated_at": "2026-10-01T06:00"
+    "generated_at": "2026-10-01T09:00"
   },
   "boost": {
     "generated_at": "2026-09-30T20:03",
