@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01",
-  "insights_updated": "2026-10-01",
+  "generated_at": "2026-10-02",
+  "insights_updated": "2026-10-02",
   "best_times": {
     "times": [
       "07:00",
@@ -1344,6 +1344,18 @@
       "views": 245,
       "accounts_engaged": 7,
       "total_interactions": 12
+    },
+    {
+      "date": "2026-10-02",
+      "followers_count": null,
+      "media_count": null,
+      "reach": null,
+      "reach_follower": null,
+      "reach_non_follower": null,
+      "profile_views": null,
+      "views": null,
+      "accounts_engaged": null,
+      "total_interactions": null
     }
   ],
   "posts": [
@@ -135431,7 +135443,7 @@
       "posts": [
         {
           "title": "La scala della mappa: come fissarla e mantenerla coerente",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-10-02",
           "scheduled_time": "07:00",
           "is_overview": false,
@@ -135447,11 +135459,11 @@
             "#worldbuilding",
             "#cartography"
           ],
-          "media_id": null,
-          "published_at": null,
+          "media_id": "17960582064227682",
+          "published_at": "2026-10-02",
           "facebook": false,
           "story": false,
-          "comment_posted": false,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         }
@@ -135490,10 +135502,10 @@
       "updated": "2026-09-26"
     },
     "#worldbuilding": {
-      "tier": "ampio",
+      "tier": "medio",
       "trend": "in crescita",
-      "note": "traino DnD e narrativa",
-      "updated": "2026-09-30"
+      "note": "creatori e scrittori in espansione",
+      "updated": "2026-10-02"
     },
     "#cittafantasy": {
       "tier": "nicchia",
@@ -135816,8 +135828,8 @@
     "#fantasycartography": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "community cartografi creativi in espansione",
-      "updated": "2026-09-30"
+      "note": "niche vivace, mappe fantasy",
+      "updated": "2026-10-02"
     },
     "#got": {
       "tier": "ampio",
@@ -136206,8 +136218,8 @@
     "#skyrim": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "community attiva, gioco datato",
-      "updated": "2026-09-30"
+      "note": "community legacy, fanart attiva",
+      "updated": "2026-10-02"
     },
     "#dragonborn": {
       "tier": "medio",
@@ -136218,8 +136230,8 @@
     "#elderscrolls": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "fandom fedele, attesa ES6",
-      "updated": "2026-09-30"
+      "note": "attesa TES6, fan fedeli",
+      "updated": "2026-10-02"
     },
     "#fusrodah": {
       "tier": "nicchia",
@@ -136344,8 +136356,8 @@
     "#mappastorica": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "ultra-nicchia collezionisti",
-      "updated": "2026-09-25"
+      "note": "termine raro, quasi inesistente",
+      "updated": "2026-10-02"
     },
     "#theelderscrolls": {
       "tier": "medio",
@@ -136356,8 +136368,8 @@
     "#tamriel": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "lore-fan, uso settoriale",
-      "updated": "2026-09-30"
+      "note": "solo fan hardcore lo usano",
+      "updated": "2026-10-02"
     },
     "#Friuli": {
       "tier": "medio",
@@ -136374,14 +136386,14 @@
     "#kraken": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "mitologia marina, uso ampio",
-      "updated": "2026-09-25"
+      "note": "arte marina e gaming",
+      "updated": "2026-10-02"
     },
     "#seamonster": {
-      "tier": "nicchia",
+      "tier": "medio",
       "trend": "stabile",
-      "note": "folklore marino poco usato",
-      "updated": "2026-09-25"
+      "note": "piccolo ma costante",
+      "updated": "2026-10-02"
     },
     "#swordcoast": {
       "tier": "nicchia",
@@ -136396,16 +136408,16 @@
       "updated": "2026-09-29"
     },
     "#apollo": {
-      "tier": "medio",
+      "tier": "ampio",
       "trend": "stabile",
-      "note": "ambiguo NASA/mitologia/brand",
-      "updated": "2026-09-25"
+      "note": "termine ambiguo, molto rumore",
+      "updated": "2026-10-02"
     },
     "#spaceart": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "AI art boost spazio",
-      "updated": "2026-09-25"
+      "note": "arte digitale cosmica in crescita",
+      "updated": "2026-10-02"
     },
     "#NordItalia": {
       "tier": "nicchia",
@@ -136524,20 +136536,20 @@
     "#storiaitalia": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "comunità storica italiana",
-      "updated": "2026-09-25"
+      "note": "piccola community storica italiana",
+      "updated": "2026-10-02"
     },
     "#cartografiastorica": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "ultra-nicchia accademica",
-      "updated": "2026-09-25"
+      "note": "accademici e appassionati mappe",
+      "updated": "2026-10-02"
     },
     "#duesicilie": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "storia meridionale di nicchia",
-      "updated": "2026-09-25"
+      "note": "identità meridionale italiana",
+      "updated": "2026-10-02"
     },
     "#fantasymaps": {
       "tier": "nicchia",
@@ -136638,44 +136650,44 @@
     "#stemma": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "araldica molto specifica",
-      "updated": "2026-09-25"
+      "note": "araldica, uso molto limitato",
+      "updated": "2026-10-02"
     },
     "#monteargentario": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "località turistica locale",
-      "updated": "2026-09-25"
+      "note": "turismo locale stagionale",
+      "updated": "2026-10-02"
     },
     "#toscana": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "milioni post, bassa visibilità",
-      "updated": "2026-09-25"
+      "note": "8M post, difficile emergere",
+      "updated": "2026-10-02"
     },
     "#portoercole": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "piccola località, pochi post",
-      "updated": "2026-09-25"
+      "note": "borgo piccolo, pochissimi post",
+      "updated": "2026-10-02"
     },
     "#argentario": {
-      "tier": "nicchia",
+      "tier": "medio",
       "trend": "stabile",
-      "note": "promontorio toscano locale",
-      "updated": "2026-09-25"
+      "note": "turismo regionale, estate attivo",
+      "updated": "2026-10-02"
     },
     "#italianmap": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "raro, anglofono di nicchia",
-      "updated": "2026-09-25"
+      "note": "pochissimi post in inglese",
+      "updated": "2026-10-02"
     },
     "#mappaitaliana": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "pochissimi post, ultra-nicchia",
-      "updated": "2026-09-25"
+      "note": "termine quasi inesistente",
+      "updated": "2026-10-02"
     },
     "#mapartist": {
       "tier": "nicchia",
@@ -136734,8 +136746,8 @@
     "#rpg": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "gaming enorme, molto affollato",
-      "updated": "2026-09-25"
+      "note": "milioni post, rumore molto alto",
+      "updated": "2026-10-02"
     },
     "#maptutorial": {
       "tier": "nicchia",
@@ -137191,30 +137203,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-09-21T14:16:12",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 3 Storie pubblicate"
-    },
-    {
-      "ts": "2026-09-22T14:17:25",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 3 Storie pubblicate"
-    },
-    {
-      "ts": "2026-09-23T06:03:02",
-      "severity": "info",
-      "source": "competitors",
-      "message": "🔎 Competitor (dati reali): 38 account letti · formato top: REELS · ~0.9 post/sett. I Reel sono il formato critico con engagement 3,4× superiore alle immagini: ogni pubblicazione dovrebbe generare un Reel — nuovi: @rpgmapsforge — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
-    },
-    {
-      "ts": "2026-09-23T14:16:02",
-      "severity": "info",
-      "source": "stories",
-      "message": "📖 3 Storie pubblicate"
-    },
-    {
       "ts": "2026-09-24T06:00:44",
       "severity": "info",
       "source": "ideas",
@@ -137276,6 +137264,46 @@
     },
     {
       "ts": "2026-10-01T14:16:07",
+      "severity": "info",
+      "source": "stories",
+      "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-10-02T07:06:37",
+      "severity": "info",
+      "source": "publish",
+      "message": "🖼️ Carosello pubblicato: «La scala della mappa: come fissarla e mantenerla coerente» (anche su FB) · Storia di richiamo NON riuscita (publish storia fallito)",
+      "extra": {
+        "media_id": "17960582064227682"
+      }
+    },
+    {
+      "ts": "2026-10-02T07:12:13",
+      "severity": "warning",
+      "source": "threads",
+      "message": "Crosspost Threads fallito: «La scala della mappa: come fissarla e mantenerla coerente» — child carosello Threads 500",
+      "extra": {
+        "error": "child carosello Threads 500",
+        "status": null,
+        "response": {
+          "error": {
+            "message": "An unexpected error has occurred. Please retry your request later.",
+            "type": "OAuthException",
+            "is_transient": true,
+            "code": 2,
+            "fbtrace_id": "A-gOfE7vlfQzo9LKvq7WG8R"
+          }
+        }
+      }
+    },
+    {
+      "ts": "2026-10-02T07:30:26",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «La scala della mappa: come fissarla e mantenerla coerente»"
+    },
+    {
+      "ts": "2026-10-02T14:17:46",
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
@@ -138311,7 +138339,7 @@
     "generated_at": "2026-10-01T09:00"
   },
   "boost": {
-    "generated_at": "2026-10-01T20:03",
+    "generated_at": "2026-10-02T20:03",
     "suggestion": {
       "media_id": "18162372094488517",
       "title": "Nomi e font sulla mappa: gerarchia, posizione, leggibilità",
@@ -138326,10 +138354,9 @@
       "targeting": {
         "modalita": "manuale (non automatico)",
         "geos": [
-          "IT",
-          "US"
+          "dai tuoi paesi principali"
         ],
-        "age": "25-34 / 35-44",
+        "age": "18–34",
         "interests": [
           "fantasy maps",
           "worldbuilding",
@@ -143169,10 +143196,10 @@
   "weekly": {
     "period_days": 7,
     "followers_start": 986,
-    "followers_end": 986,
-    "followers_gained": 0,
-    "from": "2026-09-24",
-    "to": "2026-10-01",
+    "followers_end": null,
+    "followers_gained": null,
+    "from": "2026-09-25",
+    "to": "2026-10-02",
     "top_posts": [
       {
         "title": "Skyrim — la serie completa",
