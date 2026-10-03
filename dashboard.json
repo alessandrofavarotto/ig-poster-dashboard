@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02",
-  "insights_updated": "2026-10-02",
+  "generated_at": "2026-10-03",
+  "insights_updated": "2026-10-03",
   "best_times": {
     "times": [
       "07:00",
@@ -1347,6 +1347,18 @@
     },
     {
       "date": "2026-10-02",
+      "followers_count": null,
+      "media_count": null,
+      "reach": null,
+      "reach_follower": null,
+      "reach_non_follower": null,
+      "profile_views": null,
+      "views": null,
+      "accounts_engaged": null,
+      "total_interactions": null
+    },
+    {
+      "date": "2026-10-03",
       "followers_count": null,
       "media_count": null,
       "reach": null,
@@ -135474,242 +135486,242 @@
     "#Thornhold": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "nome proprio, pochissimi post",
-      "updated": "2026-09-26"
+      "note": "hashtag unico quasi inesistente",
+      "updated": "2026-10-03"
     },
     "#stemmaaraldico": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "italiana ultra-niche araldica",
-      "updated": "2026-09-26"
+      "note": "termine italiano molto specifico",
+      "updated": "2026-10-03"
     },
     "#toro": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "polisemico: sport, zodiaco, arte",
-      "updated": "2026-09-26"
+      "note": "2M post, uso variegato",
+      "updated": "2026-10-03"
     },
     "#araldica": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "nicchia in espansione, interesse storico",
-      "updated": "2026-09-26"
+      "trend": "stabile",
+      "note": "comunità italiana di nicchia",
+      "updated": "2026-10-03"
     },
     "#fantasyart": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "4,8M post, community matura",
-      "updated": "2026-09-26"
+      "note": "10M post, competizione alta",
+      "updated": "2026-10-03"
     },
     "#worldbuilding": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "creatori e scrittori in espansione",
-      "updated": "2026-10-02"
+      "note": "265K post, trend positivo",
+      "updated": "2026-10-03"
     },
     "#cittafantasy": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "italiana, pochissimi post",
-      "updated": "2026-09-26"
+      "note": "variante italiana poco usata",
+      "updated": "2026-10-03"
     },
     "#fantasy": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "18M+ post, troppo generico",
-      "updated": "2026-09-26"
+      "note": "30M+ post, saturazione massima",
+      "updated": "2026-10-03"
     },
     "#corna": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "polisemico, uso molto variegato",
-      "updated": "2026-09-26"
+      "note": "uso ambiguo, bassa trazione",
+      "updated": "2026-10-03"
     },
     "#simbolismo": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "italiano, arte e filosofia",
-      "updated": "2026-09-26"
+      "note": "termine accademico, pochi post",
+      "updated": "2026-10-03"
     },
     "#illustrazione": {
       "tier": "medio",
-      "trend": "in crescita",
-      "note": "italiano, artisti community attiva",
-      "updated": "2026-09-26"
+      "trend": "stabile",
+      "note": "861K post italiani",
+      "updated": "2026-10-03"
     },
     "#coraggio": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "motivazionale italiano diffuso",
-      "updated": "2026-09-26"
+      "note": "688K post, audience italiana",
+      "updated": "2026-10-03"
     },
     "#fantasyworld": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "301K post, nicchia attiva",
-      "updated": "2026-09-26"
+      "note": "834K post, buona nicchia",
+      "updated": "2026-10-03"
     },
     "#compassrose": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "navigazione, tatuaggi, arte",
-      "updated": "2026-09-26"
+      "note": "42K post, molto specifico",
+      "updated": "2026-10-03"
     },
     "#rosadeiventi": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "italiana, pochissimi post",
-      "updated": "2026-09-26"
+      "note": "versione italiana rara",
+      "updated": "2026-10-03"
     },
     "#fantasymap": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "~40K post, community in crescita",
-      "updated": "2026-09-26"
+      "note": "41K post, community attiva",
+      "updated": "2026-10-03"
     },
     "#cartografia": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "italiano, interesse culturale crescente",
-      "updated": "2026-09-26"
+      "trend": "stabile",
+      "note": "termine italiano poco cercato",
+      "updated": "2026-10-03"
     },
     "#mapmaking": {
-      "tier": "nicchia",
+      "tier": "medio",
       "trend": "in crescita",
-      "note": "~44K post, hobby in espansione",
-      "updated": "2026-09-26"
+      "note": "community in espansione",
+      "updated": "2026-10-03"
     },
     "#detail": {
       "tier": "ampio",
       "trend": "saturo",
-      "note": "generico, decine di milioni post",
-      "updated": "2026-09-26"
+      "note": "termine generico, ultra competitivo",
+      "updated": "2026-10-03"
     },
     "#inkdrawing": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "~5,9M post, community solida",
-      "updated": "2026-09-26"
+      "note": "4.6M post, artisti prolifici",
+      "updated": "2026-10-03"
     },
     "#dnd": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "3,9M post, fandom costante",
-      "updated": "2026-09-26"
+      "note": "5.8M post, fandom solido",
+      "updated": "2026-10-03"
     },
     "#cartographyart": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "~17K post, micro-niche creativa",
-      "updated": "2026-09-26"
+      "note": "piccolo ma engagement alto",
+      "updated": "2026-10-03"
     },
     "#fantasydetails": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "micro-niche, poca competizione",
-      "updated": "2026-09-26"
+      "trend": "stabile",
+      "note": "tag di completamento, pochi post",
+      "updated": "2026-10-03"
     },
     "#handdrawn": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "3,6M post, artigianato apprezzato",
-      "updated": "2026-09-26"
+      "note": "5.2M post, molto usato",
+      "updated": "2026-10-03"
     },
     "#fantasycity": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "crescente interesse worldbuilding",
-      "updated": "2026-09-26"
+      "note": "community worldbuilding attiva",
+      "updated": "2026-10-03"
     },
     "#castle": {
       "tier": "ampio",
-      "trend": "stabile",
-      "note": "15,9M post, travel e storia",
-      "updated": "2026-09-26"
+      "trend": "saturo",
+      "note": "19M post, saturazione elevata",
+      "updated": "2026-10-03"
     },
     "#castello": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "italiano, turismo e storia",
-      "updated": "2026-09-26"
+      "note": "1.58M post, audience italiana",
+      "updated": "2026-10-03"
     },
     "#mountainfortress": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "combinazione rara, micro-niche",
-      "updated": "2026-09-26"
+      "note": "tag molto specifico, raro",
+      "updated": "2026-10-03"
     },
     "#ttrpg": {
       "tier": "medio",
       "trend": "in crescita",
-      "note": "564K post, hobby in espansione",
-      "updated": "2026-09-26"
+      "note": "332K post, in forte crescita",
+      "updated": "2026-10-03"
     },
     "#lighthouse": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "5,6M post, travel e architettura",
-      "updated": "2026-09-26"
+      "note": "6.2M post, fotografia dominante",
+      "updated": "2026-10-03"
     },
     "#faro": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "italiano, turismo costiero",
-      "updated": "2026-09-26"
+      "note": "italiano, pochi post pertinenti",
+      "updated": "2026-10-03"
     },
     "#coastalcity": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "geografico generico, poco usato",
-      "updated": "2026-09-26"
+      "note": "tag descrittivo poco usato",
+      "updated": "2026-10-03"
     },
     "#seaport": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "geografico, travel niche",
-      "updated": "2026-09-26"
+      "note": "uso prevalentemente fotografico",
+      "updated": "2026-10-03"
     },
     "#portcity": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "geografico, poco usato",
-      "updated": "2026-09-26"
+      "note": "tag geografico, bassa trazione",
+      "updated": "2026-10-03"
     },
     "#dungeonsanddragons": {
       "tier": "ampio",
       "trend": "stabile",
-      "note": "3,1M post, fandom consolidato",
-      "updated": "2026-09-26"
+      "note": "3-5M post, fandom ampio",
+      "updated": "2026-10-03"
     },
     "#fantasylore": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "worldbuilding storytelling emergente",
-      "updated": "2026-09-26"
+      "note": "worldbuilding writers attivi",
+      "updated": "2026-10-03"
     },
     "#mappafantasy": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "italiana, pochissimi post",
-      "updated": "2026-09-26"
+      "note": "italiano, quasi inesistente",
+      "updated": "2026-10-03"
     },
     "#handdrawnmap": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "~30K post, hobby visivo",
-      "updated": "2026-09-26"
+      "note": "7.3K post, engagement alto",
+      "updated": "2026-10-03"
     },
     "#artfantasy": {
-      "tier": "medio",
+      "tier": "nicchia",
       "trend": "stabile",
-      "note": "variante fantasyart, community attiva",
-      "updated": "2026-09-26"
+      "note": "meno usato di fantasyart",
+      "updated": "2026-10-03"
     },
     "#giochidiruolo": {
       "tier": "nicchia",
-      "trend": "in crescita",
-      "note": "italiano, GdR in espansione",
-      "updated": "2026-09-26"
+      "trend": "stabile",
+      "note": "italiano, community piccola",
+      "updated": "2026-10-03"
     },
     "#cartography": {
       "tier": "nicchia",
@@ -135828,8 +135840,8 @@
     "#fantasycartography": {
       "tier": "nicchia",
       "trend": "in crescita",
-      "note": "niche vivace, mappe fantasy",
-      "updated": "2026-10-02"
+      "note": "7.6K post, community entusiasta",
+      "updated": "2026-10-03"
     },
     "#got": {
       "tier": "ampio",
@@ -136216,10 +136228,10 @@
       "updated": "2026-09-27"
     },
     "#skyrim": {
-      "tier": "ampio",
+      "tier": "medio",
       "trend": "stabile",
-      "note": "community legacy, fanart attiva",
-      "updated": "2026-10-02"
+      "note": "1.7M post, fandom longevo",
+      "updated": "2026-10-03"
     },
     "#dragonborn": {
       "tier": "medio",
@@ -136230,8 +136242,8 @@
     "#elderscrolls": {
       "tier": "medio",
       "trend": "stabile",
-      "note": "attesa TES6, fan fedeli",
-      "updated": "2026-10-02"
+      "note": "490K post, attesa TES6",
+      "updated": "2026-10-03"
     },
     "#fusrodah": {
       "tier": "nicchia",
@@ -136368,8 +136380,8 @@
     "#tamriel": {
       "tier": "nicchia",
       "trend": "stabile",
-      "note": "solo fan hardcore lo usano",
-      "updated": "2026-10-02"
+      "note": "molto specifico, pochi post",
+      "updated": "2026-10-03"
     },
     "#Friuli": {
       "tier": "medio",
@@ -137203,12 +137215,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-09-24T06:00:44",
-      "severity": "info",
-      "source": "ideas",
-      "message": "💡 Idee da pubblicare aggiornate (9 aperte) — CAROUSEL: 3 modi per disegnare le montagne a mano · CAROUSEL: Sketch → mappa finita: l'evoluzione del Mare d'Argento · CAROUSEL: Mappa pronta al tavolo: versione bella + versione con griglia · REEL: D"
-    },
-    {
       "ts": "2026-09-24T14:16:23",
       "severity": "info",
       "source": "stories",
@@ -137307,6 +137313,28 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 3 Storie pubblicate"
+    },
+    {
+      "ts": "2026-10-03T14:16:12",
+      "severity": "warning",
+      "source": "stories",
+      "message": "📖 0 Storie ok, 3 FALLITE — «Kerberos — la mappa intera K»: container storia fallito — Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.; «Monti Urtal — mappa completa»: container storia fallito — Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.; «La mappa intera — il mondo d»: container storia fallito — Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.",
+      "extra": {
+        "failures": [
+          {
+            "headline": "Kerberos — la mappa intera Kerberos — the full map",
+            "reason": "container storia fallito — Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons."
+          },
+          {
+            "headline": "Monti Urtal — mappa completa Monti Urtal — complete map",
+            "reason": "container storia fallito — Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons."
+          },
+          {
+            "headline": "La mappa intera — il mondo della campagna The whole map — the world of the campaign",
+            "reason": "container storia fallito — Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons."
+          }
+        ]
+      }
     }
   ],
   "ideas": {
@@ -138339,7 +138367,7 @@
     "generated_at": "2026-10-01T09:00"
   },
   "boost": {
-    "generated_at": "2026-10-02T20:03",
+    "generated_at": "2026-10-03T20:03",
     "suggestion": {
       "media_id": "18162372094488517",
       "title": "Nomi e font sulla mappa: gerarchia, posizione, leggibilità",
@@ -143198,8 +143226,8 @@
     "followers_start": 986,
     "followers_end": null,
     "followers_gained": null,
-    "from": "2026-09-25",
-    "to": "2026-10-02",
+    "from": "2026-09-26",
+    "to": "2026-10-03",
     "top_posts": [
       {
         "title": "Skyrim — la serie completa",
