@@ -1,5 +1,14 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-10-05
+Aggiornate 2 sezioni. 'Tipo di post e sequenza': aggiunta regola operativa sui vuoti tra cicli IP (reach cala a 40–100/gg senza serie ancorata → pianificare il prossimo ciclo entro 2–4 settimane), conversione caroselli educativi aggiornata a 0.75 n=16, tema 'Nomi e font' promosso da ipotesi a indicativo (age=18 conferma i segnali), pattern recap-custom-zero-follows promosso da ipotesi a indicativo con 5 casi consecutivi. 'Threads': l'ipotesi sulle mappe panoramiche ≥60% non si conferma con i dati settembre — sostituita con voce indicativa che la smentisce.
+- Tipo di post e sequenza: aggiunta voce indicativa (set-ott/2026) sul calo reach/crescita follower senza serie IP e regola operativa 2–4 settimane tra cicli
+- Tipo di post e sequenza: conversione caroselli educativi aggiornata 0.71 n=14 → 0.75 n=16
+- Tipo di post e sequenza: 'Nomi e font' promosso da (ipotesi 09/2026) a (indicativo 10/2026) con evidenza age=18 (reach 192, saved 5, comments 12)
+- Tipo di post e sequenza: recap-custom-zero-follows promosso da ipotesi a indicativo; aggiunto 5° caso ('La serie completa' DnD, age=21, reach 82, follows 0); promosso a regola operativa
+- Tipo di post e sequenza: divisione funzionale aggiornata (caroselli 0.75, n=16)
+- Threads: ipotesi mappe panoramiche ≥60% non confermata da set 2026 — rimossa e sostituita con voce indicativa che smentisce il pattern
+
 ## 2026-09-28
 Tre aggiornamenti principali: (1) 17:00 per immagini sale a media_conv 0.29 (n=14, stessa coorte maturata a settembre) — ora secondo slot netto con distacco più netto da 21:00 (0.17); la conversione media generale immagini sale a 0.18 n=55. (2) Il segnale 'Nomi e font sulla mappa' viene aggiornato (age=11, saved=5, 12 commenti record confermato) e il pattern dei recap 'serie completa' circoscritto agli IP con fanbase ampia — i mondi custom producono sistematicamente 0 follows (ipotesi, forza debole). (3) Su Threads, la regola 'solo recap' sale da indicativa a solida (n=5 non-recap documentati al 3–10% Threads/IG); aggiunta ipotesi su immagini singole con ratio ≥60%.
 - Orari: 17:00 media_conv 0.21 → 0.29 (n=14, stesso campione maturato set 2026), distacco netto da 21:00 (0.17, n=6)
