@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-12",
   "insights_updated": "2026-10-11",
   "best_times": {
     "times": [
@@ -8,7 +8,7 @@
       "21:00",
       "09:00"
     ],
-    "updated": "2026-10-05"
+    "updated": "2026-10-12"
   },
   "account": [
     {
@@ -152704,6 +152704,30 @@
         "## Tipo di post e sequenza",
         "## Threads"
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "ts": "2026-10-12T05:19",
+      "enough_evidence": true,
+      "posts_measured": 135,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "21:00",
+        "09:00"
+      ],
+      "summary": "Tre aggiornamenti incrementali. (1) Reels: 17:00 promosso a secondo slot netto — non più intercambiabile con 21:00 (salvasp 3.0 n=19 vs 2.71 n=7, gap +0.29 dopo che il Reel 'Firenat' a 21:00 ha abbassato la media da 2.97 a 2.71). (2) Tipo di post: 'La scala della mappa' aggiunta tra i temi fondamentali dei caroselli educativi con segnali precoci tra i più solidi del dataset (saved=3, comments=8, age=9). (3) Threads: aggiunta la qualificazione che il formato recap non è condizione sufficiente senza trazione sulla piattaforma — il recap 'Monte Argentario' ha reso 8 views su 108 IG (7%, age=29 gg), minimo dell'insieme.",
+      "changes": [
+        "Reels: rimossa la parità 'intercambiabili' tra 17:00 e 21:00; 17:00 secondo slot netto (salvasp=3.0, n=19), 21:00 terza scelta serale (salvasp=2.71, n=7); data tag aggiornata a 07-10/2026",
+        "Tipo di post: bullet '(indicativo 10/2026)' aggiornato — aggiunta 'La scala della mappa' nella rotazione temi fondamentali accanto a 'Nomi e font'; descrizione ampliata da 'tipografia, leggibilità del testo' a 'tipografia, scala/proporzioni'",
+        "Threads: data tag del bullet recap aggiornata a 09-10/2026; aggiunta nota indicativa che il formato non è sufficiente senza trazione (Monte Argentario: 8 views, 7%); aggiornata mediana recap da 82 a 83 views"
+      ],
+      "sezioni_applicate": [
+        "## Reels / time-lapse (video)",
+        "## Tipo di post e sequenza",
+        "## Threads"
+      ]
     }
   ],
   "alerts": [
@@ -159055,10 +159079,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 985,
+    "followers_start": 986,
     "followers_end": 986,
-    "followers_gained": 1,
-    "from": "2026-10-04",
+    "followers_gained": 0,
+    "from": "2026-10-05",
     "to": "2026-10-11",
     "top_posts": [
       {

@@ -1,5 +1,11 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-10-12
+Tre aggiornamenti incrementali. (1) Reels: 17:00 promosso a secondo slot netto — non più intercambiabile con 21:00 (salvasp 3.0 n=19 vs 2.71 n=7, gap +0.29 dopo che il Reel 'Firenat' a 21:00 ha abbassato la media da 2.97 a 2.71). (2) Tipo di post: 'La scala della mappa' aggiunta tra i temi fondamentali dei caroselli educativi con segnali precoci tra i più solidi del dataset (saved=3, comments=8, age=9). (3) Threads: aggiunta la qualificazione che il formato recap non è condizione sufficiente senza trazione sulla piattaforma — il recap 'Monte Argentario' ha reso 8 views su 108 IG (7%, age=29 gg), minimo dell'insieme.
+- Reels: rimossa la parità 'intercambiabili' tra 17:00 e 21:00; 17:00 secondo slot netto (salvasp=3.0, n=19), 21:00 terza scelta serale (salvasp=2.71, n=7); data tag aggiornata a 07-10/2026
+- Tipo di post: bullet '(indicativo 10/2026)' aggiornato — aggiunta 'La scala della mappa' nella rotazione temi fondamentali accanto a 'Nomi e font'; descrizione ampliata da 'tipografia, leggibilità del testo' a 'tipografia, scala/proporzioni'
+- Threads: data tag del bullet recap aggiornata a 09-10/2026; aggiunta nota indicativa che il formato non è sufficiente senza trazione (Monte Argentario: 8 views, 7%); aggiornata mediana recap da 82 a 83 views
+
 ## 2026-10-05
 Aggiornate 2 sezioni. 'Tipo di post e sequenza': aggiunta regola operativa sui vuoti tra cicli IP (reach cala a 40–100/gg senza serie ancorata → pianificare il prossimo ciclo entro 2–4 settimane), conversione caroselli educativi aggiornata a 0.75 n=16, tema 'Nomi e font' promosso da ipotesi a indicativo (age=18 conferma i segnali), pattern recap-custom-zero-follows promosso da ipotesi a indicativo con 5 casi consecutivi. 'Threads': l'ipotesi sulle mappe panoramiche ≥60% non si conferma con i dati settembre — sostituita con voce indicativa che la smentisce.
 - Tipo di post e sequenza: aggiunta voce indicativa (set-ott/2026) sul calo reach/crescita follower senza serie IP e regola operativa 2–4 settimane tra cicli
