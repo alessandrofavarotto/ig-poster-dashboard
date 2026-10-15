@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14",
+  "generated_at": "2026-10-15",
   "insights_updated": "2026-10-14",
   "best_times": {
     "times": [
@@ -156748,7 +156748,7 @@
         },
         {
           "title": "Il lago nascosto",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-10-14",
           "scheduled_time": "21:00",
           "is_overview": false,
@@ -156762,11 +156762,11 @@
             "#cartography",
             "#mapmaking"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "17871425226642566",
+          "published_at": "2026-10-14",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -158643,34 +158643,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-10-12T17:32:31",
-      "severity": "info",
-      "source": "publish",
-      "message": "✅ Recuperato dopo 1 intoppo — 🎬 Reel + Storia pubblicati: «La Via segue la Vita — cartiglio, pellegrini e scriba» · copertina ✅",
-      "extra": {
-        "media_id": "18082105634707744",
-        "cover": true
-      }
-    },
-    {
-      "ts": "2026-10-12T17:32:36",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «La Via segue la Vita — cartiglio, pellegrini e scriba»"
-    },
-    {
-      "ts": "2026-10-12T17:32:44",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «La Via segue la Vita — cartiglio, pellegrini e scriba»"
-    },
-    {
-      "ts": "2026-10-12T18:00:48",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «La Via segue la Vita — cartiglio, pellegrini e scriba» (anche su FB)"
-    },
-    {
       "ts": "2026-10-13T14:16:45",
       "severity": "info",
       "source": "stories",
@@ -158742,6 +158714,33 @@
       "severity": "info",
       "source": "stories",
       "message": "📖 6 Storie pubblicate"
+    },
+    {
+      "ts": "2026-10-14T21:00:23",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Il lago nascosto»",
+      "extra": {
+        "media_id": "17871425226642566"
+      }
+    },
+    {
+      "ts": "2026-10-14T21:00:29",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Il lago nascosto»"
+    },
+    {
+      "ts": "2026-10-14T21:00:44",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Il lago nascosto»"
+    },
+    {
+      "ts": "2026-10-14T21:30:36",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Il lago nascosto» (anche su FB)"
     }
   ],
   "ideas": {
@@ -159771,7 +159770,7 @@
         "created_at": "2026-10-01T09:00"
       }
     ],
-    "generated_at": "2026-10-08T06:00"
+    "generated_at": "2026-10-15T06:00"
   },
   "boost": {
     "generated_at": "2026-10-14T20:05",
@@ -165352,10 +165351,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 987,
+    "followers_start": 988,
     "followers_end": 988,
-    "followers_gained": 1,
-    "from": "2026-10-07",
+    "followers_gained": 0,
+    "from": "2026-10-08",
     "to": "2026-10-14",
     "top_posts": [
       {
