@@ -1,5 +1,13 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-10-19
+Quattro sezioni aggiornate. Gli orari si assestano con campioni più ampi (07:00→0.43 n=35, 17:00→0.25 n=16, 21:00→0.12 n=8): il ranking è invariato ma il margine di 21:00 su 13:00/09:00 è ora minimo (0.12 vs 0.11 vs 0.10). Fatto nuovo di rilievo: le settimane del 27 set e 11 ott mostrano per la prima volta delta follower negativo (-1 ciascuna), segnalando che senza un ciclo IP-ancorato la crescita non solo si ferma ma erode. I caroselli su temi visivo-fondamentali vengono promossi da indicativi a indicativa-robusta ('Nomi e font sulla mappa': comments 12 record assoluto, saved 5, reach 206 a maturità). Su Threads: mediana recap aggiornata (n=10, ~68 views) e aggiunto il segnale predittivo delle views di dettaglio per stimare la performance del recap.
+- Orari: aggiornati tutti i valori di conversione (07:00→0.43 n=35, 17:00→0.25 n=16, 21:00→0.12 n=8, 09:00→0.10 n=10); evidenziato il margine minimo di 21:00 su 13:00/09:00
+- Tipo di post e sequenza: bullet stagnazione esteso a 'si ferma o arretra' con evidenza delta follower negativo (-1) nelle settimane del 27 set e 11 ott 2026
+- Tipo di post e sequenza: bullet temi visivo-fondamentali promosso da '(indicativo)' a '(indicativa)' con dati a maturità di 'Nomi e font sulla mappa' (reach 206, comments 12 record, saved 5, age=32)
+- Cosa evitare: aggiornata voce 09:00 (media_conv 0.10 n=10, da 0.11 n=9); sostituita voce 21:00 con nuovi valori (0.12 n=8) e nota sul margine minimo
+- Threads: mediana recap aggiornata da ~83 views n=8 a ~68 views n=10 (aggiunti Monti Urtal 74 views + Strada dei Fedeli 45 views); aggiunto bullet predittivo (views dettagli → performance recap, indicativa); aggiunto checkpoint ipotesi ratio 24% a fine novembre 2026
+
 ## 2026-10-12
 Tre aggiornamenti incrementali. (1) Reels: 17:00 promosso a secondo slot netto — non più intercambiabile con 21:00 (salvasp 3.0 n=19 vs 2.71 n=7, gap +0.29 dopo che il Reel 'Firenat' a 21:00 ha abbassato la media da 2.97 a 2.71). (2) Tipo di post: 'La scala della mappa' aggiunta tra i temi fondamentali dei caroselli educativi con segnali precoci tra i più solidi del dataset (saved=3, comments=8, age=9). (3) Threads: aggiunta la qualificazione che il formato recap non è condizione sufficiente senza trazione sulla piattaforma — il recap 'Monte Argentario' ha reso 8 views su 108 IG (7%, age=29 gg), minimo dell'insieme.
 - Reels: rimossa la parità 'intercambiabili' tra 17:00 e 21:00; 17:00 secondo slot netto (salvasp=3.0, n=19), 21:00 terza scelta serale (salvasp=2.71, n=7); data tag aggiornata a 07-10/2026
