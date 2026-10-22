@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21",
+  "generated_at": "2026-10-22",
   "insights_updated": "2026-10-21",
   "best_times": {
     "times": [
@@ -172322,6 +172322,59 @@
       ]
     },
     {
+      "source_image": "tg2677",
+      "posts": [
+        {
+          "title": "Come disegnare le montagne per le tue mappe: forma base, linee di cres",
+          "status": "pending",
+          "scheduled_date": "2026-10-26",
+          "scheduled_time": "07:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Come disegnare le montagne per le tue mappe: forma base, linee di cresta e tratteggio per dare volume.\n\nTre passaggi, tutti a mano: il profilo triangolare per stabilire la sagoma, la dorsale spezzata per aggiungere irregolarità, le linee brevi inclinate che simulano la roccia. La freccia verso il basso indica dove il tratto pesa di più, quella verso l'alto dove alleggerire. Non c'è segreto: è solo capire dove la luce NON arriva.\n\n· · ·\n\nHow to draw mountains for your maps: basic shape, ridge lines and hatching to add volume.\n\nThree steps, all by hand: the triangular outline to establish the silhouette, the jagged ridge for irregularity, short angled strokes to suggest rock texture. Arrows point down where the stroke is heavier, up where to keep it light. No mystery here: it's all about knowing where the light doesn't reach.",
+          "hashtags": [
+            "#mapmaking",
+            "#fantasymap",
+            "#cartography",
+            "#worldbuilding",
+            "#dndmaps"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Come disegnare le montagne per le tue mappe: forma base, linee di cres",
+          "status": "pending",
+          "scheduled_date": "2026-10-26",
+          "scheduled_time": "17:00",
+          "is_overview": true,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Come disegnare le montagne per le tue mappe: forma base, linee di cresta e tratteggio per dare volume.\n\nTre passaggi, tutti a mano: il profilo triangolare per stabilire la sagoma, la dorsale spezzata per aggiungere irregolarità, le linee brevi inclinate che simulano la roccia. La freccia verso il basso indica dove il tratto pesa di più, quella verso l'alto dove alleggerire. Non c'è segreto: è solo capire dove la luce NON arriva.\n\n· · ·\n\nHow to draw mountains for your maps: basic shape, ridge lines and hatching to add volume.\n\nThree steps, all by hand: the triangular outline to establish the silhouette, the jagged ridge for irregularity, short angled strokes to suggest rock texture. Arrows point down where the stroke is heavier, up where to keep it light. No mystery here: it's all about knowing where the light doesn't reach.",
+          "hashtags": [
+            "#mapmaking",
+            "#fantasymap",
+            "#cartography",
+            "#worldbuilding",
+            "#dndmaps"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        }
+      ]
+    },
+    {
       "source_image": "tg2645",
       "posts": [
         {
@@ -175363,7 +175416,7 @@
         "created_at": "2026-10-01T09:00"
       }
     ],
-    "generated_at": "2026-10-15T06:00"
+    "generated_at": "2026-10-22T06:00"
   },
   "boost": {
     "generated_at": "2026-10-21T20:05",
@@ -181326,10 +181379,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 988,
+    "followers_start": 987,
     "followers_end": 988,
-    "followers_gained": 0,
-    "from": "2026-10-14",
+    "followers_gained": 1,
+    "from": "2026-10-15",
     "to": "2026-10-21",
     "top_posts": [
       {
