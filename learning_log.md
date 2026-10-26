@@ -1,5 +1,15 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-10-26
+Aggiornamento orari immagini: 09:00 supera indicativamente 21:00 per la conversione follower (0.18 n=11 vs 0.12 n=8); best_times aggiornato in 07:00→17:00→09:00→21:00. Per i Reel 21:00 mostra indebolimento monotonico negli ultimi 3 cicli (2.97→2.71→2.51): gap con 17:00 in allargamento, non sono intercambiabili. 'Strade e sentieri' replica i segnali precoci di 'La scala della mappa', rafforzando il pattern dei temi cartografici fondamentali; battle map aggiunto come ipotesi in test (dati immaturi). Su Threads il ratio recente è ~33% per il secondo ciclo consecutivo sopra la soglia 18%: verifica anticipata a fine ottobre 2026 (dati da portare a maturità).
+- Orari: 09:00 ora terzo slot per immagini (indicativo, 0.18 n=11 — superato 21:00); 21:00 scende a quarto (indicativo); best_times → 07:00, 17:00, 09:00, 21:00
+- Orari: aggiornati n e valori (07:00 → 0.41 n=39; 17:00 Reel → salvasp=2.84 n=22; 21:00 Reel → salvasp=2.51 n=8 con trend monotonico)
+- Reels: 17:00 aggiornato a salvasp=2.84 n=22; 21:00 aggiornato a salvasp=2.51 n=8 con nota di indebolimento monotonico
+- Tipo di post: 'Strade e sentieri' aggiunto alla voce temi fondamentali (indicativo); battle map aggiunto come ipotesi in test
+- Threads: entry non-strutturale aggiornata (mediana 15 n=73; ratio recente 33% secondo ciclo; verifica anticipata a fine ottobre)
+- Threads: aggiunta ipotesi caroselli tecnica costruttiva (debole, n=1 — non escludere dal crosspost prima di n≥3)
+- Cosa evitare: 09:00 aggiornato a slot attivo terzo (non più cautionary); 21:00 aggiornato a quarto per immagini con Reel in calo; 13:00 aggiornato a riserva se 07:00/17:00/09:00/21:00 sono occupati
+
 ## 2026-10-19
 Quattro sezioni aggiornate. Gli orari si assestano con campioni più ampi (07:00→0.43 n=35, 17:00→0.25 n=16, 21:00→0.12 n=8): il ranking è invariato ma il margine di 21:00 su 13:00/09:00 è ora minimo (0.12 vs 0.11 vs 0.10). Fatto nuovo di rilievo: le settimane del 27 set e 11 ott mostrano per la prima volta delta follower negativo (-1 ciascuna), segnalando che senza un ciclo IP-ancorato la crescita non solo si ferma ma erode. I caroselli su temi visivo-fondamentali vengono promossi da indicativi a indicativa-robusta ('Nomi e font sulla mappa': comments 12 record assoluto, saved 5, reach 206 a maturità). Su Threads: mediana recap aggiornata (n=10, ~68 views) e aggiunto il segnale predittivo delle views di dettaglio per stimare la performance del recap.
 - Orari: aggiornati tutti i valori di conversione (07:00→0.43 n=35, 17:00→0.25 n=16, 21:00→0.12 n=8, 09:00→0.10 n=10); evidenziato il margine minimo di 21:00 su 13:00/09:00
