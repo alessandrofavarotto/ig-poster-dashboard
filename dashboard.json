@@ -183810,6 +183810,35 @@
       ]
     },
     {
+      "source_image": "mapvember-2026",
+      "posts": [
+        {
+          "title": "Atlas Mapvember 2026",
+          "status": "pending",
+          "scheduled_date": "2026-10-27",
+          "scheduled_time": "07:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "🇮🇹 Commenta \"ATLAS\" e ti mando il link alla lista in alta risoluzione 👇\n\nAtlas Mapvember 2026: trenta temi, una mappa al giorno per tutto novembre. Quest'anno una lista ufficiale non è uscita, così ho fatto la mia: la seguo io e chi vuole può seguirla con me. Bastano anche pochi giorni, non serve farli tutti. Usa #AtlasMapvember così vedo le tue mappe.\n\nDa quale tema partiresti?\n\n· · ·\n\n🇬🇧 Comment \"ATLAS\" and I'll DM you the link to the high-resolution list 👇\n\nAtlas Mapvember 2026: thirty prompts, one map a day for all of November. No official list came out this year, so I made my own: I'm following it, and anyone who wants can follow it with me. A few days are enough, you don't need to do them all. Use #AtlasMapvember so I can see your maps.\n\nWhich prompt would you start from?",
+          "hashtags": [
+            "#AtlasMapvember",
+            "#mapvember2026",
+            "#mapvember",
+            "#fantasymap",
+            "#mapmaking"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        }
+      ]
+    },
+    {
       "source_image": "tg2738",
       "posts": [
         {
@@ -187229,7 +187258,7 @@
         "created_at": "2026-10-01T09:00"
       }
     ],
-    "generated_at": "2026-10-26T22:31"
+    "generated_at": "2026-10-26T22:39"
   },
   "boost": {
     "generated_at": "2026-10-26T20:05",
