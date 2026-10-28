@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "insights_updated": "2026-10-27",
   "best_times": {
     "times": [
@@ -186281,7 +186281,7 @@
         },
         {
           "title": "Sala centrale delle fogne",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-10-27",
           "scheduled_time": "21:00",
           "is_overview": false,
@@ -186295,11 +186295,11 @@
             "#rpgmap",
             "#mapmaking"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
+          "media_id": "17969791437190192",
+          "published_at": "2026-10-27",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -186311,13 +186311,13 @@
           "is_overview": false,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Mappa delle Fogne: battle map in bianco e nero per D&D, corridoi in pietra tracciati a china.\nC'è sempre un momento, nelle campagne di gioco di ruolo, in cui il master sorride e dice: «Scendete nelle fogne.»\nNessuno è mai contento. Eppure ci si va, perché sotto la città c'è sempre qualcosa da trovare, o da cui scappare.\nIl cartiglio con la pala dice già tutto sul livello di eleganza del posto.\n\n· · ·\n\nSewer Dungeon Map: black and white D&D battle map with stone corridors in ink.\nThere's always that moment in a tabletop campaign when the GM smiles and says: \"You need to go into the sewers.\"\nNobody's ever happy about it. And yet you go, because beneath the city there's always something to find, or to run from.\nThe scroll with the shovel tells you everything about the elegance of the place.",
+          "caption": "Battle map delle fogne: dungeon sotterraneo a china per D&D e TTRPG.\nI cunicoli sotto la città nascondono ciò che la superficie non mostra: chi ha scavato questi passaggi, chi li usa ancora, cosa si muove nell'ombra tra un tombino e l'altro. La pala nel cartiglio non è un caso.\n\n· · ·\n\nSewer battle map: hand-drawn dungeon for D&D and TTRPG.\nThe tunnels beneath the city hold what the surface doesn't show: who dug these passages, who still uses them, what moves in the shadows between manholes. The shovel on the cartouche is no accident.",
           "hashtags": [
-            "#battlemap",
             "#dndmaps",
-            "#dungeon",
+            "#battlemap",
             "#ttrpg",
-            "#fantasymap"
+            "#cartography",
+            "#dungeon"
           ],
           "media_id": null,
           "published_at": null,
@@ -186335,7 +186335,7 @@
           "is_overview": false,
           "media_kind": "reel",
           "from_image": true,
-          "caption": "Mappa delle Fogne: battle map in bianco e nero per D&D, corridoi in pietra tracciati a china.\nC'è sempre un momento, nelle campagne di gioco di ruolo, in cui il master sorride e dice: «Scendete nelle fogne.»\nNessuno è mai contento. Eppure ci si va, perché sotto la città c'è sempre qualcosa da trovare, o da cui scappare.\nIl cartiglio con la pala dice già tutto sul livello di eleganza del posto.\n\n· · ·\n\nSewer Dungeon Map: black and white D&D battle map with stone corridors in ink.\nThere's always that moment in a tabletop campaign when the GM smiles and says: \"You need to go into the sewers.\"\nNobody's ever happy about it. And yet you go, because beneath the city there's always something to find, or to run from.\nThe scroll with the shovel tells you everything about the elegance of the place.",
+          "caption": "Battle map delle fogne: dungeon sotterraneo a china per D&D e TTRPG.\nI cunicoli sotto la città nascondono ciò che la superficie non mostra: chi ha scavato questi passaggi, chi li usa ancora, cosa si muove nell'ombra tra un tombino e l'altro. La pala nel cartiglio non è un caso.\n\n· · ·\n\nSewer battle map: hand-drawn dungeon for D&D and TTRPG.\nThe tunnels beneath the city hold what the surface doesn't show: who dug these passages, who still uses them, what moves in the shadows between manholes. The shovel on the cartouche is no accident.",
           "hashtags": [
             "#fantasycartography",
             "#dndmaps",
@@ -186359,13 +186359,13 @@
           "is_overview": false,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Quattro corridoi in pietra, un incrocio nel buio: la scelta più difficile del dungeon.\n\nIl crocevia è il cuore di ogni dungeon. Il punto dove il gruppo si ferma, si guarda, e decide: sinistra, destra, dritto avanti? Il pericolo non si vede, ma si sente nel silenzio dei blocchi di pietra, nell'ombra che non si schiarisce mai del tutto.\n\nLa porta rotonda sul pavimento, in fondo al corridoio, non l'ha ancora aperta nessuno.\n\n· · ·\n\nFour stone corridors, a crossroads in the dark: the hardest choice in any dungeon.\n\nThe intersection is the heart of every dungeon. The place where the party stops, looks at each other, and decides: left, right, straight ahead? The danger isn't visible, but you feel it in the silence of the stone blocks, in the shadow that never quite clears.\n\nThe round hatch at the end of the corridor. Nobody has opened it yet.",
+          "caption": "Incrocio di pietra: mappa dungeon disegnata a mano, quattro corridoi e una botola nel pavimento.\nI blocchi di roccia portano i segni dello scalpello, le pareti si allargano verso l'ombra. Qualcuno ha già percorso questo corridoio. Non è tornato.\n\n· · ·\n\nStone crossroads: a hand-drawn dungeon battle map, four corridors and a hatch sealed into the floor.\nThe rock blocks bear chisel marks, the walls open into shadow. Someone walked this corridor before. They didn't come back.",
           "hashtags": [
             "#battlemap",
             "#dndmaps",
             "#dungeon",
-            "#ttrpg",
-            "#fantasycartography"
+            "#dndart",
+            "#ttrpg"
           ],
           "media_id": null,
           "published_at": null,
@@ -186383,7 +186383,7 @@
           "is_overview": false,
           "media_kind": "reel",
           "from_image": true,
-          "caption": "Quattro corridoi in pietra, un incrocio nel buio: la scelta più difficile del dungeon.\n\nIl crocevia è il cuore di ogni dungeon. Il punto dove il gruppo si ferma, si guarda, e decide: sinistra, destra, dritto avanti? Il pericolo non si vede, ma si sente nel silenzio dei blocchi di pietra, nell'ombra che non si schiarisce mai del tutto.\n\nLa porta rotonda sul pavimento, in fondo al corridoio, non l'ha ancora aperta nessuno.\n\n· · ·\n\nFour stone corridors, a crossroads in the dark: the hardest choice in any dungeon.\n\nThe intersection is the heart of every dungeon. The place where the party stops, looks at each other, and decides: left, right, straight ahead? The danger isn't visible, but you feel it in the silence of the stone blocks, in the shadow that never quite clears.\n\nThe round hatch at the end of the corridor. Nobody has opened it yet.",
+          "caption": "Incrocio di pietra: mappa dungeon disegnata a mano, quattro corridoi e una botola nel pavimento.\nI blocchi di roccia portano i segni dello scalpello, le pareti si allargano verso l'ombra. Qualcuno ha già percorso questo corridoio. Non è tornato.\n\n· · ·\n\nStone crossroads: a hand-drawn dungeon battle map, four corridors and a hatch sealed into the floor.\nThe rock blocks bear chisel marks, the walls open into shadow. Someone walked this corridor before. They didn't come back.",
           "hashtags": [
             "#dungeon",
             "#dndmaps",
@@ -186407,13 +186407,13 @@
           "is_overview": true,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Mappa delle Fogne: corridoi stretti, stanze nascoste e qualcosa che scorre nell'ombra.\n\nUna rete sotterranea disegnata per il tavolo da gioco, con ingressi sorvegliati, un grande salone centrale e passaggi che portano chissà dove. Il tipo di luogo che il master piazza in città quando i personaggi decidono di scavare un po' troppo.\n\nIl cartello con lo stemma all'ingresso suggerisce che queste fogne appartengono a qualcuno. Non è detto che sia una buona notizia.\n\n· · ·\n\nSewer Map: narrow corridors, hidden rooms and something moving in the dark.\n\nA dungeon-ready underground network with guarded entrances, a large central hall and passages leading who knows where. The kind of place a GM drops beneath a city when the players start asking too many questions.\n\nThe coat of arms at the entrance suggests these sewers belong to someone. That's not necessarily good news.",
+          "caption": "Mappa delle Fogne: battle map per D&D disegnata a china, corridoi in pietra e stanza centrale per la prossima sessione.\n\nUn classico del dungeon crawl: le fogne sotto la città. Corridoi stretti, una grande stanza centrale, ingressi nascosti e qualche anfratto dove il master può nascondere qualsiasi cosa. Il cartiglio con la penna d'oca è il dettaglio che preferisco: anche la cartografia più spiccia merita la sua etichetta.\n\nPronta da stampare e portare al tavolo.\n\n· · ·\n\nSewer Map: hand-inked battle map for D&D, stone corridors and a central chamber for your next session.\n\nA dungeon crawl staple: the sewers beneath the city. Narrow passages, a large central room, hidden entrances and plenty of corners for the DM to hide anything. The scroll cartouche with the quill pen is my favorite detail: even the grittiest map deserves a proper label.\n\nPrint it and bring it to the table.",
           "hashtags": [
-            "#battlemap",
             "#dndmaps",
-            "#ttrpg",
+            "#battlemap",
             "#dungeonsanddragons",
-            "#mapmaking"
+            "#ttrpg",
+            "#fantasymap"
           ],
           "media_id": null,
           "published_at": null,
@@ -186516,10 +186516,10 @@
           "is_overview": true,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Disegnare un fiume su una mappa fantasy: tre passi, linee a china, e l'acqua comincia a scorrere sulla carta.\n\nPrima costa, poi la seconda che le corre parallela lasciando il fiume respirare. Infine i tratti di flusso, brevi e orientati: la corrente diventa visibile, il territorio prende forma.\n\nTre gesti, e la mappa smette di essere terra vuota.\n\n· · ·\n\nHow to draw a fantasy map river: three steps, ink lines, and the water begins to flow across the page.\n\nFirst coast, then the second running parallel, leaving the river room to breathe. Then the flow lines, short and directional: the current becomes visible, the landscape takes shape.\n\nThree marks, and the map stops being empty land.",
+          "caption": "Come disegnare un fiume su una mappa fantasy: tre passi, una riga alla volta.\n\nPrima costa, poi la sponda opposta, infine i trattini che indicano la corrente. Una tecnica semplice che cambia completamente la lettura della mappa: il fiume smette di essere un contorno e diventa acqua che scorre davvero.\n\nI fiumi su una mappa non sono solo geografia: segnano i confini tra regni, decidono dove sorgono le città, dove si combatte e dove si commercia. Imparare a disegnarli bene è imparare a costruire un mondo credibile.\n\n· · ·\n\nHow to draw a river on a fantasy map: three steps, one line at a time.\n\nFirst coast, then the opposite bank, then the small strokes that show the current. A simple technique that completely changes how the map reads: the river stops being an outline and becomes water that actually flows.\n\nRivers on a map are not just geography: they mark borders between kingdoms, determine where cities rise, where battles are fought and where trade moves. Learning to draw them well means learning to build a believable world.",
           "hashtags": [
+            "#fantasymap",
             "#cartography",
-            "#fantasycartography",
             "#worldbuilding",
             "#mapmaking",
             "#dndmaps"
@@ -186540,7 +186540,7 @@
           "is_overview": true,
           "media_kind": "reel",
           "from_image": true,
-          "caption": "Disegnare un fiume su una mappa fantasy: tre passi, linee a china, e l'acqua comincia a scorrere sulla carta.\n\nPrima costa, poi la seconda che le corre parallela lasciando il fiume respirare. Infine i tratti di flusso, brevi e orientati: la corrente diventa visibile, il territorio prende forma.\n\nTre gesti, e la mappa smette di essere terra vuota.\n\n· · ·\n\nHow to draw a fantasy map river: three steps, ink lines, and the water begins to flow across the page.\n\nFirst coast, then the second running parallel, leaving the river room to breathe. Then the flow lines, short and directional: the current becomes visible, the landscape takes shape.\n\nThree marks, and the map stops being empty land.",
+          "caption": "Come disegnare un fiume su una mappa fantasy: tre passi, una riga alla volta.\n\nPrima costa, poi la sponda opposta, infine i trattini che indicano la corrente. Una tecnica semplice che cambia completamente la lettura della mappa: il fiume smette di essere un contorno e diventa acqua che scorre davvero.\n\nI fiumi su una mappa non sono solo geografia: segnano i confini tra regni, decidono dove sorgono le città, dove si combatte e dove si commercia. Imparare a disegnarli bene è imparare a costruire un mondo credibile.\n\n· · ·\n\nHow to draw a river on a fantasy map: three steps, one line at a time.\n\nFirst coast, then the opposite bank, then the small strokes that show the current. A simple technique that completely changes how the map reads: the river stops being an outline and becomes water that actually flows.\n\nRivers on a map are not just geography: they mark borders between kingdoms, determine where cities rise, where battles are fought and where trade moves. Learning to draw them well means learning to build a believable world.",
           "hashtags": [
             "#mapmaking",
             "#fantasycartography",
@@ -186569,12 +186569,12 @@
           "is_overview": true,
           "media_kind": "image",
           "from_image": null,
-          "caption": "Come si disegna una costa per le mappe fantasy: 4 passi dal tratto grezzo alla riva completa.\n\nTre passaggi costruiscono il profilo, roccia dopo roccia. Il quarto aggiunge l'effetto acqua: un dettaglio opzionale che cambia tutto. Ogni freccia in rosso indica un gesto preciso, ripetibile, che con la pratica diventa istinto.\n\nUna linea irregolare all'inizio, un confine credibile alla fine.\n\n· · ·\n\nHow to draw a fantasy map coastline in four passes: from the first rough stroke to a finished shore.\n\nThree passes build the rocky profile; the fourth adds a water effect as a free add-on. Each red arrow marks a precise gesture, repeatable and trainable. The more irregular the line in pass one, the more believable the coast at the end.\n\nA jagged scratch at the start, a real shoreline by the finish.",
+          "caption": "Come disegnare una costa per la tua mappa fantasy, passo dopo passo.\n\nTutto parte da una linea irregolare: niente curve perfette, niente tratti paralleli. Una costa vera è frastagliata, imprevedibile. Al secondo passaggio entrano le rocce a scheggia, piccoli cunei che sporgono verso il mare. Al terzo, i dettagli si infittiscono: ombre, scogli affioranti, il margine che diventa profondità. Il quarto step è un add-on gratuito: come trattare una costa rocciosa vista dall'alto, con le frecce che indicano dove cadono le ombre.\n\nSono tecnica a china, su Procreate: il gesto veloce che sembra grezzo ma ha una logica precisa dietro.\n\nUna costa ben disegnata fa sembrare un continente antico. Quella geometria perfetta che non esiste in natura, ecco, non usarla mai.\n\n· · ·\n\nHow to draw a coastline for your fantasy map, step by step.\n\nIt starts with an irregular line: no smooth curves, no parallel strokes. A real coast is jagged, unpredictable. At step two, shard-like rocks appear, small wedges jutting toward the sea. By step three, details multiply: shadows, emerging reefs, the edge becoming depth. The fourth step is a free add-on: how to handle a rocky coast seen from above, with arrows marking where shadows fall.\n\nThis is ink technique, on Procreate: a fast gesture that looks rough but follows a precise logic.\n\nA well-drawn coast makes a continent feel ancient. That perfect geometry that doesn't exist in nature? Never use it.",
           "hashtags": [
-            "#mapmaking",
             "#fantasycartography",
-            "#worldbuilding",
+            "#mapmaking",
             "#dndmaps",
+            "#worldbuilding",
             "#cartography"
           ],
           "media_id": null,
@@ -186593,7 +186593,7 @@
           "is_overview": true,
           "media_kind": "reel",
           "from_image": true,
-          "caption": "Come si disegna una costa per le mappe fantasy: 4 passi dal tratto grezzo alla riva completa.\n\nTre passaggi costruiscono il profilo, roccia dopo roccia. Il quarto aggiunge l'effetto acqua: un dettaglio opzionale che cambia tutto. Ogni freccia in rosso indica un gesto preciso, ripetibile, che con la pratica diventa istinto.\n\nUna linea irregolare all'inizio, un confine credibile alla fine.\n\n· · ·\n\nHow to draw a fantasy map coastline in four passes: from the first rough stroke to a finished shore.\n\nThree passes build the rocky profile; the fourth adds a water effect as a free add-on. Each red arrow marks a precise gesture, repeatable and trainable. The more irregular the line in pass one, the more believable the coast at the end.\n\nA jagged scratch at the start, a real shoreline by the finish.",
+          "caption": "Come disegnare una costa per la tua mappa fantasy, passo dopo passo.\n\nTutto parte da una linea irregolare: niente curve perfette, niente tratti paralleli. Una costa vera è frastagliata, imprevedibile. Al secondo passaggio entrano le rocce a scheggia, piccoli cunei che sporgono verso il mare. Al terzo, i dettagli si infittiscono: ombre, scogli affioranti, il margine che diventa profondità. Il quarto step è un add-on gratuito: come trattare una costa rocciosa vista dall'alto, con le frecce che indicano dove cadono le ombre.\n\nSono tecnica a china, su Procreate: il gesto veloce che sembra grezzo ma ha una logica precisa dietro.\n\nUna costa ben disegnata fa sembrare un continente antico. Quella geometria perfetta che non esiste in natura, ecco, non usarla mai.\n\n· · ·\n\nHow to draw a coastline for your fantasy map, step by step.\n\nIt starts with an irregular line: no smooth curves, no parallel strokes. A real coast is jagged, unpredictable. At step two, shard-like rocks appear, small wedges jutting toward the sea. By step three, details multiply: shadows, emerging reefs, the edge becoming depth. The fourth step is a free add-on: how to handle a rocky coast seen from above, with arrows marking where shadows fall.\n\nThis is ink technique, on Procreate: a fast gesture that looks rough but follows a precise logic.\n\nA well-drawn coast makes a continent feel ancient. That perfect geometry that doesn't exist in nature? Never use it.",
           "hashtags": [
             "#mapmaking",
             "#fantasycartography",
@@ -188530,53 +188530,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-10-26T21:04:11",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «Il sito delle mappe» · copertina ✅",
-      "extra": {
-        "media_id": "18147669817499718",
-        "cover": true
-      }
-    },
-    {
-      "ts": "2026-10-26T21:04:17",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Il sito delle mappe»"
-    },
-    {
-      "ts": "2026-10-26T21:04:24",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «Il sito delle mappe»"
-    },
-    {
-      "ts": "2026-10-26T21:05:32",
-      "severity": "warning",
-      "source": "threads",
-      "message": "Crosspost Threads fallito: «Il sito delle mappe» — publish Threads 500: An unexpected error has occurred. Please retry your request later.",
-      "extra": {
-        "error": "publish Threads 500: An unexpected error has occurred. Please retry your request later.",
-        "status": null,
-        "response": {
-          "error": {
-            "message": "An unexpected error has occurred. Please retry your request later.",
-            "type": "OAuthException",
-            "is_transient": true,
-            "code": 2,
-            "fbtrace_id": "AA0TbFZ8bcLR0OfRD6cJmMR"
-          }
-        }
-      }
-    },
-    {
-      "ts": "2026-10-26T21:30:37",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «Il sito delle mappe» (anche su FB)"
-    },
-    {
       "ts": "2026-10-27T07:00:18",
       "severity": "info",
       "source": "publish",
@@ -188641,6 +188594,40 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Sala centrale delle fogne» (anche su FB)"
+    },
+    {
+      "ts": "2026-10-27T21:01:19",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Sala centrale delle fogne» · copertina ✅ · 🧪 Trial Reel (prima ai non-follower)",
+      "extra": {
+        "media_id": "17969791437190192",
+        "cover": true
+      }
+    },
+    {
+      "ts": "2026-10-27T21:01:29",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Sala centrale delle fogne»"
+    },
+    {
+      "ts": "2026-10-27T21:01:43",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Sala centrale delle fogne»"
+    },
+    {
+      "ts": "2026-10-27T21:30:48",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Sala centrale delle fogne» (anche su FB)"
+    },
+    {
+      "ts": "2026-10-28T06:03:40",
+      "severity": "info",
+      "source": "competitors",
+      "message": "🔎 Competitor (dati reali): 45 account letti · formato top: VIDEO · ~0.7 post/sett. I Reels sono sovrastimati in questa nicchia: normalizzati per account, rendono meno di immagini e caroselli e non convie — nuovi: @maemapsstudio, @leveluplandscapes — personali (solo riferimento): @francescabaerald, @devenrue, @mistybeee, @feedthemultiverse"
     }
   ],
   "ideas": {
@@ -189817,7 +189804,9 @@
       "mapthefantastical",
       "skullfungus",
       "imaginarymaps",
-      "the_celtic_cartographer"
+      "the_celtic_cartographer",
+      "maemapsstudio",
+      "leveluplandscapes"
     ],
     "runs": [
       {
@@ -195654,6 +195643,410 @@
           "mistybeee",
           "feedthemultiverse"
         ]
+      },
+      {
+        "date": "2026-10-28",
+        "summary": "I Reels sono sovrastimati in questa nicchia: normalizzati per account, rendono meno di immagini e caroselli e non conviene prioritizzarli. I fuori scala convergono su tre formule chiare — pop culture anchoring su IP trending, dichiarazione esplicita di autenticità artigianale contro l'AI, e hook nel linguaggio comunitario D&D. La cadenza ottimale è bassa (≤1/settimana) con qualità alta; i nostri slot mattutini (07:00, 09:00) non hanno riscontro nei competitor e sono candidati a test nella fascia 17:00–20:00.",
+        "new_handles": [
+          "maemapsstudio",
+          "leveluplandscapes"
+        ],
+        "lessons": [
+          "Reels: multiplo mediano 0.82x — l'unico formato sotto la soglia 1.0, ovvero sottoperforma la mediana dei singoli account. Il raw engagement alto (716 medio) è gonfiato da account con centinaia di migliaia di follower; normalizzato, i Reel non sono la leva per account in crescita. Image (1.0) e Carousel (1.06) sono più affidabili; il Reel companion automatico già implementato è il corretto equilibrio — non aumentare la quota. (Video segna 1.29 ma campione n=3: dato non affidabile.)",
+          "Pop culture anchoring produce spike documentati e ripetibili. Tre dei dodici fuori scala appartengono a fantastic_maps e puntano tutti allo stesso IP — House of the Dragon — con multipli di 18x, 22x e 40x. La formula: prendere un IP fantasy trending (serie TV, videogioco, campagna D&D virale) e applicarci la lente cartografica ('Chi controlla X controlla Y', 'Dove si trovava Z in questo episodio?'). Il momento di aggancio è il lancio/episodio/evento pubblico dell'IP. Non copiare il soggetto — rubare il frame.",
+          "Dichiarare 'disegnato a mano, senza AI' è un trigger emotivo documentato in due account di dimensioni molto diverse: lord_ofmaps 75.9x ('Drawn by hand with no ai') e inkcompass.maps 12.6x (ironia AI). In una nicchia fantasy-cartography in cui l'AI genera immagini, l'autenticità artigianale è un hook identitario — non ovvio, perché chi guarda lo sa già, ma renderlo esplicito nei post di processo attiva la risposta emotiva nella community D&D/worldbuilding.",
+          "Cadenza: la mediana competitor è 0.7 post/settimana e i migliori performer per engagement relativo postano poco: dimensiondoor_maps (1625 eng medio, 0.2 post/settimana), paths.peculiar (1410 eng, 1.1/settimana), fantastic_maps (710 eng, 0.3/settimana). Gli account ad alta frequenza come rustymaps (8.8/settimana) ottengono eng basso (228). Non accelerare la cadenza per riempire il feed: 1 post eccezionale a settimana batte 5 ordinari.",
+          "Orari: i competitor pubblicano immagini alle 17:00–21:00 (Europe/Rome); i nostri slot appresi coprono già 17:00 e 21:00 ma includono anche 07:00 e 09:00, fasce senza riscontro competitor. Candidati al test: spostare uno dei due slot mattutini verso 18:00–20:00 e misurare il delta engagement su 4–6 post. Per i Reel, il 14:00 competitor non è nei nostri slot appresi: vale un test isolato su 2–3 Reel. Nessuna conclusione sulle Storie (non leggibili via API).",
+          "Hook in linguaggio comunitario in-group > hook generico. Il post più esplosivo in termini relativi (jogbrogzin, 107.2x) apre con 'Roll a Wisdom save' — meccanica D&D pura, incomprensibile fuori dalla nicchia ma fortissima dentro. Formula adattabile: aprire con una mechanic di gioco applicata alla mappa ('Fai un tiro Percezione — cosa noti?', 'DC 15 History check'). Chi non gioca non capisce; chi gioca si auto-seleziona e condivide. L'auto-selezione del pubblico qualificato è il punto, non la reach massima.",
+          "Hashtag: mantenere sempre #dnd e #cartography come ancore (guidano la top 15 competitor), affiancarli con nicchia profonda (#fantasycartography, #dndmaps, #mapmaking) e almeno un hashtag specifico del soggetto del singolo post. Evitare di saturare con soli broad tag (#fantasy, #fantasyart): portano reach ma follower poco qualificati per questa nicchia."
+        ],
+        "stats": {
+          "readable": 45,
+          "unreadable": 4,
+          "best_format": "VIDEO",
+          "best_formats": [
+            {
+              "type": "VIDEO",
+              "avg_engagement": 46,
+              "campione": 3,
+              "multiplo_mediano": 1.29,
+              "quota_outlier": 0.0
+            },
+            {
+              "type": "CAROUSEL_ALBUM",
+              "avg_engagement": 230,
+              "campione": 343,
+              "multiplo_mediano": 1.06,
+              "quota_outlier": 0.1
+            },
+            {
+              "type": "IMAGE",
+              "avg_engagement": 280,
+              "campione": 575,
+              "multiplo_mediano": 1.0,
+              "quota_outlier": 0.05
+            },
+            {
+              "type": "REELS",
+              "avg_engagement": 716,
+              "campione": 184,
+              "multiplo_mediano": 0.82,
+              "quota_outlier": 0.08
+            }
+          ],
+          "median_posts_per_week": 0.7,
+          "top_hashtags": [
+            "dnd",
+            "fantasymap",
+            "cartography",
+            "ttrpg",
+            "dungeonsanddragons",
+            "fantasymaps",
+            "worldbuilding",
+            "fantasy",
+            "fantasyart",
+            "map",
+            "rpg",
+            "fantasycartography",
+            "dndmaps",
+            "mapmaking",
+            "dndart"
+          ],
+          "formule_outlier": {
+            "domanda": 1,
+            "processo / dietro le quinte": 1,
+            "pubblico": 2,
+            "specifico": 1,
+            "storia personale": 2,
+            "annuncio / novità": 1,
+            "rivelazione": 1,
+            "contrario": 2,
+            "numero o elenco": 1
+          }
+        },
+        "accounts": [
+          {
+            "handle": "lord_ofmaps",
+            "followers": 441208,
+            "media_count": 417,
+            "avg_eng": 4942,
+            "posts_per_week": 1.0
+          },
+          {
+            "handle": "mapeffects",
+            "followers": 145586,
+            "media_count": 1402,
+            "avg_eng": 556,
+            "posts_per_week": 4.3
+          },
+          {
+            "handle": "rustymaps",
+            "followers": 98315,
+            "media_count": 1367,
+            "avg_eng": 228,
+            "posts_per_week": 8.8
+          },
+          {
+            "handle": "paths.peculiar",
+            "followers": 81838,
+            "media_count": 1061,
+            "avg_eng": 1410,
+            "posts_per_week": 1.1
+          },
+          {
+            "handle": "inkarnaterpg",
+            "followers": 71486,
+            "media_count": 1629,
+            "avg_eng": 315,
+            "posts_per_week": 5.3
+          },
+          {
+            "handle": "danielsmaps",
+            "followers": 63121,
+            "media_count": 1821,
+            "avg_eng": 253,
+            "posts_per_week": 4.3
+          },
+          {
+            "handle": "the_reclusive_cartographer",
+            "followers": 33407,
+            "media_count": 1015,
+            "avg_eng": 154,
+            "posts_per_week": 4.1
+          },
+          {
+            "handle": "fantastic_maps",
+            "followers": 28835,
+            "media_count": 595,
+            "avg_eng": 710,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "rpgmapsforge",
+            "followers": 28473,
+            "media_count": 497,
+            "avg_eng": 11,
+            "posts_per_week": 1.7
+          },
+          {
+            "handle": "nerdymaps",
+            "followers": 26996,
+            "media_count": 676,
+            "avg_eng": 435,
+            "posts_per_week": 1.1
+          },
+          {
+            "handle": "czepeku_dnd_maps",
+            "followers": 26042,
+            "media_count": 1665,
+            "avg_eng": 248,
+            "posts_per_week": 4.3
+          },
+          {
+            "handle": "dimensiondoor_maps",
+            "followers": 24285,
+            "media_count": 214,
+            "avg_eng": 1625,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "dungeonmapster",
+            "followers": 20946,
+            "media_count": 1148,
+            "avg_eng": 172,
+            "posts_per_week": 1.1
+          },
+          {
+            "handle": "fantasymapshop",
+            "followers": 15083,
+            "media_count": 873,
+            "avg_eng": 155,
+            "posts_per_week": 1.0
+          },
+          {
+            "handle": "mapsbyowen",
+            "followers": 15017,
+            "media_count": 283,
+            "avg_eng": 358,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "inkcompass.maps",
+            "followers": 14742,
+            "media_count": 1097,
+            "avg_eng": 130,
+            "posts_per_week": 4.6
+          },
+          {
+            "handle": "fantasymapink",
+            "followers": 13966,
+            "media_count": 169,
+            "avg_eng": 415,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "skullfungus",
+            "followers": 13225,
+            "media_count": 731,
+            "avg_eng": 341,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "cartographybird",
+            "followers": 8307,
+            "media_count": 51,
+            "avg_eng": 310,
+            "posts_per_week": 3.6
+          },
+          {
+            "handle": "domino44maps",
+            "followers": 7924,
+            "media_count": 295,
+            "avg_eng": 141,
+            "posts_per_week": 3.1
+          },
+          {
+            "handle": "jogbrogzin",
+            "followers": 7515,
+            "media_count": 1320,
+            "avg_eng": 602,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "miskasmaps",
+            "followers": 6667,
+            "media_count": 492,
+            "avg_eng": 31,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "morenopaissanart",
+            "followers": 6180,
+            "media_count": 698,
+            "avg_eng": 54,
+            "posts_per_week": 5.3
+          },
+          {
+            "handle": "bewarethewizard",
+            "followers": 5470,
+            "media_count": 126,
+            "avg_eng": 65,
+            "posts_per_week": 0.1
+          },
+          {
+            "handle": "fantasy_atlas",
+            "followers": 5211,
+            "media_count": 284,
+            "avg_eng": 23,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "red_quills",
+            "followers": 3709,
+            "media_count": 482,
+            "avg_eng": 208,
+            "posts_per_week": 3.0
+          },
+          {
+            "handle": "whiskey_n_ink",
+            "followers": 1941,
+            "media_count": 298,
+            "avg_eng": 43,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "fantasy_map",
+            "followers": 1768,
+            "media_count": 157,
+            "avg_eng": 18,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "dreamworldmaps",
+            "followers": 1729,
+            "media_count": 30,
+            "avg_eng": 98,
+            "posts_per_week": 0.1
+          },
+          {
+            "handle": "darkestmaps",
+            "followers": 1710,
+            "media_count": 164,
+            "avg_eng": 88,
+            "posts_per_week": 0.5
+          },
+          {
+            "handle": "arcane_atlas",
+            "followers": 1684,
+            "media_count": 105,
+            "avg_eng": 96,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "dm_andy_maps",
+            "followers": 1589,
+            "media_count": 250,
+            "avg_eng": 32,
+            "posts_per_week": 0.3
+          },
+          {
+            "handle": "imaginarymaps",
+            "followers": 1535,
+            "media_count": 443,
+            "avg_eng": 36,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "fantasy.cartography",
+            "followers": 1365,
+            "media_count": 42,
+            "avg_eng": 75,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "lightheartadventures",
+            "followers": 1318,
+            "media_count": 427,
+            "avg_eng": 34,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "wfgworkshop",
+            "followers": 1120,
+            "media_count": 1315,
+            "avg_eng": 14,
+            "posts_per_week": 4.0
+          },
+          {
+            "handle": "caeora",
+            "followers": 899,
+            "media_count": 195,
+            "avg_eng": 23,
+            "posts_per_week": 0.5
+          },
+          {
+            "handle": "thefantasymapsforge",
+            "followers": 670,
+            "media_count": 94,
+            "avg_eng": 109,
+            "posts_per_week": 3.1
+          },
+          {
+            "handle": "krsolbergauthor",
+            "followers": 568,
+            "media_count": 162,
+            "avg_eng": 145,
+            "posts_per_week": 0.9
+          },
+          {
+            "handle": "mapthefantastical",
+            "followers": 428,
+            "media_count": 36,
+            "avg_eng": 44,
+            "posts_per_week": 0.4
+          },
+          {
+            "handle": "maps.and.worldbuilding",
+            "followers": 410,
+            "media_count": 32,
+            "avg_eng": 52,
+            "posts_per_week": 0.8
+          },
+          {
+            "handle": "fantasymapdesign",
+            "followers": 395,
+            "media_count": 28,
+            "avg_eng": 48,
+            "posts_per_week": 0.7
+          },
+          {
+            "handle": "fantasyworldmaps",
+            "followers": 348,
+            "media_count": 135,
+            "avg_eng": 14,
+            "posts_per_week": 0.2
+          },
+          {
+            "handle": "tamaps.carto",
+            "followers": 249,
+            "media_count": 53,
+            "avg_eng": 14,
+            "posts_per_week": 1.3
+          },
+          {
+            "handle": "the_celtic_cartographer",
+            "followers": 16,
+            "media_count": 5,
+            "avg_eng": 6,
+            "posts_per_week": 0.1
+          }
+        ],
+        "unreadable_handles": [
+          "francescabaerald",
+          "devenrue",
+          "mistybeee",
+          "feedthemultiverse"
+        ]
       }
     ],
     "unreadable": [
@@ -195665,10 +196058,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 987,
+    "followers_start": 988,
     "followers_end": 990,
-    "followers_gained": 3,
-    "from": "2026-10-20",
+    "followers_gained": 2,
+    "from": "2026-10-21",
     "to": "2026-10-27",
     "top_posts": [
       {
