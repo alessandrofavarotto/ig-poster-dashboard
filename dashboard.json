@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28",
+  "generated_at": "2026-10-29",
   "insights_updated": "2026-10-28",
   "best_times": {
     "times": [
@@ -188960,6 +188960,59 @@
       ]
     },
     {
+      "source_image": "tg2859",
+      "posts": [
+        {
+          "title": "Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett",
+          "status": "pending",
+          "scheduled_date": "2026-11-01",
+          "scheduled_time": "07:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vetta che domina, boschi fitti, un insediamento aggrappato alla riva.\n\nIl prompt era \"island\", e ho pensato subito a una di quelle isole che nelle campagne di D&D sono sempre il posto in cui succede qualcosa di importante. Un picco troppo alto per ignorarlo. Alberi abbastanza fitti da nascondere qualcosa. Una manciata di tetti al riparo dalla costa.\n\nForse è un punto di passaggio. Forse è la fine del viaggio. Dipende dal master.\n\n· · ·\n\nHand-drawn fantasy island map for Mapvember, prompt 'island': a peak that commands the skyline, dense forests, a settlement clinging to the shore.\n\nI thought of those islands that in D&D campaigns are always where something important happens. A peak too tall to ignore. Trees dense enough to hide something. A handful of rooftops sheltered from the sea.\n\nMaybe it's a waypoint. Maybe it's the end of the journey. Depends on the GM.",
+          "hashtags": [
+            "#AtlasMapvember",
+            "#mapvember2026",
+            "#mapvember",
+            "#fantasymap",
+            "#islandmap"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett",
+          "status": "pending",
+          "scheduled_date": "2026-11-01",
+          "scheduled_time": "21:00",
+          "is_overview": true,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vetta che domina, boschi fitti, un insediamento aggrappato alla riva.\n\nIl prompt era \"island\", e ho pensato subito a una di quelle isole che nelle campagne di D&D sono sempre il posto in cui succede qualcosa di importante. Un picco troppo alto per ignorarlo. Alberi abbastanza fitti da nascondere qualcosa. Una manciata di tetti al riparo dalla costa.\n\nForse è un punto di passaggio. Forse è la fine del viaggio. Dipende dal master.\n\n· · ·\n\nHand-drawn fantasy island map for Mapvember, prompt 'island': a peak that commands the skyline, dense forests, a settlement clinging to the shore.\n\nI thought of those islands that in D&D campaigns are always where something important happens. A peak too tall to ignore. Trees dense enough to hide something. A handful of rooftops sheltered from the sea.\n\nMaybe it's a waypoint. Maybe it's the end of the journey. Depends on the GM.",
+          "hashtags": [
+            "#AtlasMapvember",
+            "#mapvember2026",
+            "#mapvember",
+            "#fantasymap",
+            "#islandmap"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        }
+      ]
+    },
+    {
       "source_image": "tg2742",
       "posts": [
         {
@@ -191497,9 +191550,11 @@
         "mentions": "",
         "link": "https://alessandrofavarotto.com/mapvember/",
         "deadline": "2026-11-01",
-        "status": "open",
+        "status": "done",
         "created_at": "2026-10-01T06:00",
-        "mapvember_day": 1
+        "mapvember_day": 1,
+        "done_at": "2026-10-28T23:54",
+        "done_reason": "segnata a mano dal bot"
       },
       {
         "id": "mapvember-02",
@@ -192160,7 +192215,7 @@
         "created_at": "2026-10-01T09:00"
       }
     ],
-    "generated_at": "2026-10-26T22:39"
+    "generated_at": "2026-10-29T06:00"
   },
   "boost": {
     "generated_at": "2026-10-28T20:06",
@@ -198534,7 +198589,7 @@
     "followers_start": 988,
     "followers_end": 991,
     "followers_gained": 3,
-    "from": "2026-10-21",
+    "from": "2026-10-22",
     "to": "2026-10-28",
     "top_posts": [
       {
