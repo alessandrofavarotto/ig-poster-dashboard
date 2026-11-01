@@ -196344,7 +196344,7 @@
       "posts": [
         {
           "title": "Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-11-01",
           "scheduled_time": "07:00",
           "is_overview": true,
@@ -196358,11 +196358,11 @@
             "#fantasymap",
             "#islandmap"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18119626514050284",
+          "published_at": "2026-11-01",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -198470,43 +198470,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-10-30T17:03:32",
-      "severity": "info",
-      "source": "publish",
-      "message": "🎬 Reel + Storia pubblicati: «ATTENTI AL GATTO DI HALLOWEEN! 😅 Buon Halloween! 🎃🎉🥳» · copertina ✅",
-      "extra": {
-        "media_id": "18103234946176913",
-        "cover": true
-      }
-    },
-    {
-      "ts": "2026-10-30T17:03:37",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «ATTENTI AL GATTO DI HALLOWEEN! 😅 Buon Halloween! 🎃🎉🥳»"
-    },
-    {
-      "ts": "2026-10-30T17:03:46",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Storia Reel anche su Facebook: «ATTENTI AL GATTO DI HALLOWEEN! 😅 Buon Halloween! 🎃🎉🥳»"
-    },
-    {
-      "ts": "2026-10-30T17:30:42",
-      "severity": "info",
-      "source": "comments",
-      "message": "💬 2 commenti aggiunti a «ATTENTI AL GATTO DI HALLOWEEN! 😅 Buon Halloween! 🎃🎉🥳» (anche su FB)"
-    },
-    {
-      "ts": "2026-10-31T07:00:45",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Atlas Mapvember 2026 · domani si parte»",
-      "extra": {
-        "media_id": "18111113063184067"
-      }
-    },
-    {
       "ts": "2026-10-31T07:00:49",
       "severity": "info",
       "source": "facebook",
@@ -198568,6 +198531,39 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Mappa delle Fogne completa» (anche su FB)"
+    },
+    {
+      "ts": "2026-11-01T07:00:18",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»",
+      "extra": {
+        "media_id": "18119626514050284"
+      }
+    },
+    {
+      "ts": "2026-11-01T07:00:24",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»"
+    },
+    {
+      "ts": "2026-11-01T07:00:27",
+      "severity": "info",
+      "source": "pinterest",
+      "message": "📌 Pin PRONTO su Telegram (crealo a mano): «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»"
+    },
+    {
+      "ts": "2026-11-01T07:00:43",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»"
+    },
+    {
+      "ts": "2026-11-01T07:30:14",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett» (anche su FB)"
     }
   ],
   "ideas": {
@@ -199627,9 +199623,29 @@
         "deadline": "2026-10-31",
         "status": "open",
         "created_at": "2026-10-01T09:00"
+      },
+      {
+        "id": "guild-2026-11",
+        "campaign": "guild",
+        "format": "post",
+        "title": "Cartographers' Guild — sfida di novembre 2026",
+        "cosa_fare": "Controlla il TEMA del mese sul forum del Guild e disegna una mappa; invia entro ~fine novembre (voto nei primi giorni del mese dopo).",
+        "perche": "Sfida mensile della community di riferimento per le mappe fantasy: visibilità + contenuto on-brand.",
+        "gancio": "🧭 Cartographers' Guild · novembre 2026",
+        "hashtags": [
+          "#cartographersguild",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "link": "https://www.cartographersguild.com/forumdisplay.php?f=45",
+        "deadline": "2026-11-30",
+        "status": "open",
+        "created_at": "2026-11-01T09:00"
       }
     ],
-    "generated_at": "2026-10-29T06:00"
+    "generated_at": "2026-11-01T09:00"
   },
   "boost": {
     "generated_at": "2026-10-31T20:06",
