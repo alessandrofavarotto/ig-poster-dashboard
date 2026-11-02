@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01",
+  "generated_at": "2026-11-02",
   "insights_updated": "2026-11-01",
   "best_times": {
     "times": [
@@ -8,7 +8,7 @@
       "09:00",
       "21:00"
     ],
-    "updated": "2026-10-26"
+    "updated": "2026-11-02"
   },
   "account": [
     {
@@ -198914,7 +198914,7 @@
         },
         {
           "title": "Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-11-01",
           "scheduled_time": "21:00",
           "is_overview": true,
@@ -198928,11 +198928,11 @@
             "#fantasymap",
             "#islandmap"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
-          "story": false,
-          "comment_posted": false,
+          "media_id": "17991445425077581",
+          "published_at": "2026-11-01",
+          "facebook": true,
+          "story": true,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         }
@@ -201063,36 +201063,37 @@
         "## Threads",
         "## Cosa evitare"
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "ts": "2026-11-02T05:23",
+      "enough_evidence": true,
+      "posts_measured": 170,
+      "strategy_updated": true,
+      "best_times": [
+        "07:00",
+        "17:00",
+        "09:00",
+        "21:00"
+      ],
+      "summary": "Aggiornate 5 sezioni. 21:00 per i Reel è ora il peggiore tra tutti gli slot (salvasp 1.95, quarto ciclo calo, sotto 13:00): terza scelta diventa 09:00. 09:00 immagini corretto a 0.15 (n=13). #AtlasMapvember aggiunto come ciclo prioritario (multiplo 4.59, +7 follower). Media_conv caroselli a 0.62 (n=21). Threads: crescita non confermata (ratio ~10%).",
+      "changes": [
+        "Reels: 21:00 peggiore (1.95, sotto 13:00); 09:00 terza scelta",
+        "Orari: 09:00 immagini 0.15 (n=13); 21:00 Reel peggiore; 13:00 Reel quarto; best_times aggiornata",
+        "Tipo di post: #AtlasMapvember ciclo prioritario (indicativo); caroselli 0.62 n=21; recap 0-follows esteso (Monti Urtal, Strada dei Fedeli)",
+        "Cosa evitare: 13:00 Reel quarto (sopra 21:00); 09:00 0.15; 21:00 Reel peggiore (solido)",
+        "Threads: crescita non confermata (solido, 10%); recap ratio ~57% n=10; tecnica costruttiva indicativa n=2"
+      ],
+      "sezioni_applicate": [
+        "## Reels / time-lapse (video)",
+        "## Orari",
+        "## Tipo di post e sequenza",
+        "## Cosa evitare",
+        "## Threads"
+      ]
     }
   ],
   "alerts": [
-    {
-      "ts": "2026-11-01T07:00:18",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»",
-      "extra": {
-        "media_id": "18119626514050284"
-      }
-    },
-    {
-      "ts": "2026-11-01T07:00:24",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»"
-    },
-    {
-      "ts": "2026-11-01T07:00:27",
-      "severity": "info",
-      "source": "pinterest",
-      "message": "📌 Pin PRONTO su Telegram (crealo a mano): «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»"
-    },
-    {
-      "ts": "2026-11-01T07:00:43",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»"
-    },
     {
       "ts": "2026-11-01T07:30:14",
       "severity": "info",
@@ -201165,6 +201166,34 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Come disegnare un fiume su una mappa fantasy: tre passi, a mano libera» (anche su FB)"
+    },
+    {
+      "ts": "2026-11-01T21:01:38",
+      "severity": "info",
+      "source": "publish",
+      "message": "🎬 Reel + Storia pubblicati: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett» · copertina ✅",
+      "extra": {
+        "media_id": "17991445425077581",
+        "cover": true
+      }
+    },
+    {
+      "ts": "2026-11-01T21:01:57",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»"
+    },
+    {
+      "ts": "2026-11-01T21:02:04",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Storia Reel anche su Facebook: «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett»"
+    },
+    {
+      "ts": "2026-11-01T21:30:15",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Mappa fantasy di un'isola, disegnata a mano per il Mapvember: una vett» (anche su FB)"
     }
   ],
   "ideas": {
@@ -208621,10 +208650,10 @@
   },
   "weekly": {
     "period_days": 7,
-    "followers_start": 989,
+    "followers_start": 990,
     "followers_end": 997,
-    "followers_gained": 8,
-    "from": "2026-10-25",
+    "followers_gained": 7,
+    "from": "2026-10-26",
     "to": "2026-11-01",
     "top_posts": [
       {

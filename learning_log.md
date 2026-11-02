@@ -1,5 +1,13 @@
 # Diario di apprendimento del sistema IG
 
+## 2026-11-02
+Aggiornate 5 sezioni. 21:00 per i Reel è ora il peggiore tra tutti gli slot (salvasp 1.95, quarto ciclo calo, sotto 13:00): terza scelta diventa 09:00. 09:00 immagini corretto a 0.15 (n=13). #AtlasMapvember aggiunto come ciclo prioritario (multiplo 4.59, +7 follower). Media_conv caroselli a 0.62 (n=21). Threads: crescita non confermata (ratio ~10%).
+- Reels: 21:00 peggiore (1.95, sotto 13:00); 09:00 terza scelta
+- Orari: 09:00 immagini 0.15 (n=13); 21:00 Reel peggiore; 13:00 Reel quarto; best_times aggiornata
+- Tipo di post: #AtlasMapvember ciclo prioritario (indicativo); caroselli 0.62 n=21; recap 0-follows esteso (Monti Urtal, Strada dei Fedeli)
+- Cosa evitare: 13:00 Reel quarto (sopra 21:00); 09:00 0.15; 21:00 Reel peggiore (solido)
+- Threads: crescita non confermata (solido, 10%); recap ratio ~57% n=10; tecnica costruttiva indicativa n=2
+
 ## 2026-10-26
 Aggiornamento orari immagini: 09:00 supera indicativamente 21:00 per la conversione follower (0.18 n=11 vs 0.12 n=8); best_times aggiornato in 07:00→17:00→09:00→21:00. Per i Reel 21:00 mostra indebolimento monotonico negli ultimi 3 cicli (2.97→2.71→2.51): gap con 17:00 in allargamento, non sono intercambiabili. 'Strade e sentieri' replica i segnali precoci di 'La scala della mappa', rafforzando il pattern dei temi cartografici fondamentali; battle map aggiunto come ipotesi in test (dati immaturi). Su Threads il ratio recente è ~33% per il secondo ciclo consecutivo sopra la soglia 18%: verifica anticipata a fine ottobre 2026 (dati da portare a maturità).
 - Orari: 09:00 ora terzo slot per immagini (indicativo, 0.18 n=11 — superato 21:00); 21:00 scende a quarto (indicativo); best_times → 07:00, 17:00, 09:00, 21:00
