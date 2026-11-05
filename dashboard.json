@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04",
+  "generated_at": "2026-11-05",
   "insights_updated": "2026-11-04",
   "best_times": {
     "times": [
@@ -207073,7 +207073,7 @@
       "posts": [
         {
           "title": "Catena montuosa a china: picchi, creste e ombre disegnate a mano per i",
-          "status": "pending",
+          "status": "published",
           "scheduled_date": "2026-11-04",
           "scheduled_time": "21:00",
           "is_overview": true,
@@ -207087,11 +207087,11 @@
             "#fantasymap",
             "#mapmaking"
           ],
-          "media_id": null,
-          "published_at": null,
-          "facebook": false,
+          "media_id": "18113074850333956",
+          "published_at": "2026-11-04",
+          "facebook": true,
           "story": false,
-          "comment_posted": false,
+          "comment_posted": true,
           "comments": null,
           "metrics": null
         },
@@ -207157,6 +207157,59 @@
           "media_kind": "reel",
           "from_image": true,
           "caption": "Foresta Antica: simbolo a china per cartografia fantasy, disegnato a mano.\n\nUna massa di chiome che si addensa intorno a un unico albero maestoso. Il tronco emerge appena, quasi difeso dalla foresta stessa. Questo è il segno che metti ai bordi della mappa conosciuta: oltre, il territorio cambia registro.\n\nTerzo giorno di Atlas Mapvember. Ogni simbolo è una piccola storia compressa in pochi millimetri di carta.\n\n· · ·\n\nAncient Forest: a hand-drawn ink symbol for fantasy cartography.\n\nA mass of treetops crowding around a single towering tree at the center. The trunk barely visible, almost guarded by the forest itself. This is the mark you place at the edge of the known map: beyond it, the territory shifts.\n\nDay three of Atlas Mapvember. Every symbol is a small story compressed into a few millimeters of parchment.",
+          "hashtags": [
+            "#AtlasMapvember",
+            "#mapvember2026",
+            "#mapvember",
+            "#fantasymap",
+            "#mapmaking"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        }
+      ]
+    },
+    {
+      "source_image": "tg3110",
+      "posts": [
+        {
+          "title": "Dune di china, sabbia senza confini: Desert per l'Atlas Mapvember 2026",
+          "status": "pending",
+          "scheduled_date": "2026-11-06",
+          "scheduled_time": "07:00",
+          "is_overview": true,
+          "media_kind": "image",
+          "from_image": null,
+          "caption": "Dune di china, sabbia senza confini: Desert per l'Atlas Mapvember 2026.\n\nTre creste che salgono e un monolite solitario all'orizzonte. Il deserto su una mappa non ha bisogno di colore: bastano le curve del terreno, il peso della linea, il bianco intorno.\n\nCi sono paesaggi che si capiscono solo disegnandoli.\n\n· · ·\n\nInk dunes, boundless sand: Desert for Atlas Mapvember 2026.\n\nThree ridges rising and a lone rock formation at the horizon. A desert on a map needs no colour: just the curve of the land, the weight of the line, the white around it.\n\nSome landscapes only make sense once you've drawn them.",
+          "hashtags": [
+            "#AtlasMapvember",
+            "#mapvember2026",
+            "#mapvember",
+            "#fantasymap",
+            "#mapmaking"
+          ],
+          "media_id": null,
+          "published_at": null,
+          "facebook": false,
+          "story": false,
+          "comment_posted": false,
+          "comments": null,
+          "metrics": null
+        },
+        {
+          "title": "Dune di china, sabbia senza confini: Desert per l'Atlas Mapvember 2026",
+          "status": "pending",
+          "scheduled_date": "2026-11-06",
+          "scheduled_time": "17:00",
+          "is_overview": true,
+          "media_kind": "reel",
+          "from_image": true,
+          "caption": "Dune di china, sabbia senza confini: Desert per l'Atlas Mapvember 2026.\n\nTre creste che salgono e un monolite solitario all'orizzonte. Il deserto su una mappa non ha bisogno di colore: bastano le curve del terreno, il peso della linea, il bianco intorno.\n\nCi sono paesaggi che si capiscono solo disegnandoli.\n\n· · ·\n\nInk dunes, boundless sand: Desert for Atlas Mapvember 2026.\n\nThree ridges rising and a lone rock formation at the horizon. A desert on a map needs no colour: just the curve of the land, the weight of the line, the white around it.\n\nSome landscapes only make sense once you've drawn them.",
           "hashtags": [
             "#AtlasMapvember",
             "#mapvember2026",
@@ -209157,39 +209210,6 @@
   ],
   "alerts": [
     {
-      "ts": "2026-11-04T07:07:36",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «1000 follower: grazie»"
-    },
-    {
-      "ts": "2026-11-04T07:08:17",
-      "severity": "info",
-      "source": "publish",
-      "message": "📷 Post pubblicato: «Mappa fantasy di una città portuale, disegnata a mano per l'Atlas Mapv»",
-      "extra": {
-        "media_id": "18131620666877542"
-      }
-    },
-    {
-      "ts": "2026-11-04T07:08:23",
-      "severity": "info",
-      "source": "facebook",
-      "message": "↪️ Crosspost su Facebook: «Mappa fantasy di una città portuale, disegnata a mano per l'Atlas Mapv»"
-    },
-    {
-      "ts": "2026-11-04T07:08:53",
-      "severity": "info",
-      "source": "pinterest",
-      "message": "📌 Pin PRONTO su Telegram (crealo a mano): «Mappa fantasy di una città portuale, disegnata a mano per l'Atlas Mapv»"
-    },
-    {
-      "ts": "2026-11-04T07:09:36",
-      "severity": "info",
-      "source": "threads",
-      "message": "🧵 Crosspost su Threads: «Mappa fantasy di una città portuale, disegnata a mano per l'Atlas Mapv»"
-    },
-    {
       "ts": "2026-11-04T07:30:37",
       "severity": "info",
       "source": "comments",
@@ -209255,6 +209275,39 @@
       "severity": "info",
       "source": "comments",
       "message": "💬 2 commenti aggiunti a «Mappa fantasy di una città portuale, disegnata a mano per l'Atlas Mapv» (anche su FB)"
+    },
+    {
+      "ts": "2026-11-04T21:00:55",
+      "severity": "info",
+      "source": "publish",
+      "message": "📷 Post pubblicato: «Catena montuosa a china: picchi, creste e ombre disegnate a mano per i»",
+      "extra": {
+        "media_id": "18113074850333956"
+      }
+    },
+    {
+      "ts": "2026-11-04T21:01:02",
+      "severity": "info",
+      "source": "facebook",
+      "message": "↪️ Crosspost su Facebook: «Catena montuosa a china: picchi, creste e ombre disegnate a mano per i»"
+    },
+    {
+      "ts": "2026-11-04T21:01:33",
+      "severity": "info",
+      "source": "pinterest",
+      "message": "📌 Pin PRONTO su Telegram (crealo a mano): «Catena montuosa a china: picchi, creste e ombre disegnate a mano per i»"
+    },
+    {
+      "ts": "2026-11-04T21:02:16",
+      "severity": "info",
+      "source": "threads",
+      "message": "🧵 Crosspost su Threads: «Catena montuosa a china: picchi, creste e ombre disegnate a mano per i»"
+    },
+    {
+      "ts": "2026-11-04T21:30:18",
+      "severity": "info",
+      "source": "comments",
+      "message": "💬 2 commenti aggiunti a «Catena montuosa a china: picchi, creste e ombre disegnate a mano per i» (anche su FB)"
     }
   ],
   "ideas": {
@@ -209773,9 +209826,11 @@
         "mentions": "",
         "link": "https://alessandrofavarotto.com/mapvember/",
         "deadline": "2026-11-06",
-        "status": "open",
+        "status": "done",
         "created_at": "2026-10-01T06:00",
-        "mapvember_day": 6
+        "mapvember_day": 6,
+        "done_at": "2026-11-04T23:49",
+        "done_reason": "segnata a mano dal bot"
       },
       {
         "id": "mapvember-07",
@@ -210345,9 +210400,30 @@
         "deadline": "2026-11-30",
         "status": "open",
         "created_at": "2026-11-01T09:00"
+      },
+      {
+        "id": "challenge-30daymapchallenge-2026-11",
+        "campaign": "challenge",
+        "format": "post",
+        "title": "#30DayMapChallenge",
+        "cosa_fare": "A novembre segui i prompt giornalieri e pubblica una mappa per i temi che ti ispirano (anche in chiave fantasy).",
+        "perche": "Sfida cartografica enorme (50k+ mappe/anno): tanta reach nella community delle mappe.",
+        "gancio": "🗺️ #30DayMapChallenge · novembre",
+        "hashtags": [
+          "#30DayMapChallenge",
+          "#fantasymap",
+          "#cartography",
+          "#worldbuilding",
+          "#mappafantasy"
+        ],
+        "mentions": "",
+        "link": "https://30daymapchallenge.com/",
+        "deadline": "2026-11-30",
+        "status": "open",
+        "created_at": "2026-11-05T06:03"
       }
     ],
-    "generated_at": "2026-11-03T22:19"
+    "generated_at": "2026-11-05T06:03"
   },
   "boost": {
     "generated_at": "2026-11-04T20:07",
@@ -217141,7 +217217,7 @@
     "followers_start": 991,
     "followers_end": 1002,
     "followers_gained": 11,
-    "from": "2026-10-28",
+    "from": "2026-10-29",
     "to": "2026-11-04",
     "top_posts": [
       {
